@@ -14,11 +14,7 @@
     "I": "empty__379fe"
   },
   "907": {
-    "Dq": "giftRewardShopCardsGrid_d64c23",
-    "Hx": "modalFooter_d64c23",
-    "Hc": "modalHeader_d64c23",
-    "GQ": "headerSubtitle_d64c23",
-    "b": "closeButton_d64c23"
+    "Dq": "giftRewardShopCardsGrid_d64c23"
   },
   "1004": {
     "container": "container_f369db",
@@ -481,6 +477,9 @@
     "c7": "previewThemeButton_fbfab6",
     "BU": "premiumTier2Divider_fbfab6",
     "yF": "divider_fbfab6",
+    "cI": "displayClientThemesTitle_fbfab6",
+    "EK": "displayClientThemesHeading_fbfab6",
+    "Hq": "displayPremiumIcon_fbfab6",
     "_$": "colorThemesBackground_fbfab6"
   },
   "21998": {
@@ -1211,10 +1210,6 @@
     "UU": "name__6b8b8",
     "F$": "linkedName__6b8b8",
     "op": "infoContainer__6b8b8"
-  },
-  "54196": {
-    "H": "headerContainerGift__57a87",
-    "P": "closeButtonGift__57a87"
   },
   "55092": {
     "kL": "container__65d41",
@@ -2708,12 +2703,7 @@
     "EP": "noticeIcon_a548c7"
   },
   "113437": {
-    "wC": "skuSelectModalHeader_e50a4d",
     "a2": "skuSelectModalContent_e50a4d",
-    "VN": "close_e50a4d",
-    "to": "closeInner_e50a4d",
-    "LG": "premiumBrandRefreshHeader_e50a4d",
-    "dt": "premiumBrandRefreshContent_e50a4d",
     "eE": "skuSelectWithPremiumGroupModalContent_e50a4d"
   },
   "113520": {
@@ -4148,7 +4138,6 @@
     "ah": "tierImage_e431b0"
   },
   "165823": {
-    "bodyClassName": "modalOverrideBody__34eac",
     "sliderBodyClassName": "modalOverrideSliderBody__34eac"
   },
   "166212": {
@@ -4684,7 +4673,6 @@
     "EP": "noticeIcon_d03e0c"
   },
   "186319": {
-    "As": "modalOverrideBody__34eac",
     "Bz": "modalOverrideSliderBody__34eac",
     "Lb": "confettiCanvas__34eac",
     "Oh": "customConfetti__34eac",
@@ -6438,7 +6426,6 @@
     "XY": "spriteWrapper_c8dbe9"
   },
   "254326": {
-    "bodyClassName": "modalOverrideBody__34eac",
     "sliderBodyClassName": "modalOverrideSliderBody__34eac"
   },
   "254441": {
@@ -7713,7 +7700,6 @@
     "P": "label_b651ff"
   },
   "302425": {
-    "bodyClassName": "modalOverrideBody__34eac",
     "sliderBodyClassName": "modalOverrideSliderBody__34eac"
   },
   "303166": {
@@ -8940,9 +8926,6 @@
     "Hq": "footerButtons__24654",
     "Z2": "appIcon__24654",
     "$r": "unavailableBody__24654"
-  },
-  "357269": {
-    "R": "equalDistantBackButton__0b6bf"
   },
   "357281": {
     "g": "selector__8b341",
@@ -12311,8 +12294,9 @@
     "k": "formItem__1b11b"
   },
   "495989": {
-    "I": "planSelectSeparatorLower__7ec3a",
-    "T": "planSelectSeparatorUpper__7ec3a"
+    "IM": "planSelectSeparatorLower__7ec3a",
+    "T4": "planSelectSeparatorUpper__7ec3a",
+    "ZB": "promotionBannerContainer__7ec3a"
   },
   "496447": {
     "kL": "container__477aa",
@@ -12788,7 +12772,9 @@
     "et": "infoBox_e0d4cd"
   },
   "513670": {
-    "B": "checkoutModalFooter_e3bd55"
+    "wm": "checkoutModalFooterContent_e3bd55",
+    "LT": "justifyBetween_e3bd55",
+    "Ub": "justifyEnd_e3bd55"
   },
   "513804": {
     "aV": "checklistIcon_ef2eb4",
@@ -15022,6 +15008,7 @@
     "yF": "divider_fda3e4",
     "P_": "negativeMarginTop_fda3e4",
     "vy": "negativeMarginBottom_fda3e4",
+    "Bw": "dividerInvisible_fda3e4",
     "hF": "dividerExtended_fda3e4",
     "V$": "totalRow_fda3e4",
     "j5": "totalLabel_fda3e4",
@@ -17094,9 +17081,6 @@
   "673721": {
     "rf": "body_b32ca4",
     "Lw": "overlay_b32ca4"
-  },
-  "674619": {
-    "bodyClassName": "selectFreeSku_e4d803"
   },
   "675490": {
     "Lw": "overlay_df3f07",
@@ -19261,9 +19245,6 @@
     "FS": "textContainer_d5200e",
     "go": "headerTextWrapper_d5200e",
     "r9": "oneStepCheckoutTextWrapper_d5200e",
-    "AC": "bodyGradientPadding_d5200e",
-    "uo": "bodyGradientContainer_d5200e",
-    "dQ": "bodyGradient_d5200e",
     "cf": "nitroText_d5200e",
     "$N": "betaBadgeContainer_d5200e"
   },
@@ -19802,8 +19783,9 @@
     "z3": "error_d2a5f7"
   },
   "789129": {
-    "a": "back_e125f1",
-    "H": "modalFooter_e125f1"
+    "aX": "back_e125f1",
+    "eT": "footerContentContainer_e125f1",
+    "U3": "hasBackButton_e125f1"
   },
   "789863": {
     "Wi": "descriptionWrapper__43963",
@@ -20197,11 +20179,7 @@
     "co": "dragIcon__0aebc"
   },
   "804686": {
-    "rf": "body_c6f1a4",
-    "OO": "sliderBody_c6f1a4",
-    "VR": "reviewStep_c6f1a4",
-    "qO": "addPaymentStepForPremium_c6f1a4",
-    "nS": "sliderBodyLarge_c6f1a4"
+    "OO": "sliderBody_c6f1a4"
   },
   "804771": {
     "_": "voiceChannelEffectEmojiContainer__66db8",
@@ -20417,9 +20395,7 @@
     "v": "striked_e77b99"
   },
   "812941": {
-    "sA": "modalHeaderCustomGift_b54a5b",
-    "b": "closeButton_b54a5b",
-    "Dd": "closeButtonInner_b54a5b",
+    "Q$": "manaModalHeaderCompatible_b54a5b",
     "wx": "header_b54a5b",
     "mv": "headerAnimation_b54a5b"
   },
@@ -20550,10 +20526,6 @@
   "818284": {
     "Q": "content__6e5a0",
     "x": "cancelButton__6e5a0"
-  },
-  "818413": {
-    "H": "headerContainerGift_eb2ea2",
-    "P": "closeButtonGift_eb2ea2"
   },
   "818639": {
     "bo": "guildContainer_c9e6eb",
@@ -22517,8 +22489,6 @@
   },
   "898772": {
     "Xn": "shaker_e5f3a9",
-    "zr": "root_e5f3a9",
-    "wf": "withHeader_e5f3a9",
     "Ot": "premiumBrandRefreshBackground_e5f3a9"
   },
   "898876": {
@@ -23115,8 +23085,9 @@
     "Tu": "headerCollapseIconCollapsed__14245"
   },
   "926701": {
-    "r": "body__949a0",
-    "h": "description__949a0"
+    "kL": "container__949a0",
+    "rf": "body__949a0",
+    "h_": "description__949a0"
   },
   "926773": {
     "rf": "body_d31d57",
@@ -23262,7 +23233,6 @@
   },
   "931854": {
     "qL": "bodyColumnMiddle_bf1b4a",
-    "Tc": "bodyColumnRight_bf1b4a",
     "uh": "sendTo_bf1b4a",
     "iX": "customGiftMessageWrapper_bf1b4a",
     "pt": "customGiftMessage_bf1b4a",
@@ -24516,7 +24486,6 @@
     "zp": "spinnerWrapper_e4d803",
     "KB": "trialHeader_e4d803",
     "Os": "giftMainAnimation_e4d803",
-    "aw": "selectFreeSku_e4d803",
     "Ni": "premiumGroupNotice_e4d803"
   },
   "983182": {
@@ -24889,6 +24858,7 @@
   },
   "996554": {
     "kL": "container_a1d343",
+    "YH": "displayContainer_a1d343",
     "zc": "iconContainer_a1d343",
     "_e": "bannerImage_a1d343",
     "P_": "textContent_a1d343",
