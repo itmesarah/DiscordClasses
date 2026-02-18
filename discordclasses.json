@@ -7452,6 +7452,7 @@
   "293390": {
     "iE": "wrapper__83a0c",
     "zr": "root__83a0c",
+    "wx": "header__83a0c",
     "DD": "title__83a0c",
     "C5": "location__83a0c",
     "NR": "locationIcon__83a0c",
@@ -7461,8 +7462,10 @@
     "$r": "acronymContainer__83a0c",
     "q9": "acronym__83a0c",
     "XG": "scroller__83a0c",
+    "bi": "scrollerTitle__83a0c",
     "Xk": "voiceUsers__83a0c",
     "q7": "voiceUser__83a0c",
+    "G7": "voiceUserInfo__83a0c",
     "o1": "actions__83a0c",
     "gX": "center__83a0c"
   },
@@ -15188,6 +15191,7 @@
   "609195": {
     "uW": "section__3af27",
     "R_": "heading__3af27",
+    "J4": "newPerkCardsEnabled__3af27",
     "bV": "sectionHeader__3af27",
     "pr": "sectionHeaderSeeAll__3af27",
     "kL": "container__3af27",
@@ -23881,14 +23885,15 @@
   },
   "954848": {
     "y3": "stepBodyV1_bb5449",
-    "GG": "topSpacer_bb5449",
+    "ls": "topInBetweenSpacer_bb5449",
     "P3": "subscriptionDetailsContainer_bb5449",
     "ZF": "invoiceSummaryContainer_bb5449",
     "Jv": "paymentMethodContainer_bb5449",
     "db": "reviewStepBody_bb5449",
     "dD": "checkoutInlineNoticeContainer_bb5449",
     "g4": "loadingContainer_bb5449",
-    "KX": "giftRedemptionLink_bb5449"
+    "KX": "giftRedemptionLink_bb5449",
+    "NR": "totalDueReviewStep_bb5449"
   },
   "955562": {
     "kL": "container__8f3cb",
