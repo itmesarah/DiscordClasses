@@ -8358,7 +8358,8 @@
     "Vi": "textInputWrapper__14160"
   },
   "314654": {
-    "o": "renewalInvoiceDate_d313e6"
+    "o": "renewalInvoiceDate_d313e6",
+    "l": "unifiedCheckoutInvoicePreviewLoader_d313e6"
   },
   "315253": {
     "_I": "pictureInPicture__6341f",
@@ -8462,6 +8463,11 @@
     "wH": "selected_caa50c",
     "Tw": "effectContainer_caa50c",
     "tr": "effectText_caa50c"
+  },
+  "317911": {
+    "VH": "preview__1533e",
+    "DZ": "messages__1533e",
+    "HD": "avatars__1533e"
   },
   "318012": {
     "bv": "churnDiscountBadge_b65b20",
@@ -8992,7 +8998,7 @@
     "qY": "skuHeading_b44961",
     "nI": "skuHeadingText_b44961",
     "lm": "socialLayerGameItemDisclaimer_b44961",
-    "o7": "orbsRewardNotice_b44961"
+    "sA": "oneTimePurchaseRewardNotice_b44961"
   },
   "342860": {
     "uR": "collapseable__217b7",
@@ -17100,6 +17106,15 @@
     "kL": "container__733ad",
     "Un": "errorContainer__733ad container__733ad"
   },
+  "654739": {
+    "jt": "offerNoticeContainerShared__3e43f",
+    "qw": "offerNoticeContainer__3e43f",
+    "mQ": "standard__3e43f",
+    "Yu": "offerNoticeContent__3e43f",
+    "fb": "offerNoticeBody__3e43f",
+    "Cu": "offerNoticeOneLineContainer__3e43f",
+    "Ct": "offerNoticeOneLineText__3e43f"
+  },
   "654923": {
     "Nk": "bugReporterSubmitModalRoot__341b5",
     "jE": "modalContent__341b5",
@@ -22564,6 +22579,8 @@
     "XG": "scroller__6131a",
     "$H": "tabBar__6131a",
     "lm": "notice__6131a",
+    "oK": "decorationWrapper__6131a",
+    "qf": "sticky__6131a",
     "LZ": "categories__6131a",
     "yF": "divider__6131a"
   },
@@ -24753,7 +24770,8 @@
     "dD": "checkoutInlineNoticeContainer_bb5449",
     "g4": "loadingContainer_bb5449",
     "KX": "giftRedemptionLink_bb5449",
-    "NR": "totalDueReviewStep_bb5449"
+    "NR": "totalDueReviewStep_bb5449",
+    "uh": "promotionalNoticeContainer_bb5449"
   },
   "955562": {
     "kL": "container__8f3cb",
@@ -25094,15 +25112,6 @@
     "UU": "name__24a95",
     "op": "infoContainer__24a95",
     "OW": "caret__24a95"
-  },
-  "974132": {
-    "jt": "offerNoticeContainerShared__005bd",
-    "qw": "offerNoticeContainer__005bd",
-    "mQ": "standard__005bd",
-    "Yu": "offerNoticeContent__005bd",
-    "fb": "offerNoticeBody__005bd",
-    "Cu": "offerNoticeOneLineContainer__005bd",
-    "Ct": "offerNoticeOneLineText__005bd"
   },
   "974309": {
     "T": "classificationEvidenceContainer_a2ffaf"
