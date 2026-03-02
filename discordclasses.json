@@ -10343,7 +10343,8 @@
   "401775": {
     "Vg": "grid__80f54",
     "e6": "hasSquareItems__80f54",
-    "kL": "container__80f54"
+    "kL": "container__80f54",
+    "wx": "header__80f54"
   },
   "402314": {
     "ud": "bannerVideoBackground_aff7d9",
@@ -14421,16 +14422,14 @@
     "pK": "stillFramePreviewContainer_a35735",
     "zd": "stillFramePreviewWrapper_a35735",
     "eB": "stillFramePreviewClickable_a35735",
-    "XM": "stillFramePlaceholder_a35735",
     "SD": "stillFramePreview_a35735",
     "Xd": "reducedMotionModalContent_a35735",
     "y6": "reducedMotionModalCloseButton_a35735",
     "rU": "reducedMotionModalWrapper_a35735",
-    "Vw": "reducedMotionModalPlaceholder_a35735",
-    "BS": "reducedMotionModalFrame_a35735",
     "xm": "pfxGrid_a35735",
     "S5": "pfxListItem_a35735",
-    "Hd": "pfxListItemFooter_a35735"
+    "Hd": "pfxListItemFooter_a35735",
+    "aM": "sampleProfilePreview_a35735"
   },
   "553777": {
     "kL": "container__50c27",
