@@ -8628,16 +8628,6 @@
   ".container__81040": {
     "--custom-spacing": "12px"
   },
-  ".timeline__7dce2": {
-    "--__trimmer-height": "72px",
-    "--__playhead-offset": "3px",
-    "--__playhead-width": "6px",
-    "--__handle-width": "16px",
-    "--__handle-transition-duration": "500ms"
-  },
-  ".container_cf0b5e": {
-    "--__trimmer-height": "72px"
-  },
   ".extras__58ece": {
     "--custom-offset": "0"
   },
@@ -8653,6 +8643,16 @@
   },
   ".fade_c8f358": {
     "--custom-activity-popout-header-fade-width": "var(--space-16)"
+  },
+  ".timeline__7dce2": {
+    "--__trimmer-height": "72px",
+    "--__playhead-offset": "3px",
+    "--__playhead-width": "6px",
+    "--__handle-width": "16px",
+    "--__handle-transition-duration": "500ms"
+  },
+  ".container_cf0b5e": {
+    "--__trimmer-height": "72px"
   },
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
