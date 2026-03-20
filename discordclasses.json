@@ -7510,7 +7510,8 @@
     "kv": "checkbox__60870"
   },
   "281258": {
-    "j": "overflow_b0dfc2"
+    "j": "overflow_b0dfc2",
+    "E": "lineClamp2Plus_b0dfc2"
   },
   "281568": {
     "Ky": "gameProfileMedia_a1cc72",
@@ -7702,6 +7703,16 @@
   },
   "290741": {
     "q": "footer__8e8b5"
+  },
+  "291085": {
+    "iE": "wrapper_fb6e24",
+    "p_": "list_fb6e24",
+    "Aw": "listItem_fb6e24",
+    "$K": "listItemExpanded_fb6e24",
+    "k7": "questionWrapper_fb6e24",
+    "b1": "question_fb6e24",
+    "q4": "questionIcon_fb6e24",
+    "ZF": "answer_fb6e24"
   },
   "291102": {
     "z": "dynamicGraphicContainer__47887",
@@ -10986,6 +10997,13 @@
     "W6": "unappliedGuildBoostSlotIcon__99020",
     "LB": "unappliedGuildBoostSlotCta__99020",
     "di": "headerContentSecondary__99020"
+  },
+  "412568": {
+    "iE": "wrapper__9f588",
+    "kR": "cards__9f588",
+    "Nr": "card__9f588",
+    "Kk": "icon__9f588",
+    "h_": "description__9f588"
   },
   "413194": {
     "YB": "centeredSection_dedbae",
@@ -23100,7 +23118,6 @@
     "Lv": "toolsButtons__84995",
     "au": "toolsButton__84995",
     "lB": "premiumSettingsPushButton__84995",
-    "xP": "secondaryBannerTextButtonContainerWithPause__84995",
     "Nn": "secondaryBannerTextButtonContainer__84995",
     "wt": "detailsContainer__84995",
     "NM": "discountPill__84995",
@@ -24400,13 +24417,17 @@
     "kL": "container__22cef",
     "Tp": "background__22cef",
     "rc": "gemWrapper__22cef",
+    "VA": "gemWrapperFirstBooster__22cef gemWrapper__22cef",
     "iQ": "progressRing__22cef",
     "CC": "gem__22cef",
+    "V_": "gemFull__22cef",
     "Qs": "content__22cef",
+    "sf": "contentFirstBooster__22cef content__22cef",
     "DD": "title__22cef",
     "rf": "body__22cef",
     "WM": "facepile__22cef",
-    "qr": "footer__22cef"
+    "qr": "footer__22cef",
+    "Zf": "heartButton__22cef"
   },
   "943025": {
     "iE": "wrapper_ac2cfb",
@@ -25570,13 +25591,13 @@
     "y6": "streamPreviewImage__16577",
     "rf": "body__16577",
     "Qs": "content__16577",
+    "RE": "facecloud__16577",
     "WD": "labels__16577",
     "$B": "sublabel__16577",
     "WM": "facepile__16577",
     "xk": "chin__16577",
     "ys": "glow__16577",
     "r$": "dots__16577",
-    "Xc": "drifting-dots__16577",
     "tB": "backdrop__16577",
     "rr": "streamPreviewBackdrop__16577",
     "pc": "streamPreviewLoading__16577",
@@ -25984,7 +26005,11 @@
     "KE": "toolbar__0939d",
     "rf": "subPanel__0939d",
     "nZ": "subPanelHeaderBar__0939d",
-    "Dx": "inspectorContainer__0939d"
+    "Dx": "inspectorContainer__0939d",
+    "Ef": "editContainer__0939d",
+    "Vz": "editTextarea__0939d",
+    "Xf": "editError__0939d",
+    "KA": "editActions__0939d"
   },
   "998918": {
     "mA": "productPreview__00f8b",
