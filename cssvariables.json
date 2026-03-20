@@ -3977,12 +3977,12 @@
     "--custom-app-message-embed-base-info-top": "calc(var(--custom-app-message-embed-base-info-gap) - 2px)",
     "--custom-premium-marketing-hero-heading-padding-top": "120px",
     "--emojiInputHorizontalPadding": "8px",
-    "--custom-forum-post-form-padding": "var(--space-8)",
-    "--custom-forum-post-form-control-size": "40px",
     "--custom-bg-surface-overlay": "rgba(33,34,41,.8)",
     "--custom-zindex-emoji-studio-top": "3",
     "--custom-zindex-emoji-studio-middle": "2",
     "--custom-zindex-emoji-studio-bottom": "1",
+    "--custom-forum-post-form-padding": "var(--space-8)",
+    "--custom-forum-post-form-control-size": "40px",
     "--os-accent-color": "#d47800ff"
   },
   ".expressive_a22cb0 .expressiveFill_a22cb0": {
