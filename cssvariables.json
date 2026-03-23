@@ -8481,6 +8481,14 @@
     "--custom-voice-filter-icon-bg-color-one": "#7fe987",
     "--custom-voice-filter-icon-bg-color-two": "#fdb12d"
   },
+  ".square__4e9aa": {
+    "--custom-tile-width": "100",
+    "--custom-tile-height": "100"
+  },
+  ".bar__4e9aa": {
+    "--custom-tile-width": "208",
+    "--custom-tile-height": "40"
+  },
   ".repliedMessage_c19a55": {
     "--reply-spacing": "4px"
   },
@@ -8573,14 +8581,6 @@
   },
   ".profile__9c3be.compact-sm__9c3be, .profile__9c3be.compact-xs__9c3be": {
     "--custom-modal-profile-card-padding": "var(--space-24)"
-  },
-  ".square__4e9aa": {
-    "--custom-tile-width": "100",
-    "--custom-tile-height": "100"
-  },
-  ".bar__4e9aa": {
-    "--custom-tile-width": "208",
-    "--custom-tile-height": "40"
   },
   ".tab__65d41": {
     "--selected-tab-item-color": "var(--text-default)"

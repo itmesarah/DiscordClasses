@@ -2979,6 +2979,9 @@
     "to": "to__5149c",
     "rk": "roleSubscriptionText__5149c"
   },
+  "113958": {
+    "v": "tabs__9a3e9"
+  },
   "114403": {
     "hd": "sectionContainer__04485",
     "WA": "resetButton__04485",
@@ -5184,18 +5187,6 @@
     "VA": "subtitle_efe2ea",
     "hQ": "contentContainer_efe2ea"
   },
-  "193291": {
-    "Nr": "card__5cea9",
-    "wx": "header__5cea9",
-    "Qq": "text__5cea9",
-    "zc": "iconContainer__5cea9",
-    "jS": "usersList__5cea9",
-    "nM": "row__5cea9",
-    "fW": "lastRow__5cea9",
-    "eF": "userInfo__5cea9",
-    "vM": "loadMoreContainer__5cea9",
-    "Qf": "loadMoreButton__5cea9"
-  },
   "194597": {
     "xP": "giftButton__82222",
     "Nq": "innerGiftButton__82222",
@@ -5670,10 +5661,6 @@
     "ai": "number__19fd1",
     "kZ": "tableRowGroup__19fd1",
     "Qs": "content__19fd1"
-  },
-  "208227": {
-    "cl": "guildSelectOptionIcon_b476ba",
-    "KP": "clydeIconContainer_b476ba"
   },
   "208555": {
     "C4": "primaryIcon__962c6",
@@ -6471,6 +6458,10 @@
     "Tr": "progressWrapper__5790c",
     "t_": "confetti__5790c",
     "md": "progressCont__5790c"
+  },
+  "245425": {
+    "cl": "guildSelectOptionIcon__6c044",
+    "KP": "clydeIconContainer__6c044"
   },
   "245639": {
     "BK": "text-sm/medium__13cf1",
@@ -8301,6 +8292,10 @@
     "$J": "imageUploaderHint_e4d0bf",
     "XD": "imageUploaderIcon_e4d0bf",
     "$N": "imageUploaderIconDisabled_e4d0bf"
+  },
+  "315997": {
+    "T": "cameraWrapper__36486",
+    "U": "camera__36486"
   },
   "316128": {
     "LF": "inputField__085ad",
@@ -10654,18 +10649,6 @@
     "wL": "searchHeader_fed6d3",
     "Gv": "backButton_fed6d3"
   },
-  "419205": {
-    "wx": "header_de8069",
-    "kX": "gameNamesHeader_de8069",
-    "lJ": "gameIcons_de8069",
-    "yF": "divider_de8069",
-    "Kk": "icon_de8069",
-    "lK": "moreIcon_de8069 icon_de8069",
-    "bJ": "manageGamesLink_de8069",
-    "g7": "manageGamesChevron_de8069",
-    "do": "emptyContainer_de8069",
-    "xV": "noGamesConnectedText_de8069"
-  },
   "419548": {
     "iE": "wrapper__0d616",
     "Xc": "wrapperInvisible__0d616",
@@ -11431,6 +11414,9 @@
     "Zl": "stickerName_abd7a8",
     "lA": "stickerIcon_abd7a8"
   },
+  "445139": {
+    "X": "micTestHelpLink_bd498a"
+  },
   "445180": {
     "container": "container_d96a9c",
     "clickableContainer": "clickableContainer_d96a9c",
@@ -11785,9 +11771,6 @@
   },
   "456107": {
     "i": "icymiMessageWrapper__7d14e"
-  },
-  "456144": {
-    "v": "tabs__90767"
   },
   "456665": {
     "JC": "role_af3987",
@@ -12635,6 +12618,14 @@
     "Wp": "participant__0e7cc",
     "lv": "hovering__0e7cc",
     "my": "avatar__0e7cc"
+  },
+  "490110": {
+    "$H": "tabBar_eeedb9",
+    "Vd": "vertical_eeedb9",
+    "NM": "tabBarPanel_eeedb9",
+    "Mf": "tab_eeedb9",
+    "wH": "selected_eeedb9",
+    "P5": "tabbedSettingsContainer_eeedb9"
   },
   "490602": {
     "k": "container_d4630c"
@@ -13799,15 +13790,17 @@
     "Tc": "tag_d06335"
   },
   "530949": {
-    "base": "base__4e9aa",
+    "tileWrapper": "tileWrapper__4e9aa",
     "overlay": "overlay__4e9aa",
+    "deleteButtonWrapper": "deleteButtonWrapper__4e9aa",
+    "base": "base__4e9aa",
     "square": "square__4e9aa",
     "bar": "bar__4e9aa",
     "content": "content__4e9aa",
-    "overlayAlignCenter": "overlayAlignCenter__4e9aa",
-    "overlayAlignRight": "overlayAlignRight__4e9aa",
-    "overlayAlwaysVisible": "overlayAlwaysVisible__4e9aa",
-    "pencilBounceIn": "pencilBounceIn__4e9aa",
+    "iconContainer": "iconContainer__4e9aa",
+    "iconAlignCenter": "iconAlignCenter__4e9aa",
+    "iconAlignRight": "iconAlignRight__4e9aa",
+    "overlayIconBounceIn": "overlayIconBounceIn__4e9aa",
     "overlayIcon": "overlayIcon__4e9aa"
   },
   "531338": {
@@ -16093,10 +16086,6 @@
     "vk": "clickable_af017a",
     "mt": "originalLink_af017a"
   },
-  "613844": {
-    "T": "cameraWrapper__11e1f",
-    "U": "camera__11e1f"
-  },
   "614094": {
     "Nr": "card_a23cbe",
     "ev": "skuPreview_a23cbe",
@@ -16390,10 +16379,10 @@
     "rc": "gemWrapper__22cef",
     "VA": "gemWrapperFirstBooster__22cef gemWrapper__22cef",
     "iQ": "progressRing__22cef",
-    "CC": "gem__22cef",
+    "yt": "gemWithRing__22cef",
     "V_": "gemFull__22cef",
     "Qs": "content__22cef",
-    "sf": "contentFirstBooster__22cef content__22cef",
+    "sf": "contentFirstBooster__22cef",
     "DD": "title__22cef",
     "rf": "body__22cef",
     "WM": "facepile__22cef",
@@ -16695,6 +16684,7 @@
   },
   "637676": {
     "e4": "tierComparisonTable__744ff",
+    "Q": "perksTable__744ff",
     "KW": "boosterRecognitionCard__744ff",
     "JL": "faq__744ff",
     "ek": "blockedPaymentsWarning__744ff",
@@ -17232,6 +17222,16 @@
     "jE": "modalContent__341b5",
     "b": "closeButton__341b5",
     "KP": "submitText__341b5"
+  },
+  "655210": {
+    "Nr": "card__217bf",
+    "OA": "guildInfo__217bf",
+    "$f": "guildIcon__217bf",
+    "gI": "guildDetails__217bf",
+    "ew": "statsRow__217bf",
+    "QW": "statGroup__217bf",
+    "Wz": "boostGemIcon__217bf",
+    "zk": "dotSeparator__217bf"
   },
   "655412": {
     "Zc": "failedDestinations_c3ef83",
@@ -18201,6 +18201,9 @@
     "Cw": "transcriptBodySpinner__8fb25",
     "b9": "videoStatusMessage__8fb25",
     "z6": "closeModalBtnWrapper__8fb25",
+    "zH": "inactivePoster__8fb25",
+    "mF": "inactivePlayButton__8fb25",
+    "z_": "inactivePlayButtonIcon__8fb25",
     "R4": "floatingShareButtonContainer__8fb25",
     "MM": "endScreenOverlay__8fb25",
     "bU": "endScreenImageBackground__8fb25",
@@ -18570,6 +18573,10 @@
   },
   "696778": {
     "x": "button_b46968"
+  },
+  "696922": {
+    "i": "wrapper__21b06",
+    "k": "cards__21b06"
   },
   "696952": {
     "xC": "overlaySettingsNux_abc4d3",
@@ -19263,11 +19270,6 @@
     "f8": "navNext_b2eddf nav_b2eddf",
     "JT": "obscureWrapper_b2eddf",
     "Qr": "obscure_b2eddf"
-  },
-  "721267": {
-    "Lt": "select_b2fe93",
-    "ar": "selectItemRow_b2fe93",
-    "DD": "title_b2fe93"
   },
   "721746": {
     "Bh": "previewContentContainer__9c6a8",
@@ -20111,6 +20113,18 @@
     "K2": "goOnlineButton_fa8995",
     "yF": "divider_fa8995"
   },
+  "762765": {
+    "Nr": "card__416c7",
+    "wx": "header__416c7",
+    "Qq": "text__416c7",
+    "zc": "iconContainer__416c7",
+    "jS": "usersList__416c7",
+    "nM": "row__416c7",
+    "fW": "lastRow__416c7",
+    "eF": "userInfo__416c7",
+    "vM": "loadMoreContainer__416c7",
+    "Qf": "loadMoreButton__416c7"
+  },
   "763481": {
     "hU": "ping_f0dcaf",
     "J_": "checklistRow_f0dcaf",
@@ -20945,6 +20959,18 @@
   "798521": {
     "w": "header_d55719",
     "L": "loading_d55719"
+  },
+  "799391": {
+    "wx": "header__5348b",
+    "kX": "gameNamesHeader__5348b",
+    "lJ": "gameIcons__5348b",
+    "yF": "divider__5348b",
+    "Kk": "icon__5348b",
+    "lK": "moreIcon__5348b icon__5348b",
+    "bJ": "manageGamesLink__5348b",
+    "g7": "manageGamesChevron__5348b",
+    "do": "emptyContainer__5348b",
+    "xV": "noGamesConnectedText__5348b"
   },
   "799764": {
     "kz": "formItem__4e29d",
@@ -21835,9 +21861,6 @@
     "Kk": "icon_e1e832",
     "Qq": "text_e1e832"
   },
-  "835818": {
-    "X": "micTestHelpLink__169b3"
-  },
   "836263": {
     "g4": "loadingContainer_f3bc7c",
     "S3": "giftSentToGameNoticeContainerPadding_f3bc7c",
@@ -22072,14 +22095,6 @@
     "E6": "authenticationFailImage__28393",
     "Xh": "authenticationRequiredImage__28393",
     "ZG": "authenticationSuccessImage__28393"
-  },
-  "847568": {
-    "$H": "tabBar_f8303a",
-    "Vd": "vertical_f8303a",
-    "NM": "tabBarPanel_f8303a",
-    "Mf": "tab_f8303a",
-    "wH": "selected_f8303a",
-    "P5": "tabbedSettingsContainer_f8303a"
   },
   "847688": {
     "kL": "container__44ee9",
@@ -23832,8 +23847,6 @@
   "912579": {
     "cs": "outgoing-call-pulse__67dba",
     "u9": "outgoing-call-ellipsis__67dba",
-    "iE": "wrapper__67dba",
-    "VL": "hasSections__67dba",
     "p": "channelIcon__67dba",
     "uP": "inviteSectionHeader__67dba",
     "ep": "inviteSectionToggleIcon__67dba",
@@ -25343,6 +25356,11 @@
     "nn": "toggleExpandCell__35651",
     "Rq": "caretIcon__35651",
     "jH": "caretDownIcon__35651"
+  },
+  "975237": {
+    "Lt": "select_c47b93",
+    "ar": "selectItemRow_c47b93",
+    "DD": "title_c47b93"
   },
   "975398": {
     "gd": "checklistItem__54e17",
