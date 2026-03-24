@@ -8268,39 +8268,13 @@
   ".grid__0ea1a": {
     "--custom-text-placeholder-width": "8ch"
   },
-  ".container__7a78a": {
-    "--custom-game-cover-width": "87px",
-    "--custom-game-cover-height": "116px",
-    "--custom-game-cover-grid-row-size": "4",
-    "--custom-game-cover-gap": "16px",
+  ".gameWidgetGrid__7f3a7": {
+    "--custom-game-widget-grid-row-size": "3",
+    "--custom-game-widget-grid-gap": "var(--space-8)"
+  },
+  ".placeholderDetailsCard__7a78a": {
     "--custom-placeholder-text-size": "20px",
     "--custom-placeholder-text-gap": "9px"
-  },
-  ".container__7a78a.sizeMedium__7a78a": {
-    "--custom-game-cover-width": "72px",
-    "--custom-game-cover-height": "96px",
-    "--custom-game-cover-grid-row-size": "4",
-    "--custom-game-cover-gap": "10px",
-    "--custom-placeholder-text-size": "20px",
-    "--custom-placeholder-text-gap": "9px"
-  },
-  ".container__7a78a.sizeSmall__7a78a": {
-    "--custom-game-cover-width": "56px",
-    "--custom-game-cover-height": "75px",
-    "--custom-game-cover-grid-row-size": "3",
-    "--custom-game-cover-gap": "9px",
-    "--custom-placeholder-text-size": "12px",
-    "--custom-placeholder-text-gap": "8px"
-  },
-  ".container_ab64fd": {
-    "--custom-widget-preview-width": "422px",
-    "--custom-game-cover-width": "90px",
-    "--custom-game-cover-height": "120px"
-  },
-  ".container__203bc": {
-    "--custom-game-cover-width": "56px",
-    "--custom-game-cover-height": "74px",
-    "--custom-game-cover-grid-row-size": "6"
   },
   ".addButtonContent__4a011": {
     "--custom-option-add-button-padding": "16px"
