@@ -585,8 +585,6 @@
     "--spotify-hsl": "141.154 calc(var(--saturation-factor, 1)*72.897%) 41.961%",
     "--steam": "hsl(var(--steam-hsl)/1)",
     "--steam-hsl": "214.615 calc(var(--saturation-factor, 1)*35.135%) 14.51%",
-    "--transparent": "hsl(var(--transparent-hsl)/0)",
-    "--transparent-hsl": "0 calc(var(--saturation-factor, 1)*0%) 0%",
     "--twitch": "hsl(var(--twitch-hsl)/1)",
     "--twitch-hsl": "264.13 calc(var(--saturation-factor, 1)*100%) 63.922%",
     "--twitch-secondary": "hsl(var(--twitch-secondary-hsl)/1)",
@@ -2947,6 +2945,8 @@
     "--opacity-black-92-hsl": "0 calc(var(--saturation-factor, 1)*0%) 0%",
     "--opacity-black-96": "hsl(var(--opacity-black-96-hsl)/0.9607843137254902)",
     "--opacity-black-96-hsl": "0 calc(var(--saturation-factor, 1)*0%) 0%",
+    "--transparent": "hsl(var(--transparent-hsl)/0)",
+    "--transparent-hsl": "0 calc(var(--saturation-factor, 1)*0%) 0%",
     "--red-100": "hsl(var(--red-100-hsl)/1)",
     "--red-100-hsl": "350 calc(var(--saturation-factor, 1)*75%) 98.431%",
     "--red-130": "hsl(var(--red-130-hsl)/1)",
@@ -8288,9 +8288,6 @@
   ".custom-user-profile-theme .tabBarItem__37bfc": {
     "--selected-tab-item-color": "var(--text-strong)"
   },
-  ".divider__6131a": {
-    "--custom-divider-margin": "calc(var(--space-xxl) + var(--space-xs))"
-  },
   ".giftButton__82222": {
     "--button-outline-brand-text": "var(--brand-500)"
   },
@@ -8357,6 +8354,9 @@
     "--custom-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 20%,var(--__card-accent-color) 15%)",
     "--custom-hover-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 25%,var(--__card-accent-color) 20%)"
   },
+  ".divider__6131a": {
+    "--custom-divider-margin": "calc(var(--space-xxl) + var(--space-xs))"
+  },
   ".divider_abc4d3": {
     "--custom-divider-margin": "calc(var(--space-xxl) + var(--space-xs))"
   },
@@ -8366,25 +8366,9 @@
   ".container__28842": {
     "--custom-edge-fade-width": "0"
   },
-  ".hoverWrapper_b5493b:hover .partialFlipCard_b5493b": {
-    "--custom-y-rotation": "-30deg"
-  },
-  ".hoverWrapper_b5493b:hover .ultraFlipCard_b5493b": {
-    "--custom-y-rotation": "-570deg"
-  },
-  ".hoverWrapper_b5493b:hover .rotateCard_b5493b": {
-    "--custom-x-rotation": "-520deg",
-    "--custom-y-rotation": "-1140deg"
-  },
-  ".card_b5493b": {
-    "--custom-card-border-radius": "20px"
-  },
   ".container__80907": {
-    "--custom-premium-home-max-width": "1066px",
+    "--custom-premium-home-max-width": "1200px",
     "--custom-content-width-with-padding": "calc(100% - 64px)"
-  },
-  ".newPerkCardsEnabled__80907 .container__80907": {
-    "--custom-premium-home-max-width": "1200px"
   },
   ".container__94da4": {
     "--custom-premium-home-max-width": "1066px"
