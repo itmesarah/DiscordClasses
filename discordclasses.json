@@ -8257,6 +8257,8 @@
   },
   "337637": {
     "jC": "popoutContainer_ce8328",
+    "lO": "profileFrameMargin_ce8328",
+    "IW": "profileFrameMarginBottom_ce8328",
     "rf": "body_ce8328",
     "T_": "menus_ce8328",
     "g0": "menuOverlay_ce8328",
@@ -13880,7 +13882,7 @@
     "nt": "enabledBadge__65e57",
     "NC": "buttonsContainer__65e57",
     "x6": "button__65e57",
-    "Ad": "newBadge__65e57"
+    "AP": "typeBadge__65e57"
   },
   "542235": {
     "uX": "verifyConnectedAccount_fb52a4",
@@ -24938,6 +24940,14 @@
     "bV": "sectionHeader__9fe74",
     "A": "fromGuildCard__9fe74",
     "P4": "toGuildCardBorder__9fe74"
+  },
+  "964554": {
+    "yF": "divider_d1ca32",
+    "AC": "dividerStart_d1ca32",
+    "xR": "dividerEnd_d1ca32",
+    "Ij": "startContent_d1ca32",
+    "Xe": "endContent_d1ca32",
+    "Kk": "icon_d1ca32"
   },
   "964843": {
     "wx": "header_bfd183",
