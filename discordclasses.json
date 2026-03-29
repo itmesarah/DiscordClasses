@@ -1861,14 +1861,6 @@
     "q8": "cardAccentLeft__3f12a",
     "dw": "cardAccentRight__3f12a"
   },
-  "86761": {
-    "ck": "rewardIndicatorContainer__225ba",
-    "a": "rewardIndicatorContainerGreenFill__225ba",
-    "C9": "rewardIndicatorContainerWhiteFill__225ba",
-    "E6": "rewardIconWrapper__225ba",
-    "Ru": "rewardTooltip__225ba",
-    "AE": "rewardTooltipDivider__225ba"
-  },
   "86865": {
     "kL": "container__4e30a",
     "oT": "popoutHeaderContainer__4e30a",
@@ -3992,6 +3984,16 @@
   },
   "164157": {
     "m": "ctaContent__225ab"
+  },
+  "164466": {
+    "D7": "gradient__7dbcf",
+    "cG": "closeButtonContainer__7dbcf",
+    "JS": "artContainer__7dbcf",
+    "tW": "followupArtContainer__7dbcf artContainer__7dbcf",
+    "Qs": "content__7dbcf",
+    "rf": "body__7dbcf",
+    "wx": "header__7dbcf",
+    "v0": "buttonRow__7dbcf"
   },
   "164778": {
     "jC": "popoutContainer__02e2b",
@@ -17697,6 +17699,14 @@
     "Kk": "icon_a079c2",
     "h_": "description_a079c2"
   },
+  "684739": {
+    "ck": "rewardIndicatorContainer_cc3943",
+    "a": "rewardIndicatorContainerGreenFill_cc3943",
+    "C9": "rewardIndicatorContainerWhiteFill_cc3943",
+    "E6": "rewardIconWrapper_cc3943",
+    "Ru": "rewardTooltip_cc3943",
+    "AE": "rewardTooltipDivider_cc3943"
+  },
   "684994": {
     "w": "header__41dd9",
     "r": "body__41dd9"
@@ -18861,8 +18871,6 @@
     "YK": "seekableBar_e5e85f",
     "Ey": "timeDisplay_e5e85f",
     "Ub": "grabber_e5e85f",
-    "Fv": "roundedV1_e5e85f",
-    "KR": "roundedV2_e5e85f",
     "$v": "segmentWrapper_e5e85f",
     "WJ": "segmentBufferClip_e5e85f",
     "Bw": "segmentBufferContent_e5e85f",
@@ -20218,7 +20226,6 @@
     "AB": "stickerCategoryGenericIcon__3ad28",
     "dC": "stickerCategoryGeneric__3ad28",
     "ls": "stickerCategoryGenericLast__3ad28",
-    "d8": "stickerCategoryGenericDisabled__3ad28",
     "ny": "guildCategorySeparator__3ad28",
     "Fe": "standardStickerShortcut__3ad28",
     "Q6": "invisibleShortcut__3ad28"
@@ -20295,7 +20302,6 @@
   },
   "798324": {
     "nw": "outerContainer__74dc6",
-    "fu": "outerContainerGiftInventory__74dc6",
     "Gg": "outerContainerEmbed__74dc6",
     "v7": "questSplashContainer__74dc6",
     "Z5": "questSplashImage__74dc6",
@@ -20305,12 +20311,6 @@
     "eX": "headerContentEmbed__74dc6",
     "Yu": "headerExpandedContent__74dc6",
     "uA": "headerExpandedWrapper__74dc6",
-    "gM": "headerCollapsedContent__74dc6",
-    "_F": "headerCollapsedClickableContainer__74dc6",
-    "SY": "headerCollapsedContentRewardWrapper__74dc6",
-    "EK": "headerCollapsedRewardTile__74dc6",
-    "if": "headerCollapsedContentCopyWrapper__74dc6",
-    "dc": "headerCollapsedContentCopyLogos__74dc6",
     "_V": "iconLogotypeContainer__74dc6",
     "Iu": "partnerBranding__74dc6",
     "qN": "partnerBrandingLogotypes__74dc6",
