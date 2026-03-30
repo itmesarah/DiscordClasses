@@ -11725,6 +11725,9 @@
     "N": "card__896d4",
     "L": "overflowable__896d4"
   },
+  "460696": {
+    "o": "popover_b438e7"
+  },
   "461917": {
     "Co": "appIconSelectionContainer__8a3d7",
     "Ni": "appIconSelection__8a3d7",
@@ -17652,9 +17655,10 @@
     "bW": "streamPreviewBackdropOverlay__16577",
     "Rh": "streamPreview__16577",
     "H_": "streamPreviewHover__16577",
+    "vk": "clickable__16577",
     "rB": "streamPreviewInner__16577",
     "Ok": "liveIndicator__16577",
-    "g$": "streamPreviewHoverText__16577"
+    "bF": "streamPreviewFade__16577"
   },
   "683757": {
     "Ap": "circleContainer_c1b44f",
