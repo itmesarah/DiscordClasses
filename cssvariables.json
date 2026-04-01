@@ -5605,6 +5605,18 @@
   ".cardsList__9d597:focus-within .backgroundCardContainer__9d597, .cardsList__9d597:hover .backgroundCardContainer__9d597": {
     "--custom-transition-height-delay": "0ms"
   },
+  ".buttonBlack__65fca": {
+    "--custom-button-outline-color": "var(--black)"
+  },
+  ".buttonBlack__65fca:hover.buttonBlack__65fca:not(.disabled__65fca)": {
+    "--custom-button-outline-color": "var(--white)"
+  },
+  ".buttonWhite__65fca": {
+    "--custom-button-outline-color": "var(--white)"
+  },
+  ".buttonWhite__65fca:hover.buttonWhite__65fca:not(.disabled__65fca)": {
+    "--custom-button-outline-color": "var(--black)"
+  },
   ".card__39ec2": {
     "--custom-activity-card-padding": "8px"
   },
@@ -8547,66 +8559,6 @@
   ".container_d878e7": {
     "--__card-accent-color": "transparent"
   },
-  ".skye_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#35ed7e",
-    "--custom-voice-filter-icon-bg-color-two": "#f260c3"
-  },
-  ".quinn_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#68bcfe",
-    "--custom-voice-filter-icon-bg-color-two": "#5f549d"
-  },
-  ".axel_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#68bdff",
-    "--custom-voice-filter-icon-bg-color-two": "#285436"
-  },
-  ".sebastien_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#68bcfe",
-    "--custom-voice-filter-icon-bg-color-two": "#5c771f"
-  },
-  ".megaphone_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#7fe986",
-    "--custom-voice-filter-icon-bg-color-two": "#e65acd"
-  },
-  ".robot_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#35ec7d",
-    "--custom-voice-filter-icon-bg-color-two": "#3d484f"
-  },
-  ".tunes_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#ff4cd2",
-    "--custom-voice-filter-icon-bg-color-two": "#6f86fd"
-  },
-  ".ghost_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#ff4cd2",
-    "--custom-voice-filter-icon-bg-color-two": "#6e499c"
-  },
-  ".spacebunny_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#76ea89",
-    "--custom-voice-filter-icon-bg-color-two": "#6e3cdf"
-  },
-  ".justus_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#68bdff",
-    "--custom-voice-filter-icon-bg-color-two": "#0556f8"
-  },
-  ".harper_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#ff4cd2",
-    "--custom-voice-filter-icon-bg-color-two": "#7d57b3"
-  },
-  ".villain_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#35ed7e",
-    "--custom-voice-filter-icon-bg-color-two": "#db0222"
-  },
-  ".solara_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#ff4cd2",
-    "--custom-voice-filter-icon-bg-color-two": "#d69b38"
-  },
-  ".cave_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#7cbcf9",
-    "--custom-voice-filter-icon-bg-color-two": "#cf7a7c"
-  },
-  ".deepfried_ed0705": {
-    "--custom-voice-filter-icon-bg-color-one": "#7fe987",
-    "--custom-voice-filter-icon-bg-color-two": "#fdb12d"
-  },
   ".square__4e9aa": {
     "--custom-tile-width": "100",
     "--custom-tile-height": "100"
@@ -8798,13 +8750,6 @@
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
-  ".gameProfileModal__8e830": {
-    "--custom-spacing": "16px"
-  },
-  ".container__81040": {
-    "--custom-spacing": "12px",
-    "--custom-compact-bar-height": "56px"
-  },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
   },
@@ -8813,6 +8758,13 @@
     "--custom-transparent-bottom-color": "hsla(0,0%,100%,0)",
     "--custom-top-layer-color": "rgba(98,196,101,.75)",
     "--custom-transparent-top-color": "rgba(87,188,90,0)"
+  },
+  ".gameProfileModal__8e830": {
+    "--custom-spacing": "16px"
+  },
+  ".container__81040": {
+    "--custom-spacing": "12px",
+    "--custom-compact-bar-height": "56px"
   },
   ".subnav_e4d939": {
     "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
