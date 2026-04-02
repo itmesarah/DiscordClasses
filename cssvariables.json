@@ -3990,6 +3990,8 @@
     "--custom-app-message-embed-base-info-top": "calc(var(--custom-app-message-embed-base-info-gap) - 2px)",
     "--custom-premium-marketing-hero-heading-padding-top": "120px",
     "--emojiInputHorizontalPadding": "8px",
+    "--custom-forum-post-form-padding": "var(--space-8)",
+    "--custom-forum-post-form-control-size": "40px",
     "--arb-bg-light": "#fff",
     "--arb-fg-light": "#1f2328",
     "--arb-at-light": "#0550ae",
@@ -4128,8 +4130,6 @@
     "--custom-zindex-emoji-studio-top": "3",
     "--custom-zindex-emoji-studio-middle": "2",
     "--custom-zindex-emoji-studio-bottom": "1",
-    "--custom-forum-post-form-padding": "var(--space-8)",
-    "--custom-forum-post-form-control-size": "40px",
     "--os-accent-color": "#d47800ff"
   },
   ".expressive_a22cb0 .expressiveFill_a22cb0": {
@@ -8750,6 +8750,13 @@
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
+  ".gameProfileModal__8e830": {
+    "--custom-spacing": "16px"
+  },
+  ".container__81040": {
+    "--custom-spacing": "12px",
+    "--custom-compact-bar-height": "56px"
+  },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
   },
@@ -8758,13 +8765,6 @@
     "--custom-transparent-bottom-color": "hsla(0,0%,100%,0)",
     "--custom-top-layer-color": "rgba(98,196,101,.75)",
     "--custom-transparent-top-color": "rgba(87,188,90,0)"
-  },
-  ".gameProfileModal__8e830": {
-    "--custom-spacing": "16px"
-  },
-  ".container__81040": {
-    "--custom-spacing": "12px",
-    "--custom-compact-bar-height": "56px"
   },
   ".subnav_e4d939": {
     "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
