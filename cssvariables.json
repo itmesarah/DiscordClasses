@@ -8787,6 +8787,9 @@
   ".splashBackground__742a4": {
     "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
   },
+  ".inviteCardProfile__742a4": {
+    "--custom-invite-banner-overlap": "32px"
+  },
   ".vc-membercount-widget": {
     "--color-online": "var(--green-360)",
     "--color-total": "var(--primary-400)",
