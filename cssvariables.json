@@ -3993,7 +3993,6 @@
     "--custom-app-message-embed-base-info-top": "calc(var(--custom-app-message-embed-base-info-gap) - 2px)",
     "--custom-premium-marketing-hero-heading-padding-top": "120px",
     "--emojiInputHorizontalPadding": "8px",
-    "--custom-bg-surface-overlay": "rgba(33,34,41,.8)",
     "--arb-bg-light": "#fff",
     "--arb-fg-light": "#1f2328",
     "--arb-at-light": "#0550ae",
@@ -4128,6 +4127,7 @@
     "--arb-km-dark": "#ff7b72",
     "--arb-dr-dark": "#ff7b72",
     "--arb-rx-dark": "#a5d6ff",
+    "--custom-bg-surface-overlay": "rgba(33,34,41,.8)",
     "--custom-zindex-emoji-studio-top": "3",
     "--custom-zindex-emoji-studio-middle": "2",
     "--custom-zindex-emoji-studio-bottom": "1",
@@ -8733,6 +8733,19 @@
   ".voters__01c8c": {
     "--custom-list-scrollbar-top-padding": "12px"
   },
+  ".modal_e44912": {
+    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
+  },
+  ".timeline__7dce2": {
+    "--__trimmer-height": "72px",
+    "--__playhead-offset": "3px",
+    "--__playhead-width": "6px",
+    "--__handle-width": "16px",
+    "--__handle-transition-duration": "500ms"
+  },
+  ".container_cf0b5e": {
+    "--__trimmer-height": "72px"
+  },
   ".extras__58ece": {
     "--custom-offset": "0"
   },
@@ -8748,19 +8761,6 @@
   },
   ".fade_c8f358": {
     "--custom-activity-popout-header-fade-width": "var(--space-16)"
-  },
-  ".timeline__7dce2": {
-    "--__trimmer-height": "72px",
-    "--__playhead-offset": "3px",
-    "--__playhead-width": "6px",
-    "--__handle-width": "16px",
-    "--__handle-transition-duration": "500ms"
-  },
-  ".container_cf0b5e": {
-    "--__trimmer-height": "72px"
-  },
-  ".modal_e44912": {
-    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
   },
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
