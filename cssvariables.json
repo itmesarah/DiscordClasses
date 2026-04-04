@@ -5471,7 +5471,7 @@
   ":root .user-profile-modal-v2": {
     "--custom-user-profile-banner-height": "140px",
     "--custom-user-profile-avatar-size": "120px",
-    "--custom-modal-v2-padding": "var(--space-48)",
+    "--custom-modal-v2-padding": "var(--space-32)",
     "--custom-modal-v2-gutter": "var(--space-32)",
     "--custom-modal-v2-tabpanel-scrollbar-offset": "var(--space-16)",
     "--custom-modal-profile-card-padding": "var(--space-32)",
@@ -8610,7 +8610,7 @@
   ".divider__6131a": {
     "--custom-divider-margin": "calc(var(--space-xxl) + var(--space-xs))"
   },
-  ".divider_abc4d3": {
+  ".divider__146fb": {
     "--custom-divider-margin": "calc(var(--space-xxl) + var(--space-xs))"
   },
   ".preview__0e467": {
@@ -8718,7 +8718,17 @@
     "--background-feedback-notification": "var(--brand-500)"
   },
   ".layoutContainer__9c3be": {
-    "--custom-editing-panel-width": "240px"
+    "--custom-editing-panel-width": "240px",
+    "--custom-modal-v2-system-bar-padding": "0px",
+    "--custom-modal-v2-private-banner-height": "0px",
+    "--custom-modal-v2-header-button-top": "var(--space-8)"
+  },
+  ".layoutContainer__9c3be.hasPrivateBanner__9c3be": {
+    "--custom-modal-v2-private-banner-height": "var(--space-48)"
+  },
+  ".platform-linux .layoutContainer__9c3be, .platform-osx .layoutContainer__9c3be, .platform-win .layoutContainer__9c3be": {
+    "--custom-modal-v2-system-bar-padding": "var(--custom-app-top-bar-height)",
+    "--custom-modal-v2-header-button-top": "calc(var(--space-8) + max(var(--custom-modal-v2-system-bar-padding), var(--custom-modal-v2-private-banner-height)))"
   },
   ".custom-user-profile-theme .profile__9c3be": {
     "--profile-gradient-start": "color-mix(in oklab,var(--profile-gradient-overlay-color) 100%,var(--profile-gradient-primary-color))",
