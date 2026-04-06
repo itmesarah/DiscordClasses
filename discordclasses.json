@@ -10018,7 +10018,6 @@
     "eyebrowText": "eyebrowText_b5b7aa",
     "utilButtonWrapper": "utilButtonWrapper_b5b7aa",
     "utilButtonIcon": "utilButtonIcon_b5b7aa",
-    "utilButtonIconInformation": "utilButtonIconInformation_b5b7aa",
     "partnerBranding": "partnerBranding_b5b7aa",
     "partnerLogotypes": "partnerLogotypes_b5b7aa",
     "bottomRow": "bottomRow_b5b7aa",
@@ -22398,8 +22397,7 @@
     "avatarError": "avatarError_a27e58",
     "constrainedRow": "constrainedRow_a27e58",
     "usernameRow": "usernameRow_a27e58",
-    "usernameInnerRow": "usernameInnerRow_a27e58",
-    "textRevealer": "textRevealer_a27e58"
+    "usernameInnerRow": "usernameInnerRow_a27e58"
   },
   "857344": {
     "product": "product__7c3bf",
