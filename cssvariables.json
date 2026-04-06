@@ -4140,12 +4140,12 @@
     "--arb-km-dark": "#ff7b72",
     "--arb-dr-dark": "#ff7b72",
     "--arb-rx-dark": "#a5d6ff",
-    "--custom-bg-surface-overlay": "rgba(33,34,41,.8)",
     "--custom-zindex-emoji-studio-top": "3",
     "--custom-zindex-emoji-studio-middle": "2",
     "--custom-zindex-emoji-studio-bottom": "1",
     "--custom-forum-post-form-padding": "var(--space-8)",
     "--custom-forum-post-form-control-size": "40px",
+    "--custom-bg-surface-overlay": "rgba(33,34,41,.8)",
     "--os-accent-color": "#d47800ff"
   },
   ".expressive_a22cb0 .expressiveFill_a22cb0": {
@@ -8790,11 +8790,12 @@
   ".pinkCountdown__9d860": {
     "--countdown-color": "#4838a9"
   },
-  ".modal_e44912": {
-    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
+  ".container_c8f358": {
+    "--custom-activity-popout-header-height": "48px",
+    "--custom-activity-popout-header-background-color": "var(--black)"
   },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
+  ".fade_c8f358": {
+    "--custom-activity-popout-header-fade-width": "var(--space-16)"
   },
   ".nativePickerGuide_afdbcd": {
     "--custom-icon-highlight-stop1": "#5f6be9",
@@ -8804,6 +8805,9 @@
   },
   ".voters__01c8c": {
     "--custom-list-scrollbar-top-padding": "12px"
+  },
+  ".modal_e44912": {
+    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
   },
   ".modalContainer__578ba": {
     "--custom-gallery-panel-width": "340px",
@@ -8819,22 +8823,6 @@
   },
   ".container_cf0b5e": {
     "--__trimmer-height": "72px"
-  },
-  ".extras__58ece": {
-    "--custom-offset": "0"
-  },
-  ".full-motion .extras__58ece": {
-    "--custom-offset": "6px"
-  },
-  ".tivNavItemIconContainer__4ccc5": {
-    "--custom-interactive-normal": "var(--interactive-normal)"
-  },
-  ".container_c8f358": {
-    "--custom-activity-popout-header-height": "48px",
-    "--custom-activity-popout-header-background-color": "var(--black)"
-  },
-  ".fade_c8f358": {
-    "--custom-activity-popout-header-fade-width": "var(--space-16)"
   },
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
@@ -8854,6 +8842,18 @@
     "--custom-transparent-bottom-color": "hsla(0,0%,100%,0)",
     "--custom-top-layer-color": "rgba(98,196,101,.75)",
     "--custom-transparent-top-color": "rgba(87,188,90,0)"
+  },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
+  },
+  ".extras__58ece": {
+    "--custom-offset": "0"
+  },
+  ".full-motion .extras__58ece": {
+    "--custom-offset": "6px"
+  },
+  ".tivNavItemIconContainer__4ccc5": {
+    "--custom-interactive-normal": "var(--interactive-normal)"
   },
   ".splashBackground__742a4": {
     "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"

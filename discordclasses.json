@@ -724,7 +724,8 @@
   "30565": {
     "infoNotice": "infoNotice_b25217",
     "paymentModalBreadcrumbs": "paymentModalBreadcrumbs_b25217",
-    "paymentModalError": "paymentModalError_b25217"
+    "paymentModalError": "paymentModalError_b25217",
+    "giftCardRedemptionLink": "giftCardRedemptionLink_b25217"
   },
   "30741": {
     "exemptionHint": "exemptionHint__54558"
@@ -764,6 +765,7 @@
   "32145": {
     "panel": "panel__6131a",
     "scroller": "scroller__6131a",
+    "bottomMarker": "bottomMarker__6131a",
     "tabBar": "tabBar__6131a",
     "notice": "notice__6131a",
     "decorationWrapper": "decorationWrapper__6131a",
@@ -3860,7 +3862,6 @@
     "skuHeadingText": "skuHeadingText_b44961",
     "socialLayerGameItemDisclaimer": "socialLayerGameItemDisclaimer_b44961",
     "paymentMethodContainer": "paymentMethodContainer_b44961",
-    "giftCardCreditsCheckbox": "giftCardCreditsCheckbox_b44961",
     "giftCardRedemptionLink": "giftCardRedemptionLink_b44961",
     "oneTimePurchaseRewardNotice": "oneTimePurchaseRewardNotice_b44961"
   },
@@ -15379,7 +15380,6 @@
   },
   "587286": {
     "paymentSourceLabel": "paymentSourceLabel_f38e43",
-    "unifiedAddPaymentMethodLabel": "unifiedAddPaymentMethodLabel_f38e43",
     "paymentSourceSelectedOption": "paymentSourceSelectedOption_f38e43",
     "paymentSourceWarning": "paymentSourceWarning_f38e43",
     "paymentSourceWarningIcon": "paymentSourceWarningIcon_f38e43",
