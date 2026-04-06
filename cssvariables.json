@@ -3922,8 +3922,6 @@
     "--custom-channel-attachment-upload-mini-attachment-size": "78px",
     "--custom-channel-textarea-text-area-height": "56px",
     "--custom-channel-textarea-text-area-max-height": "50vh",
-    "--custom-channel-notice-icon-size": "16px",
-    "--custom-channel-notice-padding": "12px",
     "--custom-channel-call-participants-popout-padding-value": "16px",
     "--custom-stream-upsell-modal-art-height": "149px",
     "--custom-voice-channel-status-modal-emoji-size": "22px",
@@ -8792,6 +8790,12 @@
   ".pinkCountdown__9d860": {
     "--countdown-color": "#4838a9"
   },
+  ".modal_e44912": {
+    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
+  },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
+  },
   ".nativePickerGuide_afdbcd": {
     "--custom-icon-highlight-stop1": "#5f6be9",
     "--custom-icon-highlight-stop1-val2": "#6571f3",
@@ -8801,8 +8805,10 @@
   ".voters__01c8c": {
     "--custom-list-scrollbar-top-padding": "12px"
   },
-  ".modal_e44912": {
-    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
+  ".modalContainer__578ba": {
+    "--custom-gallery-panel-width": "340px",
+    "--custom-gallery-panel-curve": "cubic-bezier(0.07,0.56,0.31,0.9)",
+    "--custom-gallery-panel-duration": "267ms"
   },
   ".timeline__7dce2": {
     "--__trimmer-height": "72px",
@@ -8848,9 +8854,6 @@
     "--custom-transparent-bottom-color": "hsla(0,0%,100%,0)",
     "--custom-top-layer-color": "rgba(98,196,101,.75)",
     "--custom-transparent-top-color": "rgba(87,188,90,0)"
-  },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".splashBackground__742a4": {
     "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
