@@ -6731,7 +6731,6 @@
     "footer": "footer__22cef",
     "heartButton": "heartButton__22cef",
     "compactContainer": "compactContainer__22cef",
-    "compactBackground": "compactBackground__22cef",
     "compactGemWrapper": "compactGemWrapper__22cef",
     "compactGemImage": "compactGemImage__22cef",
     "compactContent": "compactContent__22cef",
@@ -14352,6 +14351,7 @@
     "footerButtonContainer": "footerButtonContainer_fcbddd",
     "footerButtonGroup": "footerButtonGroup_fcbddd",
     "hovered": "hovered_fcbddd",
+    "noHoverLift": "noHoverLift_fcbddd",
     "footerGradient": "footerGradient_fcbddd",
     "productName": "productName_fcbddd"
   },
@@ -18838,10 +18838,11 @@
     "seekableBar": "seekableBar__68788",
     "timeDisplay": "timeDisplay__68788",
     "grabber": "grabber__68788",
+    "smoothPlayback": "smoothPlayback__68788",
+    "glowBar": "glowBar__68788",
     "segmentWrapper": "segmentWrapper__68788",
     "segmentBufferClip": "segmentBufferClip__68788",
-    "segmentBufferContent": "segmentBufferContent__68788",
-    "glowBar": "glowBar__68788"
+    "segmentBufferContent": "segmentBufferContent__68788"
   },
   "716785": {
     "page": "page_b94ea3",
