@@ -3674,6 +3674,11 @@
     "panelInner": "panelInner__2a871",
     "section": "section__2a871"
   },
+  "151885": {
+    "sessionIconWrapper": "sessionIconWrapper_dc792a",
+    "muted": "muted_dc792a",
+    "sessionLogoutButton": "sessionLogoutButton_dc792a"
+  },
   "152120": {
     "title": "title_feb59c"
   },
@@ -8984,8 +8989,7 @@
     "top": "top__7d80f",
     "bottom": "bottom__7d80f",
     "rail": "rail__7d80f",
-    "responsive": "responsive__7d80f",
-    "left": "left__7d80f"
+    "responsive": "responsive__7d80f"
   },
   "352461": {
     "micTestHelpLink": "micTestHelpLink_bd498a"

@@ -8786,12 +8786,6 @@
   ".pinkCountdown__9d860": {
     "--countdown-color": "#4838a9"
   },
-  ".modal_e44912": {
-    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
-  },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
-  },
   ".container_c8f358": {
     "--custom-activity-popout-header-height": "48px",
     "--custom-activity-popout-header-background-color": "var(--black)"
@@ -8807,6 +8801,9 @@
   },
   ".voters__01c8c": {
     "--custom-list-scrollbar-top-padding": "12px"
+  },
+  ".modal_e44912": {
+    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
   },
   ".modalContainer__578ba": {
     "--custom-gallery-panel-width": "340px",
@@ -8826,6 +8823,13 @@
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
+  ".gameProfileModal__8e830": {
+    "--custom-spacing": "16px"
+  },
+  ".container__81040": {
+    "--custom-spacing": "12px",
+    "--custom-compact-bar-height": "56px"
+  },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
   },
@@ -8835,13 +8839,6 @@
     "--custom-top-layer-color": "rgba(98,196,101,.75)",
     "--custom-transparent-top-color": "rgba(87,188,90,0)"
   },
-  ".gameProfileModal__8e830": {
-    "--custom-spacing": "16px"
-  },
-  ".container__81040": {
-    "--custom-spacing": "12px",
-    "--custom-compact-bar-height": "56px"
-  },
   ".extras__58ece": {
     "--custom-offset": "0"
   },
@@ -8850,6 +8847,9 @@
   },
   ".tivNavItemIconContainer__4ccc5": {
     "--custom-interactive-normal": "var(--interactive-normal)"
+  },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".splashBackground__742a4": {
     "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
