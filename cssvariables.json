@@ -3610,8 +3610,14 @@
     "--mobile-messages-item-channel-avatar-size": "32px",
     "--mobile-messages-item-channel-name-text-style": "redesign/channel-title/semibold",
     "--mobile-messages-item-happening-now-padding-bottom": "8px",
+    "--mobile-promo-sheet-graphic-max-width": "288px",
     "--mobile-segmented-control-border-radius": "16px",
     "--mobile-settings-padding-top": "16px",
+    "--mobile-sheet-handle-height": "4px",
+    "--mobile-sheet-handle-margin-bottom": "12px",
+    "--mobile-sheet-handle-margin-top": "4px",
+    "--mobile-sheet-handle-width": "32px",
+    "--mobile-sheet-header-padding-horizontal": "16px",
     "--mobile-tab-bar-unread-badge-size": "22px",
     "--mobile-tab-label-margin-top": "-6px",
     "--mobile-tab-label-text-style": "text-xxs/semibold",
@@ -8317,6 +8323,10 @@
     "--mobile-messages-item-happening-now-padding-bottom": "16px",
     "--mobile-segmented-control-border-radius": "8px",
     "--mobile-settings-padding-top": "24px",
+    "--mobile-sheet-handle-margin-bottom": "24px",
+    "--mobile-sheet-handle-margin-top": "8px",
+    "--mobile-sheet-handle-width": "36px",
+    "--mobile-sheet-header-padding-horizontal": "0px",
     "--mobile-tab-bar-unread-badge-size": "12px",
     "--mobile-tab-label-margin-top": "-4px",
     "--mobile-tab-label-text-style": "text-xs/medium",
@@ -8335,6 +8345,9 @@
     "--mobile-voice-panel-gutter": "16px",
     "--mobile-voice-panel-padding": "16px",
     "--mobile-voice-tile-border-radius": "12px"
+  },
+  ".guild-item-spacing": {
+    "--mobile-guild-bar-item-margin": "6px"
   },
   ".refresh-fast-follow-avatars.density-compact": {
     "--guildbar-avatar-size": "40px",
@@ -8445,6 +8458,9 @@
   ".high-contrast-mode, .high-contrast-mode .theme-light, .high-contrast-mode.theme-light, .high-contrast-mode .theme-dark, .high-contrast-mode.theme-dark, .high-contrast-mode .theme-darker, .high-contrast-mode.theme-darker, .high-contrast-mode .theme-midnight, .high-contrast-mode.theme-midnight": {
     "--shadow-border": "0 0 0 1px var(--border-strong)"
   },
+  ".reactors_b7f4b4": {
+    "--custom-list-scrollbar-top-padding": "12px"
+  },
   ".normalStylesDefault_a1443c": {
     "--custom-poll-style-vote-background": "var(--background-base-lowest)",
     "--custom-poll-style-vote-percentage": "var(--interactive-background-active)",
@@ -8495,9 +8511,6 @@
   ".container__16577.live__16577": {
     "--custom-base-color": "var(--red-400)"
   },
-  ".reactors_b7f4b4": {
-    "--custom-list-scrollbar-top-padding": "12px"
-  },
   ".guildOfficialMessage__5126c": {
     "--custom-message-content-color": "var(--custom-guild-official-message,var(--text-default))"
   },
@@ -8515,40 +8528,6 @@
   },
   ".group-spacing-24 .groupStart__5126c": {
     "--custom-group-spacing-start": "1.5625rem"
-  },
-  ".widgetContainer__0ea1a": {
-    "--custom-container-gap": "var(--space-8)",
-    "--custom-text-placeholder-width": "15ch",
-    "--custom-widget-header-height": "24px",
-    "--custom-widget-container-padding-block": "var(--space-12)",
-    "--custom-widget-container-padding-inline": "var(--space-16)"
-  },
-  ".heroImageContainer__0ea1a": {
-    "--custom-peek-amount": "var(--space-8)",
-    "--custom-top-offset": "calc(var(--custom-widget-header-height)*-1 + var(--custom-widget-container-padding-block)*-1 + var(--custom-peek-amount)*-1)"
-  },
-  ".grid__0ea1a": {
-    "--custom-text-placeholder-width": "8ch"
-  },
-  ".gameWidgetGrid__7f3a7": {
-    "--custom-game-widget-grid-row-size": "3",
-    "--custom-game-widget-grid-gap": "var(--space-8)"
-  },
-  ".placeholderDetailsCard__7a78a": {
-    "--custom-placeholder-text-size": "20px",
-    "--custom-placeholder-text-gap": "9px"
-  },
-  ".addButtonContent__4a011": {
-    "--custom-option-add-button-padding": "16px"
-  },
-  ".addButtonContent__4a011.sizeSmall__4a011": {
-    "--custom-option-add-button-padding": "12px"
-  },
-  ".tabBarItem__37bfc": {
-    "--selected-tab-item-color": "var(--text-brand)"
-  },
-  ".custom-user-profile-theme .tabBarItem__37bfc": {
-    "--selected-tab-item-color": "var(--text-strong)"
   },
   ".giftButton__82222": {
     "--button-outline-brand-text": "var(--brand-500)"
@@ -8616,6 +8595,9 @@
     "--custom-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 20%,var(--__card-accent-color) 15%)",
     "--custom-hover-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 25%,var(--__card-accent-color) 20%)"
   },
+  ".copyIconButton_e99fef": {
+    "--control-icon-only-icon-default": "var(--text-strong)"
+  },
   ".divider__6131a": {
     "--custom-divider-margin": "calc(var(--space-xxl) + var(--space-xs))"
   },
@@ -8640,6 +8622,20 @@
   },
   ".container_d878e7": {
     "--__card-accent-color": "transparent"
+  },
+  ".widgetContainer__0ea1a": {
+    "--custom-container-gap": "var(--space-8)",
+    "--custom-text-placeholder-width": "15ch",
+    "--custom-widget-header-height": "24px",
+    "--custom-widget-container-padding-block": "var(--space-12)",
+    "--custom-widget-container-padding-inline": "var(--space-16)"
+  },
+  ".heroImageContainer__0ea1a": {
+    "--custom-peek-amount": "var(--space-8)",
+    "--custom-top-offset": "calc(var(--custom-widget-header-height)*-1 + var(--custom-widget-container-padding-block)*-1 + var(--custom-peek-amount)*-1)"
+  },
+  ".grid__0ea1a": {
+    "--custom-text-placeholder-width": "8ch"
   },
   ".square__4e9aa": {
     "--custom-tile-width": "100",
@@ -8726,6 +8722,10 @@
   ".badge__7ace6": {
     "--background-feedback-notification": "var(--brand-500)"
   },
+  ".container__73abe": {
+    "--custom-premium-backdrop-opacity": "0.2",
+    "--custom-premium-backdrop-inset": "0"
+  },
   ".layoutContainer__9c3be": {
     "--custom-editing-panel-width": "240px",
     "--custom-modal-v2-system-bar-padding": "0px",
@@ -8773,6 +8773,29 @@
   ".platform-win.density-compact .backForwardButtons__63abb": {
     "--custom-bf-button-radius": "5px"
   },
+  ".card_a23cbe": {
+    "--custom-premium-backdrop-inset": "0"
+  },
+  ".gameWidgetGrid__7f3a7": {
+    "--custom-game-widget-grid-row-size": "3",
+    "--custom-game-widget-grid-gap": "var(--space-8)"
+  },
+  ".placeholderDetailsCard__7a78a": {
+    "--custom-placeholder-text-size": "20px",
+    "--custom-placeholder-text-gap": "9px"
+  },
+  ".addButtonContent__4a011": {
+    "--custom-option-add-button-padding": "16px"
+  },
+  ".addButtonContent__4a011.sizeSmall__4a011": {
+    "--custom-option-add-button-padding": "12px"
+  },
+  ".tabBarItem__37bfc": {
+    "--selected-tab-item-color": "var(--text-brand)"
+  },
+  ".custom-user-profile-theme .tabBarItem__37bfc": {
+    "--selected-tab-item-color": "var(--text-strong)"
+  },
   ".container__5e434": {
     "--custom-chat-input-margin-bottom": "var(--space-xs)"
   },
@@ -8804,6 +8827,12 @@
   ".pinkCountdown__9d860": {
     "--countdown-color": "#4838a9"
   },
+  ".modal_e44912": {
+    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
+  },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
+  },
   ".container_c8f358": {
     "--custom-activity-popout-header-height": "48px",
     "--custom-activity-popout-header-background-color": "var(--black)"
@@ -8819,9 +8848,6 @@
   },
   ".voters__01c8c": {
     "--custom-list-scrollbar-top-padding": "12px"
-  },
-  ".modal_e44912": {
-    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
   },
   ".modalContainer__578ba": {
     "--custom-gallery-panel-width": "340px",
@@ -8857,6 +8883,12 @@
     "--custom-spacing": "12px",
     "--custom-compact-bar-height": "56px"
   },
+  ".splashBackground__742a4": {
+    "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
+  },
+  ".inviteCardProfile__742a4": {
+    "--custom-invite-banner-overlap": "32px"
+  },
   ".extras__58ece": {
     "--custom-offset": "0"
   },
@@ -8865,15 +8897,6 @@
   },
   ".tivNavItemIconContainer__4ccc5": {
     "--custom-interactive-normal": "var(--interactive-normal)"
-  },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
-  },
-  ".splashBackground__742a4": {
-    "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
-  },
-  ".inviteCardProfile__742a4": {
-    "--custom-invite-banner-overlap": "32px"
   },
   ".vc-membercount-widget": {
     "--color-online": "var(--green-360)",
