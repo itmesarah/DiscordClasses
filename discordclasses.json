@@ -23678,6 +23678,7 @@
     "descriptionContainer": "descriptionContainer__02d09",
     "buttonHover": "buttonHover__02d09",
     "titleContainerNoPrice": "titleContainerNoPrice__02d09",
+    "bottomGradient": "bottomGradient__02d09",
     "iconAsset": "iconAsset__02d09",
     "orbsEarnedContainer": "orbsEarnedContainer__02d09"
   },
@@ -23932,7 +23933,6 @@
     "nameplatePreviewRescaler": "nameplatePreviewRescaler__517e1",
     "bundlePreview": "bundlePreview__517e1",
     "premiumPreview": "premiumPreview__517e1",
-    "premiumBackdrop": "premiumBackdrop__517e1",
     "premiumRive": "premiumRive__517e1",
     "premiumCardHover": "premiumCardHover__517e1"
   },
