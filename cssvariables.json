@@ -8887,6 +8887,13 @@
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
+  ".gameProfileModal__8e830": {
+    "--custom-spacing": "16px"
+  },
+  ".container__81040": {
+    "--custom-spacing": "12px",
+    "--custom-compact-bar-height": "56px"
+  },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
   },
@@ -8895,13 +8902,6 @@
     "--custom-transparent-bottom-color": "hsla(0,0%,100%,0)",
     "--custom-top-layer-color": "rgba(98,196,101,.75)",
     "--custom-transparent-top-color": "rgba(87,188,90,0)"
-  },
-  ".gameProfileModal__8e830": {
-    "--custom-spacing": "16px"
-  },
-  ".container__81040": {
-    "--custom-spacing": "12px",
-    "--custom-compact-bar-height": "56px"
   },
   ".subnav_e4d939": {
     "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
