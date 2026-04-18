@@ -30,8 +30,6 @@
     "--application-subscription-end-hsl": "196.564 calc(var(--saturation-factor, 1)*98.788%) 32.353%",
     "--application-subscription-start": "hsl(var(--application-subscription-start-hsl)/1)",
     "--application-subscription-start-hsl": "234.909 calc(var(--saturation-factor, 1)*68.465%) 52.745%",
-    "--battlenet": "hsl(var(--battlenet-hsl)/1)",
-    "--battlenet-hsl": "199.651 calc(var(--saturation-factor, 1)*100%) 44.902%",
     "--bg-animated-gradient-background-indigo-1": "hsl(var(--bg-animated-gradient-background-indigo-1-hsl)/1)",
     "--bg-animated-gradient-background-indigo-1-hsl": "241.5 calc(var(--saturation-factor, 1)*57.143%) 27.451%",
     "--bg-animated-gradient-background-indigo-2": "hsl(var(--bg-animated-gradient-background-indigo-2-hsl)/1)",
@@ -168,8 +166,6 @@
     "--bg-gradient-under-the-sea-2-hsl": "158.667 calc(var(--saturation-factor, 1)*20.362%) 43.333%",
     "--bg-gradient-under-the-sea-3": "hsl(var(--bg-gradient-under-the-sea-3-hsl)/1)",
     "--bg-gradient-under-the-sea-3-hsl": "175.385 calc(var(--saturation-factor, 1)*10.924%) 46.667%",
-    "--bungie": "hsl(var(--bungie-hsl)/1)",
-    "--bungie-hsl": "196.916 calc(var(--saturation-factor, 1)*100%) 44.51%",
     "--checkpoint-emojis-gradient-end": "hsl(var(--checkpoint-emojis-gradient-end-hsl)/1)",
     "--checkpoint-emojis-gradient-end-hsl": "283.2 calc(var(--saturation-factor, 1)*53.191%) 9.216%",
     "--checkpoint-emojis-gradient-start": "hsl(var(--checkpoint-emojis-gradient-start-hsl)/1)",
@@ -342,18 +338,6 @@
     "--checkpoint-welcome-primary-hsl": "143.316 calc(var(--saturation-factor, 1)*83.55%) 54.706%",
     "--checkpoint-welcome-secondary": "hsl(var(--checkpoint-welcome-secondary-hsl)/1)",
     "--checkpoint-welcome-secondary-hsl": "143.673 calc(var(--saturation-factor, 1)*78.61%) 36.667%",
-    "--crunchyroll": "hsl(var(--crunchyroll-hsl)/1)",
-    "--crunchyroll-hsl": "29.289 calc(var(--saturation-factor, 1)*92.952%) 55.49%",
-    "--ebay": "hsl(var(--ebay-hsl)/1)",
-    "--ebay-hsl": "211.429 calc(var(--saturation-factor, 1)*100%) 41.176%",
-    "--epic-games": "hsl(var(--epic-games-hsl)/1)",
-    "--epic-games-hsl": "34.286 calc(var(--saturation-factor, 1)*6.195%) 22.157%",
-    "--facebook": "hsl(var(--facebook-hsl)/1)",
-    "--facebook-hsl": "220.714 calc(var(--saturation-factor, 1)*44.211%) 37.255%",
-    "--github": "hsl(var(--github-hsl)/1)",
-    "--github-hsl": "0 calc(var(--saturation-factor, 1)*4.167%) 9.412%",
-    "--gold": "hsl(var(--gold-hsl)/1)",
-    "--gold-hsl": "45.652 calc(var(--saturation-factor, 1)*100%) 54.902%",
     "--guild-boosting-blue": "hsl(var(--guild-boosting-blue-hsl)/1)",
     "--guild-boosting-blue-hsl": "221.132 calc(var(--saturation-factor, 1)*70.044%) 55.49%",
     "--guild-boosting-blue-for-gradients": "hsl(var(--guild-boosting-blue-for-gradients-hsl)/1)",
@@ -458,18 +442,56 @@
     "--illo-yellow-60-hsl": "35.942 calc(var(--saturation-factor, 1)*81.176%) 50%",
     "--illo-yellow-70": "hsl(var(--illo-yellow-70-hsl)/1)",
     "--illo-yellow-70-hsl": "30.137 calc(var(--saturation-factor, 1)*100%) 42.941%",
-    "--lol": "hsl(var(--lol-hsl)/1)",
-    "--lol-hsl": "190.286 calc(var(--saturation-factor, 1)*89.744%) 7.647%",
     "--lol-text-dark": "hsl(var(--lol-text-dark-hsl)/1)",
     "--lol-text-dark-hsl": "37.444 calc(var(--saturation-factor, 1)*81.595%) 31.961%",
     "--lol-text-light": "hsl(var(--lol-text-light-hsl)/1)",
     "--lol-text-light-hsl": "41.143 calc(var(--saturation-factor, 1)*50.239%) 59.02%",
-    "--partner": "hsl(var(--partner-hsl)/1)",
-    "--partner-hsl": "215.376 calc(var(--saturation-factor, 1)*82.775%) 59.02%",
-    "--paypal": "hsl(var(--paypal-hsl)/1)",
-    "--paypal-hsl": "230.455 calc(var(--saturation-factor, 1)*69.841%) 24.706%",
-    "--playstation": "hsl(var(--playstation-hsl)/1)",
-    "--playstation-hsl": "220 calc(var(--saturation-factor, 1)*95.652%) 27.059%",
+    "--platform-battlenet": "hsl(var(--platform-battlenet-hsl)/1)",
+    "--platform-battlenet-hsl": "199.651 calc(var(--saturation-factor, 1)*100%) 44.902%",
+    "--platform-bungie": "hsl(var(--platform-bungie-hsl)/1)",
+    "--platform-bungie-hsl": "196.916 calc(var(--saturation-factor, 1)*100%) 44.51%",
+    "--platform-crunchyroll": "hsl(var(--platform-crunchyroll-hsl)/1)",
+    "--platform-crunchyroll-hsl": "29.289 calc(var(--saturation-factor, 1)*92.952%) 55.49%",
+    "--platform-ebay": "hsl(var(--platform-ebay-hsl)/1)",
+    "--platform-ebay-hsl": "211.429 calc(var(--saturation-factor, 1)*100%) 41.176%",
+    "--platform-epic-games": "hsl(var(--platform-epic-games-hsl)/1)",
+    "--platform-epic-games-hsl": "34.286 calc(var(--saturation-factor, 1)*6.195%) 22.157%",
+    "--platform-facebook": "hsl(var(--platform-facebook-hsl)/1)",
+    "--platform-facebook-hsl": "220.714 calc(var(--saturation-factor, 1)*44.211%) 37.255%",
+    "--platform-github": "hsl(var(--platform-github-hsl)/1)",
+    "--platform-github-hsl": "0 calc(var(--saturation-factor, 1)*4.167%) 9.412%",
+    "--platform-gold": "hsl(var(--platform-gold-hsl)/1)",
+    "--platform-gold-hsl": "45.652 calc(var(--saturation-factor, 1)*100%) 54.902%",
+    "--platform-lol": "hsl(var(--platform-lol-hsl)/1)",
+    "--platform-lol-hsl": "190.286 calc(var(--saturation-factor, 1)*89.744%) 7.647%",
+    "--platform-partner": "hsl(var(--platform-partner-hsl)/1)",
+    "--platform-partner-hsl": "215.376 calc(var(--saturation-factor, 1)*82.775%) 59.02%",
+    "--platform-paypal": "hsl(var(--platform-paypal-hsl)/1)",
+    "--platform-paypal-hsl": "230.455 calc(var(--saturation-factor, 1)*69.841%) 24.706%",
+    "--platform-playstation": "hsl(var(--platform-playstation-hsl)/1)",
+    "--platform-playstation-hsl": "220 calc(var(--saturation-factor, 1)*95.652%) 27.059%",
+    "--platform-reddit": "hsl(var(--platform-reddit-hsl)/1)",
+    "--platform-reddit-hsl": "16.235 calc(var(--saturation-factor, 1)*100%) 50%",
+    "--platform-riot-games": "hsl(var(--platform-riot-games-hsl)/1)",
+    "--platform-riot-games-hsl": "349.487 calc(var(--saturation-factor, 1)*100%) 45.882%",
+    "--platform-samsung": "hsl(var(--platform-samsung-hsl)/1)",
+    "--platform-samsung-hsl": "231 calc(var(--saturation-factor, 1)*77.778%) 35.294%",
+    "--platform-skype": "hsl(var(--platform-skype-hsl)/1)",
+    "--platform-skype-hsl": "196.186 calc(var(--saturation-factor, 1)*100%) 42.157%",
+    "--platform-spotify": "hsl(var(--platform-spotify-hsl)/1)",
+    "--platform-spotify-hsl": "141.154 calc(var(--saturation-factor, 1)*72.897%) 41.961%",
+    "--platform-steam": "hsl(var(--platform-steam-hsl)/1)",
+    "--platform-steam-hsl": "214.615 calc(var(--saturation-factor, 1)*35.135%) 14.51%",
+    "--platform-twitch": "hsl(var(--platform-twitch-hsl)/1)",
+    "--platform-twitch-hsl": "264.13 calc(var(--saturation-factor, 1)*100%) 63.922%",
+    "--platform-twitch-secondary": "hsl(var(--platform-twitch-secondary-hsl)/1)",
+    "--platform-twitch-secondary-hsl": "263.936 calc(var(--saturation-factor, 1)*80.342%) 54.118%",
+    "--platform-twitter": "hsl(var(--platform-twitter-hsl)/1)",
+    "--platform-twitter-hsl": "202.817 calc(var(--saturation-factor, 1)*89.121%) 53.137%",
+    "--platform-xbox": "hsl(var(--platform-xbox-hsl)/1)",
+    "--platform-xbox-hsl": "120 calc(var(--saturation-factor, 1)*77.143%) 27.451%",
+    "--platform-youtube": "hsl(var(--platform-youtube-hsl)/1)",
+    "--platform-youtube-hsl": "0.351 calc(var(--saturation-factor, 1)*72.766%) 46.078%",
     "--premium-nitro-pink-dark": "hsl(var(--premium-nitro-pink-dark-hsl)/1)",
     "--premium-nitro-pink-dark-hsl": "299.45 calc(var(--saturation-factor, 1)*43.083%) 50.392%",
     "--premium-nitro-pink-light": "hsl(var(--premium-nitro-pink-light-hsl)/1)",
@@ -534,10 +556,6 @@
     "--premium-tier-2-purple-for-gradients-hsl": "269.291 calc(var(--saturation-factor, 1)*52.697%) 52.745%",
     "--premium-tier-2-purple-for-gradients-2": "hsl(var(--premium-tier-2-purple-for-gradients-2-hsl)/1)",
     "--premium-tier-2-purple-for-gradients-2-hsl": "295.645 calc(var(--saturation-factor, 1)*50%) 51.373%",
-    "--reddit": "hsl(var(--reddit-hsl)/1)",
-    "--reddit-hsl": "16.235 calc(var(--saturation-factor, 1)*100%) 50%",
-    "--riot-games": "hsl(var(--riot-games-hsl)/1)",
-    "--riot-games-hsl": "349.487 calc(var(--saturation-factor, 1)*100%) 45.882%",
     "--role-blue": "hsl(var(--role-blue-hsl)/1)",
     "--role-blue-hsl": "203.793 calc(var(--saturation-factor, 1)*64.444%) 35.294%",
     "--role-brown": "hsl(var(--role-brown-hsl)/1)",
@@ -582,24 +600,6 @@
     "--role-terracotta-hsl": "5.546 calc(var(--saturation-factor, 1)*63.636%) 36.667%",
     "--role-yellow": "hsl(var(--role-yellow-hsl)/1)",
     "--role-yellow-hsl": "48.053 calc(var(--saturation-factor, 1)*88.976%) 50.196%",
-    "--samsung": "hsl(var(--samsung-hsl)/1)",
-    "--samsung-hsl": "231 calc(var(--saturation-factor, 1)*77.778%) 35.294%",
-    "--skype": "hsl(var(--skype-hsl)/1)",
-    "--skype-hsl": "196.186 calc(var(--saturation-factor, 1)*100%) 42.157%",
-    "--spotify": "hsl(var(--spotify-hsl)/1)",
-    "--spotify-hsl": "141.154 calc(var(--saturation-factor, 1)*72.897%) 41.961%",
-    "--steam": "hsl(var(--steam-hsl)/1)",
-    "--steam-hsl": "214.615 calc(var(--saturation-factor, 1)*35.135%) 14.51%",
-    "--twitch": "hsl(var(--twitch-hsl)/1)",
-    "--twitch-hsl": "264.13 calc(var(--saturation-factor, 1)*100%) 63.922%",
-    "--twitch-secondary": "hsl(var(--twitch-secondary-hsl)/1)",
-    "--twitch-secondary-hsl": "263.936 calc(var(--saturation-factor, 1)*80.342%) 54.118%",
-    "--twitter": "hsl(var(--twitter-hsl)/1)",
-    "--twitter-hsl": "202.817 calc(var(--saturation-factor, 1)*89.121%) 53.137%",
-    "--xbox": "hsl(var(--xbox-hsl)/1)",
-    "--xbox-hsl": "120 calc(var(--saturation-factor, 1)*77.143%) 27.451%",
-    "--youtube": "hsl(var(--youtube-hsl)/1)",
-    "--youtube-hsl": "0.351 calc(var(--saturation-factor, 1)*72.766%) 46.078%",
     "--neutral-1": "hsl(var(--neutral-1-hsl)/1)",
     "--neutral-1-hsl": "0 calc(var(--saturation-factor, 1)*0%) 100%",
     "--neutral-2": "hsl(var(--neutral-2-hsl)/1)",
@@ -3548,8 +3548,11 @@
     "--mobile-channel-list-title-text-style": "redesign/heading-18/bold",
     "--mobile-channel-name-channel-border-width": "1px",
     "--mobile-channel-name-channel-icon-radius": "12px",
+    "--mobile-chat-input-action-button-gap": "0px",
     "--mobile-chat-input-action-button-margin": "4px",
     "--mobile-chat-input-action-button-size": "40px",
+    "--mobile-chat-input-action-icon-active-tint": "text-brand",
+    "--mobile-chat-input-action-icon-pixel-size": "24px",
     "--mobile-chat-input-border-radius": "24px",
     "--mobile-chat-input-container-horizontal-padding": "8px",
     "--mobile-chat-input-expression-offset-left": "6px",
@@ -3559,7 +3562,10 @@
     "--mobile-chat-input-floating-scrim-gradient-height": "0px",
     "--mobile-chat-input-floating-scrim-offset-top": "0px",
     "--mobile-chat-input-floating-typing-padding-top": "0px",
+    "--mobile-chat-input-icon-default-tint": "interactive-text-default",
     "--mobile-chat-input-icon-size": "medium",
+    "--mobile-chat-input-pill-border-width": "0px",
+    "--mobile-chat-input-pill-margin-horizontal": "4px",
     "--mobile-chat-input-pill-padding": "2px",
     "--mobile-chat-input-space-bottom": "0px",
     "--mobile-coachmark-body-width": "260px",
@@ -3653,6 +3659,7 @@
     "--mobile-voice-panel-gutter": "12px",
     "--mobile-voice-panel-padding": "12px",
     "--mobile-voice-tile-border-radius": "24px",
+    "--mobile-you-bar-border-radius": "28px",
     "--modal-horizontal-padding": "24px",
     "--modal-vertical-padding": "16px",
     "--modal-width-large": "800px",
@@ -5828,19 +5835,19 @@
     "--custom-notice-button-hover": "var(--notice-text-positive)"
   },
   ".colorStreamerMode__6e2b9": {
-    "--custom-notice-background": "var(--twitch)",
+    "--custom-notice-background": "var(--platform-twitch)",
     "--custom-notice-text": "var(--white)",
-    "--custom-notice-button-hover": "var(--twitch)"
+    "--custom-notice-button-hover": "var(--platform-twitch)"
   },
   ".colorSpotify__6e2b9": {
-    "--custom-notice-background": "var(--spotify)",
+    "--custom-notice-background": "var(--platform-spotify)",
     "--custom-notice-text": "var(--white)",
-    "--custom-notice-button-hover": "var(--spotify)"
+    "--custom-notice-button-hover": "var(--platform-spotify)"
   },
   ".colorPlayStation__6e2b9": {
-    "--custom-notice-background": "var(--playstation)",
+    "--custom-notice-background": "var(--platform-playstation)",
     "--custom-notice-text": "var(--white)",
-    "--custom-notice-button-hover": "var(--playstation)"
+    "--custom-notice-button-hover": "var(--platform-playstation)"
   },
   ".colorBrand__6e2b9": {
     "--custom-notice-background": "var(--brand-500)",
@@ -6972,6 +6979,9 @@
     "--channel-icon": "var(--neutral-19)",
     "--channel-text-area-placeholder": "var(--neutral-25)",
     "--channels-default": "var(--neutral-19)",
+    "--chat-input-action-button-icon-default-tint": "var(--neutral-1)",
+    "--chat-input-action-icon-active-tint": "var(--brand-230)",
+    "--chat-input-icon-default-tint": "var(--neutral-2)",
     "--chat-text-muted": "var(--neutral-17)",
     "--checkbox-border-active": "var(--neutral-12)",
     "--checkbox-border-default": "var(--neutral-1)",
@@ -7154,6 +7164,9 @@
     "--channel-icon": "var(--neutral-50)",
     "--channel-text-area-placeholder": "var(--neutral-39)",
     "--channels-default": "var(--neutral-50)",
+    "--chat-input-action-button-icon-default-tint": "var(--neutral-80)",
+    "--chat-input-action-icon-active-tint": "var(--brand-600)",
+    "--chat-input-icon-default-tint": "var(--neutral-64)",
     "--chat-text-muted": "var(--neutral-48)",
     "--checkbox-border-active": "var(--neutral-50)",
     "--checkbox-border-default": "var(--neutral-72)",
@@ -7336,6 +7349,9 @@
     "--channel-icon": "var(--neutral-29)",
     "--channel-text-area-placeholder": "var(--neutral-36)",
     "--channels-default": "var(--neutral-29)",
+    "--chat-input-action-button-icon-default-tint": "var(--neutral-6)",
+    "--chat-input-action-icon-active-tint": "var(--brand-345)",
+    "--chat-input-icon-default-tint": "var(--neutral-15)",
     "--chat-text-muted": "var(--neutral-28)",
     "--checkbox-border-active": "var(--neutral-24)",
     "--checkbox-border-default": "var(--neutral-10)",
@@ -7518,6 +7534,9 @@
     "--channel-icon": "var(--neutral-27)",
     "--channel-text-area-placeholder": "var(--neutral-33)",
     "--channels-default": "var(--neutral-27)",
+    "--chat-input-action-button-icon-default-tint": "var(--neutral-1)",
+    "--chat-input-action-icon-active-tint": "var(--brand-330)",
+    "--chat-input-icon-default-tint": "var(--neutral-10)",
     "--chat-text-muted": "var(--neutral-25)",
     "--checkbox-border-active": "var(--neutral-19)",
     "--checkbox-border-default": "var(--neutral-5)",
@@ -8279,8 +8298,11 @@
     "--mobile-channel-list-title-text-style": "heading-lg/semibold",
     "--mobile-channel-name-channel-border-width": "0px",
     "--mobile-channel-name-channel-icon-radius": "8px",
+    "--mobile-chat-input-action-button-gap": "8px",
     "--mobile-chat-input-action-button-margin": "0px",
     "--mobile-chat-input-action-button-size": "32px",
+    "--mobile-chat-input-action-icon-active-tint": "icon-strong",
+    "--mobile-chat-input-action-icon-pixel-size": "20px",
     "--mobile-chat-input-border-radius": "8px",
     "--mobile-chat-input-container-horizontal-padding": "16px",
     "--mobile-chat-input-expression-offset-left": "12px",
@@ -8290,7 +8312,11 @@
     "--mobile-chat-input-floating-scrim-gradient-height": "52px",
     "--mobile-chat-input-floating-scrim-offset-top": "24px",
     "--mobile-chat-input-floating-typing-padding-top": "20px",
+    "--mobile-chat-input-icon-default-tint": "interactive-icon-default",
     "--mobile-chat-input-icon-size": "small20",
+    "--mobile-chat-input-pill-border-width": "1px",
+    "--mobile-chat-input-pill-margin-horizontal": "8px",
+    "--mobile-chat-input-pill-padding": "0px",
     "--mobile-chat-input-space-bottom": "34px",
     "--mobile-coachmark-body-width": "240px",
     "--mobile-coachmark-button-spacing": "16px",
@@ -8365,7 +8391,8 @@
     "--mobile-voice-panel-disconnect-button-min-width": "64px",
     "--mobile-voice-panel-gutter": "16px",
     "--mobile-voice-panel-padding": "16px",
-    "--mobile-voice-tile-border-radius": "12px"
+    "--mobile-voice-tile-border-radius": "12px",
+    "--mobile-you-bar-border-radius": "16px"
   },
   ".guild-item-spacing": {
     "--mobile-guild-bar-item-margin": "6px"
@@ -8483,7 +8510,7 @@
     "--__spoiler-background-color--hidden": "var(--primary-760)",
     "--__spoiler-background-color--hidden--hover": "hsl(var(--primary-760-hsl)/0.8)"
   },
-  ".defaultProgress__68788": {
+  ".defaultProgressToPlayheadTheme__68788": {
     "--custom-timeline-fill-bg": "var(--white)",
     "--custom-timeline-glow-shadow": "0 0 27.8px 2px var(--white)"
   },
@@ -8553,29 +8580,6 @@
   },
   ".group-spacing-24 .groupStart__5126c": {
     "--custom-group-spacing-start": "1.5625rem"
-  },
-  ".widgetContainer__0ea1a": {
-    "--custom-container-gap": "var(--space-8)",
-    "--custom-text-placeholder-width": "15ch",
-    "--custom-widget-header-height": "24px",
-    "--custom-widget-container-padding-block": "var(--space-12)",
-    "--custom-widget-container-padding-inline": "var(--space-16)"
-  },
-  ".heroImageContainer__0ea1a": {
-    "--custom-peek-amount": "var(--space-8)",
-    "--custom-top-offset": "calc(var(--custom-widget-header-height)*-1 + var(--custom-widget-container-padding-block)*-1 + var(--custom-peek-amount)*-1)"
-  },
-  ".grid__0ea1a": {
-    "--custom-text-placeholder-width": "8ch"
-  },
-  ".extras__58ece": {
-    "--custom-offset": "0"
-  },
-  ".full-motion .extras__58ece": {
-    "--custom-offset": "6px"
-  },
-  ".tivNavItemIconContainer__4ccc5": {
-    "--custom-interactive-normal": "var(--interactive-normal)"
   },
   ".giftButton__82222": {
     "--button-outline-brand-text": "var(--brand-500)"
@@ -8652,6 +8656,29 @@
   ".container__80907": {
     "--custom-premium-home-max-width": "1200px",
     "--custom-content-width-with-padding": "calc(100% - 64px)"
+  },
+  ".widgetContainer__0ea1a": {
+    "--custom-container-gap": "var(--space-8)",
+    "--custom-text-placeholder-width": "15ch",
+    "--custom-widget-header-height": "24px",
+    "--custom-widget-container-padding-block": "var(--space-12)",
+    "--custom-widget-container-padding-inline": "var(--space-16)"
+  },
+  ".heroImageContainer__0ea1a": {
+    "--custom-peek-amount": "var(--space-8)",
+    "--custom-top-offset": "calc(var(--custom-widget-header-height)*-1 + var(--custom-widget-container-padding-block)*-1 + var(--custom-peek-amount)*-1)"
+  },
+  ".grid__0ea1a": {
+    "--custom-text-placeholder-width": "8ch"
+  },
+  ".extras__58ece": {
+    "--custom-offset": "0"
+  },
+  ".full-motion .extras__58ece": {
+    "--custom-offset": "6px"
+  },
+  ".tivNavItemIconContainer__4ccc5": {
+    "--custom-interactive-normal": "var(--interactive-normal)"
   },
   ".divider__6131a": {
     "--custom-divider-margin": "calc(var(--space-xxl) + var(--space-xs))"
@@ -8895,6 +8922,9 @@
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
+  },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
   },
@@ -8913,6 +8943,10 @@
     "--custom-timeline-glow-blend-mode": "soft-light",
     "--custom-timeline-glow-shadow": "-2px 0 14px 3px transparent,-5px 0 22px 0 transparent,0 0 27.8px 1px #fff"
   },
+  ".transcriptPanel__58e02": {
+    "--custom-transcript-top": "80px",
+    "--custom-transcript-bottom": "36px"
+  },
   ".gameProfileModal__8e830": {
     "--custom-spacing": "16px"
   },
@@ -8925,9 +8959,6 @@
   },
   ".inviteCardProfile__742a4": {
     "--custom-invite-banner-overlap": "32px"
-  },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".vc-membercount-widget": {
     "--color-online": "var(--green-360)",
