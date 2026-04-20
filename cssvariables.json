@@ -5393,64 +5393,6 @@
     "--custom-caret-offset-x": "0",
     "--custom-caret-offset-y": "0"
   },
-  ".root, [data-popout-root], :root": {
-    "--__spoiler-background-color--hidden": "var(--spoiler-hidden-background)",
-    "--__spoiler-background-color--hidden--hover": "var(--spoiler-hidden-background-hover)",
-    "--__spoiler-background-color--revealed": "var(--background-mod-subtle)",
-    "--__spoiler-text-color--hidden": "transparent",
-    "--__spoiler-warning-text-color": "var(--primary-200)",
-    "--__spoiler-warning-text-color--hover": "var(--white)",
-    "--__spoiler-warning-background-color": "var(--opacity-black-60)",
-    "--__spoiler-warning-background-color--hover": "var(--opacity-black-88)",
-    "--__spoiler-container-box-shadow-color": "var(--opacity-black-8)",
-    "--__obscured-background-blur-radius": "40px",
-    "--__obscured-background-brightness": "0.55"
-  },
-  ".enable-forced-colors.enable-forced-colors.enable-forced-colors": {
-    "--__spoiler-background-color--hidden": "ButtonFace",
-    "--__spoiler-background-color--hidden--hover": "ButtonFace",
-    "--__spoiler-background-color--revealed": "transparent",
-    "--__spoiler-text-color--hidden": "ButtonFace",
-    "--__spoiler-border-color--hidden": "CanvasText",
-    "--__spoiler-border-color--hidden--hover": "ButtonText",
-    "--__spoiler-border-color--revealed": "CanvasText",
-    "--__spoiler-warning-text-color": "CanvasText",
-    "--__spoiler-warning-text-color--hover": "CanvasText",
-    "--__spoiler-warning-background-color": "Canvas",
-    "--__spoiler-warning-background-color--hover": "Canvas",
-    "--__spoiler-container-box-shadow-color": "transparent"
-  },
-  ".spoilerContent__299eb": {
-    "--__current--spoiler-content-opacity": "1",
-    "--__current--spoiler-background-color": "var(--__spoiler-background-color--revealed)",
-    "--__current--spoiler-border-color": "var(--__spoiler-border-color--revealed)",
-    "--__current--spoiler-pointer-events": "all"
-  },
-  ".spoilerContent__299eb.hidden__299eb": {
-    "--__current--spoiler-content-opacity": "0",
-    "--__current--spoiler-text-color": "var(--__spoiler-text-color--hidden)",
-    "--__current--spoiler-background-color": "var(--__spoiler-background-color--hidden)",
-    "--__current--spoiler-border-color": "var(--__spoiler-border-color--hidden)",
-    "--__current--spoiler-pointer-events": "none",
-    "--__current--spoiler-warning-text-color": "var(--__spoiler-warning-text-color)",
-    "--__current--spoiler-warning-background-color": "var(--__spoiler-warning-background-color)"
-  },
-  ".spoilerContent__299eb.hidden__299eb:hover": {
-    "--__current--spoiler-background-color": "var(--__spoiler-background-color--hidden--hover)",
-    "--__current--spoiler-border-color": "var(--__spoiler-border-color--hidden--hover)",
-    "--__current--spoiler-warning-text-color": "var(--__spoiler-warning-text-color--hover)",
-    "--__current--spoiler-warning-background-color": "var(--__spoiler-warning-background-color--hover)"
-  },
-  ".spoilerContent__299eb.hidden__299eb.opaque__299eb": {
-    "--__obscured-background-brightness": "0",
-    "--__obscured-background-blur-radius": "500px"
-  },
-  ".spoilerContent__299eb.hidden__299eb.opaque__299eb:hover": {
-    "--__current--spoiler-background-color": "var(--__spoiler-background-color--hidden)",
-    "--__current--spoiler-border-color": "var(--__spoiler-border-color--hidden)",
-    "--__current--spoiler-warning-text-color": "var(--__spoiler-warning-text-color)",
-    "--__current--spoiler-warning-background-color": "var(--__spoiler-warning-background-color)"
-  },
   ".container_c9d15c.textXs_c9d15c": {
     "--custom-activity-status-icon-size": "12px",
     "--custom-activity-status-emoji-size": "14px"
@@ -5577,6 +5519,64 @@
   },
   ".keyboard-mode .stickerInspected_c6367b::before": {
     "--__adaptive-focus-color": "var(--interactive-text-hover)"
+  },
+  ".root, [data-popout-root], :root": {
+    "--__spoiler-background-color--hidden": "var(--spoiler-hidden-background)",
+    "--__spoiler-background-color--hidden--hover": "var(--spoiler-hidden-background-hover)",
+    "--__spoiler-background-color--revealed": "var(--background-mod-subtle)",
+    "--__spoiler-text-color--hidden": "transparent",
+    "--__spoiler-warning-text-color": "var(--primary-200)",
+    "--__spoiler-warning-text-color--hover": "var(--white)",
+    "--__spoiler-warning-background-color": "var(--opacity-black-60)",
+    "--__spoiler-warning-background-color--hover": "var(--opacity-black-88)",
+    "--__spoiler-container-box-shadow-color": "var(--opacity-black-8)",
+    "--__obscured-background-blur-radius": "40px",
+    "--__obscured-background-brightness": "0.55"
+  },
+  ".enable-forced-colors.enable-forced-colors.enable-forced-colors": {
+    "--__spoiler-background-color--hidden": "ButtonFace",
+    "--__spoiler-background-color--hidden--hover": "ButtonFace",
+    "--__spoiler-background-color--revealed": "transparent",
+    "--__spoiler-text-color--hidden": "ButtonFace",
+    "--__spoiler-border-color--hidden": "CanvasText",
+    "--__spoiler-border-color--hidden--hover": "ButtonText",
+    "--__spoiler-border-color--revealed": "CanvasText",
+    "--__spoiler-warning-text-color": "CanvasText",
+    "--__spoiler-warning-text-color--hover": "CanvasText",
+    "--__spoiler-warning-background-color": "Canvas",
+    "--__spoiler-warning-background-color--hover": "Canvas",
+    "--__spoiler-container-box-shadow-color": "transparent"
+  },
+  ".spoilerContent__299eb": {
+    "--__current--spoiler-content-opacity": "1",
+    "--__current--spoiler-background-color": "var(--__spoiler-background-color--revealed)",
+    "--__current--spoiler-border-color": "var(--__spoiler-border-color--revealed)",
+    "--__current--spoiler-pointer-events": "all"
+  },
+  ".spoilerContent__299eb.hidden__299eb": {
+    "--__current--spoiler-content-opacity": "0",
+    "--__current--spoiler-text-color": "var(--__spoiler-text-color--hidden)",
+    "--__current--spoiler-background-color": "var(--__spoiler-background-color--hidden)",
+    "--__current--spoiler-border-color": "var(--__spoiler-border-color--hidden)",
+    "--__current--spoiler-pointer-events": "none",
+    "--__current--spoiler-warning-text-color": "var(--__spoiler-warning-text-color)",
+    "--__current--spoiler-warning-background-color": "var(--__spoiler-warning-background-color)"
+  },
+  ".spoilerContent__299eb.hidden__299eb:hover": {
+    "--__current--spoiler-background-color": "var(--__spoiler-background-color--hidden--hover)",
+    "--__current--spoiler-border-color": "var(--__spoiler-border-color--hidden--hover)",
+    "--__current--spoiler-warning-text-color": "var(--__spoiler-warning-text-color--hover)",
+    "--__current--spoiler-warning-background-color": "var(--__spoiler-warning-background-color--hover)"
+  },
+  ".spoilerContent__299eb.hidden__299eb.opaque__299eb": {
+    "--__obscured-background-brightness": "0",
+    "--__obscured-background-blur-radius": "500px"
+  },
+  ".spoilerContent__299eb.hidden__299eb.opaque__299eb:hover": {
+    "--__current--spoiler-background-color": "var(--__spoiler-background-color--hidden)",
+    "--__current--spoiler-border-color": "var(--__spoiler-border-color--hidden)",
+    "--__current--spoiler-warning-text-color": "var(--__spoiler-warning-text-color)",
+    "--__current--spoiler-warning-background-color": "var(--__spoiler-warning-background-color)"
   },
   ".inlineContainer__74017": {
     "--custom-channel-textarea-text-area-height": "var(--form-input-height)"
@@ -8875,6 +8875,9 @@
   ".hero__50e07": {
     "--custom-hero-min-height": "150px"
   },
+  ".grid__1b670": {
+    "--custom-product-card-min-width": "0"
+  },
   ".container__4d61a": {
     "--countdown-color": "var(--background-accent)"
   },
@@ -8922,8 +8925,12 @@
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
+  ".gameProfileModal__8e830": {
+    "--custom-spacing": "16px"
+  },
+  ".container__81040": {
+    "--custom-spacing": "12px",
+    "--custom-compact-bar-height": "56px"
   },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
@@ -8947,12 +8954,8 @@
     "--custom-transcript-top": "80px",
     "--custom-transcript-bottom": "36px"
   },
-  ".gameProfileModal__8e830": {
-    "--custom-spacing": "16px"
-  },
-  ".container__81040": {
-    "--custom-spacing": "12px",
-    "--custom-compact-bar-height": "56px"
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".splashBackground__742a4": {
     "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
