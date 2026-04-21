@@ -11636,8 +11636,6 @@
   },
   "447349": {
     "popoutContainer": "popoutContainer_ce8328",
-    "profileFrameMargin": "profileFrameMargin_ce8328",
-    "profileFrameBottomMargin": "profileFrameBottomMargin_ce8328",
     "body": "body_ce8328",
     "menus": "menus_ce8328",
     "menuOverlay": "menuOverlay_ce8328",
@@ -15526,6 +15524,19 @@
     "footer": "footer__75b62",
     "footerInner": "footerInner__75b62"
   },
+  "578673": {
+    "optionCard": "optionCard__95f94",
+    "optionCardIcon": "optionCardIcon__95f94",
+    "optionCardContent": "optionCardContent__95f94",
+    "optionCardArrow": "optionCardArrow__95f94",
+    "profileForm": "profileForm__95f94",
+    "avatarUpload": "avatarUpload__95f94",
+    "avatarUploadButton": "avatarUploadButton__95f94",
+    "avatarUploadImage": "avatarUploadImage__95f94",
+    "avatarUploadPlaceholder": "avatarUploadPlaceholder__95f94",
+    "avatarUploadOverlay": "avatarUploadOverlay__95f94",
+    "densityOption": "densityOption__95f94"
+  },
   "578758": {
     "tile": "tile_fdc206"
   },
@@ -18845,8 +18856,8 @@
     "recentAvatarList": "recentAvatarList__1df30",
     "recentAvatarButtonContainer": "recentAvatarButtonContainer__1df30",
     "recentAvatarButton": "recentAvatarButton__1df30 circular__1df30",
-    "deleteButton": "deleteButton__1df30",
     "recentAvatar": "recentAvatar__1df30 circular__1df30",
+    "deleteButton": "deleteButton__1df30",
     "deleteIcon": "deleteIcon__1df30",
     "emptyAvatarSlots": "emptyAvatarSlots__1df30",
     "avatarPlaceholder": "avatarPlaceholder__1df30 circular__1df30"
@@ -18887,8 +18898,8 @@
     "control": "control__5a838",
     "helperTextContainer": "helperTextContainer__5a838",
     "description": "description__5a838",
-    "icon": "icon__5a838",
     "label": "label__5a838",
+    "icon": "icon__5a838",
     "required": "required__5a838",
     "slideDown": "slideDown__5a838",
     "statusMessageContainer": "statusMessageContainer__5a838",
@@ -20761,14 +20772,14 @@
   },
   "797525": {
     "copyInput": "copyInput_fffc15",
+    "inputWrapper": "inputWrapper_fffc15",
+    "input": "input_fffc15",
     "copyInputDefault": "copyInputDefault_fffc15 copyInput_fffc15",
     "copyInputError": "copyInputError_fffc15 copyInput_fffc15",
     "copyInputSuccess": "copyInputSuccess_fffc15 copyInput_fffc15",
     "layout": "layout_fffc15",
-    "inputWrapper": "inputWrapper_fffc15",
     "button": "button_fffc15",
     "hiddenMessage": "hiddenMessage_fffc15",
-    "input": "input_fffc15",
     "inputDefault": "inputDefault_fffc15 input_fffc15",
     "inputError": "inputError_fffc15 input_fffc15",
     "inputSuccess": "inputSuccess_fffc15 input_fffc15",
