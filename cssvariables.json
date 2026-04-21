@@ -18,9 +18,9 @@
     "--custom-user-profile-toast-z-index": "5",
     "--custom-app-launcher-sticky-header-height": "66px",
     "--custom-app-launcher-container-border-radius": "var(--radius-sm)",
-    "--custom-profile-frame-overflow-top": "77px",
-    "--custom-profile-frame-overflow-bottom": "53px",
-    "--custom-profile-frame-overflow-left": "12px",
+    "--custom-profile-frame-overflow-top": "77",
+    "--custom-profile-frame-overflow-bottom": "53",
+    "--custom-profile-frame-overflow-left": "12",
     "--custom-profile-frame-popout-width": "332",
     "--custom-paginator-round-button-size": "28px",
     "--legacy-elevation-low": "0 1px 5px var(--opacity-black-20)",
@@ -3548,6 +3548,7 @@
     "--mobile-channel-list-title-text-style": "redesign/heading-18/bold",
     "--mobile-channel-name-channel-border-width": "1px",
     "--mobile-channel-name-channel-icon-radius": "12px",
+    "--mobile-channel-safe-area-bottom-background": "background-base-low",
     "--mobile-chat-input-action-button-gap": "0px",
     "--mobile-chat-input-action-button-margin": "4px",
     "--mobile-chat-input-action-button-size": "40px",
@@ -4316,6 +4317,7 @@
     "--button-outline-brand-border-active": "var(--brand-560)",
     "--button-outline-primary-text": "var(--white)",
     "--card-background-default": "var(--neutral-64)",
+    "--card-border-default": "hsl(var(--opacity-12-hsl)/0.12156862745098039)",
     "--card-primary-pressed-bg": "var(--primary-645)",
     "--card-secondary-bg": "hsl(var(--opacity-8-hsl)/0.0784313725490196)",
     "--card-secondary-pressed-bg": "var(--primary-645)",
@@ -4858,6 +4860,7 @@
     "--button-outline-brand-border-active": "var(--brand-560)",
     "--button-outline-primary-text": "var(--black)",
     "--card-background-default": "var(--neutral-1)",
+    "--card-border-default": "hsl(var(--opacity-28-hsl)/0.2784313725490196)",
     "--card-primary-pressed-bg": "var(--primary-160)",
     "--card-secondary-bg": "hsl(var(--opacity-12-hsl)/0.12156862745098039)",
     "--card-secondary-pressed-bg": "var(--primary-160)",
@@ -5443,12 +5446,12 @@
     "--custom-modal-v2-gutter": "var(--space-32)",
     "--custom-modal-v2-tabpanel-scrollbar-offset": "var(--space-16)",
     "--custom-modal-profile-card-padding": "var(--space-32)",
-    "--custom-profile-frame-overflow-left": "16px"
+    "--custom-profile-frame-overflow-left": "16"
   },
   ":root .user-profile-sidebar": {
     "--custom-user-profile-banner-height": "120px",
     "--custom-user-profile-footer-height": "44px",
-    "--custom-profile-frame-overflow-left": "16px"
+    "--custom-profile-frame-overflow-left": "16"
   },
   ":root .custom-user-profile-theme.user-profile-modal, :root .custom-user-profile-theme.user-profile-popout": {
     "--custom-user-profile-theme-padding": "4px"
@@ -5697,6 +5700,9 @@
   },
   ":root .theme-light": {
     "--custom-profile-frame-drop-shadow-opacity": "0.13"
+  },
+  ".user-profile-modal-v2 .profileFrame__7d80f": {
+    "--custom-modal-v2-padding-block-start": "calc(var(--custom-modal-v2-padding) + max(var(--custom-modal-v2-system-bar-padding), var(--custom-modal-v2-private-banner-height)))"
   },
   ".container_ceece4": {
     "--custom-payment-element-min-height": "430px"
@@ -5962,6 +5968,7 @@
     "--button-outline-brand-border-active": "var(--brand-560)",
     "--button-outline-primary-text": "var(--white)",
     "--card-background-default": "var(--neutral-91)",
+    "--card-border-default": "hsl(var(--opacity-20-hsl)/0.2)",
     "--card-primary-pressed-bg": "var(--plum-25)",
     "--card-secondary-bg": "hsl(var(--opacity-12-hsl)/0.12156862745098039)",
     "--card-secondary-pressed-bg": "var(--plum-26)",
@@ -6471,6 +6478,7 @@
     "--button-outline-brand-border-active": "var(--brand-560)",
     "--button-outline-primary-text": "var(--white)",
     "--card-background-default": "var(--neutral-79)",
+    "--card-border-default": "hsl(var(--opacity-12-hsl)/0.12156862745098039)",
     "--card-primary-pressed-bg": "var(--plum-19)",
     "--card-secondary-bg": "hsl(var(--opacity-8-hsl)/0.0784313725490196)",
     "--card-secondary-pressed-bg": "var(--plum-21)",
@@ -6975,6 +6983,7 @@
     "--border-normal": "var(--neutral-5)",
     "--border-strong": "var(--neutral-1)",
     "--border-subtle": "var(--neutral-12)",
+    "--card-border-default": "var(--neutral-12)",
     "--card-secondary-bg": "hsl(var(--opacity-12-hsl)/0.12156862745098039)",
     "--channel-icon": "var(--neutral-19)",
     "--channel-text-area-placeholder": "var(--neutral-25)",
@@ -7160,6 +7169,7 @@
     "--border-normal": "var(--neutral-59)",
     "--border-strong": "var(--neutral-72)",
     "--border-subtle": "var(--neutral-50)",
+    "--card-border-default": "var(--neutral-50)",
     "--card-secondary-bg": "hsl(var(--opacity-16-hsl)/0.1607843137254902)",
     "--channel-icon": "var(--neutral-50)",
     "--channel-text-area-placeholder": "var(--neutral-39)",
@@ -7345,6 +7355,7 @@
     "--border-normal": "var(--neutral-18)",
     "--border-strong": "var(--neutral-10)",
     "--border-subtle": "var(--neutral-24)",
+    "--card-border-default": "var(--neutral-24)",
     "--card-secondary-bg": "hsl(var(--opacity-16-hsl)/0.1607843137254902)",
     "--channel-icon": "var(--neutral-29)",
     "--channel-text-area-placeholder": "var(--neutral-36)",
@@ -7530,6 +7541,7 @@
     "--border-normal": "var(--neutral-13)",
     "--border-strong": "var(--neutral-5)",
     "--border-subtle": "var(--neutral-19)",
+    "--card-border-default": "var(--neutral-19)",
     "--card-secondary-bg": "hsl(var(--opacity-12-hsl)/0.12156862745098039)",
     "--channel-icon": "var(--neutral-27)",
     "--channel-text-area-placeholder": "var(--neutral-33)",
@@ -8298,6 +8310,7 @@
     "--mobile-channel-list-title-text-style": "heading-lg/semibold",
     "--mobile-channel-name-channel-border-width": "0px",
     "--mobile-channel-name-channel-icon-radius": "8px",
+    "--mobile-channel-safe-area-bottom-background": "background-base-lower",
     "--mobile-chat-input-action-button-gap": "8px",
     "--mobile-chat-input-action-button-margin": "0px",
     "--mobile-chat-input-action-button-size": "32px",
@@ -8925,6 +8938,13 @@
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
+  ".gameProfileModal__8e830": {
+    "--custom-spacing": "16px"
+  },
+  ".container__81040": {
+    "--custom-spacing": "12px",
+    "--custom-compact-bar-height": "56px"
+  },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
   },
@@ -8947,21 +8967,14 @@
     "--custom-transcript-top": "80px",
     "--custom-transcript-bottom": "36px"
   },
-  ".gameProfileModal__8e830": {
-    "--custom-spacing": "16px"
-  },
-  ".container__81040": {
-    "--custom-spacing": "12px",
-    "--custom-compact-bar-height": "56px"
-  },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
-  },
   ".splashBackground__742a4": {
     "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
   },
   ".inviteCardProfile__742a4": {
     "--custom-invite-banner-overlap": "32px"
+  },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".vc-membercount-widget": {
     "--color-online": "var(--green-360)",
