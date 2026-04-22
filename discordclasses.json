@@ -8132,6 +8132,13 @@
     "cardDisabled": "cardDisabled_f44397",
     "cardSmall": "cardSmall_f44397"
   },
+  "325126": {
+    "panel": "panel_e1e351",
+    "card": "card_e1e351",
+    "container": "container_e1e351",
+    "rewardContent": "rewardContent_e1e351",
+    "rewardImage": "rewardImage_e1e351"
+  },
   "325409": {
     "profileFrame": "profileFrame__7d80f",
     "profileFrameLayer": "profileFrameLayer__7d80f",
