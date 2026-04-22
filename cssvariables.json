@@ -3654,6 +3654,9 @@
     "--mobile-user-row-label-line-height-android": "16px",
     "--mobile-user-row-label-line-height-ios": "22px",
     "--mobile-voice-channel-user-limit-border-width": "0px",
+    "--mobile-voice-message-duration-line-height-android": "14px",
+    "--mobile-voice-message-duration-line-height-ios": "17px",
+    "--mobile-voice-message-duration-text-style": "text-sm/semibold",
     "--mobile-voice-panel-controls-border-radius": "32px",
     "--mobile-voice-panel-controls-padding": "16px",
     "--mobile-voice-panel-disconnect-button-min-width": "0px",
@@ -8399,6 +8402,9 @@
     "--mobile-user-profile-about-me-heading-text-style": "text-md/medium",
     "--mobile-user-row-label-line-height-ios": "20px",
     "--mobile-voice-channel-user-limit-border-width": "1px",
+    "--mobile-voice-message-duration-line-height-android": "9px",
+    "--mobile-voice-message-duration-line-height-ios": "12px",
+    "--mobile-voice-message-duration-text-style": "text-xs/semibold",
     "--mobile-voice-panel-controls-border-radius": "16px",
     "--mobile-voice-panel-controls-padding": "4px",
     "--mobile-voice-panel-disconnect-button-min-width": "64px",
@@ -8885,11 +8891,11 @@
   ".layers__160d8": {
     "--devtools-sidebar-width": "0"
   },
-  ".hero__50e07": {
-    "--custom-hero-min-height": "150px"
-  },
   ".grid__1b670": {
     "--custom-product-card-min-width": "0"
+  },
+  ".hero__22de7": {
+    "--custom-hero-min-height": "150px"
   },
   ".container__4d61a": {
     "--countdown-color": "var(--background-accent)"
@@ -8938,13 +8944,6 @@
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
-  ".gameProfileModal__8e830": {
-    "--custom-spacing": "16px"
-  },
-  ".container__81040": {
-    "--custom-spacing": "12px",
-    "--custom-compact-bar-height": "56px"
-  },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
   },
@@ -8967,14 +8966,21 @@
     "--custom-transcript-top": "80px",
     "--custom-transcript-bottom": "36px"
   },
+  ".gameProfileModal__8e830": {
+    "--custom-spacing": "16px"
+  },
+  ".container__81040": {
+    "--custom-spacing": "12px",
+    "--custom-compact-bar-height": "56px"
+  },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
+  },
   ".splashBackground__742a4": {
     "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
   },
   ".inviteCardProfile__742a4": {
     "--custom-invite-banner-overlap": "32px"
-  },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".vc-membercount-widget": {
     "--color-online": "var(--green-360)",
