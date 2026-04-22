@@ -8444,9 +8444,6 @@
   ".group-spacing-24 .groupStart__5126c": {
     "--custom-group-spacing-start": "1.5625rem"
   },
-  ".giftButton__82222": {
-    "--button-outline-brand-text": "var(--brand-500)"
-  },
   ".theme-light .progressContainer__0fd7d.blue__0fd7d": {
     "--custom-gradient-start": "var(--blurple-80)",
     "--custom-gradient-end": "var(--blurple-38)",
@@ -8501,8 +8498,8 @@
   ".progress__0fd7d": {
     "--custom-min-width": "10px"
   },
-  ".copyIconButton_e99fef": {
-    "--control-icon-only-icon-default": "var(--text-strong)"
+  ".giftButton__82222": {
+    "--button-outline-brand-text": "var(--brand-500)"
   },
   ".cardContainer__5b393": {
     "--custom-bezier": "cubic-bezier(0.36,0.35,0.1,1.23)"
@@ -8512,6 +8509,9 @@
     "--custom-fallback-bg": "transparent",
     "--custom-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 20%,var(--__card-accent-color) 15%)",
     "--custom-hover-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 25%,var(--__card-accent-color) 20%)"
+  },
+  ".copyIconButton_e99fef": {
+    "--control-icon-only-icon-default": "var(--text-strong)"
   },
   ".container_e42096": {
     "--custom-edge-fade-width": "0"
@@ -8929,9 +8929,6 @@
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
-  ".thumbnailContainer_faa96b": {
-    "--__post-thumbnail-size": "72px"
-  },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
   },
@@ -8953,6 +8950,9 @@
   ".transcriptPanel__58e02": {
     "--custom-transcript-top": "80px",
     "--custom-transcript-bottom": "36px"
+  },
+  ".thumbnailContainer_faa96b": {
+    "--__post-thumbnail-size": "72px"
   },
   ".rowDivider_ccbbbb, .rowIconPlaceholder_ccbbbb": {
     "--custom-row-icon-size": "40px"
@@ -9016,14 +9016,14 @@
     "--custom-spacing": "12px",
     "--custom-compact-bar-height": "56px"
   },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
+  },
   ".splashBackground__742a4": {
     "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
   },
   ".inviteCardProfile__742a4": {
     "--custom-invite-banner-overlap": "32px"
-  },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".vc-membercount-widget": {
     "--color-online": "var(--green-360)",

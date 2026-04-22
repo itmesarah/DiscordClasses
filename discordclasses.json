@@ -847,9 +847,6 @@
     "tooltip": "tooltip_e29cd7",
     "verifiedRoleIcon": "verifiedRoleIcon_e29cd7"
   },
-  "30183": {
-    "innerPanel": "innerPanel_fc5fb8"
-  },
   "30186": {
     "pill": "pill__1f388",
     "downloadProgress": "downloadProgress__1f388",
@@ -1144,6 +1141,12 @@
     "viewersIcon": "viewersIcon_d6b206",
     "memberListItem": "memberListItem_d6b206",
     "popoutDisabled": "popoutDisabled_d6b206"
+  },
+  "36934": {
+    "innerPanel": "innerPanel__4f62d",
+    "progressItem": "progressItem__4f62d",
+    "progressSuccess": "progressSuccess__4f62d",
+    "progressFail": "progressFail__4f62d"
   },
   "37256": {
     "errorCodeMessage": "errorCodeMessage__85414"
@@ -9582,6 +9585,11 @@
     "inExpressionPicker": "inExpressionPicker__09f65",
     "fetching": "fetching__09f65"
   },
+  "367791": {
+    "bannerRow": "bannerRow__35bfd",
+    "gridAfterLead": "gridAfterLead__35bfd",
+    "headingTextStart": "headingTextStart__35bfd"
+  },
   "368774": {
     "container": "container_b5b7aa",
     "positionContentOverBackground": "positionContentOverBackground_b5b7aa",
@@ -14385,6 +14393,9 @@
   "533051": {
     "fullbleedContent": "fullbleedContent__49d5b"
   },
+  "533873": {
+    "container": "container__907e2"
+  },
   "534472": {
     "labelValueRow": "labelValueRow__2e5ea"
   },
@@ -15417,6 +15428,9 @@
     "categoryText": "categoryText_c0860a",
     "categoryName": "categoryName_c0860a"
   },
+  "573908": {
+    "innerPanel": "innerPanel__2ed89"
+  },
   "574173": {
     "upsellOverlayContainer": "upsellOverlayContainer__0f7dc",
     "upsellOverlay": "upsellOverlay__0f7dc",
@@ -15911,9 +15925,6 @@
     "reaction": "reaction_db5301",
     "reactionEmote": "reactionEmote_db5301",
     "dot": "dot_db5301"
-  },
-  "594581": {
-    "heading": "heading__9acd0 heading__3af27"
   },
   "595151": {
     "giftOptionContainer": "giftOptionContainer__39090",
