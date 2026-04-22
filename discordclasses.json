@@ -4924,6 +4924,19 @@
     "critical": "critical__7a01b",
     "button": "button__7a01b"
   },
+  "198183": {
+    "container": "container__5e1e2",
+    "header": "header__5e1e2",
+    "channelInfo": "channelInfo__5e1e2",
+    "channelIcon": "channelIcon__5e1e2",
+    "channelName": "channelName__5e1e2",
+    "memberListWrapper": "memberListWrapper__5e1e2",
+    "memberList": "memberList__5e1e2",
+    "scrollGradient": "scrollGradient__5e1e2",
+    "emptyState": "emptyState__5e1e2",
+    "voiceUserRow": "voiceUserRow__5e1e2",
+    "joinButtonRegion": "joinButtonRegion__5e1e2"
+  },
   "198647": {
     "container": "container_e176e1",
     "cardGrid": "cardGrid_e176e1",
@@ -16892,7 +16905,6 @@
     "canRemove": "canRemove_eaaeee",
     "actionButton": "actionButton_eaaeee",
     "backgroundContainer": "backgroundContainer_eaaeee",
-    "containerPadding": "containerPadding_eaaeee",
     "compactContainer": "compactContainer_eaaeee",
     "compactTitle": "compactTitle_eaaeee",
     "dragContainer": "dragContainer_eaaeee",
@@ -16901,10 +16913,7 @@
     "dropHovered": "dropHovered_eaaeee",
     "title": "title_eaaeee",
     "containerTitle": "containerTitle_eaaeee title_eaaeee",
-    "clickable": "clickable_eaaeee",
     "fieldPadding": "fieldPadding_eaaeee",
-    "fieldFooterContainer": "fieldFooterContainer_eaaeee",
-    "termsFieldCaretIcon": "termsFieldCaretIcon_eaaeee",
     "typeTag": "typeTag_eaaeee"
   },
   "637744": {
@@ -24986,9 +24995,8 @@
     "backIcon": "backIcon_aa7162",
     "frame": "frame_aa7162",
     "frameRounded": "frameRounded_aa7162",
-    "frameSquircle": "frameSquircle_aa7162",
-    "squircleFrameInner": "squircleFrameInner_aa7162",
-    "iconContent": "iconContent_aa7162"
+    "squircleIconWrapper": "squircleIconWrapper_aa7162",
+    "squircleBorder": "squircleBorder_aa7162"
   },
   "959495": {
     "pill": "pill_c9fddf",
