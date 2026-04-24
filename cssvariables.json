@@ -5358,8 +5358,6 @@
     "--emojiInputHorizontalPadding": "8px",
     "--custom-premium-marketing-hero-heading-padding-top": "120px",
     "--custom-bg-surface-overlay": "rgba(33,34,41,.8)",
-    "--custom-forum-post-form-padding": "var(--space-8)",
-    "--custom-forum-post-form-control-size": "40px",
     "--arb-bg-light": "#fff",
     "--arb-fg-light": "#1f2328",
     "--arb-at-light": "#0550ae",
@@ -5499,6 +5497,8 @@
     "--custom-zindex-emoji-studio-bottom": "1",
     "--custom-app-launcher-sticky-header-height": "66px",
     "--custom-app-launcher-container-border-radius": "var(--radius-sm)",
+    "--custom-forum-post-form-padding": "var(--space-8)",
+    "--custom-forum-post-form-control-size": "40px",
     "--os-accent-color": "#d47800ff"
   },
   ".caret__5bc6a": {
@@ -9325,14 +9325,14 @@
   ".custom-user-profile-theme .tabBarItem__37bfc": {
     "--selected-tab-item-color": "var(--text-strong)"
   },
-  ".thumbnailContainer_faa96b": {
-    "--__post-thumbnail-size": "72px"
+  ".modal_e44912": {
+    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
+  },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".voters__01c8c": {
     "--custom-list-scrollbar-top-padding": "12px"
-  },
-  ".modal_e44912": {
-    "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
   },
   ".modalContainer__578ba": {
     "--custom-gallery-panel-width": "340px",
@@ -9357,6 +9357,9 @@
   },
   ".container_cf0b5e": {
     "--__trimmer-height": "72px"
+  },
+  ".thumbnailContainer_faa96b": {
+    "--__post-thumbnail-size": "72px"
   },
   ".rowDivider_ccbbbb, .rowIconPlaceholder_ccbbbb": {
     "--custom-row-icon-size": "40px"
@@ -9428,9 +9431,6 @@
   },
   ".inviteCardProfile__742a4": {
     "--custom-invite-banner-overlap": "32px"
-  },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".vc-membercount-widget": {
     "--color-online": "var(--green-360)",
