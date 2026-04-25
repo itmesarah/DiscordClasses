@@ -2891,9 +2891,6 @@
   "106531": {
     "spinner": "spinner__9ae4f"
   },
-  "106878": {
-    "addWidgetButton": "addWidgetButton__97442"
-  },
   "107261": {
     "textArea": "textArea_d19bc9",
     "textAreaInner": "textAreaInner_d19bc9"
@@ -3092,11 +3089,6 @@
     "avatarDecoContainer": "avatarDecoContainer__7d30a",
     "avatarDeco": "avatarDeco__7d30a",
     "avatarDecoImage": "avatarDecoImage__7d30a"
-  },
-  "113636": {
-    "header": "header_d55719",
-    "loading": "loading_d55719",
-    "upsellContainer": "upsellContainer_d55719"
   },
   "113697": {
     "label": "label__27da5",
@@ -11448,6 +11440,9 @@
     "footer": "footer_bb3ce8",
     "buttonGroup": "buttonGroup_bb3ce8"
   },
+  "437032": {
+    "trigger": "trigger__0467d"
+  },
   "437326": {
     "container": "container__1dc40",
     "thumbnailContainer": "thumbnailContainer__1dc40",
@@ -19206,7 +19201,8 @@
     "faded": "faded__00f8b",
     "fullPreview": "fullPreview__00f8b",
     "productPreviewIconOverlay": "productPreviewIconOverlay__00f8b",
-    "hidden": "hidden__00f8b"
+    "hidden": "hidden__00f8b",
+    "profileFramePreview": "profileFramePreview__00f8b"
   },
   "721940": {
     "container": "container_de2e28",

@@ -5504,9 +5504,6 @@
     "--custom-app-launcher-container-border-radius": "var(--radius-sm)",
     "--custom-forum-post-form-padding": "var(--space-8)",
     "--custom-forum-post-form-control-size": "40px",
-    "--placeholder": "url(https://itmesarah.github.io/placeholder.avif)",
-    "--roles-roundness": "0",
-    "--roles-roundness-calc": "calc((var(--roles-roundness) + .21) * 25q)",
     "--os-accent-color": "#d47800ff"
   },
   ".caret__5bc6a": {
@@ -8262,44 +8259,44 @@
     "--font-display-marketing-header": "\"ABC Ginto Nord Discord\",\"gg sans\",serif,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
   },
   ":root:lang(ko)": {
-    "--font-primary": "\"gg sans\",\"Apple SD Gothic Neo\",NanumBarunGothic,\"ë§‘ì€ ê³ ë”•\",\"Malgun Gothic\",Gulim,êµ´ë¦¼,Dotum,ë‹ì›€,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display": "\"gg sans\",\"Apple SD Gothic Neo\",NanumBarunGothic,\"ë§‘ì€ ê³ ë”•\",\"Malgun Gothic\",Gulim,êµ´ë¦¼,Dotum,ë‹ì›€,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-headline": "\"ABC Ginto Nord\",\"Apple SD Gothic Neo\",NanumBarunGothic,\"ë§‘ì€ ê³ ë”•\",\"Malgun Gothic\",Gulim,êµ´ë¦¼,Dotum,ë‹ì›€,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-primary": "\"gg sans\",\"Apple SD Gothic Neo\",NanumBarunGothic,\"맑은 고딕\",\"Malgun Gothic\",Gulim,굴림,Dotum,돋움,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display": "\"gg sans\",\"Apple SD Gothic Neo\",NanumBarunGothic,\"맑은 고딕\",\"Malgun Gothic\",Gulim,굴림,Dotum,돋움,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-headline": "\"ABC Ginto Nord\",\"Apple SD Gothic Neo\",NanumBarunGothic,\"맑은 고딕\",\"Malgun Gothic\",Gulim,굴림,Dotum,돋움,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
     "--font-code": "\"gg mono\",\"Source Code Pro\",Consolas,\"Andale Mono WT\",\"Andale Mono\",\"Lucida Console\",\"Lucida Sans Typewriter\",\"DejaVu Sans Mono\",\"Bitstream Vera Sans Mono\",\"Liberation Mono\",\"Nimbus Mono L\",Monaco,\"Courier New\",Courier,monospace",
-    "--font-clan-body": "Fraunces,\"gg sans\",serif,\"Apple SD Gothic Neo\",NanumBarunGothic,\"ë§‘ì€ ê³ ë”•\",\"Malgun Gothic\",Gulim,êµ´ë¦¼,Dotum,ë‹ì›€,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-clan-signature": "Corinthia,\"gg sans\",cursive,\"Apple SD Gothic Neo\",NanumBarunGothic,\"ë§‘ì€ ê³ ë”•\",\"Malgun Gothic\",Gulim,êµ´ë¦¼,Dotum,ë‹ì›€,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display-marketing": "\"ABC Ginto Discord\",\"gg sans\",serif,\"Apple SD Gothic Neo\",NanumBarunGothic,\"ë§‘ì€ ê³ ë”•\",\"Malgun Gothic\",Gulim,êµ´ë¦¼,Dotum,ë‹ì›€,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display-marketing-header": "\"ABC Ginto Nord Discord\",\"gg sans\",serif,\"Apple SD Gothic Neo\",NanumBarunGothic,\"ë§‘ì€ ê³ ë”•\",\"Malgun Gothic\",Gulim,êµ´ë¦¼,Dotum,ë‹ì›€,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
+    "--font-clan-body": "Fraunces,\"gg sans\",serif,\"Apple SD Gothic Neo\",NanumBarunGothic,\"맑은 고딕\",\"Malgun Gothic\",Gulim,굴림,Dotum,돋움,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-clan-signature": "Corinthia,\"gg sans\",cursive,\"Apple SD Gothic Neo\",NanumBarunGothic,\"맑은 고딕\",\"Malgun Gothic\",Gulim,굴림,Dotum,돋움,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display-marketing": "\"ABC Ginto Discord\",\"gg sans\",serif,\"Apple SD Gothic Neo\",NanumBarunGothic,\"맑은 고딕\",\"Malgun Gothic\",Gulim,굴림,Dotum,돋움,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display-marketing-header": "\"ABC Ginto Nord Discord\",\"gg sans\",serif,\"Apple SD Gothic Neo\",NanumBarunGothic,\"맑은 고딕\",\"Malgun Gothic\",Gulim,굴림,Dotum,돋움,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
   },
   ":root:lang(ja)": {
-    "--font-primary": "\"gg sans\",\"Hiragino Sans\",\"ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3\",\"Hiragino Kaku Gothic ProN\",ãƒ¡ã‚¤ãƒªã‚ª,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display": "\"gg sans\",\"Hiragino Sans\",\"ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3\",\"Hiragino Kaku Gothic ProN\",ãƒ¡ã‚¤ãƒªã‚ª,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-headline": "\"ABC Ginto Nord\",\"Hiragino Sans\",\"ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3\",\"Hiragino Kaku Gothic ProN\",ãƒ¡ã‚¤ãƒªã‚ª,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-primary": "\"gg sans\",\"Hiragino Sans\",\"ヒラギノ角ゴ ProN W3\",\"Hiragino Kaku Gothic ProN\",メイリオ,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display": "\"gg sans\",\"Hiragino Sans\",\"ヒラギノ角ゴ ProN W3\",\"Hiragino Kaku Gothic ProN\",メイリオ,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-headline": "\"ABC Ginto Nord\",\"Hiragino Sans\",\"ヒラギノ角ゴ ProN W3\",\"Hiragino Kaku Gothic ProN\",メイリオ,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
     "--font-code": "\"gg mono\",\"Source Code Pro\",Consolas,\"Andale Mono WT\",\"Andale Mono\",\"Lucida Console\",\"Lucida Sans Typewriter\",\"DejaVu Sans Mono\",\"Bitstream Vera Sans Mono\",\"Liberation Mono\",\"Nimbus Mono L\",Monaco,\"Courier New\",Courier,monospace",
-    "--font-clan-body": "Fraunces,\"gg sans\",serif,\"Hiragino Sans\",\"ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3\",\"Hiragino Kaku Gothic ProN\",ãƒ¡ã‚¤ãƒªã‚ª,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-clan-signature": "Corinthia,\"gg sans\",cursive,\"Hiragino Sans\",\"ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3\",\"Hiragino Kaku Gothic ProN\",ãƒ¡ã‚¤ãƒªã‚ª,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display-marketing": "\"ABC Ginto Discord\",\"gg sans\",serif,\"Hiragino Sans\",\"ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3\",\"Hiragino Kaku Gothic ProN\",ãƒ¡ã‚¤ãƒªã‚ª,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display-marketing-header": "\"ABC Ginto Nord Discord\",\"gg sans\",serif,\"Hiragino Sans\",\"ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3\",\"Hiragino Kaku Gothic ProN\",ãƒ¡ã‚¤ãƒªã‚ª,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
+    "--font-clan-body": "Fraunces,\"gg sans\",serif,\"Hiragino Sans\",\"ヒラギノ角ゴ ProN W3\",\"Hiragino Kaku Gothic ProN\",メイリオ,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-clan-signature": "Corinthia,\"gg sans\",cursive,\"Hiragino Sans\",\"ヒラギノ角ゴ ProN W3\",\"Hiragino Kaku Gothic ProN\",メイリオ,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display-marketing": "\"ABC Ginto Discord\",\"gg sans\",serif,\"Hiragino Sans\",\"ヒラギノ角ゴ ProN W3\",\"Hiragino Kaku Gothic ProN\",メイリオ,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display-marketing-header": "\"ABC Ginto Nord Discord\",\"gg sans\",serif,\"Hiragino Sans\",\"ヒラギノ角ゴ ProN W3\",\"Hiragino Kaku Gothic ProN\",メイリオ,Meiryo,Osaka,\"MS PGothic\",\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
   },
   ":root:lang(zh-CN)": {
-    "--font-primary": "\"gg sans\",\"Microsoft YaHei New\",å¾®è½¯é›…é»‘,\"Microsoft Yahei\",\"Microsoft JhengHei\",å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display": "\"gg sans\",\"Microsoft YaHei New\",å¾®è½¯é›…é»‘,\"Microsoft Yahei\",\"Microsoft JhengHei\",å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-headline": "\"ABC Ginto Nord\",\"Microsoft YaHei New\",å¾®è½¯é›…é»‘,\"Microsoft Yahei\",\"Microsoft JhengHei\",å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-primary": "\"gg sans\",\"Microsoft YaHei New\",微软雅黑,\"Microsoft Yahei\",\"Microsoft JhengHei\",宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display": "\"gg sans\",\"Microsoft YaHei New\",微软雅黑,\"Microsoft Yahei\",\"Microsoft JhengHei\",宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-headline": "\"ABC Ginto Nord\",\"Microsoft YaHei New\",微软雅黑,\"Microsoft Yahei\",\"Microsoft JhengHei\",宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
     "--font-code": "\"gg mono\",\"Source Code Pro\",Consolas,\"Andale Mono WT\",\"Andale Mono\",\"Lucida Console\",\"Lucida Sans Typewriter\",\"DejaVu Sans Mono\",\"Bitstream Vera Sans Mono\",\"Liberation Mono\",\"Nimbus Mono L\",Monaco,\"Courier New\",Courier,monospace",
-    "--font-clan-body": "Fraunces,\"gg sans\",serif,\"Microsoft YaHei New\",å¾®è½¯é›…é»‘,\"Microsoft Yahei\",\"Microsoft JhengHei\",å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-clan-signature": "Corinthia,\"gg sans\",cursive,\"Microsoft YaHei New\",å¾®è½¯é›…é»‘,\"Microsoft Yahei\",\"Microsoft JhengHei\",å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display-marketing": "\"ABC Ginto Discord\",\"gg sans\",serif,\"Microsoft YaHei New\",å¾®è½¯é›…é»‘,\"Microsoft Yahei\",\"Microsoft JhengHei\",å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display-marketing-header": "\"ABC Ginto Nord Discord\",\"gg sans\",serif,\"Microsoft YaHei New\",å¾®è½¯é›…é»‘,\"Microsoft Yahei\",\"Microsoft JhengHei\",å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
+    "--font-clan-body": "Fraunces,\"gg sans\",serif,\"Microsoft YaHei New\",微软雅黑,\"Microsoft Yahei\",\"Microsoft JhengHei\",宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-clan-signature": "Corinthia,\"gg sans\",cursive,\"Microsoft YaHei New\",微软雅黑,\"Microsoft Yahei\",\"Microsoft JhengHei\",宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display-marketing": "\"ABC Ginto Discord\",\"gg sans\",serif,\"Microsoft YaHei New\",微软雅黑,\"Microsoft Yahei\",\"Microsoft JhengHei\",宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display-marketing-header": "\"ABC Ginto Nord Discord\",\"gg sans\",serif,\"Microsoft YaHei New\",微软雅黑,\"Microsoft Yahei\",\"Microsoft JhengHei\",宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
   },
   ":root:lang(zh-TW)": {
-    "--font-primary": "\"gg sans\",\"Microsoft JhengHei\",å¾®è»Ÿæ­£é»‘é«”,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",å¾®è»Ÿé›…é»‘,å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display": "\"gg sans\",\"Microsoft JhengHei\",å¾®è»Ÿæ­£é»‘é«”,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",å¾®è»Ÿé›…é»‘,å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-headline": "\"ABC Ginto Nord\",\"Microsoft JhengHei\",å¾®è»Ÿæ­£é»‘é«”,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",å¾®è»Ÿé›…é»‘,å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-primary": "\"gg sans\",\"Microsoft JhengHei\",微軟正黑體,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",微軟雅黑,宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display": "\"gg sans\",\"Microsoft JhengHei\",微軟正黑體,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",微軟雅黑,宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-headline": "\"ABC Ginto Nord\",\"Microsoft JhengHei\",微軟正黑體,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",微軟雅黑,宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
     "--font-code": "\"gg mono\",\"Source Code Pro\",Consolas,\"Andale Mono WT\",\"Andale Mono\",\"Lucida Console\",\"Lucida Sans Typewriter\",\"DejaVu Sans Mono\",\"Bitstream Vera Sans Mono\",\"Liberation Mono\",\"Nimbus Mono L\",Monaco,\"Courier New\",Courier,monospace",
-    "--font-clan-body": "Fraunces,\"gg sans\",serif,\"Microsoft JhengHei\",å¾®è»Ÿæ­£é»‘é«”,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",å¾®è»Ÿé›…é»‘,å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-clan-signature": "Corinthia,\"gg sans\",cursive,\"Microsoft JhengHei\",å¾®è»Ÿæ­£é»‘é«”,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",å¾®è»Ÿé›…é»‘,å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display-marketing": "\"ABC Ginto Discord\",\"gg sans\",serif,\"Microsoft JhengHei\",å¾®è»Ÿæ­£é»‘é«”,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",å¾®è»Ÿé›…é»‘,å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
-    "--font-display-marketing-header": "\"ABC Ginto Nord Discord\",\"gg sans\",serif,\"Microsoft JhengHei\",å¾®è»Ÿæ­£é»‘é«”,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",å¾®è»Ÿé›…é»‘,å®‹ä½“,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
+    "--font-clan-body": "Fraunces,\"gg sans\",serif,\"Microsoft JhengHei\",微軟正黑體,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",微軟雅黑,宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-clan-signature": "Corinthia,\"gg sans\",cursive,\"Microsoft JhengHei\",微軟正黑體,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",微軟雅黑,宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display-marketing": "\"ABC Ginto Discord\",\"gg sans\",serif,\"Microsoft JhengHei\",微軟正黑體,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",微軟雅黑,宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--font-display-marketing-header": "\"ABC Ginto Nord Discord\",\"gg sans\",serif,\"Microsoft JhengHei\",微軟正黑體,\"Microsoft JhengHei UI\",\"Microsoft YaHei\",微軟雅黑,宋体,SimSun,\"Noto Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
   },
   ".mobile-visual-refresh": {
     "--button-border-radius": "8px",
@@ -8684,8 +8681,8 @@
     "--custom-user-profile-banner-radius": "0"
   },
   ".custom-user-profile-theme .inner_c0bea0": {
-    "--profile-gradient-start": "rgb(0 0 0 / 8%)",
-    "--profile-gradient-end": "rgb(0 0 0 / 8%)"
+    "--profile-gradient-start": "color-mix(in oklab,var(--profile-gradient-overlay-color) 100%,var(--profile-gradient-primary-color))",
+    "--profile-gradient-end": "color-mix(in oklab,var(--profile-gradient-overlay-color) 100%,var(--profile-gradient-secondary-color))"
   },
   "html:not(.chat-input) .inputInner_b1f01d": {
     "--custom-slate-textarea-padding": "calc((var(--custom-channel-textarea-text-area-height) - var(--chat-markup-line-height))/2)",
@@ -9226,6 +9223,9 @@
   ".hero__22de7": {
     "--custom-hero-min-height": "150px"
   },
+  ".previewContainer_c9a5b2": {
+    "--custom-profile-frame-preview-scale": "calc(100%/(var(--custom-profile-frame-popout-width) + var(--custom-profile-frame-overflow-horizontal)*2))"
+  },
   ".container__4d61a": {
     "--countdown-color": "var(--background-accent)"
   },
@@ -9293,11 +9293,9 @@
     "--custom-timeline-fill-bg": "var(--white)",
     "--custom-timeline-glow-shadow": "0 0 27.8px 2px var(--white)"
   },
-  ".divider__6131a": {
-    "--custom-divider-margin": "calc(var(--space-xxl) + var(--space-xs))"
-  },
   ".layoutContainer__9c3be": {
     "--custom-editing-panel-width": "240px",
+    "--custom-modal-v2-profile-width": "min(max(300px,45.5cqw),400px)",
     "--custom-modal-v2-system-bar-padding": "0px",
     "--custom-modal-v2-private-banner-height": "0px",
     "--custom-modal-v2-header-button-top": "var(--space-8)"
@@ -9318,6 +9316,9 @@
   },
   ".profile__9c3be.compact-sm__9c3be, .profile__9c3be.compact-xs__9c3be": {
     "--custom-modal-profile-card-padding": "var(--space-24)"
+  },
+  ".divider__6131a": {
+    "--custom-divider-margin": "calc(var(--space-xxl) + var(--space-xs))"
   },
   ".gameWidgetGrid__7f3a7": {
     "--custom-game-widget-grid-row-size": "3",
@@ -9440,71 +9441,11 @@
     "--custom-spacing": "12px",
     "--custom-compact-bar-height": "56px"
   },
-  ".previewContainer_c9a5b2": {
-    "--custom-profile-frame-preview-scale": "calc(100%/(var(--custom-profile-frame-popout-width) + var(--custom-profile-frame-overflow-horizontal)*2))"
-  },
   ".splashBackground__742a4": {
     "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
   },
   ".inviteCardProfile__742a4": {
     "--custom-invite-banner-overlap": "32px"
-  },
-  ".option__56fec": {
-    "--search-popout-option-fade": "transparent",
-    "--search-popout-option-fade-hover": "transparent"
-  },
-  "[data-is-self=\"true\"].user-profile-modal-v2, [data-is-self=\"true\"].user-profile-popout": {
-    "--u": "url(https://itmesarah.github.io/iwillbeokay720p.avif)"
-  },
-  "[data-is-self=\"false\"].user-profile-popout, [data-is-self=\"false\"].user-profile-modal-v2": {
-    "--u": "var(--placeholder)"
-  },
-  ":root, .theme-dark, .custom-user-profile-theme, theme-darker": {
-    "--custom-theme-base-color-amount": "50%",
-    "--custom-theme-text-color-amount": "25%",
-    "--shadow-button-overlay-filter": "none",
-    "--shadow-top-ledge-filter": "none",
-    "--profile-gradient-primary-color": "black",
-    "--profile-gradient-secondary-color": "black",
-    "--profile-gradient-overlay-color": "black",
-    "--profile-gradient-button-color": "black",
-    "--profile-gradient-modal-background-color": "black",
-    "--custom-theme-base-color-light-hsl": "black",
-    "--custom-theme-base-color-light": "black",
-    "--custom-theme-text-color-light": "black",
-    "--custom-theme-base-color-dark-hsl": "black",
-    "--custom-theme-base-color-dark": "black",
-    "--custom-theme-text-color-dark": "black",
-    "--shadow-border": "transparent",
-    "--shadow-border-filter": "unset",
-    "--shadow-button-overlay": "unset",
-    "--shadow-high": "unset",
-    "--shadow-high-filter": "unset",
-    "--shadow-ledge": "unset",
-    "--shadow-ledge-filter": "unset",
-    "--shadow-low": "unset",
-    "--shadow-low-filter": "unset",
-    "--shadow-low-active": "unset",
-    "--shadow-low-active-filter": "unset",
-    "--shadow-low-hover": "unset",
-    "--shadow-low-hover-filter": "unset",
-    "--shadow-medium": "unset",
-    "--shadow-medium-filter": "unset",
-    "--shadow-mobile-navigator-x": "unset",
-    "--shadow-mobile-navigator-x-filter": "unset",
-    "--shadow-top-high": "unset",
-    "--shadow-top-high-filter": "unset",
-    "--shadow-top-ledge": "unset",
-    "--shadow-top-low": "unset",
-    "--shadow-top-low-filter": "unset",
-    "--guild-header-text-shadow": "unset"
-  },
-  ".role_dfa8b6": {
-    "--transparency": ".4"
-  },
-  ":root, .folderPreviewWrapper__48112, .isExpanded__48112 .folderGroupBackground__48112": {
-    "--custom-folder-background": "black",
-    "--custom-preview-background": "black"
   },
   ".vc-membercount-widget": {
     "--color-online": "var(--green-360)",
