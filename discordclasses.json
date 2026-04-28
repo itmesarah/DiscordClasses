@@ -7606,6 +7606,19 @@
     "cardOutline": "cardOutline__73069",
     "cardPrimary": "cardPrimary__73069"
   },
+  "307217": {
+    "reactionTooltip": "reactionTooltip_bbcccb",
+    "reactionTooltipEmoji": "reactionTooltipEmoji_bbcccb",
+    "reactionTooltipText": "reactionTooltipText_bbcccb",
+    "reactionTooltipInner": "reactionTooltipInner_bbcccb",
+    "burstReactionTooltipInner": "burstReactionTooltipInner_bbcccb",
+    "burstReactionTooltipMessage": "burstReactionTooltipMessage_bbcccb",
+    "burstReactionTooltipSpacer": "burstReactionTooltipSpacer_bbcccb",
+    "burstReactionTooltipPrompt": "burstReactionTooltipPrompt_bbcccb",
+    "burstReactionTooltipPromptClickable": "burstReactionTooltipPromptClickable_bbcccb",
+    "burstReactionTooltipNitroIcon": "burstReactionTooltipNitroIcon_bbcccb",
+    "burstReactionTooltipUpsellCta": "burstReactionTooltipUpsellCta_bbcccb"
+  },
   "307456": {
     "settings": "settings__17efa",
     "twoColumns": "twoColumns__17efa",
@@ -9826,18 +9839,15 @@
   },
   "379378": {
     "upsellContainer": "upsellContainer__0b69f",
-    "withGradientBg": "withGradientBg__0b69f",
     "updatedStyling": "updatedStyling__0b69f",
     "hasPreviewSound": "hasPreviewSound__0b69f",
-    "expressiveGradient": "expressiveGradient__0b69f",
     "upsellContainerFloating": "upsellContainerFloating__0b69f",
     "upsellContainerInline": "upsellContainerInline__0b69f",
     "soundPreview": "soundPreview__0b69f",
     "soundPreviewName": "soundPreviewName__0b69f",
     "soundPreviewText": "soundPreviewText__0b69f",
     "upsellText": "upsellText__0b69f",
-    "leadingAction": "leadingAction__0b69f",
-    "legacyUpsellButton": "legacyUpsellButton__0b69f"
+    "leadingAction": "leadingAction__0b69f"
   },
   "379414": {
     "gameName": "gameName__8c6c2",
@@ -13343,7 +13353,7 @@
     "selectedPill": "selectedPill__1464f",
     "erroredPill": "erroredPill__1464f",
     "newLine": "newLine__1464f",
-    "timestampMention": "timestampMention__1464f"
+    "inlineFlex": "inlineFlex__1464f"
   },
   "495163": {
     "root": "root__2f580",
@@ -16951,19 +16961,6 @@
     "emojiListEmoji": "emojiListEmoji__3efc4",
     "divider": "divider__3efc4",
     "helpMessage": "helpMessage__3efc4"
-  },
-  "631765": {
-    "reactionTooltip": "reactionTooltip_b49891",
-    "reactionTooltipEmoji": "reactionTooltipEmoji_b49891",
-    "reactionTooltipText": "reactionTooltipText_b49891",
-    "reactionTooltipInner": "reactionTooltipInner_b49891",
-    "burstReactionTooltipInner": "burstReactionTooltipInner_b49891",
-    "burstReactionTooltipMessage": "burstReactionTooltipMessage_b49891",
-    "burstReactionTooltipSpacer": "burstReactionTooltipSpacer_b49891",
-    "burstReactionTooltipPrompt": "burstReactionTooltipPrompt_b49891",
-    "burstReactionTooltipPromptClickable": "burstReactionTooltipPromptClickable_b49891",
-    "burstReactionTooltipNitroIcon": "burstReactionTooltipNitroIcon_b49891",
-    "burstReactionTooltipUpsellCta": "burstReactionTooltipUpsellCta_b49891"
   },
   "632194": {
     "container": "container__235ca",
