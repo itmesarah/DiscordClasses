@@ -8173,6 +8173,40 @@
     "--custom-emoji-sprite-bg-position": "calc(var(--custom-emoji-sprite-col)*-1*var(--custom-emoji-sprite-size)) calc(var(--custom-emoji-sprite-row)*-1*var(--custom-emoji-sprite-size))",
     "--custom-emoji-sprite-bg-size": "calc(var(--custom-emoji-sprite-size)*20) calc(var(--custom-emoji-sprite-size)*4)"
   },
+  ".caret__6ec79": {
+    "--custom-caret-half-width": "11px",
+    "--custom-caret-half-height": "7px",
+    "--custom-caret-horizontal-distance": "18px",
+    "--custom-caret-border-overlap": "1px"
+  },
+  ".caret--left__6ec79": {
+    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-start) 25%,transparent)"
+  },
+  ".caret--custom__6ec79": {
+    "--custom-caret-offset-x": "0",
+    "--custom-caret-offset-y": "0"
+  },
+  ".caret--top__6ec79.caret--start__6ec79": {
+    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 7%,var(--custom-popover-caret-gradient-color-start))"
+  },
+  ".caret--top__6ec79.caret--center__6ec79": {
+    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 50%,var(--custom-popover-caret-gradient-color-start))"
+  },
+  ".caret--top__6ec79.caret--end__6ec79": {
+    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 98%,var(--custom-popover-caret-gradient-color-start))"
+  },
+  ".caret--right__6ec79.caret--start__6ec79": {
+    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 98%,transparent)"
+  },
+  ".caret--right__6ec79.caret--center__6ec79": {
+    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 25%,transparent)"
+  },
+  ".caret--left__6ec79.caret--start__6ec79": {
+    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-start) 98%,transparent)"
+  },
+  ".caret--left__6ec79.caret--center__6ec79": {
+    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-start) 25%,transparent)"
+  },
   ".container__0f2e8": {
     "--custom-content-card-padding": "8px"
   },
@@ -8423,40 +8457,6 @@
   ".popoverGradientWrapper_d6f39b": {
     "--custom-popover-caret-gradient-color-start": "var(--custom-gradient-color-start)",
     "--custom-popover-caret-gradient-color-end": "var(--custom-gradient-color-end)"
-  },
-  ".caret__6ec79": {
-    "--custom-caret-half-width": "11px",
-    "--custom-caret-half-height": "7px",
-    "--custom-caret-horizontal-distance": "18px",
-    "--custom-caret-border-overlap": "1px"
-  },
-  ".caret--left__6ec79": {
-    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-start) 25%,transparent)"
-  },
-  ".caret--custom__6ec79": {
-    "--custom-caret-offset-x": "0",
-    "--custom-caret-offset-y": "0"
-  },
-  ".caret--top__6ec79.caret--start__6ec79": {
-    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 7%,var(--custom-popover-caret-gradient-color-start))"
-  },
-  ".caret--top__6ec79.caret--center__6ec79": {
-    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 50%,var(--custom-popover-caret-gradient-color-start))"
-  },
-  ".caret--top__6ec79.caret--end__6ec79": {
-    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 98%,var(--custom-popover-caret-gradient-color-start))"
-  },
-  ".caret--right__6ec79.caret--start__6ec79": {
-    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 98%,transparent)"
-  },
-  ".caret--right__6ec79.caret--center__6ec79": {
-    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-end) 25%,transparent)"
-  },
-  ".caret--left__6ec79.caret--start__6ec79": {
-    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-start) 98%,transparent)"
-  },
-  ".caret--left__6ec79.caret--center__6ec79": {
-    "--custom-popover-caret-gradient-color": "color-mix(in oklab,var(--custom-popover-caret-gradient-color-start) 25%,transparent)"
   },
   ".colorDefault__6e2b9": {
     "--custom-notice-background": "var(--status-positive-background)",
@@ -8894,11 +8894,14 @@
   ".custom-user-profile-theme .tabBarItem__37bfc": {
     "--selected-tab-item-color": "var(--text-strong)"
   },
-  ".voters__01c8c": {
-    "--custom-list-scrollbar-top-padding": "12px"
-  },
   ".modal_e44912": {
     "--custom-viewport-padding": "calc(var(--space-40) + var(--custom-app-top-bar-height))"
+  },
+  ".subnav_e4d939": {
+    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
+  },
+  ".voters__01c8c": {
+    "--custom-list-scrollbar-top-padding": "12px"
   },
   ".modalContainer__578ba": {
     "--custom-gallery-panel-width": "340px",
@@ -8997,9 +9000,6 @@
   },
   ".inviteCardProfile__742a4": {
     "--custom-invite-banner-overlap": "32px"
-  },
-  ".subnav_e4d939": {
-    "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
   ".vc-membercount-widget": {
     "--color-online": "var(--green-360)",
