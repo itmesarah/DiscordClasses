@@ -13066,7 +13066,17 @@
   },
   "490308": {
     "modalRoot": "modalRoot__6db38",
-    "modalContent": "modalContent__6db38"
+    "modalContent": "modalContent__6db38",
+    "loading": "loading__6db38",
+    "directoryPanel": "directoryPanel__6db38",
+    "directoryHeader": "directoryHeader__6db38",
+    "directoryContent": "directoryContent__6db38",
+    "badgeSection": "badgeSection__6db38",
+    "badgeGrid": "badgeGrid__6db38",
+    "badgeSlot": "badgeSlot__6db38",
+    "badgeSlotSelected": "badgeSlotSelected__6db38",
+    "badgeSlotIcon": "badgeSlotIcon__6db38",
+    "detailPanel": "detailPanel__6db38"
   },
   "490334": {
     "container": "container__0a12b",
