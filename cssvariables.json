@@ -5266,10 +5266,10 @@
     "--custom-user-profile-toast-z-index": "5",
     "--custom-app-launcher-sticky-header-height": "66px",
     "--custom-app-launcher-container-border-radius": "var(--radius-sm)",
-    "--custom-paginator-round-button-size": "28px",
-    "--emojiInputHorizontalPadding": "8px",
     "--custom-forum-post-form-padding": "var(--space-8)",
     "--custom-forum-post-form-control-size": "40px",
+    "--custom-paginator-round-button-size": "28px",
+    "--emojiInputHorizontalPadding": "8px",
     "--custom-zindex-emoji-studio-top": "3",
     "--custom-zindex-emoji-studio-middle": "2",
     "--custom-zindex-emoji-studio-bottom": "1",
@@ -8981,6 +8981,9 @@
   ".iconCard_cb32c7": {
     "--custom-icon-card-size": "48px"
   },
+  ".thumbnailContainer_faa96b": {
+    "--__post-thumbnail-size": "72px"
+  },
   ".grid__1b670": {
     "--custom-product-card-min-width": "0"
   },
@@ -9078,9 +9081,6 @@
     "--custom-gallery-panel-width": "340px",
     "--custom-gallery-panel-curve": "cubic-bezier(0.07,0.56,0.31,0.9)",
     "--custom-gallery-panel-duration": "267ms"
-  },
-  ".thumbnailContainer_faa96b": {
-    "--__post-thumbnail-size": "72px"
   },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
