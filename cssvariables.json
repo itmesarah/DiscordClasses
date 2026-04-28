@@ -8254,10 +8254,6 @@
   ".container_ab8609.editable_ab8609:hover": {
     "--custom-status-bubble-background": "linear-gradient(rgb(var(--custom-status-bubble-overlay-color)/0.04),rgb(var(--custom-status-bubble-overlay-color)/0.04)),var(--custom-status-bubble-background-color)"
   },
-  ".theme-dark.custom-theme-background .embedFull__623de": {
-    "--__spoiler-background-color--hidden": "var(--primary-760)",
-    "--__spoiler-background-color--hidden--hover": "hsl(var(--primary-760-hsl)/0.8)"
-  },
   ".giftButton__82222": {
     "--button-outline-brand-text": "var(--brand-500)"
   },
@@ -8415,6 +8411,10 @@
     "--__card-background-color": "var(--card-background-default)",
     "--__card-border-color": "var(--border-subtle)",
     "--__card-color": "var(--text-default)"
+  },
+  ".theme-dark.custom-theme-background .embedFull__623de": {
+    "--__spoiler-background-color--hidden": "var(--primary-760)",
+    "--__spoiler-background-color--hidden--hover": "hsl(var(--primary-760-hsl)/0.8)"
   },
   ".popover_d6f39b": {
     "--custom-popover-caret-gradient-color-start": "transparent",
