@@ -5266,10 +5266,10 @@
     "--custom-user-profile-toast-z-index": "5",
     "--custom-app-launcher-sticky-header-height": "66px",
     "--custom-app-launcher-container-border-radius": "var(--radius-sm)",
-    "--custom-forum-post-form-padding": "var(--space-8)",
-    "--custom-forum-post-form-control-size": "40px",
     "--custom-paginator-round-button-size": "28px",
     "--emojiInputHorizontalPadding": "8px",
+    "--custom-forum-post-form-padding": "var(--space-8)",
+    "--custom-forum-post-form-control-size": "40px",
     "--custom-zindex-emoji-studio-top": "3",
     "--custom-zindex-emoji-studio-middle": "2",
     "--custom-zindex-emoji-studio-bottom": "1",
@@ -8917,20 +8917,14 @@
   ".container_ceece4": {
     "--custom-payment-element-min-height": "430px"
   },
-  ".appIcon__24654": {
-    "--custom-size": "24px"
-  },
-  ".headerBackground__8823a": {
-    "--custom-overlay-color": "hsl(var(--primary-730-hsl)/0.9)"
-  },
-  ".theme-light .headerBackground__8823a": {
-    "--custom-overlay-color": "hsl(var(--white-500-hsl)/0.3)"
-  },
   ".background_a4e118": {
     "--custom-overlay-color": "hsl(var(--primary-730-hsl)/0.8)"
   },
   ".theme-light .background_a4e118": {
     "--custom-overlay-color": "hsl(var(--white-500-hsl)/0.3)"
+  },
+  ".appIcon__24654": {
+    "--custom-size": "24px"
   },
   ".icon__761e5": {
     "--custom-app-icon-size": "40px"
@@ -8943,6 +8937,12 @@
   },
   ".container__1729d, .underline__1729d": {
     "--custom-container-padding": "var(--space-12)"
+  },
+  ".headerBackground__8823a": {
+    "--custom-overlay-color": "hsl(var(--primary-730-hsl)/0.9)"
+  },
+  ".theme-light .headerBackground__8823a": {
+    "--custom-overlay-color": "hsl(var(--white-500-hsl)/0.3)"
   },
   ".editor_a99829.editor_a99829": {
     "--channel-text-area-placeholder": "var(--text-muted)"
@@ -8980,9 +8980,6 @@
   },
   ".iconCard_cb32c7": {
     "--custom-icon-card-size": "48px"
-  },
-  ".thumbnailContainer_faa96b": {
-    "--__post-thumbnail-size": "72px"
   },
   ".grid__1b670": {
     "--custom-product-card-min-width": "0"
@@ -9081,6 +9078,9 @@
     "--custom-gallery-panel-width": "340px",
     "--custom-gallery-panel-curve": "cubic-bezier(0.07,0.56,0.31,0.9)",
     "--custom-gallery-panel-duration": "267ms"
+  },
+  ".thumbnailContainer_faa96b": {
+    "--__post-thumbnail-size": "72px"
   },
   ".rewardIndicatorContainer_cc3943": {
     "--custom-stroke-width": "3px"
