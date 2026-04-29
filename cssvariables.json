@@ -1243,7 +1243,7 @@
     "--custom-profile-frame-overflow-horizontal": "14",
     "--custom-profile-frame-popout-overflow-top": "77",
     "--custom-profile-frame-popout-overflow-bottom": "53",
-    "--custom-profile-frame-popout-width": "304",
+    "--custom-profile-frame-popout-width": "300",
     "--legacy-elevation-low": "0 1px 5px var(--opacity-black-20)",
     "--legacy-elevation-high": "0 2px 10px 0 var(--opacity-black-8)",
     "--legacy-elevation-border": "0 0 0 1px hsl(var(--primary-300-hsl)/0.3)",
@@ -5253,8 +5253,6 @@
     "--custom-channel-members-bg": "var(--background-base-lower)",
     "--custom-bg-surface-overlay": "rgba(33,34,41,.8)",
     "--custom-premium-marketing-hero-heading-padding-top": "120px",
-    "--custom-app-message-embed-base-info-gap": "4px",
-    "--custom-app-message-embed-base-info-top": "calc(var(--custom-app-message-embed-base-info-gap) - 2px)",
     "--custom-user-profile-banner-height": "0px",
     "--custom-user-profile-footer-height": "0px",
     "--custom-user-profile-theme-padding": "0",
@@ -5264,6 +5262,8 @@
     "--custom-user-profile-top-layer-z-index": "3",
     "--custom-user-profile-hoist-z-index": "4",
     "--custom-user-profile-toast-z-index": "5",
+    "--custom-app-message-embed-base-info-gap": "4px",
+    "--custom-app-message-embed-base-info-top": "calc(var(--custom-app-message-embed-base-info-gap) - 2px)",
     "--custom-app-launcher-sticky-header-height": "66px",
     "--custom-app-launcher-container-border-radius": "var(--radius-sm)",
     "--custom-paginator-round-button-size": "28px",
@@ -5497,12 +5497,6 @@
     "--custom-pop-stroke-width": "calc(1.2px + 0.04em)",
     "--custom-pop-bottom-translate_3d": "0.08em"
   },
-  ".splashBackground__742a4": {
-    "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
-  },
-  ".inviteCardProfile__742a4": {
-    "--custom-invite-banner-overlap": "32px"
-  },
   ".divider__908e2": {
     "--divider-color": "var(--background-feedback-notification)"
   },
@@ -5519,7 +5513,12 @@
     "--selected-tab-item-color": "var(--text-strong)"
   },
   ".container__32139": {
-    "--custom-preview-inline-padding": "6px"
+    "--custom-preview-inline-padding": "6px",
+    "--custom-preview-block-padding": "0"
+  },
+  ".container__32139.compact__32139": {
+    "--custom-preview-inline-padding": "var(--space-4)",
+    "--custom-preview-block-padding": "var(--space-4)"
   },
   ".trailingAccessoryButton__32139": {
     "--control-icon-only-background-hover": "var(--control-secondary-background-default)",
@@ -5570,6 +5569,12 @@
   ".haven__5adc3": {
     "--custom-haven-seat-width": "120px",
     "--custom-haven-seat-height": "40px"
+  },
+  ".splashBackground__742a4": {
+    "--background-mobile-primary": "var(--primary-700) center /cover no-repeat url(/assets/4d81e06416805e7d.png)"
+  },
+  ".inviteCardProfile__742a4": {
+    "--custom-invite-banner-overlap": "32px"
   },
   ".theme-midnight": {
     "--ansi-black": "var(--black)",
@@ -8542,37 +8547,6 @@
   ".tivNavItemIconContainer__4ccc5": {
     "--custom-interactive-normal": "var(--interactive-normal)"
   },
-  ".normalStylesDefault_a1443c": {
-    "--custom-poll-style-vote-background": "var(--background-base-lowest)",
-    "--custom-poll-style-vote-percentage": "var(--interactive-background-active)",
-    "--custom-poll-style-label": "var(--text-default)",
-    "--custom-poll-style-border": "transparent"
-  },
-  ".normalStylesImageOnlyAnswers_a1443c": {
-    "--custom-poll-style-image-background": "var(--polls-normal-image-background)"
-  },
-  ".victorStyles_a1443c": {
-    "--custom-poll-style-vote-percentage": "var(--polls-victor-fill)",
-    "--custom-poll-style-image-background": "var(--background-feedback-warning)",
-    "--custom-poll-style-border": "var(--status-positive)"
-  },
-  ".votedStyles_a1443c": {
-    "--custom-poll-style-vote-percentage": "var(--polls-voted-fill)",
-    "--custom-poll-style-image-background": "var(--background-feedback-positive)",
-    "--custom-poll-style-border": "var(--control-brand-foreground)"
-  },
-  ".showVideoOnFocus__98ba8": {
-    "--custom-ease": "cubic-bezier(0.4,0,1,1)"
-  },
-  ".contentWrapper__98ba8": {
-    "--custom-content-size": "64px"
-  },
-  ".appIcon__727be": {
-    "--custom-size": "44px"
-  },
-  ".collapsed__0aee3 .chevron__0aee3": {
-    "--custom-icon-collapse-rotate": "-90deg"
-  },
   ":root .user-profile-popout": {
     "--custom-user-profile-banner-height": "105px"
   },
@@ -8892,6 +8866,37 @@
   ".container__73abe": {
     "--custom-premium-backdrop-opacity": "0.2",
     "--custom-premium-backdrop-inset": "0"
+  },
+  ".normalStylesDefault_a1443c": {
+    "--custom-poll-style-vote-background": "var(--background-base-lowest)",
+    "--custom-poll-style-vote-percentage": "var(--interactive-background-active)",
+    "--custom-poll-style-label": "var(--text-default)",
+    "--custom-poll-style-border": "transparent"
+  },
+  ".normalStylesImageOnlyAnswers_a1443c": {
+    "--custom-poll-style-image-background": "var(--polls-normal-image-background)"
+  },
+  ".victorStyles_a1443c": {
+    "--custom-poll-style-vote-percentage": "var(--polls-victor-fill)",
+    "--custom-poll-style-image-background": "var(--background-feedback-warning)",
+    "--custom-poll-style-border": "var(--status-positive)"
+  },
+  ".votedStyles_a1443c": {
+    "--custom-poll-style-vote-percentage": "var(--polls-voted-fill)",
+    "--custom-poll-style-image-background": "var(--background-feedback-positive)",
+    "--custom-poll-style-border": "var(--control-brand-foreground)"
+  },
+  ".showVideoOnFocus__98ba8": {
+    "--custom-ease": "cubic-bezier(0.4,0,1,1)"
+  },
+  ".contentWrapper__98ba8": {
+    "--custom-content-size": "64px"
+  },
+  ".appIcon__727be": {
+    "--custom-size": "44px"
+  },
+  ".collapsed__0aee3 .chevron__0aee3": {
+    "--custom-icon-collapse-rotate": "-90deg"
   },
   ".container__5e434": {
     "--custom-chat-input-margin-bottom": "var(--space-xs)"

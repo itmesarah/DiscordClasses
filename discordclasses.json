@@ -3396,6 +3396,7 @@
     "profileEffectPreviewsContainerInner": "profileEffectPreviewsContainerInner_c50f62 previewsContainerInner_c50f62",
     "nameplatePreviewContainerInner": "nameplatePreviewContainerInner_c50f62 previewsContainerInner_c50f62",
     "previewContainer": "previewContainer_c50f62",
+    "profilePreviewContainerWithChat": "profilePreviewContainerWithChat_c50f62",
     "collectiblePreviewsContainerNoChat": "collectiblePreviewsContainerNoChat_c50f62 collectiblePreviewsContainer_c50f62",
     "collectiblePreviewsContainerWithChat": "collectiblePreviewsContainerWithChat_c50f62 collectiblePreviewsContainer_c50f62",
     "fractionalNitroPreviewContainer": "fractionalNitroPreviewContainer_c50f62 collectiblePreviewsContainer_c50f62",
@@ -5330,7 +5331,8 @@
   "209150": {
     "emptyPreview": "emptyPreview_e3aa7b",
     "fadeInAvatarImg": "fadeInAvatarImg_e3aa7b",
-    "fadeIn": "fadeIn_e3aa7b"
+    "fadeIn": "fadeIn_e3aa7b",
+    "sampleDecorationAvatar": "sampleDecorationAvatar_e3aa7b"
   },
   "209291": {
     "container": "container__04119",
@@ -8199,10 +8201,10 @@
     "staple": "staple__7d80f",
     "top": "top__7d80f",
     "bottom": "bottom__7d80f",
+    "border": "border__7d80f",
     "rail": "rail__7d80f",
     "responsive": "responsive__7d80f",
-    "center": "center__7d80f",
-    "border": "border__7d80f"
+    "center": "center__7d80f"
   },
   "326112": {
     "libraryFilter": "libraryFilter__3fb48",
@@ -12439,6 +12441,10 @@
     "referrerAttributionContainer": "referrerAttributionContainer_a98bec",
     "header": "header_a98bec"
   },
+  "469432": {
+    "container": "container__54560",
+    "isEditing": "isEditing__54560"
+  },
   "469611": {
     "dynamicGraphicContainer": "dynamicGraphicContainer__47887",
     "dynamicGraphicForegroundImage": "dynamicGraphicForegroundImage__47887"
@@ -14605,6 +14611,7 @@
   },
   "539396": {
     "container": "container__32139",
+    "compact": "compact__32139",
     "fadeIn": "fadeIn__32139",
     "preview": "preview__32139",
     "editable": "editable__32139",
@@ -23405,6 +23412,7 @@
     "tileButton": "tileButton__4e9aa",
     "disabled": "disabled__4e9aa",
     "content": "content__4e9aa",
+    "dimmed": "dimmed__4e9aa",
     "overlay": "overlay__4e9aa",
     "iconContainer": "iconContainer__4e9aa",
     "iconAlignCenter": "iconAlignCenter__4e9aa",
