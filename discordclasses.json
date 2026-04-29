@@ -2055,6 +2055,7 @@
     "promoCardAssetContainer": "promoCardAssetContainer_e99fef",
     "promoCardAsset": "promoCardAsset_e99fef",
     "promoCardAssetImageRounded": "promoCardAssetImageRounded_e99fef",
+    "promoCardAssetImageLockedRounded": "promoCardAssetImageLockedRounded_e99fef",
     "lockIconContainer": "lockIconContainer_e99fef",
     "claimedFooterContainer": "claimedFooterContainer_e99fef",
     "claimedFooter": "claimedFooter_e99fef",
@@ -3006,7 +3007,6 @@
   },
   "110357": {
     "channelHeader": "channelHeader__35a7e",
-    "showCollapseButton": "showCollapseButton__35a7e",
     "collapseButton": "collapseButton__35a7e",
     "collapsed": "collapsed__35a7e",
     "dmIcon": "dmIcon__35a7e",
@@ -3424,6 +3424,7 @@
     "mockInputButton": "mockInputButton_c50f62",
     "titleContainer": "titleContainer_c50f62",
     "description": "description_c50f62",
+    "framesEarlyAccessBadge": "framesEarlyAccessBadge_c50f62",
     "disclaimer": "disclaimer_c50f62",
     "disclaimerLight": "disclaimerLight_c50f62",
     "learnMoreLink": "learnMoreLink_c50f62",
@@ -13945,7 +13946,8 @@
     "large": "large__9f2f4"
   },
   "512514": {
-    "productCardBadge": "productCardBadge_b8a6bd"
+    "productCardBadge": "productCardBadge_b8a6bd",
+    "earlyAccessBadge": "earlyAccessBadge_b8a6bd"
   },
   "513857": {
     "buttonContainer": "buttonContainer__994e6"
@@ -14893,6 +14895,7 @@
     "headerActions": "headerActions_ab4223",
     "metadataText": "metadataText_ab4223",
     "grid": "grid_ab4223",
+    "footer": "footer_ab4223",
     "emptyState": "emptyState_ab4223",
     "emptyIcon": "emptyIcon_ab4223",
     "emptyDescription": "emptyDescription_ab4223",
@@ -15174,6 +15177,7 @@
     "addCta": "addCta_c30e20"
   },
   "560502": {
+    "scroller": "scroller_f6bd5f",
     "messageContainer": "messageContainer_f6bd5f",
     "messageSpinner": "messageSpinner_f6bd5f",
     "channelMessageAndButtons": "channelMessageAndButtons_f6bd5f",
