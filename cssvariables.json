@@ -5978,8 +5978,8 @@
   ".blurOverlay__5b393": {
     "--custom-blur": "blur(40px)",
     "--custom-fallback-bg": "transparent",
-    "--custom-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 20%,var(--__card-accent-color) 15%)",
-    "--custom-hover-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 25%,var(--__card-accent-color) 20%)"
+    "--custom-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 20%,var(--__card-background-color) 15%)",
+    "--custom-hover-asset-bg": "color-mix(in srgb,var(--custom-tint-color) 25%,var(--__card-background-color) 20%)"
   },
   ".container_e42096": {
     "--custom-edge-fade-width": "0"
@@ -9071,9 +9071,6 @@
   ".subnav_e4d939": {
     "--custom-track-padding": "calc(var(--space-xs) + var(--custom-icon-size)/2 - var(--custom-nav-width)/2)"
   },
-  ".thumbnailContainer_faa96b": {
-    "--__post-thumbnail-size": "72px"
-  },
   ".reactors_b7f4b4": {
     "--custom-list-scrollbar-top-padding": "12px"
   },
@@ -9111,6 +9108,9 @@
     "--custom-gallery-panel-width": "340px",
     "--custom-gallery-panel-curve": "cubic-bezier(0.07,0.56,0.31,0.9)",
     "--custom-gallery-panel-duration": "267ms"
+  },
+  ".thumbnailContainer_faa96b": {
+    "--__post-thumbnail-size": "72px"
   },
   ".gameProfileModal__8e830": {
     "--custom-spacing": "16px"

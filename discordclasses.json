@@ -5392,6 +5392,7 @@
   },
   "212583": {
     "container": "container__10737",
+    "containerInteractive": "containerInteractive__10737",
     "closeButton": "closeButton__10737",
     "subtitleContainer": "subtitleContainer__10737",
     "currentUserAvatar": "currentUserAvatar__10737"
@@ -15064,6 +15065,8 @@
     "orbMultiplierPrimaryAsset": "orbMultiplierPrimaryAsset__5b393",
     "primaryAssetBlur": "primaryAssetBlur__5b393",
     "primaryAssetImage": "primaryAssetImage__5b393",
+    "primaryAssetImageLarge": "primaryAssetImageLarge__5b393",
+    "primaryAssetScaleDownOnHover": "primaryAssetScaleDownOnHover__5b393",
     "contentContainer": "contentContainer__5b393",
     "textContent": "textContent__5b393",
     "footerContentWrapper": "footerContentWrapper__5b393",
