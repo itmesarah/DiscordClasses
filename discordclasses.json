@@ -1441,8 +1441,6 @@
     "spinner": "spinner__0920e",
     "homeWrapper": "homeWrapper__0920e",
     "homeWrapperNormal": "homeWrapperNormal__0920e homeWrapper__0920e",
-    "headerBarV2LightBackground": "headerBarV2LightBackground__0920e",
-    "headerBarV2DarkBackground": "headerBarV2DarkBackground__0920e",
     "headerToolbar": "headerToolbar__0920e"
   },
   "50897": {
@@ -4542,12 +4540,6 @@
     "avatar": "avatar__6b453",
     "discriminator": "discriminator__6b453",
     "tabular": "tabular__6b453"
-  },
-  "178420": {
-    "voiceUserContainer": "voiceUserContainer_c1f755",
-    "soundboardEmoji": "soundboardEmoji_c1f755",
-    "voiceUser": "voiceUser_c1f755",
-    "username": "username_c1f755"
   },
   "179250": {
     "iconContainer": "iconContainer__098fc"
@@ -7942,8 +7934,7 @@
     "overlay": "overlay__40caf",
     "newBadge": "newBadge__40caf",
     "bottomRow": "bottomRow__40caf",
-    "topRow": "topRow__40caf",
-    "shareButton": "shareButton__40caf"
+    "topRow": "topRow__40caf"
   },
   "316561": {
     "container": "container_c8f358",
@@ -17280,7 +17271,8 @@
   "641651": {
     "previewContainer": "previewContainer__5a2c6",
     "container": "container__5a2c6",
-    "header": "header__5a2c6"
+    "header": "header__5a2c6",
+    "profileFrame": "profileFrame__5a2c6"
   },
   "641694": {
     "animator": "animator__52de8",
@@ -17468,7 +17460,6 @@
     "isAnimating": "isAnimating__9c3be",
     "editingPanelExpanded": "editingPanelExpanded__9c3be",
     "profileContentContainer": "profileContentContainer__9c3be",
-    "profileCard": "profileCard__9c3be",
     "editingPanelSlideIn": "editingPanelSlideIn__9c3be",
     "editingPanelBorderRadiusExpand": "editingPanelBorderRadiusExpand__9c3be",
     "editingPanel": "editingPanel__9c3be",
@@ -21378,6 +21369,9 @@
   },
   "808205": {
     "giftCardModalRoot": "giftCardModalRoot__49ae9"
+  },
+  "808457": {
+    "framePreviewGraphic": "framePreviewGraphic__6d898"
   },
   "808469": {
     "list": "list__83c7c",
@@ -26164,6 +26158,12 @@
     "progressBar": "progressBar__60d39",
     "labelWrapper": "labelWrapper__60d39",
     "requirement": "requirement__60d39"
+  },
+  "990956": {
+    "root": "root__2bf8a",
+    "soundboardEmoji": "soundboardEmoji__2bf8a",
+    "speakingIndicator": "speakingIndicator__2bf8a",
+    "speakingIndicatorText": "speakingIndicatorText__2bf8a"
   },
   "991680": {
     "wrapper": "wrapper__44df5",
