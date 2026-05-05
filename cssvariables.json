@@ -4783,6 +4783,7 @@
     "--mobile-channel-safe-area-bottom-background": "background-base-low",
     "--mobile-chat-input-action-button-gap": "0px",
     "--mobile-chat-input-action-button-margin": "4px",
+    "--mobile-chat-input-action-button-min-touch-target-size": "44px",
     "--mobile-chat-input-action-button-size": "40px",
     "--mobile-chat-input-action-icon-active-tint": "text-brand",
     "--mobile-chat-input-action-icon-pixel-size": "24px",
@@ -5264,11 +5265,11 @@
     "--emojiInputHorizontalPadding": "8px",
     "--custom-app-launcher-sticky-header-height": "66px",
     "--custom-app-launcher-container-border-radius": "var(--radius-sm)",
+    "--custom-forum-post-form-padding": "var(--space-8)",
+    "--custom-forum-post-form-control-size": "40px",
     "--custom-zindex-emoji-studio-top": "3",
     "--custom-zindex-emoji-studio-middle": "2",
     "--custom-zindex-emoji-studio-bottom": "1",
-    "--custom-forum-post-form-padding": "var(--space-8)",
-    "--custom-forum-post-form-control-size": "40px",
     "--os-accent-color": "#d47800ff"
   },
   ".caret__5bc6a": {
