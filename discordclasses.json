@@ -13133,8 +13133,8 @@
     "gameWrapper": "gameWrapper__5dec7",
     "gameIcon": "gameIcon__5dec7",
     "info": "info__5dec7",
-    "channel": "channel__5dec7",
     "underlineOnHover": "underlineOnHover__5dec7",
+    "channel": "channel__5dec7",
     "perksDemoContainer": "perksDemoContainer__5dec7",
     "perksDemoText": "perksDemoText__5dec7",
     "frameApplicationNameTitleClickable": "frameApplicationNameTitleClickable__5dec7"
@@ -13432,6 +13432,7 @@
   },
   "497275": {
     "container": "container_ba8a2f",
+    "clamp": "clamp_ba8a2f",
     "controlsBarContainer": "controlsBarContainer_ba8a2f",
     "contentArea": "contentArea_ba8a2f",
     "content": "content_ba8a2f"
@@ -16872,8 +16873,8 @@
   },
   "629436": {
     "wrapper": "wrapper_a99139",
-    "headingWrapper": "headingWrapper_a99139",
     "stepsWrapper": "stepsWrapper_a99139",
+    "headingWrapper": "headingWrapper_a99139",
     "heading": "heading_a99139",
     "stepWrapper": "stepWrapper_a99139",
     "stepContent": "stepContent_a99139",
@@ -17388,8 +17389,8 @@
     "subtitle": "subtitle__2ea32",
     "children": "children__2ea32",
     "modeMuted": "modeMuted__2ea32",
-    "modeConnected": "modeConnected__2ea32",
     "notInteractive": "notInteractive__2ea32",
+    "modeConnected": "modeConnected__2ea32",
     "unreadImportant": "unreadImportant__2ea32",
     "numberBadge": "numberBadge__2ea32",
     "activeEvent": "activeEvent__2ea32"
@@ -22760,9 +22761,9 @@
   },
   "864825": {
     "row": "row__93d4a",
-    "active": "active__93d4a",
-    "soundPreviewIcon": "soundPreviewIcon__93d4a",
     "soundEditContainer": "soundEditContainer__93d4a",
+    "soundPreviewIcon": "soundPreviewIcon__93d4a",
+    "active": "active__93d4a",
     "tableTitle": "tableTitle__93d4a",
     "boostingIconWrapper": "boostingIconWrapper__93d4a",
     "soundName": "soundName__93d4a",
@@ -26361,5 +26362,11 @@
   },
   "999878": {
     "textarea": "textarea__9daae input__0ed4f"
+  },
+  "host": {
+    "version": "1.0.941 x64 (81758)"
+  },
+  "channel": {
+    "canary": "539764 (18f95bb)"
   }
 }
