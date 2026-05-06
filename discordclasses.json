@@ -1,4 +1,10 @@
 {
+  "host": {
+    "version": "1.0.941 x64 (81758)"
+  },
+  "channel": {
+    "caanary": "539764 (18f95bb)"
+  },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -26362,11 +26368,5 @@
   },
   "999878": {
     "textarea": "textarea__9daae input__0ed4f"
-  },
-  "host": {
-    "version": "1.0.941 x64 (81758)"
-  },
-  "channel": {
-    "canary": "539764 (18f95bb)"
   }
 }
