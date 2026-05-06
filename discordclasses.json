@@ -3,7 +3,7 @@
     "version": "1.0.941 x64 (81774)"
   },
   "channel": {
-  "canary": "539764 (18f95bb)"
+  "canary": "539882 (8e55340)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -12344,6 +12344,7 @@
     "cardsArea": "cardsArea__250d5",
     "cardBody": "cardBody__250d5",
     "mainCard": "mainCard__250d5",
+    "mainCardTextOnly": "mainCardTextOnly__250d5 mainCard__250d5",
     "mainCardBody": "mainCardBody__250d5 cardBody__250d5",
     "mainCardImageContainer": "mainCardImageContainer__250d5",
     "mainCardImage": "mainCardImage__250d5",
@@ -12355,6 +12356,13 @@
     "smallTitle": "smallTitle__250d5",
     "description": "description__250d5",
     "descriptionFade": "descriptionFade__250d5",
+    "embedContentArea": "embedContentArea__250d5",
+    "embedAuthorRow": "embedAuthorRow__250d5",
+    "embedAuthorIcon": "embedAuthorIcon__250d5",
+    "embedProviderIcon": "embedProviderIcon__250d5",
+    "embedImageContainer": "embedImageContainer__250d5",
+    "embedImage": "embedImage__250d5",
+    "embedSourceUrl": "embedSourceUrl__250d5",
     "metadataRow": "metadataRow__250d5",
     "reactionInfo": "reactionInfo__250d5"
   },
@@ -13412,7 +13420,8 @@
     "contentCollapsedBackgroundWrapper": "contentCollapsedBackgroundWrapper__24e2c",
     "contentCollapsedBackground": "contentCollapsedBackground__24e2c",
     "blur": "blur__24e2c",
-    "instructionRow": "instructionRow__24e2c"
+    "instructionRow": "instructionRow__24e2c",
+    "ctaButtons": "ctaButtons__24e2c"
   },
   "496569": {
     "productCardContainer": "productCardContainer_fcbddd",
@@ -14239,7 +14248,6 @@
     "searchContainer": "searchContainer_a7218d"
   },
   "519508": {
-    "ctaButtons": "ctaButtons_cc03e1",
     "cta": "cta_cc03e1"
   },
   "519560": {
