@@ -1,9 +1,9 @@
 {
   "host": {
-  "version": "1.0.943 x64 (81829)"
+  "version": "1.0.943 x64 (81855)"
   },
   "channel": {
-  "canary": "540585 (34fd880)"
+  "canary": "540840 (65aa33d)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -5638,11 +5638,6 @@
     "vertical": "vertical_ad58e7",
     "tileContainer": "tileContainer_ad58e7"
   },
-  "221124": {
-    "wrapper": "wrapper__3fa5b",
-    "inner": "inner__3fa5b",
-    "icon": "icon__3fa5b"
-  },
   "221308": {
     "text-sm/normal": "text-sm/normal__6ec1a",
     "topic": "topic__6ec1a text-sm/normal__6ec1a",
@@ -5924,12 +5919,17 @@
     "addFriendInputWrapper": "addFriendInputWrapper__72ba7",
     "error": "error__72ba7",
     "success": "success__72ba7",
+    "errorWithBg": "errorWithBg__72ba7",
+    "addFriendUsernameRow": "addFriendUsernameRow__72ba7",
     "addFriendWumpusWrapper": "addFriendWumpusWrapper__72ba7",
     "inputText": "inputText__72ba7",
     "addFriendInput": "addFriendInput__72ba7 inputText__72ba7",
     "input": "input__72ba7 inputText__72ba7",
     "addFriendHint": "addFriendHint__72ba7 inputText__72ba7",
-    "ring": "ring__72ba7"
+    "ring": "ring__72ba7",
+    "friendNoteTextContainer": "friendNoteTextContainer__72ba7",
+    "friendNoteTextArea": "friendNoteTextArea__72ba7 inputText__72ba7",
+    "characterCount": "characterCount__72ba7"
   },
   "235684": {
     "container": "container_f6db19"
@@ -12610,7 +12610,8 @@
   },
   "475135": {
     "wrapper": "wrapper__02fc8",
-    "inner": "inner__02fc8"
+    "inner": "inner__02fc8",
+    "applicationIcon": "applicationIcon__02fc8"
   },
   "475249": {
     "container": "container_d63405",
@@ -14326,7 +14327,9 @@
     "listItemContents": "listItemContents_e1ecd3",
     "actions": "actions_e1ecd3",
     "staffIndicator": "staffIndicator_e1ecd3",
-    "applicationSublabel": "applicationSublabel_e1ecd3"
+    "applicationSublabel": "applicationSublabel_e1ecd3",
+    "noteSpoiler": "noteSpoiler_e1ecd3",
+    "noteText": "noteText_e1ecd3"
   },
   "525748": {
     "container": "container__551b0",
