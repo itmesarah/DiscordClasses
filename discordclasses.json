@@ -1,9 +1,9 @@
 {
   "host": {
-  "version": "1.0.944 x64 (81890)"
+  "version": "1.0.944 x64 (81897)"
   },
   "channel": {
-  "canary": "541141 (72f2eb2)"
+  "canary": "541193 (67eaa0e)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
