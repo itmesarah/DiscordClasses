@@ -3,7 +3,7 @@
   "version": "1.0.944 x64 (81935)"
   },
   "channel": {
-  "canary": "541634 (aa40056)"
+  "canary": "541717 (c5ebd2c)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -9254,6 +9254,9 @@
     "sectionDescription": "sectionDescription__32534",
     "spinnerContainer": "spinnerContainer__32534",
     "clipsRow": "clipsRow__32534"
+  },
+  "352639": {
+    "storeLinksContainer": "storeLinksContainer__4177a"
   },
   "352709": {
     "wrapper": "wrapper__33d12",
