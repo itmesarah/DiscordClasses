@@ -1,9 +1,9 @@
 {
   "host": {
-    "version": "1.0.944 x64 (82004)"
+    "version": "1.0.945 x64 (82033)"
   },
   "channel": {
-  "canary": "541924 (d4aee49)"
+  "canary": "542129 (94c43b2)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -198,7 +198,7 @@
     "defaultProgressToPlayheadTheme": "defaultProgressToPlayheadTheme__68788",
     "bufferedBar": "bufferedBar__68788",
     "seekableBar": "seekableBar__68788",
-    "timeDisplay": "timeDisplay__68788",
+    "timelineTooltip": "timelineTooltip__68788",
     "playhead": "playhead__68788",
     "segmentContainer": "segmentContainer__68788",
     "segmentMask": "segmentMask__68788",
@@ -7470,7 +7470,8 @@
   "298387": {
     "gradient": "gradient_f11c9b",
     "swatchButton": "swatchButton_f11c9b",
-    "swatchInner": "swatchInner_f11c9b"
+    "swatchInner": "swatchInner_f11c9b",
+    "isLowContrast": "isLowContrast_f11c9b"
   },
   "299279": {
     "previewTotalSectionContainer": "previewTotalSectionContainer_b41cc5",
@@ -7933,8 +7934,10 @@
   },
   "311809": {
     "advancedModeDivider": "advancedModeDivider__4914c",
+    "trigger": "trigger__4914c",
     "advancedTitle": "advancedTitle__4914c",
-    "titleCaret": "titleCaret__4914c"
+    "titleCaret": "titleCaret__4914c",
+    "panel": "panel__4914c"
   },
   "312042": {
     "headerContainer": "headerContainer_f11d9e",
@@ -8279,10 +8282,10 @@
     "staple": "staple__7d80f",
     "top": "top__7d80f",
     "bottom": "bottom__7d80f",
-    "border": "border__7d80f",
     "rail": "rail__7d80f",
     "center": "center__7d80f",
-    "responsive": "responsive__7d80f"
+    "responsive": "responsive__7d80f",
+    "border": "border__7d80f"
   },
   "326112": {
     "libraryFilter": "libraryFilter__3fb48",
@@ -14969,6 +14972,9 @@
     "nameplateItem": "nameplateItem__042c9",
     "nameplateItemOverlay": "nameplateItemOverlay__042c9",
     "selected": "selected__042c9"
+  },
+  "552140": {
+    "container": "container_dbbcb5"
   },
   "552437": {
     "fadeIn": "fadeIn_a3c1e1",
@@ -24670,9 +24676,8 @@
   "935377": {
     "paymentElementStoryContainer": "paymentElementStoryContainer__1f918",
     "paymentElementStepModalBody": "paymentElementStepModalBody__1f918",
-    "fullLengthPaymentElementStepModalBody": "fullLengthPaymentElementStepModalBody__1f918",
-    "paymentElementContainer": "paymentElementContainer__1f918",
-    "fullLengthPaymentElementContainer": "fullLengthPaymentElementContainer__1f918"
+    "fullLengthPaymentElementStepModalBody": "fullLengthPaymentElementStepModalBody__1f918 paymentElementStepModalBody__1f918",
+    "paymentElementContainer": "paymentElementContainer__1f918"
   },
   "935824": {
     "container": "container__955a3",
