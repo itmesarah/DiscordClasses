@@ -3,7 +3,7 @@
     "version": "1.0.950 x64 (82210)"
   },
   "channel": {
-  "canary": "543626 (541fab1)"
+  "canary": "543837 (3d86d8a)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -4931,7 +4931,6 @@
     "container": "container__34c2c",
     "header": "header__34c2c",
     "reactButtons": "reactButtons__34c2c",
-    "loading": "loading__34c2c",
     "reportedMessageActions": "reportedMessageActions__34c2c",
     "addReactButton": "addReactButton__34c2c",
     "hasNoReactions": "hasNoReactions__34c2c",
@@ -16124,9 +16123,6 @@
     "inviteButton": "inviteButton__553a5",
     "titleWrapper": "titleWrapper__553a5"
   },
-  "589624": {
-    "countryFlagEmoji": "countryFlagEmoji__22b86"
-  },
   "589753": {
     "container": "container_c2b141",
     "keybind": "keybind_c2b141",
@@ -17014,13 +17010,6 @@
     "image": "image__2abba",
     "wiggling": "wiggling__2abba",
     "header": "header__2abba"
-  },
-  "624349": {
-    "storeCountryRow": "storeCountryRow_e5cf01",
-    "countryBlock": "countryBlock_e5cf01",
-    "countryInfo": "countryInfo_e5cf01",
-    "flagWrapper": "flagWrapper_e5cf01",
-    "flagIcon": "flagIcon_e5cf01"
   },
   "624411": {
     "moonIcon": "moonIcon__1fc68",
@@ -23928,7 +23917,8 @@
     "titleDivider": "titleDivider_dcc822"
   },
   "900601": {
-    "pill": "pill_ebc727"
+    "pill": "pill_ebc727",
+    "crepe": "crepe_ebc727"
   },
   "900610": {
     "header": "header__659bf",
