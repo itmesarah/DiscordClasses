@@ -3,7 +3,7 @@
     "version": "1.0.952 x64 (82335)"
   },
   "channel": {
-  "canary": "544910 (f3cd155)"
+  "canary": "544958 (064cf27)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -16053,6 +16053,8 @@
     "tab": "tab__354ec",
     "tabContent": "tabContent__354ec",
     "tabWithChevron": "tabWithChevron__354ec",
+    "tabWithDisclosure": "tabWithDisclosure__354ec",
+    "disclosure": "disclosure__354ec",
     "more": "more__354ec",
     "tabWithIcon": "tabWithIcon__354ec",
     "newBadge": "newBadge__354ec"
