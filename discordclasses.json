@@ -1,9 +1,9 @@
 {
   "host": {
-    "version": "1.0.953 x64 (82371)"
+    "version": "1.0.953 x64 (82379)"
   },
   "channel": {
-  "canary": "545057 (5c378dc)"
+  "canary": "545125 (8a68772)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -3873,6 +3873,13 @@
     "timeBar": "timeBar__4364d",
     "activityClickable": "activityClickable__4364d",
     "title": "title__4364d"
+  },
+  "145339": {
+    "entry": "entry_cd9a44",
+    "action": "action_cd9a44",
+    "shortcut": "shortcut_cd9a44",
+    "controls": "controls_cd9a44",
+    "switchChannel": "switchChannel_cd9a44"
   },
   "146003": {
     "row": "row__28071",
