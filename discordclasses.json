@@ -1,9 +1,9 @@
 {
   "host": {
-    "version": "1.0.952 x64 (82317)"
+    "version": "1.0.952 x64 (82335)"
   },
   "channel": {
-  "canary": "544751 (ae950d1)"
+  "canary": "544864 (fc7b531)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -12519,8 +12519,7 @@
   },
   "466681": {
     "previewCard": "previewCard_ee133f",
-    "previewBackgroundImage": "previewBackgroundImage_ee133f",
-    "previewEffectImage": "previewEffectImage_ee133f"
+    "previewBackgroundImage": "previewBackgroundImage_ee133f"
   },
   "466745": {
     "emptySearchResultsContainer": "emptySearchResultsContainer_fffcb4",
@@ -16014,6 +16013,11 @@
     "boostIcon": "boostIcon__7402e",
     "boostIconCanceled": "boostIconCanceled__7402e",
     "snowflake": "snowflake__7402e"
+  },
+  "583144": {
+    "trigger": "trigger__5d51e",
+    "logo": "logo__5d51e",
+    "placeholder": "placeholder__5d51e"
   },
   "584105": {
     "streamerModeEnabled": "streamerModeEnabled_aa3ffd",
@@ -20377,10 +20381,6 @@
     "iconPlay": "iconPlay__926d7 icon__926d7",
     "iconExternal": "iconExternal__926d7 icon__926d7",
     "iconExternalMargins": "iconExternalMargins__926d7 icon__926d7"
-  },
-  "756699": {
-    "subtext": "subtext_a90f4d",
-    "channelIcon": "channelIcon_a90f4d"
   },
   "756925": {
     "wrapper": "wrapper__4106a"
@@ -25246,6 +25246,17 @@
     "guildCategorySeparator": "guildCategorySeparator__3ad28",
     "standardStickerShortcut": "standardStickerShortcut__3ad28",
     "invisibleShortcut": "invisibleShortcut__3ad28"
+  },
+  "951259": {
+    "headerContainer": "headerContainer__57bc9",
+    "shopHomeButton": "shopHomeButton__57bc9",
+    "divider": "divider__57bc9",
+    "dropdown": "dropdown__57bc9",
+    "titles": "titles__57bc9",
+    "titleWrapper": "titleWrapper__57bc9",
+    "pageTitleContainer": "pageTitleContainer__57bc9",
+    "selectedPageIndicator": "selectedPageIndicator__57bc9",
+    "iconButton": "iconButton__57bc9"
   },
   "952311": {
     "container": "container__81040",
