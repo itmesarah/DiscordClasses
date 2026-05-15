@@ -3,7 +3,7 @@
     "version": "1.0.952 x64 (82335)"
   },
   "channel": {
-  "canary": "544864 (fc7b531)"
+  "canary": "544910 (f3cd155)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -1750,6 +1750,7 @@
   "63639": {
     "closeButton": "closeButton__23c09",
     "modal": "modal__23c09",
+    "refWrapper": "refWrapper__23c09",
     "modalContent": "modalContent__23c09",
     "leftPanel": "leftPanel__23c09",
     "rightPanel": "rightPanel__23c09",
@@ -23632,7 +23633,6 @@
     "iconAlignCenter": "iconAlignCenter__4e9aa",
     "iconAlignRight": "iconAlignRight__4e9aa",
     "deleteButtonWrapper": "deleteButtonWrapper__4e9aa",
-    "overlayIconBounceIn": "overlayIconBounceIn__4e9aa",
     "overlayIcon": "overlayIcon__4e9aa"
   },
   "890321": {
