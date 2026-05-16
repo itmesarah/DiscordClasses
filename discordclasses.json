@@ -1,9 +1,9 @@
 {
   "host": {
-    "version": "1.0.953 x64 (82379)"
+    "version": "1.0.954 x64 (82451)"
   },
   "channel": {
-  "canary": "545125 (8a68772)"
+  "canary": "545789 (7f5fa42)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -2576,8 +2576,7 @@
     "soundEmojiContainer": "soundEmojiContainer_d54fab",
     "refresh": "refresh_d54fab",
     "animation": "animation_d54fab",
-    "spinner": "spinner_d54fab",
-    "giftBoxOptionContainer": "giftBoxOptionContainer_d54fab"
+    "spinner": "spinner_d54fab"
   },
   "93072": {
     "iconContainer": "iconContainer__45eb7",
@@ -2721,6 +2720,7 @@
     "closeButton": "closeButton__9c640"
   },
   "97451": {
+    "modalContainer": "modalContainer__38295",
     "editorPane": "editorPane__38295",
     "editorContent": "editorContent__38295",
     "displayVideo": "displayVideo__38295",
@@ -8299,6 +8299,7 @@
     "featureIcon": "featureIcon__7dd5e",
     "featureHeader": "featureHeader__7dd5e",
     "featuredText": "featuredText__7dd5e",
+    "infoIconWrapper": "infoIconWrapper__7dd5e",
     "infoIcon": "infoIcon__7dd5e",
     "button": "button__7dd5e"
   },
@@ -11857,7 +11858,8 @@
     "attachmentItemSmall": "attachmentItemSmall__41ea0",
     "actionBarIcon": "actionBarIcon__41ea0",
     "action": "action__41ea0",
-    "clipOverlayHeader": "clipOverlayHeader__41ea0"
+    "clipOverlayHeader": "clipOverlayHeader__41ea0",
+    "clipOverlayHeaderContent": "clipOverlayHeaderContent__41ea0"
   },
   "443263": {
     "sidebar": "sidebar__409aa",
@@ -24174,6 +24176,7 @@
     "checklistRow": "checklistRow_f0dcaf",
     "checklistIcon": "checklistIcon_f0dcaf",
     "icon": "icon_f0dcaf",
+    "infoIconWrapper": "infoIconWrapper_f0dcaf",
     "roleRow": "roleRow_f0dcaf",
     "roleDot": "roleDot_f0dcaf",
     "roleName": "roleName_f0dcaf",
@@ -24806,6 +24809,7 @@
     "headerCaption": "headerCaption__50e4e",
     "form": "form__50e4e",
     "icon": "icon__50e4e",
+    "infoIconWrapper": "infoIconWrapper__50e4e",
     "header": "header__50e4e",
     "checkboxOption": "checkboxOption__50e4e",
     "disabled": "disabled__50e4e",
@@ -25141,7 +25145,6 @@
     "submitButton": "submitButton_b962dc",
     "formItem": "formItem_b962dc",
     "resendButtonContainer": "resendButtonContainer_b962dc",
-    "notice": "notice_b962dc",
     "disclaimerFooter": "disclaimerFooter_b962dc",
     "guildProfile": "guildProfile_b962dc",
     "sidebarGradientOverlay": "sidebarGradientOverlay_b962dc"
@@ -25688,6 +25691,8 @@
     "overrideHeader": "overrideHeader__856b5 lighten__856b5",
     "header": "header__856b5",
     "channelNotificationHeaders": "channelNotificationHeaders__856b5",
+    "headerNameCell": "headerNameCell__856b5",
+    "headerOptionCell": "headerOptionCell__856b5",
     "headerName": "headerName__856b5 header__856b5",
     "headerOption": "headerOption__856b5 header__856b5",
     "channelNameContainer": "channelNameContainer__856b5",
