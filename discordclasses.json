@@ -3,7 +3,7 @@
     "version": "1.0.954 x64 (82451)"
   },
   "channel": {
-  "canary": "545920 (f13db7f)"
+  "canary": "546023 (d14ae7b)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -4999,7 +4999,14 @@
     "footerSupportedPlatformIconsContainer": "footerSupportedPlatformIconsContainer__403f1",
     "footerSupportedPlatformIconContainer": "footerSupportedPlatformIconContainer__403f1",
     "footerSupportedPlatformText": "footerSupportedPlatformText__403f1",
-    "inlineApplicationText": "inlineApplicationText__403f1"
+    "compactEmbed": "compactEmbed__403f1",
+    "compactHeader": "compactHeader__403f1",
+    "compactContent": "compactContent__403f1",
+    "compactIcon": "compactIcon__403f1",
+    "compactInfo": "compactInfo__403f1",
+    "compactAppName": "compactAppName__403f1",
+    "compactExpired": "compactExpired__403f1",
+    "blockedEmbed": "blockedEmbed__403f1"
   },
   "193270": {
     "svgContentRight": "svgContentRight__7b484",
@@ -15336,9 +15343,6 @@
   },
   "561920": {
     "confirmationText": "confirmationText_cbd4f3"
-  },
-  "562248": {
-    "notice": "notice_c15d44"
   },
   "562296": {
     "container": "container__960ef",
