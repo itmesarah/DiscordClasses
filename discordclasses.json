@@ -1,9 +1,9 @@
 {
   "host": {
-    "version": "1.0.959 x64 (82637)"
+    "version": "1.0.963 x64 (82727)"
   },
   "channel": {
-  "canary": "547451 (2fdf62b)"
+  "canary": "548306 (a1935c3)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -1030,8 +1030,7 @@
   },
   "32304": {
     "container": "container__343c1",
-    "sectionWrapper": "sectionWrapper__343c1",
-    "hidden": "hidden__343c1"
+    "sectionWrapper": "sectionWrapper__343c1"
   },
   "32589": {
     "divider": "divider__98b95",
@@ -4308,6 +4307,11 @@
     "badgesContainerPopout": "badgesContainerPopout__635ed",
     "appWidgetPreviewIcon": "appWidgetPreviewIcon__635ed"
   },
+  "164720": {
+    "stickyMessage": "stickyMessage__451f5",
+    "scroller": "scroller__451f5",
+    "divider": "divider__451f5"
+  },
   "165553": {
     "container": "container__935b3",
     "titleContainer": "titleContainer__935b3",
@@ -4460,10 +4464,11 @@
   },
   "168642": {
     "systemMessageContainer": "systemMessageContainer_df65b5",
-    "icon": "icon_df65b5",
     "timestamp": "timestamp_df65b5",
+    "timestampLegacy": "timestampLegacy_df65b5",
     "boostMessage": "boostMessage_df65b5",
-    "boostMessageUser": "boostMessageUser_df65b5"
+    "boostMessageUser": "boostMessageUser_df65b5",
+    "boostMessageText": "boostMessageText_df65b5"
   },
   "168803": {
     "panel": "panel_cd7bbe"
@@ -6906,9 +6911,14 @@
   },
   "269999": {
     "reward": "reward_e3f38d",
+    "textContainer": "textContainer_e3f38d",
     "rewardTileContainer": "rewardTileContainer_e3f38d",
+    "questRewardTileWrapper": "questRewardTileWrapper_e3f38d",
     "orbsBalanceIcon": "orbsBalanceIcon_e3f38d",
-    "gameTitle": "gameTitle_e3f38d"
+    "gameTitle": "gameTitle_e3f38d",
+    "questRewardTileOverlay": "questRewardTileOverlay_e3f38d",
+    "questRewardTileCompletedIcon": "questRewardTileCompletedIcon_e3f38d",
+    "questRewardTileExpiredIcon": "questRewardTileExpiredIcon_e3f38d"
   },
   "270082": {
     "button": "button__67645",
@@ -13270,7 +13280,9 @@
     "rarityCard": "rarityCard__6db38",
     "descriptionCard": "descriptionCard__6db38",
     "descriptionCardHeader": "descriptionCardHeader__6db38",
+    "descriptionTextGroup": "descriptionTextGroup__6db38",
     "descriptionText": "descriptionText__6db38",
+    "legacyLabel": "legacyLabel__6db38",
     "descriptionDivider": "descriptionDivider__6db38",
     "nitroTierUnlockDescription": "nitroTierUnlockDescription__6db38",
     "nitroTierGrid": "nitroTierGrid__6db38",
@@ -16903,9 +16915,13 @@
     "currentPrice": "currentPrice_da8ac7",
     "strikethroughPrice": "strikethroughPrice_da8ac7",
     "originalPrice": "originalPrice_da8ac7",
+    "iconDefaultBackground": "iconDefaultBackground_da8ac7",
     "icon": "icon_da8ac7",
     "expressiveGradient": "expressiveGradient_da8ac7",
+    "nitroGradient": "nitroGradient_da8ac7",
+    "nitroGradientLayer": "nitroGradientLayer_da8ac7",
     "nitroCredit": "nitroCredit_da8ac7",
+    "nitroBasic": "nitroBasic_da8ac7",
     "bundleMiniStaticPreview": "bundleMiniStaticPreview_da8ac7",
     "purchaseItemImage": "purchaseItemImage_da8ac7"
   },
@@ -18349,8 +18365,6 @@
     "fadeIn": "fadeIn_cb32c7",
     "disableFadeIn": "disableFadeIn_cb32c7",
     "bannerUpperRightContainer": "bannerUpperRightContainer_cb32c7",
-    "promotedLabelWrapperBanner": "promotedLabelWrapperBanner_cb32c7",
-    "promotedLabelWrapperNonBanner": "promotedLabelWrapperNonBanner_cb32c7",
     "appDetailsContainer": "appDetailsContainer_cb32c7",
     "appDetails": "appDetails_cb32c7",
     "appDetailsHeaderContainer": "appDetailsHeaderContainer_cb32c7",
@@ -22457,8 +22471,8 @@
   "834312": {
     "root": "root__5ab06",
     "header": "header__5ab06",
-    "imageSkeleton": "imageSkeleton__5ab06",
-    "image": "image__5ab06"
+    "image": "image__5ab06",
+    "imageSkeleton": "imageSkeleton__5ab06"
   },
   "834581": {
     "safetyBanner": "safetyBanner__51e4d",
@@ -23729,12 +23743,13 @@
     "tileButton": "tileButton__4e9aa",
     "disabled": "disabled__4e9aa",
     "content": "content__4e9aa",
-    "dimmed": "dimmed__4e9aa",
     "overlay": "overlay__4e9aa",
+    "isInteracting": "isInteracting__4e9aa",
     "iconContainer": "iconContainer__4e9aa",
     "iconAlignCenter": "iconAlignCenter__4e9aa",
     "iconAlignRight": "iconAlignRight__4e9aa",
     "deleteButtonWrapper": "deleteButtonWrapper__4e9aa",
+    "resetButton": "resetButton__4e9aa",
     "overlayIcon": "overlayIcon__4e9aa"
   },
   "890321": {
@@ -25046,6 +25061,7 @@
   },
   "938800": {
     "container": "container__3c20e",
+    "pageTitle": "pageTitle__3c20e",
     "sectionCard": "sectionCard__3c20e",
     "section": "section__3c20e",
     "header": "header__3c20e",
