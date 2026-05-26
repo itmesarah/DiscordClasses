@@ -1,9 +1,9 @@
 {
   "host": {
-    "version": "1.0.965 x64 (83016)"
+    "version": "1.0.965 x64 (83076)"
   },
   "channel": {
-  "canary": "550193 (8f85e85)"
+  "canary": "550397 (29093ef)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -16485,13 +16485,6 @@
     "headingCard": "headingCard__92059",
     "emptyState": "emptyState__92059"
   },
-  "601884": {
-    "row": "row__70e41",
-    "avatarWrapper": "avatarWrapper__70e41",
-    "clockBadge": "clockBadge__70e41",
-    "label": "label__70e41",
-    "username": "username__70e41"
-  },
   "601961": {
     "inviteDetailsContainer": "inviteDetailsContainer_da5e8d",
     "clickable": "clickable_da5e8d",
@@ -18636,23 +18629,6 @@
     "healthPending": "healthPending__99871",
     "healthFailingDescription": "healthFailingDescription__99871",
     "indent": "indent__99871"
-  },
-  "672680": {
-    "container": "container__243fe",
-    "popoutHeader": "popoutHeader__243fe",
-    "channelName": "channelName__243fe",
-    "historyListHeader": "historyListHeader__243fe",
-    "historyList": "historyList__243fe",
-    "historyListRows": "historyListRows__243fe",
-    "eventRow": "eventRow__243fe",
-    "eventConnector": "eventConnector__243fe",
-    "eventIconContainer": "eventIconContainer__243fe",
-    "eventIcon": "eventIcon__243fe",
-    "eventContent": "eventContent__243fe",
-    "eventHeader": "eventHeader__243fe",
-    "activityHeader": "activityHeader__243fe",
-    "eventHeaderUsername": "eventHeaderUsername__243fe",
-    "eventTime": "eventTime__243fe"
   },
   "672743": {
     "textPrimary": "textPrimary__8e577",
@@ -24208,6 +24184,10 @@
   },
   "900719": {
     "card": "card_abfd90",
+    "cardFlairWrapper": "cardFlairWrapper_abfd90",
+    "cardFlairGlow": "cardFlairGlow_abfd90",
+    "cardFlairGlowAlwaysOn": "cardFlairGlowAlwaysOn_abfd90",
+    "cardFlairGlowOnHover": "cardFlairGlowOnHover_abfd90",
     "cardMedium": "cardMedium_abfd90",
     "cardSmall": "cardSmall_abfd90",
     "cardImageContainer": "cardImageContainer_abfd90",
