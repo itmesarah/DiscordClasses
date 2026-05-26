@@ -1,9 +1,9 @@
 {
   "host": {
-    "version": "1.0.965 x64 (83077)"
+    "version": "1.0.965 x64 (83087)"
   },
   "channel": {
-  "canary": "550473 (c3a3fc9)"
+  "canary": "550577 (120b3e9)"
   },
   "182": {
     "cards": "cards__1bfce",
