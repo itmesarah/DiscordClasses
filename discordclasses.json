@@ -3,7 +3,7 @@
     "version": "1.0.968 x64 (83135)"
   },
   "channel": {
-  "canary": "551445 (517eaa7)"
+  "canary": "551599 (ce0ae73)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -11400,9 +11400,12 @@
     "gridViewBanner": "gridViewBanner_f369db",
     "placeholder": "placeholder_f369db",
     "mainCard": "mainCard_f369db",
+    "mainCardContainer": "mainCardContainer_f369db",
+    "gameInvitesHeaderContainer": "gameInvitesHeaderContainer_f369db",
     "emptyMainCard": "emptyMainCard_f369db",
     "outOfDate": "outOfDate_f369db",
     "header": "header_f369db",
+    "headerContainer": "headerContainer_f369db",
     "headerWithMatchingPosts": "headerWithMatchingPosts_f369db",
     "noForm": "noForm_f369db",
     "sortContainer": "sortContainer_f369db",
@@ -24134,6 +24137,7 @@
     "header": "header_df4c28",
     "headerDivider": "headerDivider_df4c28",
     "headerRight": "headerRight_df4c28",
+    "copyLinkSplit": "copyLinkSplit_df4c28",
     "sidebar": "sidebar_df4c28",
     "page": "page_df4c28",
     "content": "content_df4c28",
