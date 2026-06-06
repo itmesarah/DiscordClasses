@@ -1,9 +1,9 @@
 {
   "host": {
-    "version": "1.0.972 x64 (83397)"
+    "version": "1.0.982 x64 (83851)"
   },
   "channel": {
-  "canary": "554046 (247ea7f)"
+  "canary": "558772 (c3a128e)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -220,6 +220,15 @@
     "row": "row__5808f",
     "separator": "separator__5808f"
   },
+  "6969": {
+    "grid": "grid_d87d30",
+    "placeholderCard": "placeholderCard_d87d30",
+    "placeholderImg": "placeholderImg_d87d30",
+    "emptyTierWrapper": "emptyTierWrapper_d87d30",
+    "unusedTierWrapper": "unusedTierWrapper_d87d30",
+    "emptyTierImage": "emptyTierImage_d87d30",
+    "unlockTierCtaHeading": "unlockTierCtaHeading_d87d30"
+  },
   "7921": {
     "bodyText": "bodyText__945b8",
     "planSelectText": "planSelectText__945b8",
@@ -272,12 +281,12 @@
     "divider": "divider__91f99"
   },
   "9934": {
-    "container": "container__50387",
+    "container": "container__50387 popover_d6f39b",
     "tabs": "tabs__50387",
     "tabBarItem": "tabBarItem__50387",
     "tabPanel": "tabPanel__50387",
     "tabPanelHidden": "tabPanelHidden__50387",
-    "debugPanelStandalone": "debugPanelStandalone__50387"
+    "debugPanelStandalone": "debugPanelStandalone__50387 popover_d6f39b"
   },
   "10185": {
     "translate": "translate_faf9c0",
@@ -530,6 +539,13 @@
   "15440": {
     "effect": "effect_e5f2cb",
     "effects": "effects_e5f2cb"
+  },
+  "15632": {
+    "nav": "nav__77616",
+    "navItem": "navItem__77616",
+    "navItemSelected": "navItemSelected__77616",
+    "navLabel": "navLabel__77616",
+    "navDecoration": "navDecoration__77616"
   },
   "16459": {
     "container": "container_ca98d9",
@@ -969,6 +985,10 @@
     "bypass": "bypass__1de14",
     "infoIcon": "infoIcon__1de14"
   },
+  "32122": {
+    "clipTileEnter": "clipTileEnter__5ff71",
+    "tileEnter": "tileEnter__5ff71"
+  },
   "32178": {
     "mask": "mask_ca5f52",
     "icon": "icon_ca5f52",
@@ -1029,7 +1049,8 @@
   },
   "32304": {
     "container": "container__343c1",
-    "sectionWrapper": "sectionWrapper__343c1"
+    "sectionWrapper": "sectionWrapper__343c1",
+    "sectionTitle": "sectionTitle__343c1"
   },
   "32589": {
     "divider": "divider__98b95",
@@ -2162,6 +2183,7 @@
     "stickerIcon": "stickerIcon_abd7a8"
   },
   "77085": {
+    "oldNote": "oldNote_eb110a",
     "note": "note_eb110a"
   },
   "78385": {
@@ -2271,6 +2293,7 @@
     "autocompleteRowContentPrimary": "autocompleteRowContentPrimary__13533",
     "autocompleteRowIcon": "autocompleteRowIcon__13533",
     "autocompleteRowHeading": "autocompleteRowHeading__13533",
+    "headingWithBadge": "headingWithBadge__13533",
     "autocompleteRowSubheading": "autocompleteRowSubheading__13533",
     "autocompleteRowContentSecondary": "autocompleteRowContentSecondary__13533",
     "base": "base__13533",
@@ -2379,11 +2402,10 @@
     "icon": "icon__6eb54"
   },
   "84391": {
-    "positionCenter": "positionCenter_e8605d",
-    "previewContainer": "previewContainer_e8605d",
-    "sampleProfile": "sampleProfile_e8605d",
-    "emptyPlaceholder": "emptyPlaceholder_e8605d",
-    "emptyPreviewBackgroundImage": "emptyPreviewBackgroundImage_e8605d"
+    "profilePreviewContainer": "profilePreviewContainer_e8605d",
+    "profileSkeletonImage": "profileSkeletonImage_e8605d",
+    "frameContainer": "frameContainer_e8605d",
+    "emptyPreview": "emptyPreview_e8605d"
   },
   "84476": {
     "button": "button_afdfcc",
@@ -2753,6 +2775,7 @@
     "modalContainer": "modalContainer__38295",
     "editorPane": "editorPane__38295",
     "editorContent": "editorContent__38295",
+    "editorMain": "editorMain__38295",
     "displayVideo": "displayVideo__38295",
     "displayScreenshot": "displayScreenshot__38295 displayVideo__38295",
     "clipsPlayer": "clipsPlayer__38295",
@@ -2769,11 +2792,19 @@
     "headerContainer": "headerContainer__101ad",
     "twoButtonContainer": "twoButtonContainer__101ad",
     "treatmentContainer": "treatmentContainer__101ad",
-    "treatmentLeftColumn": "treatmentLeftColumn__101ad",
+    "treatmentAContentColumn": "treatmentAContentColumn__101ad",
     "treatmentHeading": "treatmentHeading__101ad",
+    "treatmentCContentColumn": "treatmentCContentColumn__101ad",
+    "treatmentBContentColumn": "treatmentBContentColumn__101ad",
+    "treatmentHeadingB": "treatmentHeadingB__101ad",
     "treatmentContent": "treatmentContent__101ad",
-    "treatmentGraphic": "treatmentGraphic__101ad",
+    "treatmentAContent": "treatmentAContent__101ad",
+    "treatmentAArtContainer": "treatmentAArtContainer__101ad",
     "headerContainerB": "headerContainerB__101ad",
+    "treatmentBContent": "treatmentBContent__101ad",
+    "treatmentBArtContainer": "treatmentBArtContainer__101ad",
+    "treatmentCContent": "treatmentCContent__101ad",
+    "treatmentCReferralBanner": "treatmentCReferralBanner__101ad",
     "reverseTrialContainer": "reverseTrialContainer__101ad",
     "reverseTrialTextContainer": "reverseTrialTextContainer__101ad",
     "reverseTrialArtContainer": "reverseTrialArtContainer__101ad"
@@ -3224,7 +3255,6 @@
     "borderGradient": "borderGradient_a2332b",
     "tier0": "tier0_a2332b",
     "pillMargin": "pillMargin_a2332b",
-    "noGradient": "noGradient_a2332b",
     "wordmark": "wordmark_a2332b",
     "wumpus": "wumpus_a2332b",
     "inCard": "inCard_a2332b",
@@ -3507,13 +3537,12 @@
     "mockInput": "mockInput_c50f62",
     "mockInputButton": "mockInputButton_c50f62",
     "titleContainer": "titleContainer_c50f62",
+    "badgeContainer": "badgeContainer_c50f62",
     "description": "description_c50f62",
-    "framesEarlyAccessBadge": "framesEarlyAccessBadge_c50f62",
     "disclaimer": "disclaimer_c50f62",
     "disclaimerLight": "disclaimerLight_c50f62",
     "learnMoreLink": "learnMoreLink_c50f62",
     "priceTag": "priceTag_c50f62",
-    "priceTagContainer": "priceTagContainer_c50f62",
     "headingWithItemTypePill": "headingWithItemTypePill_c50f62",
     "disabledReason": "disabledReason_c50f62",
     "variantsContainer": "variantsContainer_c50f62",
@@ -3757,7 +3786,10 @@
     "guildIcon": "guildIcon_cfc01a",
     "selectButtonLabel": "selectButtonLabel_cfc01a",
     "selectButtonChevron": "selectButtonChevron_cfc01a",
-    "listbox": "listbox_cfc01a"
+    "listbox": "listbox_cfc01a",
+    "guildOptionRow": "guildOptionRow_cfc01a",
+    "guildOptionLeading": "guildOptionLeading_cfc01a",
+    "guildOptionText": "guildOptionText_cfc01a"
   },
   "138984": {
     "scroller": "scroller__16663",
@@ -4733,7 +4765,7 @@
     "pendingIncoming": "pendingIncoming_d2fc4f"
   },
   "176277": {
-    "popover": "popover__1bad5",
+    "popover": "popover__1bad5 popover_d6f39b",
     "inner": "inner__1bad5",
     "title": "title__1bad5",
     "list": "list__1bad5",
@@ -4770,10 +4802,17 @@
     "description": "description_bc0d35",
     "tip": "tip_bc0d35"
   },
+  "177435": {
+    "home": "home_ca0397",
+    "spinnerContainer": "spinnerContainer_ca0397",
+    "content": "content_ca0397",
+    "moreClips": "moreClips_ca0397"
+  },
   "178259": {
     "userTooltip": "userTooltip__6b453",
     "avatar": "avatar__6b453",
     "discriminator": "discriminator__6b453",
+    "icon": "icon__6b453",
     "tabular": "tabular__6b453"
   },
   "179906": {
@@ -4796,8 +4835,6 @@
   "180129": {
     "previewsContainerInner": "previewsContainerInner__4e635",
     "profileEffectPreviewsContainerInner": "profileEffectPreviewsContainerInner__4e635 previewsContainerInner__4e635",
-    "profileEffectScaledContainer": "profileEffectScaledContainer__4e635",
-    "profileEffectScaledInner": "profileEffectScaledInner__4e635",
     "nameplatePreviewContainerInner": "nameplatePreviewContainerInner__4e635 previewsContainerInner__4e635",
     "profilePreviewContainerWithChat": "profilePreviewContainerWithChat__4e635",
     "nameplatePreview": "nameplatePreview__4e635",
@@ -5348,13 +5385,17 @@
     "titleDescriptionContainer": "titleDescriptionContainer__38ccf",
     "mediaContainer": "mediaContainer__38ccf",
     "modalHeaderButtonsContainer": "modalHeaderButtonsContainer__38ccf",
-    "modalHeaderButton": "modalHeaderButton__38ccf",
+    "headerButtonBase": "headerButtonBase__38ccf",
+    "modalHeaderButton": "modalHeaderButton__38ccf headerButtonBase__38ccf",
     "wishlistButton": "wishlistButton__38ccf",
+    "goToShopButton": "goToShopButton__38ccf headerButtonBase__38ccf",
     "priceSectionContainer": "priceSectionContainer__38ccf",
     "salePriceRow": "salePriceRow__38ccf",
+    "salePriceRowSpaceBetween": "salePriceRowSpaceBetween__38ccf",
+    "fiatPriceDisplay": "fiatPriceDisplay__38ccf",
     "originalPrice": "originalPrice__38ccf",
     "discountBadge": "discountBadge__38ccf",
-    "orbsEarnedContainer": "orbsEarnedContainer__38ccf"
+    "orbsPriceDisplay": "orbsPriceDisplay__38ccf"
   },
   "199199": {
     "applicationIcon": "applicationIcon__2c2b3",
@@ -5377,6 +5418,14 @@
   "199267": {
     "toast": "toast__810c3",
     "icon": "icon__810c3"
+  },
+  "199558": {
+    "modal": "modal_aa8c67",
+    "refWrapper": "refWrapper_aa8c67",
+    "modalContent": "modalContent_aa8c67",
+    "leftPanel": "leftPanel_aa8c67",
+    "rightPanel": "rightPanel_aa8c67",
+    "spinner": "spinner_aa8c67"
   },
   "200252": {
     "column": "column__535e0",
@@ -5486,6 +5535,11 @@
   },
   "204865": {
     "roleDot": "roleDot__57082"
+  },
+  "205032": {
+    "previewArt": "previewArt_a2943b",
+    "previewArtThemed": "previewArtThemed_a2943b",
+    "previewOverlayImage": "previewOverlayImage_a2943b"
   },
   "205914": {
     "root": "root__9ee60"
@@ -5774,6 +5828,13 @@
     "targetGuildSoundboard": "targetGuildSoundboard__43dab",
     "themeOverrideDark": "themeOverrideDark__43dab"
   },
+  "215006": {
+    "purchasePlaceholder": "purchasePlaceholder__32d1b",
+    "avatarDecorationPreview": "avatarDecorationPreview__32d1b",
+    "nameplatePreview": "nameplatePreview__32d1b",
+    "profileFramePreview": "profileFramePreview__32d1b",
+    "profileFrameInner": "profileFrameInner__32d1b"
+  },
   "215011": {
     "drag": "drag__5c9fc",
     "root": "root__5c9fc",
@@ -5789,6 +5850,12 @@
     "exitDone": "exitDone__5c9fc",
     "exitActiveReducedMotion": "exitActiveReducedMotion__5c9fc",
     "exitDoneReducedMotion": "exitDoneReducedMotion__5c9fc"
+  },
+  "215400": {
+    "card": "card_b2d910",
+    "cardHeader": "cardHeader_b2d910",
+    "solo": "solo_b2d910",
+    "cardBody": "cardBody_b2d910"
   },
   "215431": {
     "descriptionText": "descriptionText__535f5",
@@ -5906,6 +5973,13 @@
     "textContent": "textContent_e60808",
     "connectedStatus": "connectedStatus_e60808"
   },
+  "221933": {
+    "container": "container__3f41e",
+    "containerActive": "containerActive__3f41e",
+    "content": "content__3f41e",
+    "diceIconAnimated": "diceIconAnimated__3f41e",
+    "spin": "spin__3f41e"
+  },
   "222209": {
     "thumbnailContainer": "thumbnailContainer__8bb30",
     "uploadThumbnailContainer": "uploadThumbnailContainer__8bb30",
@@ -5966,6 +6040,9 @@
     "pauseContainer": "pauseContainer_c38e9f",
     "pauseText": "pauseText_c38e9f",
     "toggle": "toggle_c38e9f"
+  },
+  "226236": {
+    "container": "container_b9c27d"
   },
   "226429": {
     "linkIcon": "linkIcon_a4b5f8",
@@ -6091,12 +6168,7 @@
     "isSticky": "isSticky__44061"
   },
   "233952": {
-    "container": "container__764d0",
-    "title": "title__764d0",
-    "subtitle": "subtitle__764d0",
-    "methodSelectSlot": "methodSelectSlot__764d0",
-    "checklistSlot": "checklistSlot__764d0",
-    "leftCtaSlot": "leftCtaSlot__764d0"
+    "checklistSlot": "checklistSlot__764d0"
   },
   "234580": {
     "carousel": "carousel__38359",
@@ -6223,21 +6295,9 @@
     "pricingSection": "pricingSection__85064",
     "priceTag": "priceTag__85064",
     "premiumPriceTag": "premiumPriceTag__85064",
-    "priceTagContainer": "priceTagContainer__85064",
     "disclaimer": "disclaimer__85064",
     "disclaimerLight": "disclaimerLight__85064",
     "orbIconAligned": "orbIconAligned__85064"
-  },
-  "237465": {
-    "container": "container__8b72b",
-    "heroDisplay": "heroDisplay__8b72b",
-    "partnerLogotypeContainer": "partnerLogotypeContainer__8b72b",
-    "partnerLogotype": "partnerLogotype__8b72b",
-    "partnerContentContainer": "partnerContentContainer__8b72b",
-    "partnerGameTile": "partnerGameTile__8b72b",
-    "partnerCopyContainer": "partnerCopyContainer__8b72b",
-    "partnerTitle": "partnerTitle__8b72b",
-    "rightCtaSlot": "rightCtaSlot__8b72b"
   },
   "237507": {
     "avatar": "avatar__8c0e2",
@@ -6564,6 +6624,22 @@
     "roleRowIconDefault": "roleRowIconDefault__23488",
     "slideForm": "slideForm__23488"
   },
+  "251287": {
+    "session": "session_ae7a4b",
+    "backdrop": "backdrop_ae7a4b",
+    "backdropFallback": "backdropFallback_ae7a4b",
+    "header": "header_ae7a4b",
+    "gameIcon": "gameIcon_ae7a4b",
+    "gameLink": "gameLink_ae7a4b",
+    "gameNameLink": "gameNameLink_ae7a4b",
+    "headerText": "headerText_ae7a4b",
+    "gameName": "gameName_ae7a4b",
+    "meta": "meta_ae7a4b",
+    "metaDot": "metaDot_ae7a4b",
+    "grid": "grid_ae7a4b",
+    "clipsRow": "clipsRow_ae7a4b",
+    "viewMore": "viewMore_ae7a4b"
+  },
   "251320": {
     "chooseServerTitle": "chooseServerTitle__2ac03",
     "infoIcon": "infoIcon__2ac03",
@@ -6603,7 +6679,9 @@
   },
   "253004": {
     "container": "container_b40158",
-    "spinner": "spinner_b40158"
+    "emptyState": "emptyState_b40158",
+    "spinner": "spinner_b40158",
+    "emptyStateImage": "emptyStateImage_b40158"
   },
   "253167": {
     "container": "container__44ee9",
@@ -6695,6 +6773,22 @@
     "channelNameText": "channelNameText_e2f0c6",
     "popoutContent": "popoutContent_e2f0c6"
   },
+  "255648": {
+    "container": "container_edf95e",
+    "partnerSection": "partnerSection_edf95e",
+    "subsectionLabel": "subsectionLabel_edf95e",
+    "rowId": "rowId_edf95e",
+    "rowMeta": "rowMeta_edf95e",
+    "statusBadge": "statusBadge_edf95e",
+    "statusActive": "statusActive_edf95e",
+    "statusInactive": "statusInactive_edf95e",
+    "rowActions": "rowActions_edf95e",
+    "row": "row_edf95e",
+    "empty": "empty_edf95e",
+    "linkForm": "linkForm_edf95e",
+    "linkFormHelp": "linkFormHelp_edf95e",
+    "errorText": "errorText_edf95e"
+  },
   "256023": {
     "microphoneUnit": "microphoneUnit__7f3d5",
     "microphoneUnitHeader": "microphoneUnitHeader__7f3d5",
@@ -6708,6 +6802,13 @@
   "256067": {
     "error": "error__71b12",
     "errorImage": "errorImage__71b12"
+  },
+  "256096": {
+    "container": "container__4b182",
+    "title": "title__4b182",
+    "subtitle": "subtitle__4b182",
+    "methodSelectSlot": "methodSelectSlot__4b182",
+    "leftCtaSlot": "leftCtaSlot__4b182"
   },
   "256177": {
     "container": "container_c791b2",
@@ -7003,8 +7104,12 @@
     "textContainer": "textContainer_e3f38d",
     "rewardTileContainer": "rewardTileContainer_e3f38d",
     "questRewardTileWrapper": "questRewardTileWrapper_e3f38d",
+    "questRewardTileWrapperUnenrolled": "questRewardTileWrapperUnenrolled_e3f38d",
+    "questRewardTile": "questRewardTile_e3f38d",
     "orbsBalanceIcon": "orbsBalanceIcon_e3f38d",
     "gameTitle": "gameTitle_e3f38d",
+    "rewardLine": "rewardLine_e3f38d",
+    "rewardText": "rewardText_e3f38d",
     "questRewardTileOverlay": "questRewardTileOverlay_e3f38d",
     "questRewardTileCompletedIcon": "questRewardTileCompletedIcon_e3f38d",
     "questRewardTileExpiredIcon": "questRewardTileExpiredIcon_e3f38d"
@@ -7385,6 +7490,9 @@
     "sidebarContent": "sidebarContent_cbd375",
     "sidebarLanguageSelect": "sidebarLanguageSelect_cbd375"
   },
+  "284809": {
+    "container": "container__894c3"
+  },
   "285618": {
     "channelName": "channelName_cb862a",
     "unread": "unread_cb862a",
@@ -7606,21 +7714,6 @@
     "icon": "icon__8a7fc",
     "iconButton": "iconButton__8a7fc",
     "floatingSearchTabsMask": "floatingSearchTabsMask__8a7fc"
-  },
-  "296364": {
-    "cardContainer": "cardContainer__01785",
-    "card": "card__01785",
-    "thumbnail": "thumbnail__01785",
-    "thumbnailWrap": "thumbnailWrap__01785",
-    "thumbnailFallback": "thumbnailFallback__01785",
-    "gradient": "gradient__01785",
-    "gameBadge": "gameBadge__01785",
-    "topActions": "topActions__01785",
-    "gameBadgeIcon": "gameBadgeIcon__01785",
-    "overlay": "overlay__01785",
-    "iconBadge": "iconBadge__01785",
-    "actionsPlaceholder": "actionsPlaceholder__01785",
-    "actions": "actions__01785"
   },
   "296589": {
     "paymentNote": "paymentNote__56a21"
@@ -8113,9 +8206,11 @@
   },
   "311394": {
     "container": "container__54676",
+    "containerFocused": "containerFocused__54676",
+    "containerClosingNav": "containerClosingNav__54676",
+    "containerClosingReturn": "containerClosingReturn__54676",
     "messageMask": "messageMask__54676",
     "visible": "visible__54676",
-    "containerFocused": "containerFocused__54676",
     "hoverZone": "hoverZone__54676",
     "panel": "panel__54676",
     "panelCollapsed": "panelCollapsed__54676",
@@ -8226,6 +8321,15 @@
     "pfxListItemFooter": "pfxListItemFooter__21b7c",
     "sampleProfilePreview": "sampleProfilePreview__21b7c"
   },
+  "314489": {
+    "container": "container__9b328",
+    "video": "video__9b328",
+    "content": "content__9b328",
+    "heading": "heading__9b328",
+    "body": "body__9b328",
+    "ctaRow": "ctaRow__9b328",
+    "art": "art__9b328"
+  },
   "314649": {
     "avatarAnimation": "avatarAnimation_abf1df",
     "spinningAvatar": "spinningAvatar_abf1df",
@@ -8242,7 +8346,8 @@
   "315767": {
     "footerDescription": "footerDescription__44846",
     "questDescriptionText": "questDescriptionText__44846",
-    "footerPromotedRow": "footerPromotedRow__44846"
+    "footerPromotedRow": "footerPromotedRow__44846",
+    "premiumRewardGradient": "premiumRewardGradient__44846"
   },
   "316305": {
     "popoutItem": "popoutItem__40caf",
@@ -8294,6 +8399,8 @@
     "radioItemNameContainer": "radioItemNameContainer__220d4",
     "radioItemPrimaryItemsContainer": "radioItemPrimaryItemsContainer__220d4",
     "radioItemSecondaryItemsContainer": "radioItemSecondaryItemsContainer__220d4",
+    "radioItemSubTextRow": "radioItemSubTextRow__220d4",
+    "subTextStrikethrough": "subTextStrikethrough__220d4",
     "radioBar": "radioBar__220d4",
     "radioBarSelected": "radioBarSelected__220d4",
     "discountBadge": "discountBadge__220d4"
@@ -8418,7 +8525,6 @@
   },
   "322836": {
     "fontCode": "fontCode__230d2",
-    "bold": "bold__230d2",
     "inlineTimestamp": "inlineTimestamp__230d2"
   },
   "322923": {
@@ -8496,13 +8602,14 @@
   "325409": {
     "profileFrameContainer": "profileFrameContainer__7d80f",
     "profileFrame": "profileFrame__7d80f",
+    "profileFrameMask": "profileFrameMask__7d80f",
+    "top": "top__7d80f",
+    "bottom": "bottom__7d80f",
     "profileFrameLayer": "profileFrameLayer__7d80f",
     "fadeIn": "fadeIn__7d80f",
     "front": "front__7d80f",
     "back": "back__7d80f",
     "staple": "staple__7d80f",
-    "top": "top__7d80f",
-    "bottom": "bottom__7d80f",
     "rail": "rail__7d80f",
     "center": "center__7d80f",
     "responsive": "responsive__7d80f",
@@ -8828,6 +8935,10 @@
     "inviterUserContainer": "inviterUserContainer__23437",
     "clickable": "clickable__23437",
     "footerAlignment": "footerAlignment__23437"
+  },
+  "334159": {
+    "nitroWheelLockup": "nitroWheelLockup__1f2d0",
+    "nitroWheelLockupLayer": "nitroWheelLockupLayer__1f2d0"
   },
   "334211": {
     "wrapper": "wrapper_c19a55",
@@ -9215,7 +9326,9 @@
     "reactors": "reactors_b7f4b4"
   },
   "344445": {
-    "container": "container_ae4343"
+    "container": "container_ae4343",
+    "guildThemeButtonGroup": "guildThemeButtonGroup_ae4343",
+    "guildThemeButton": "guildThemeButton_ae4343"
   },
   "344767": {
     "nitroTopDividerContainer": "nitroTopDividerContainer_b3fb5f",
@@ -9957,8 +10070,7 @@
   },
   "367414": {
     "container": "container__9fc7d",
-    "dndKeyboardHelpBar": "dndKeyboardHelpBar__9fc7d",
-    "pendingChangesNotice": "pendingChangesNotice__9fc7d"
+    "dndKeyboardHelpBar": "dndKeyboardHelpBar__9fc7d"
   },
   "367644": {
     "stepBody": "stepBody_a3d32e"
@@ -10237,7 +10349,7 @@
   },
   "380668": {
     "streamPreviewWrapper": "streamPreviewWrapper__0489e",
-    "streamPreview": "streamPreview__0489e",
+    "streamPreview": "streamPreview__0489e popover_d6f39b",
     "streamHeader": "streamHeader__0489e",
     "streamHeaderVoiceUserActivities": "streamHeaderVoiceUserActivities__0489e",
     "streamHeaderIcon": "streamHeaderIcon__0489e",
@@ -10478,8 +10590,8 @@
   },
   "387745": {
     "promotionalFooterBanner": "promotionalFooterBanner_e68795",
-    "bannerText": "bannerText_e68795",
-    "avatar": "avatar_e68795"
+    "avatar": "avatar_e68795",
+    "avatarLargeTilted": "avatarLargeTilted_e68795"
   },
   "387772": {
     "container": "container__040eb",
@@ -10610,7 +10722,6 @@
     "overlayTitleText": "overlayTitleText__2f4f7",
     "overlayButton": "overlayButton__2f4f7",
     "overlayIconsContainer": "overlayIconsContainer__2f4f7",
-    "reducedGap": "reducedGap__2f4f7",
     "overlayButtonContainer": "overlayButtonContainer__2f4f7",
     "hideWhenInactive": "hideWhenInactive__2f4f7",
     "titleIcon": "titleIcon__2f4f7",
@@ -10919,6 +11030,9 @@
     "closeButtonContainer": "closeButtonContainer_c28af8",
     "progressOverlay": "progressOverlay_c28af8"
   },
+  "399466": {
+    "modalButtons": "modalButtons_c01479"
+  },
   "400698": {
     "groupHeader": "groupHeader__5df34",
     "channelName": "channelName__5df34"
@@ -11146,6 +11260,11 @@
     "actionTextContainer": "actionTextContainer__6446f",
     "editChannel": "editChannel__6446f"
   },
+  "412460": {
+    "icon": "icon__1bb46 icon__6b453",
+    "iconWrapper": "iconWrapper__1bb46",
+    "name": "name__1bb46"
+  },
   "414135": {
     "body": "body__89307",
     "title": "title__89307",
@@ -11250,11 +11369,11 @@
     "arrow": "arrow_eb2cd2"
   },
   "415679": {
-    "container": "container_d7bc5d",
+    "container": "container_d7bc5d popover_d6f39b",
     "voiceChannelGiftingBreadcrumb": "voiceChannelGiftingBreadcrumb_d7bc5d",
     "voiceChannelRewardOfferNotice": "voiceChannelRewardOfferNotice_d7bc5d",
-    "experimentContainer": "experimentContainer_d7bc5d",
-    "scroller": "scroller_d7bc5d",
+    "experimentContainer": "experimentContainer_d7bc5d popover_d6f39b",
+    "scroller": "scroller_d7bc5d popover_d6f39b",
     "durationContainer": "durationContainer_d7bc5d",
     "text": "text_d7bc5d",
     "avatar": "avatar_d7bc5d"
@@ -11308,8 +11427,8 @@
   },
   "416497": {
     "footer": "footer__272c7",
-    "footerButton": "footerButton__272c7",
-    "footerContainer": "footerContainer__272c7"
+    "footerContainer": "footerContainer__272c7",
+    "footerButton": "footerButton__272c7"
   },
   "416620": {
     "container": "container_b7e1cb",
@@ -11989,15 +12108,6 @@
     "clipOverlayHeader": "clipOverlayHeader__41ea0",
     "clipOverlayHeaderContent": "clipOverlayHeaderContent__41ea0"
   },
-  "443042": {
-    "closeButton": "closeButton__17e4a",
-    "modal": "modal__17e4a",
-    "refWrapper": "refWrapper__17e4a",
-    "modalContent": "modalContent__17e4a",
-    "leftPanel": "leftPanel__17e4a",
-    "rightPanel": "rightPanel__17e4a",
-    "spinner": "spinner__17e4a"
-  },
   "443263": {
     "sidebar": "sidebar__409aa",
     "mobile": "mobile__409aa",
@@ -12108,9 +12218,9 @@
     "menuItemLabelText": "menuItemLabelText_ce8328",
     "menuItemInner": "menuItemInner_ce8328",
     "menuItemContent": "menuItemContent_ce8328",
+    "submenuIconWrapper": "submenuIconWrapper_ce8328",
     "menuItemLabel": "menuItemLabel_ce8328",
     "menuItemIcon": "menuItemIcon_ce8328",
-    "submenuIconWrapper": "submenuIconWrapper_ce8328",
     "submenuPaddingContainer": "submenuPaddingContainer_ce8328",
     "statusPickerModalMenu": "statusPickerModalMenu_ce8328",
     "themeContainer": "themeContainer_ce8328",
@@ -12232,8 +12342,13 @@
     "background": "background__59668",
     "backgroundActive": "backgroundActive__59668",
     "header": "header__59668",
+    "headerLeftContent": "headerLeftContent__59668",
     "eyebrow": "eyebrow__59668",
-    "scrollContainer": "scrollContainer__59668"
+    "title": "title__59668",
+    "headerRightContent": "headerRightContent__59668",
+    "scrollContainer": "scrollContainer__59668",
+    "cardWrapper": "cardWrapper__59668",
+    "cardSlot": "cardSlot__59668"
   },
   "452732": {
     "modalContent": "modalContent__2bb83",
@@ -12291,6 +12406,18 @@
     "container": "container__864dc",
     "waveformCanvas": "waveformCanvas__864dc",
     "loading": "loading__864dc"
+  },
+  "455873": {
+    "container": "container__59fad",
+    "body": "body__59fad",
+    "row": "row__59fad",
+    "rowHeader": "rowHeader__59fad",
+    "rowName": "rowName__59fad",
+    "rowOutcome": "rowOutcome__59fad",
+    "rowPath": "rowPath__59fad",
+    "rowMeta": "rowMeta__59fad",
+    "inlineCode": "inlineCode__59fad",
+    "empty": "empty__59fad"
   },
   "455923": {
     "secondaryButton": "secondaryButton__652ee",
@@ -12701,8 +12828,8 @@
     "container": "container_caf802"
   },
   "466681": {
-    "previewCard": "previewCard_ee133f",
-    "previewBackgroundImage": "previewBackgroundImage_ee133f"
+    "profilePreviewContainer": "profilePreviewContainer_ee133f",
+    "profileSkeletonImage": "profileSkeletonImage_ee133f"
   },
   "466745": {
     "emptySearchResultsContainer": "emptySearchResultsContainer_fffcb4",
@@ -12758,7 +12885,12 @@
     "embedImage": "embedImage__250d5",
     "embedSourceUrl": "embedSourceUrl__250d5",
     "metadataRow": "metadataRow__250d5",
-    "reactionInfo": "reactionInfo__250d5"
+    "reactionInfo": "reactionInfo__250d5",
+    "pollQuestion": "pollQuestion__250d5",
+    "pollAnswers": "pollAnswers__250d5",
+    "pollAnswerOption": "pollAnswerOption__250d5",
+    "pollAnswerText": "pollAnswerText__250d5",
+    "pollMoreOptions": "pollMoreOptions__250d5"
   },
   "468878": {
     "errorText": "errorText__38262"
@@ -12804,7 +12936,6 @@
     "descriptionContainer": "descriptionContainer_a98bec",
     "twoButtonContainer": "twoButtonContainer_a98bec",
     "singleButtonContainer": "singleButtonContainer_a98bec",
-    "offerPillContainer": "offerPillContainer_a98bec",
     "affinitiesContainer": "affinitiesContainer_a98bec",
     "referrerAttributionContainer": "referrerAttributionContainer_a98bec",
     "header": "header_a98bec"
@@ -13294,6 +13425,8 @@
   },
   "489215": {
     "chip": "chip__3854f",
+    "with-icon": "with-icon__3854f",
+    "icon": "icon__3854f",
     "blurple-light": "blurple-light__3854f",
     "blurple-medium": "blurple-medium__3854f",
     "blurple-dark": "blurple-dark__3854f",
@@ -13365,7 +13498,9 @@
   "490308": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
+    "errorState": "errorState__6db38",
     "loading": "loading__6db38",
+    "errorText": "errorText__6db38",
     "directoryPanel": "directoryPanel__6db38",
     "directoryHeader": "directoryHeader__6db38",
     "directoryTitleRow": "directoryTitleRow__6db38",
@@ -13428,6 +13563,7 @@
     "card": "card__8e988",
     "guildOfficialMessage": "guildOfficialMessage__8e988",
     "cardBody": "cardBody__8e988",
+    "filePreview": "filePreview__8e988",
     "cardHeader": "cardHeader__8e988",
     "cardHeaderMeta": "cardHeaderMeta__8e988",
     "cardHeaderTop": "cardHeaderTop__8e988",
@@ -13881,15 +14017,6 @@
     "guildIcon": "guildIcon__36c3e",
     "actionButton": "actionButton__36c3e",
     "actionButtonInner": "actionButtonInner__36c3e"
-  },
-  "501299": {
-    "container": "container_fec5bf",
-    "verticalContainer": "verticalContainer_fec5bf",
-    "section": "section_fec5bf",
-    "sectionDivider": "sectionDivider_fec5bf",
-    "labelSpacing": "labelSpacing_fec5bf",
-    "inputGroup": "inputGroup_fec5bf",
-    "fieldset": "fieldset_fec5bf"
   },
   "501573": {
     "upsellContainer": "upsellContainer_e75cd3",
@@ -14578,6 +14705,7 @@
     "timestamp": "timestamp_a2d698",
     "body": "body_a2d698",
     "messageContent": "messageContent_a2d698",
+    "messageContentContainer": "messageContentContainer_a2d698",
     "bodyBottom": "bodyBottom_a2d698",
     "tagsRow": "tagsRow_a2d698",
     "footer": "footer_a2d698"
@@ -14906,16 +15034,6 @@
     "nativeSourceTypeButton": "nativeSourceTypeButton_b23ee9",
     "nativeSourceTypeButtonInner": "nativeSourceTypeButtonInner_b23ee9"
   },
-  "539396": {
-    "container": "container__32139",
-    "compact": "compact__32139",
-    "fadeIn": "fadeIn__32139",
-    "preview": "preview__32139",
-    "editable": "editable__32139",
-    "placeholder": "placeholder__32139",
-    "previewTrailingAccessory": "previewTrailingAccessory__32139",
-    "trailingAccessoryButton": "trailingAccessoryButton__32139"
-  },
   "539550": {
     "systemMessageContainer": "systemMessageContainer_c0ec5e",
     "embedContainer": "embedContainer_c0ec5e",
@@ -15159,13 +15277,13 @@
     "heroVideo": "heroVideo__6d3d8",
     "heroVideoVisible": "heroVideoVisible__6d3d8",
     "scrim": "scrim__6d3d8",
-    "scrimHovering": "scrimHovering__6d3d8",
+    "scrimLight": "scrimLight__6d3d8",
+    "scrimDark": "scrimDark__6d3d8",
     "expiredScrim": "expiredScrim__6d3d8",
     "expiredScrimVisible": "expiredScrimVisible__6d3d8",
     "header": "header__6d3d8",
     "headerActions": "headerActions__6d3d8",
-    "circularOverlayButton": "circularOverlayButton__6d3d8",
-    "circularOverlayButtonHovering": "circularOverlayButtonHovering__6d3d8"
+    "circularOverlayButton": "circularOverlayButton__6d3d8"
   },
   "547732": {
     "listItemWrapper": "listItemWrapper__91816",
@@ -15212,7 +15330,11 @@
     "root": "root_eb881a",
     "suppressBorder": "suppressBorder_eb881a",
     "title": "title_eb881a",
-    "actions": "actions_eb881a"
+    "actions": "actions_eb881a",
+    "actionsShifted": "actionsShifted_eb881a",
+    "headerIconButton": "headerIconButton_eb881a",
+    "headerIconButtonSelectedPositive": "headerIconButtonSelectedPositive_eb881a",
+    "headerIconButtonSelectedCritical": "headerIconButtonSelectedCritical_eb881a"
   },
   "550350": {
     "popout": "popout_ab4223",
@@ -15238,7 +15360,7 @@
     "radioSelection": "radioSelection__786f4"
   },
   "550837": {
-    "popout": "popout__76f04",
+    "popout": "popout__76f04 popover_d6f39b",
     "title": "title__76f04",
     "list": "list__76f04",
     "row": "row__76f04",
@@ -15329,6 +15451,12 @@
     "guildSelection": "guildSelection__5a555",
     "guildSelectorContainer": "guildSelectorContainer__5a555",
     "createGuildButton": "createGuildButton__5a555"
+  },
+  "553706": {
+    "surface": "surface__5b95d",
+    "nagbarOverride": "nagbarOverride__5b95d",
+    "promotionSelector": "promotionSelector__5b95d",
+    "chatInputSurface": "chatInputSurface__5b95d"
   },
   "554518": {
     "paymentRestrictionBannerContainer": "paymentRestrictionBannerContainer__52623",
@@ -15466,7 +15594,23 @@
   },
   "556940": {
     "container": "container__8a9bf",
-    "description": "description__8a9bf"
+    "description": "description__8a9bf",
+    "enableContainer": "enableContainer__8a9bf",
+    "enableTextContainer": "enableTextContainer__8a9bf",
+    "enableLabel": "enableLabel__8a9bf",
+    "sectionLabel": "sectionLabel__8a9bf",
+    "enableControl": "enableControl__8a9bf",
+    "content": "content__8a9bf",
+    "previewSection": "previewSection__8a9bf",
+    "swatchesSection": "swatchesSection__8a9bf",
+    "swatchesGrid": "swatchesGrid__8a9bf",
+    "swatchButton": "swatchButton__8a9bf",
+    "swatchGraphic": "swatchGraphic__8a9bf",
+    "customSwatchSurface": "customSwatchSurface__8a9bf",
+    "customSwatchIcon": "customSwatchIcon__8a9bf",
+    "selectedIndicator": "selectedIndicator__8a9bf",
+    "previewCard": "previewCard__8a9bf",
+    "previewCanvas": "previewCanvas__8a9bf"
   },
   "557155": {
     "formItem": "formItem__4e29d",
@@ -16100,17 +16244,8 @@
     "heading": "heading__665be"
   },
   "577796": {
-    "header": "header__75b62",
-    "closeButton": "closeButton__75b62",
-    "description": "description__75b62",
-    "content": "content__75b62",
-    "infoRow": "infoRow__75b62",
-    "dnsRecordContainer": "dnsRecordContainer__75b62",
-    "httpFileContainer": "httpFileContainer__75b62",
-    "text": "text__75b62",
     "list": "list__75b62",
-    "footer": "footer__75b62",
-    "footerInner": "footerInner__75b62"
+    "recordContainer": "recordContainer__75b62"
   },
   "578158": {
     "statsGrid": "statsGrid_a0dddb"
@@ -16212,7 +16347,7 @@
     "gameIcon": "gameIcon__43a4b"
   },
   "581448": {
-    "popover": "popover_b438e7",
+    "popover": "popover_b438e7 popover_d6f39b",
     "userList": "userList_b438e7"
   },
   "581874": {
@@ -16241,10 +16376,26 @@
     "logo": "logo__5d51e",
     "placeholder": "placeholder__5d51e"
   },
+  "583363": {
+    "container": "container_d03433",
+    "heroDisplay": "heroDisplay_d03433",
+    "partnerLogotypeContainer": "partnerLogotypeContainer_d03433",
+    "partnerLogotype": "partnerLogotype_d03433",
+    "partnerContentContainer": "partnerContentContainer_d03433",
+    "partnerGameTile": "partnerGameTile_d03433",
+    "partnerCopyContainer": "partnerCopyContainer_d03433",
+    "partnerTitle": "partnerTitle_d03433",
+    "rightCtaSlot": "rightCtaSlot_d03433"
+  },
   "584099": {
     "container": "container_f99067",
     "thumbnail": "thumbnail_f99067",
-    "thumbnailShadow": "thumbnailShadow_f99067"
+    "slotMiddle": "slotMiddle_f99067",
+    "slotLeft": "slotLeft_f99067",
+    "slotRight": "slotRight_f99067",
+    "thumbnailShadow": "thumbnailShadow_f99067",
+    "containerHovered": "containerHovered_f99067",
+    "thumbnailBelow": "thumbnailBelow_f99067"
   },
   "584105": {
     "streamerModeEnabled": "streamerModeEnabled_aa3ffd",
@@ -16518,7 +16669,8 @@
     "recording": "recording__2636e",
     "shadowPulse": "shadowPulse__2636e",
     "keybindInput": "keybindInput__2636e input_f89b2c base_f89b2c",
-    "buttonContainer": "buttonContainer__2636e"
+    "buttonContainer": "buttonContainer__2636e",
+    "trailingActions": "trailingActions__2636e"
   },
   "599961": {
     "body": "body__96722"
@@ -16709,6 +16861,14 @@
     "paymentRequestIcon": "paymentRequestIcon__4151b",
     "appleConnectorIcon": "appleConnectorIcon__4151b"
   },
+  "609196": {
+    "shelfBlock": "shelfBlock__07a06",
+    "withBackground": "withBackground__07a06",
+    "backgroundImage": "backgroundImage__07a06",
+    "content": "content__07a06",
+    "header": "header__07a06",
+    "withoutBackground": "withoutBackground__07a06"
+  },
   "609360": {
     "sidebar": "sidebar__9835e",
     "children": "children__9835e",
@@ -16884,7 +17044,7 @@
     "topRimPillWithSparkles": "topRimPillWithSparkles_a45ed3",
     "rimGlowTier2": "rimGlowTier2_a45ed3",
     "trialHeader": "trialHeader_a45ed3",
-    "fractionalPremiumTopRimPill": "fractionalPremiumTopRimPill_a45ed3",
+    "topRimPill": "topRimPill_a45ed3",
     "fractionalPremiumSubheader": "fractionalPremiumSubheader_a45ed3",
     "premiumGroupHeader": "premiumGroupHeader_a45ed3"
   },
@@ -16963,10 +17123,13 @@
   },
   "615876": {
     "content": "content_e6ca69",
-    "progressRow": "progressRow_e6ca69",
+    "progress": "progress_e6ca69",
     "messageSection": "messageSection_e6ca69",
-    "levelUpCopy": "levelUpCopy_e6ca69",
-    "badgeIcon": "badgeIcon_e6ca69"
+    "description": "description_e6ca69",
+    "levelUpBody": "levelUpBody_e6ca69",
+    "badgeIcon": "badgeIcon_e6ca69",
+    "levelUpProgress": "levelUpProgress_e6ca69",
+    "levelUpDescription": "levelUpDescription_e6ca69"
   },
   "615990": {
     "serverDetailsContainer": "serverDetailsContainer__9ca53",
@@ -17067,6 +17230,7 @@
     "priceContainer": "priceContainer_da8ac7",
     "currentPrice": "currentPrice_da8ac7",
     "strikethroughPrice": "strikethroughPrice_da8ac7",
+    "inlineStrikethroughPrice": "inlineStrikethroughPrice_da8ac7",
     "originalPrice": "originalPrice_da8ac7",
     "iconDefaultBackground": "iconDefaultBackground_da8ac7",
     "icon": "icon_da8ac7",
@@ -17960,8 +18124,9 @@
     "editingPanelExpandButtonDefaultContainer": "editingPanelExpandButtonDefaultContainer__9c3be",
     "editingPanelExpandButtonDefault": "editingPanelExpandButtonDefault__9c3be",
     "pendingChangesToolbar": "pendingChangesToolbar__9c3be",
-    "toast": "toast__9c3be",
-    "interactionToast": "interactionToast__9c3be",
+    "noticeContainer": "noticeContainer__9c3be",
+    "profileCardToastContainer": "profileCardToastContainer__9c3be",
+    "profileContentColumns": "profileContentColumns__9c3be",
     "backgroundImage": "backgroundImage__9c3be",
     "profile": "profile__9c3be",
     "compact-xs": "compact-xs__9c3be",
@@ -18068,7 +18233,8 @@
     "poweredByNitroContainer": "poweredByNitroContainer__02e2b"
   },
   "648731": {
-    "shelf": "shelf__6e2ec"
+    "shelf": "shelf__6e2ec",
+    "shelfCards": "shelfCards__6e2ec"
   },
   "648881": {
     "ping": "ping__06d62",
@@ -18486,6 +18652,7 @@
     "contentGrid": "contentGrid_f1578d",
     "descriptionAndButtonContainer": "descriptionAndButtonContainer_f1578d",
     "descriptionContainer": "descriptionContainer_f1578d",
+    "discountDescription": "discountDescription_f1578d",
     "buttonContainer": "buttonContainer_f1578d",
     "usersListHeader": "usersListHeader_f1578d"
   },
@@ -18727,6 +18894,9 @@
     "container": "container__2ee44",
     "textContent": "textContent__2ee44"
   },
+  "673451": {
+    "notePreview": "notePreview_a259f5"
+  },
   "673753": {
     "container": "container__50e22",
     "popoutRoleDot": "popoutRoleDot__50e22",
@@ -18736,15 +18906,6 @@
     "container": "container__12f17",
     "darkText": "darkText__12f17",
     "lightText": "lightText__12f17"
-  },
-  "674112": {
-    "grid": "grid_d87d30",
-    "placeholderCard": "placeholderCard_d87d30",
-    "placeholderImg": "placeholderImg_d87d30",
-    "emptyTierWrapper": "emptyTierWrapper_d87d30",
-    "unusedTierWrapper": "unusedTierWrapper_d87d30",
-    "emptyTierImage": "emptyTierImage_d87d30",
-    "unlockTierCtaHeading": "unlockTierCtaHeading_d87d30"
   },
   "674130": {
     "keywordsContainer": "keywordsContainer__2097e",
@@ -19077,7 +19238,8 @@
     "container": "container__72346",
     "progressCircle": "progressCircle__72346",
     "bannerContent": "bannerContent__72346",
-    "bannerContentText": "bannerContentText__72346"
+    "bannerContentText": "bannerContentText__72346",
+    "progressIndicatorTopSpacing": "progressIndicatorTopSpacing__72346"
   },
   "690320": {
     "warning": "warning__915cb",
@@ -19396,16 +19558,17 @@
   },
   "701180": {
     "bundleContainer": "bundleContainer__848b5",
-    "bundleHeader": "bundleHeader__848b5",
     "heading": "heading__848b5",
-    "sectionLabel": "sectionLabel__848b5",
+    "bundleContents": "bundleContents__848b5",
     "thumbnailScrollArea": "thumbnailScrollArea__848b5",
     "thumbnailRow": "thumbnailRow__848b5",
     "thumbnail": "thumbnail__848b5",
     "thumbnailSelected": "thumbnailSelected__848b5",
     "thumbnailContent": "thumbnailContent__848b5",
-    "activeItem": "activeItem__848b5",
-    "activeItemName": "activeItemName__848b5"
+    "thumbnailInset": "thumbnailInset__848b5",
+    "activeItemRow": "activeItemRow__848b5",
+    "activeItemNameText": "activeItemNameText__848b5",
+    "activeItemTypeText": "activeItemTypeText__848b5"
   },
   "701628": {
     "ephemeral": "ephemeral__5126c",
@@ -19413,9 +19576,10 @@
     "automodMessage": "automodMessage__5126c",
     "mentioned": "mentioned__5126c",
     "guildOfficialMessage": "guildOfficialMessage__5126c",
+    "message": "message__5126c",
+    "guildOfficialMessageContent": "guildOfficialMessageContent__5126c",
     "replying": "replying__5126c",
     "messageListItem": "messageListItem__5126c",
-    "message": "message__5126c",
     "selected": "selected__5126c",
     "quotedChatMessage": "quotedChatMessage__5126c",
     "jump": "jump__5126c",
@@ -19533,10 +19697,10 @@
     "categories": "categories__6131a",
     "divider": "divider__6131a"
   },
-  "707238": {
-    "toastContainer": "toastContainer_e19fa4",
-    "toast": "toast_e19fa4",
-    "toastIcon": "toastIcon_e19fa4"
+  "707259": {
+    "groupDiscountBannerText": "groupDiscountBannerText_a5923e",
+    "divider": "divider_a5923e",
+    "bannerTopDivider": "bannerTopDivider_a5923e"
   },
   "707712": {
     "wrapper": "wrapper__78aa3",
@@ -19776,9 +19940,13 @@
     "effects": "effects__78936"
   },
   "719021": {
+    "badgeContainer": "badgeContainer_d5a27a",
     "badge": "badge_d5a27a",
+    "leadingText": "leadingText_d5a27a",
+    "bulletSeparator": "bulletSeparator_d5a27a",
     "badgeTask": "badgeTask_d5a27a",
-    "badgeIcon": "badgeIcon_d5a27a"
+    "badgeIcon": "badgeIcon_d5a27a",
+    "previewBadge": "previewBadge_d5a27a"
   },
   "719201": {
     "avatarPreviewContainer": "avatarPreviewContainer__349b1",
@@ -19856,6 +20024,15 @@
   "723429": {
     "errorBlock": "errorBlock__6181b"
   },
+  "723680": {
+    "container": "container_fec5bf",
+    "verticalContainer": "verticalContainer_fec5bf",
+    "section": "section_fec5bf",
+    "sectionDivider": "sectionDivider_fec5bf",
+    "labelSpacing": "labelSpacing_fec5bf",
+    "inputGroup": "inputGroup_fec5bf",
+    "fieldset": "fieldset_fec5bf"
+  },
   "724368": {
     "container": "container__18c16"
   },
@@ -19883,6 +20060,7 @@
     "sidebar": "sidebar_ac0f9f",
     "sidebarHeader": "sidebarHeader_ac0f9f",
     "sidebarHeaderTitleGroup": "sidebarHeaderTitleGroup_ac0f9f",
+    "sidebarHeaderActions": "sidebarHeaderActions_ac0f9f",
     "sidebarContent": "sidebarContent_ac0f9f",
     "section": "section_ac0f9f",
     "sectionLabel": "sectionLabel_ac0f9f",
@@ -19890,11 +20068,10 @@
     "facetList": "facetList_ac0f9f",
     "row": "row_ac0f9f",
     "rowSelected": "rowSelected_ac0f9f",
-    "rowDisabled": "rowDisabled_ac0f9f",
     "rowIcon": "rowIcon_ac0f9f",
+    "rowDisabled": "rowDisabled_ac0f9f",
     "rowLabel": "rowLabel_ac0f9f",
-    "rowTrailer": "rowTrailer_ac0f9f",
-    "showAllRow": "showAllRow_ac0f9f"
+    "rowTrailer": "rowTrailer_ac0f9f"
   },
   "725287": {
     "container": "container__1dc07",
@@ -19906,7 +20083,7 @@
     "error": "error__1dc07"
   },
   "725673": {
-    "container": "container__349bd",
+    "container": "container__349bd popover_d6f39b",
     "content": "content__349bd",
     "buttonContainer": "buttonContainer__349bd",
     "primaryButton": "primaryButton__349bd",
@@ -20395,6 +20572,35 @@
     "connections": "connections_fcb628",
     "appsConnections": "appsConnections_fcb628"
   },
+  "742007": {
+    "card": "card_e12da8",
+    "disabled": "disabled_e12da8",
+    "focused": "focused_e12da8",
+    "selected": "selected_e12da8",
+    "thumbFrame": "thumbFrame_e12da8",
+    "badgesTopLeft": "badgesTopLeft_e12da8",
+    "darkBadge": "darkBadge_e12da8",
+    "newBadge": "newBadge_e12da8",
+    "durationBadge": "durationBadge_e12da8",
+    "hoverButtons": "hoverButtons_e12da8",
+    "infoFade": "infoFade_e12da8",
+    "metadata": "metadata_e12da8",
+    "titleRow": "titleRow_e12da8",
+    "title": "title_e12da8",
+    "avatars": "avatars_e12da8",
+    "gameRow": "gameRow_e12da8",
+    "gameIcon": "gameIcon_e12da8",
+    "gameIconImage": "gameIconImage_e12da8",
+    "ellipsis": "ellipsis_e12da8",
+    "subMeta": "subMeta_e12da8",
+    "metaDot": "metaDot_e12da8",
+    "metaBody": "metaBody_e12da8",
+    "progressTrack": "progressTrack_e12da8",
+    "progressFill": "progressFill_e12da8",
+    "hoverCtas": "hoverCtas_e12da8",
+    "ctaSlideUp": "ctaSlideUp_e12da8",
+    "cta": "cta_e12da8"
+  },
   "742345": {
     "content": "content__75e8e",
     "innerContent": "innerContent__75e8e",
@@ -20417,6 +20623,31 @@
     "collectiblePreviewsContainerWithChat": "collectiblePreviewsContainerWithChat__7f14f collectiblePreviewsContainer__7f14f",
     "fractionalNitroPreviewContainer": "fractionalNitroPreviewContainer__7f14f collectiblePreviewsContainer__7f14f",
     "pdpControls": "pdpControls__7f14f"
+  },
+  "742571": {
+    "spacing": "spacing__856b5",
+    "largeSpacing": "largeSpacing__856b5",
+    "lighten": "lighten__856b5",
+    "checkboxContainer": "checkboxContainer__856b5",
+    "checkboxMute": "checkboxMute__856b5",
+    "checkboxContainerMuted": "checkboxContainerMuted__856b5 checkboxContainer__856b5",
+    "checkboxGroup": "checkboxGroup__856b5",
+    "override": "override__856b5",
+    "overrideHighlight": "overrideHighlight__856b5",
+    "removeOverride": "removeOverride__856b5",
+    "overridePlaceholder": "overridePlaceholder__856b5",
+    "nameContainer": "nameContainer__856b5",
+    "icon": "icon__856b5 lighten__856b5",
+    "overrideHeader": "overrideHeader__856b5 lighten__856b5",
+    "header": "header__856b5",
+    "channelNotificationHeaders": "channelNotificationHeaders__856b5",
+    "headerNameCell": "headerNameCell__856b5",
+    "headerOptionCell": "headerOptionCell__856b5",
+    "headerName": "headerName__856b5 header__856b5",
+    "headerOption": "headerOption__856b5 header__856b5",
+    "channelNameContainer": "channelNameContainer__856b5",
+    "channelName": "channelName__856b5",
+    "channelNameByline": "channelNameByline__856b5 lighten__856b5"
   },
   "742786": {
     "container": "container__6f9f7",
@@ -21287,10 +21518,6 @@
     "tier0TrialOffer": "tier0TrialOffer_f602ce",
     "trialBadgeSparkles": "trialBadgeSparkles_f602ce"
   },
-  "778599": {
-    "scrim": "scrim__4c1fe",
-    "isVisible": "isVisible__4c1fe"
-  },
   "778615": {
     "cardGroup": "cardGroup__02e50",
     "cardGroupWithHeadingSpacing": "cardGroupWithHeadingSpacing__02e50",
@@ -21494,9 +21721,6 @@
   "788021": {
     "categories": "categories_ed45d7",
     "category": "category_ed45d7"
-  },
-  "788143": {
-    "card": "card__92e92"
   },
   "788332": {
     "clipTriggerBadge": "clipTriggerBadge__90e9a",
@@ -21734,6 +21958,11 @@
   },
   "798531": {
     "backdrop": "backdrop_e4bf2f",
+    "backdropLeaving": "backdropLeaving_e4bf2f",
+    "backdrop-fade-in": "backdrop-fade-in_e4bf2f",
+    "backdropLeavingNav": "backdropLeavingNav_e4bf2f",
+    "backdrop-fade-out": "backdrop-fade-out_e4bf2f",
+    "backdropLeavingReturn": "backdropLeavingReturn_e4bf2f",
     "card": "card_e4bf2f",
     "bodyTint": "bodyTint_e4bf2f",
     "scrollerArea": "scrollerArea_e4bf2f",
@@ -21826,7 +22055,7 @@
     "statusText": "statusText_a7f798"
   },
   "802625": {
-    "container": "container__4e30a",
+    "container": "container__4e30a popover_d6f39b",
     "popoutHeaderContainer": "popoutHeaderContainer__4e30a",
     "headerDivider": "headerDivider__4e30a"
   },
@@ -21995,6 +22224,7 @@
     "tabButton": "tabButton_b08638",
     "panel": "panel_b08638",
     "withGradient": "withGradient_b08638",
+    "panelInner": "panelInner_b08638",
     "header": "header_b08638",
     "collapseButton": "collapseButton_b08638",
     "guildProfileUpsell": "guildProfileUpsell_b08638",
@@ -22516,6 +22746,9 @@
     "backdrop": "backdrop__09f82",
     "header": "header__09f82",
     "panelInner": "panelInner__09f82",
+    "edgeFade": "edgeFade__09f82",
+    "edgeFadeStart": "edgeFadeStart__09f82",
+    "edgeFadeEnd": "edgeFadeEnd__09f82",
     "countdownRing": "countdownRing__09f82",
     "countdownTrack": "countdownTrack__09f82",
     "countdownProgress": "countdownProgress__09f82",
@@ -22527,8 +22760,8 @@
     "thumbnailClickable": "thumbnailClickable__09f82",
     "thumbnailsStack": "thumbnailsStack__09f82",
     "gameRow": "gameRow__09f82",
+    "gameNameRow": "gameNameRow__09f82",
     "gameIcon": "gameIcon__09f82",
-    "gameInfo": "gameInfo__09f82",
     "gameName": "gameName__09f82",
     "gameNameClickable": "gameNameClickable__09f82"
   },
@@ -23046,7 +23279,12 @@
   "845886": {
     "container": "container_f1a68f",
     "header": "header_f1a68f",
-    "tenureBadgeControls": "tenureBadgeControls_f1a68f"
+    "subheader": "subheader_f1a68f",
+    "explanation": "explanation_f1a68f",
+    "tenureBadgeControls": "tenureBadgeControls_f1a68f",
+    "perksTable": "perksTable_f1a68f",
+    "perksHeader": "perksHeader_f1a68f",
+    "perksCell": "perksCell_f1a68f"
   },
   "846762": {
     "captchaContainer": "captchaContainer_deee3a",
@@ -23107,8 +23345,7 @@
     "iconContainer": "iconContainer_c0c49a",
     "giftBoxIcon": "giftBoxIcon_c0c49a",
     "trinketsIcon": "trinketsIcon_c0c49a",
-    "trinketsDecoration": "trinketsDecoration_c0c49a",
-    "trinketsGlow": "trinketsGlow_c0c49a"
+    "trinketsDecoration": "trinketsDecoration_c0c49a"
   },
   "849812": {
     "container": "container_ce5f0d",
@@ -23117,6 +23354,7 @@
     "referredFriendAvatar": "referredFriendAvatar_ce5f0d",
     "availableReferralSlot": "availableReferralSlot_ce5f0d",
     "progressContainer": "progressContainer_ce5f0d",
+    "progressIndicatorSurface": "progressIndicatorSurface_ce5f0d",
     "progressCircle": "progressCircle_ce5f0d",
     "progressCircleBackground": "progressCircleBackground_ce5f0d",
     "progressCircleRing": "progressCircleRing_ce5f0d",
@@ -24158,12 +24396,7 @@
     "description": "description__577c3"
   },
   "893458": {
-    "container": "container_c40875",
-    "purchasePlaceholder": "purchasePlaceholder_c40875",
-    "avatarDecorationPreview": "avatarDecorationPreview_c40875",
-    "nameplatePreview": "nameplatePreview_c40875",
-    "profileFramePreview": "profileFramePreview_c40875",
-    "profileFrameInner": "profileFrameInner_c40875"
+    "container": "container_c40875"
   },
   "893489": {
     "nagBar": "nagBar__9d860",
@@ -24346,6 +24579,17 @@
     "checkbox": "checkbox__6fddf",
     "emoji": "emoji__6fddf"
   },
+  "898525": {
+    "inputWrapper": "inputWrapper_f08f8d",
+    "hasStaticToolbar": "hasStaticToolbar_f08f8d",
+    "scroller": "scroller_f08f8d",
+    "editorContainer": "editorContainer_f08f8d",
+    "editor": "editor_f08f8d",
+    "staticToolbar": "staticToolbar_f08f8d",
+    "emojiButtonContainer": "emojiButtonContainer_f08f8d",
+    "floatingEmojiButtonContainer": "floatingEmojiButtonContainer_f08f8d",
+    "emojiButton": "emojiButton_f08f8d"
+  },
   "898640": {
     "externalErrorBlock": "externalErrorBlock__65b48",
     "helpMessageWrapper": "helpMessageWrapper__65b48",
@@ -24384,6 +24628,7 @@
   },
   "899696": {
     "tierTimelineDescription": "tierTimelineDescription_bf9073",
+    "tierTimelineDescriptionIcon": "tierTimelineDescriptionIcon_bf9073",
     "tierTimelineGrid": "tierTimelineGrid_bf9073",
     "tierTimelineRow": "tierTimelineRow_bf9073",
     "tierTimelineItem": "tierTimelineItem_bf9073",
@@ -24396,6 +24641,7 @@
     "icon": "icon__2ed4c",
     "notAllowedIcon": "notAllowedIcon__2ed4c icon__2ed4c",
     "frameGridItem": "frameGridItem__2ed4c",
+    "framePresetItem": "framePresetItem__2ed4c",
     "selected": "selected__2ed4c",
     "section": "section__2ed4c",
     "list": "list__2ed4c",
@@ -24825,6 +25071,20 @@
     "closeButtonIcon": "closeButtonIcon__96095",
     "closeButton": "closeButton__96095"
   },
+  "916315": {
+    "container": "container__9c314",
+    "compact": "compact__9c314",
+    "multiline": "multiline__9c314",
+    "fadeIn": "fadeIn__9c314",
+    "preview": "preview__9c314",
+    "editable": "editable__9c314",
+    "disabled": "disabled__9c314",
+    "hasError": "hasError__9c314",
+    "placeholder": "placeholder__9c314",
+    "previewError": "previewError__9c314",
+    "previewTrailingAccessory": "previewTrailingAccessory__9c314",
+    "trailingAccessoryButton": "trailingAccessoryButton__9c314"
+  },
   "916815": {
     "searchHeader": "searchHeader__83bd4",
     "headerTitleWrapper": "headerTitleWrapper__83bd4",
@@ -25022,6 +25282,12 @@
     "tag": "tag__89036",
     "displayName": "displayName__89036",
     "discriminator": "discriminator__89036"
+  },
+  "921701": {
+    "container": "container_a6b6d3",
+    "content": "content_a6b6d3",
+    "icon": "icon_a6b6d3",
+    "actionButton": "actionButton_a6b6d3"
   },
   "921815": {
     "labelWithIconContainer": "labelWithIconContainer_c2c6a6",
@@ -25458,7 +25724,18 @@
     "gcLegend": "gcLegend__3c20e",
     "gcLegendItem": "gcLegendItem__3c20e",
     "gcLegendSwatch": "gcLegendSwatch__3c20e",
-    "gcLegendLabel": "gcLegendLabel__3c20e"
+    "gcLegendLabel": "gcLegendLabel__3c20e",
+    "gameHeader": "gameHeader__3c20e",
+    "gameIcon": "gameIcon__3c20e",
+    "gameTitleColumn": "gameTitleColumn__3c20e",
+    "gameName": "gameName__3c20e",
+    "gameEmpty": "gameEmpty__3c20e"
+  },
+  "939052": {
+    "container": "container_fc4ad8",
+    "artBox": "artBox_fc4ad8",
+    "art": "art_fc4ad8",
+    "body": "body_fc4ad8"
   },
   "939422": {
     "body": "body__269fe",
@@ -25565,7 +25842,6 @@
     "wideBannerCtaContainer": "wideBannerCtaContainer__08415",
     "wideBannerLogo": "wideBannerLogo__08415",
     "wideBannerCloseButton": "wideBannerCloseButton__08415",
-    "shelfBlockContainer": "shelfBlockContainer__08415",
     "shopScroll": "shopScroll__08415"
   },
   "941886": {
@@ -26166,31 +26442,6 @@
     "unfocused": "unfocused__421ed",
     "withBackgroundOverride": "withBackgroundOverride__421ed"
   },
-  "964952": {
-    "spacing": "spacing__856b5",
-    "largeSpacing": "largeSpacing__856b5",
-    "lighten": "lighten__856b5",
-    "checkboxContainer": "checkboxContainer__856b5",
-    "checkboxMute": "checkboxMute__856b5",
-    "checkboxContainerMuted": "checkboxContainerMuted__856b5 checkboxContainer__856b5",
-    "checkboxGroup": "checkboxGroup__856b5",
-    "override": "override__856b5",
-    "overrideHighlight": "overrideHighlight__856b5",
-    "removeOverride": "removeOverride__856b5",
-    "overridePlaceholder": "overridePlaceholder__856b5",
-    "nameContainer": "nameContainer__856b5",
-    "icon": "icon__856b5 lighten__856b5",
-    "overrideHeader": "overrideHeader__856b5 lighten__856b5",
-    "header": "header__856b5",
-    "channelNotificationHeaders": "channelNotificationHeaders__856b5",
-    "headerNameCell": "headerNameCell__856b5",
-    "headerOptionCell": "headerOptionCell__856b5",
-    "headerName": "headerName__856b5 header__856b5",
-    "headerOption": "headerOption__856b5 header__856b5",
-    "channelNameContainer": "channelNameContainer__856b5",
-    "channelName": "channelName__856b5",
-    "channelNameByline": "channelNameByline__856b5 lighten__856b5"
-  },
   "965238": {
     "wishlistButton": "wishlistButton__61424",
     "sectionContainer": "sectionContainer__61424",
@@ -26444,8 +26695,19 @@
   },
   "973606": {
     "close": "close__61aee",
+    "closeGuildTheme": "closeGuildTheme__61aee",
     "modal": "modal__61aee",
+    "modalGuildTheme": "modalGuildTheme__61aee",
     "modalContentContainer": "modalContentContainer__61aee",
+    "modalContentContainerGuildTheme": "modalContentContainerGuildTheme__61aee",
+    "modalContentContainerGuildThemeNoFooter": "modalContentContainerGuildThemeNoFooter__61aee",
+    "guildThemeHeader": "guildThemeHeader__61aee",
+    "guildThemeLayout": "guildThemeLayout__61aee",
+    "guildThemeGraphicGradient": "guildThemeGraphicGradient__61aee",
+    "guildThemeGraphicImage": "guildThemeGraphicImage__61aee",
+    "guildThemeTitleGroup": "guildThemeTitleGroup__61aee",
+    "guildThemeCostRow": "guildThemeCostRow__61aee",
+    "guildThemeFooter": "guildThemeFooter__61aee",
     "sidebar": "sidebar__61aee",
     "contentContainer": "contentContainer__61aee",
     "description": "description__61aee",
@@ -26486,15 +26748,13 @@
   },
   "974963": {
     "stickyMessage": "stickyMessage__31080",
-    "scroller": "scroller__31080",
-    "nonMessageContentContainer": "nonMessageContentContainer__31080",
     "tagsRow": "tagsRow__31080",
-    "embedContainer": "embedContainer__31080",
-    "forumPostActionBarContainer": "forumPostActionBarContainer__31080",
-    "divider": "divider__31080",
-    "dividerThin": "dividerThin__31080 divider__31080",
+    "forumPostActionBar": "forumPostActionBar__31080",
     "dividerThick": "dividerThick__31080 divider__31080",
-    "voice": "voice__31080"
+    "dividerThin": "dividerThin__31080 divider__31080",
+    "message": "message__31080",
+    "voice": "voice__31080",
+    "divider": "divider__31080"
   },
   "975424": {
     "gridContainer": "gridContainer_f3e8a7",
@@ -26724,6 +26984,14 @@
     "sectionTitle": "sectionTitle_f0d60d",
     "content": "content_f0d60d"
   },
+  "984180": {
+    "scrim": "scrim__1d703",
+    "isVisible": "isVisible__1d703"
+  },
+  "984355": {
+    "warningInput": "warningInput__7b22b",
+    "warningText": "warningText__7b22b"
+  },
   "985176": {
     "container": "container__9bfb9",
     "connectionList": "connectionList__9bfb9",
@@ -26797,11 +27065,11 @@
     "parentContainer": "parentContainer__5573a",
     "container": "container__5573a",
     "active": "active__5573a",
+    "warning": "warning__5573a",
     "buttonContainer": "buttonContainer__5573a",
     "labelContainer": "labelContainer__5573a",
     "rollbackInactive": "rollbackInactive__5573a",
     "boostProgressBackground": "boostProgressBackground__5573a",
-    "warning": "warning__5573a",
     "contentContainer": "contentContainer__5573a",
     "headerContainer": "headerContainer__5573a",
     "description": "description__5573a",
@@ -27021,11 +27289,16 @@
     "section": "section__3932d",
     "gamesSection": "gamesSection__3932d",
     "card": "card__3932d",
+    "callLogAppRow": "callLogAppRow__3932d",
     "cardHeader": "cardHeader__3932d",
     "appIcon": "appIcon__3932d",
     "appInfo": "appInfo__3932d",
     "callLogHeader": "callLogHeader__3932d",
-    "eligible": "eligible__3932d"
+    "callLogEntryHeader": "callLogEntryHeader__3932d",
+    "callLogAppIcon": "callLogAppIcon__3932d",
+    "callLogAppName": "callLogAppName__3932d",
+    "eligible": "eligible__3932d",
+    "excluded": "excluded__3932d"
   },
   "994190": {
     "icon": "icon__58921"
@@ -27046,6 +27319,9 @@
     "sadFace": "sadFace__5c58b emoji__5c58b",
     "neutralFace": "neutralFace__5c58b emoji__5c58b",
     "happyFace": "happyFace__5c58b emoji__5c58b",
+    "sadFaceRefresh": "sadFaceRefresh__5c58b emoji__5c58b",
+    "neutralFaceRefresh": "neutralFaceRefresh__5c58b emoji__5c58b",
+    "happyFaceRefresh": "happyFaceRefresh__5c58b emoji__5c58b",
     "thumbsDown": "thumbsDown__5c58b emoji__5c58b",
     "thumbsUp": "thumbsUp__5c58b emoji__5c58b",
     "animatedFace": "animatedFace__5c58b emoji__5c58b"
@@ -27054,7 +27330,8 @@
     "timelineIcon": "timelineIcon__375f5"
   },
   "995512": {
-    "premiumBrandRefreshTier0Card": "premiumBrandRefreshTier0Card__9e160",
+    "planCardWrapper": "planCardWrapper__9e160",
+    "narrowLayoutPlanCardWrapper": "narrowLayoutPlanCardWrapper__9e160",
     "narrowLayout": "narrowLayout__9e160"
   },
   "996024": {
@@ -27086,6 +27363,7 @@
     "nameplatePreviewRescaler": "nameplatePreviewRescaler__517e1",
     "bundlePreview": "bundlePreview__517e1",
     "profileFramePreview": "profileFramePreview__517e1",
+    "bundleStaticPreview": "bundleStaticPreview__517e1",
     "premiumPreview": "premiumPreview__517e1",
     "premiumRive": "premiumRive__517e1",
     "premiumCardHover": "premiumCardHover__517e1"
@@ -27137,7 +27415,11 @@
     "modeMuted": "modeMuted__69362"
   },
   "999803": {
-    "animatedMeasurementRef": "animatedMeasurementRef__20a4b"
+    "offTopic": "offTopic__20a4b",
+    "collapsed": "collapsed__20a4b",
+    "offTopicInner": "offTopicInner__20a4b",
+    "offtopic-collapse": "offtopic-collapse__20a4b",
+    "offtopic-expand": "offtopic-expand__20a4b"
   },
   "999878": {
     "textarea": "textarea__9daae input__0ed4f"
