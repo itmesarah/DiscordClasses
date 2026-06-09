@@ -1,9 +1,9 @@
 {
   "host": {
-    "version": "1.0.982 x64 (83955)"
+    "version": "1.0.983 x64 (83982)"
   },
   "channel": {
-  "canary": "559475 (e8a8985)"
+  "canary": "559818 (54f3f4e)"
   },
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
@@ -2440,9 +2440,7 @@
     "sectionLabel": "sectionLabel_b18605",
     "scores": "scores_b18605",
     "scoreItem": "scoreItem_b18605",
-    "conversationMeta": "conversationMeta_b18605",
-    "loadMoreFooter": "loadMoreFooter_b18605",
-    "loadMoreButton": "loadMoreButton_b18605"
+    "conversationMeta": "conversationMeta_b18605"
   },
   "85092": {
     "root": "root_da9de7",
@@ -2741,19 +2739,6 @@
     "footer": "footer__0eeee",
     "footerContent": "footerContent__0eeee",
     "lockIcon": "lockIcon__0eeee"
-  },
-  "95361": {
-    "eyebrow": "eyebrow__2b1f5",
-    "base": "base__2b1f5 eyebrow__2b1f5",
-    "textBadge": "textBadge__2b1f5 base__2b1f5 eyebrow__2b1f5",
-    "baseShapeRound": "baseShapeRound__2b1f5",
-    "baseShapeRoundLeft": "baseShapeRoundLeft__2b1f5",
-    "baseShapeRoundRight": "baseShapeRoundRight__2b1f5",
-    "iconBadge": "iconBadge__2b1f5 base__2b1f5 eyebrow__2b1f5",
-    "numberBadge": "numberBadge__2b1f5 base__2b1f5 eyebrow__2b1f5",
-    "icon": "icon__2b1f5",
-    "circleBadge": "circleBadge__2b1f5",
-    "premiumBadge": "premiumBadge__2b1f5"
   },
   "96098": {
     "container": "container_a08a9d",
@@ -6301,6 +6286,19 @@
     "friendNoteTextContainer": "friendNoteTextContainer__72ba7",
     "friendNoteTextArea": "friendNoteTextArea__72ba7 inputText__72ba7",
     "characterCount": "characterCount__72ba7"
+  },
+  "235520": {
+    "eyebrow": "eyebrow__463b7",
+    "base": "base__463b7 eyebrow__463b7",
+    "textBadge": "textBadge__463b7 base__463b7 eyebrow__463b7",
+    "baseShapeRound": "baseShapeRound__463b7",
+    "baseShapeRoundLeft": "baseShapeRoundLeft__463b7",
+    "baseShapeRoundRight": "baseShapeRoundRight__463b7",
+    "iconBadge": "iconBadge__463b7 base__463b7 eyebrow__463b7",
+    "numberBadge": "numberBadge__463b7 base__463b7 eyebrow__463b7",
+    "icon": "icon__463b7",
+    "circleBadge": "circleBadge__463b7",
+    "premiumBadge": "premiumBadge__463b7"
   },
   "235684": {
     "upsell": "upsell_f6db19"
@@ -19343,6 +19341,8 @@
     "progressCircle": "progressCircle__72346",
     "bannerContent": "bannerContent__72346",
     "bannerContentText": "bannerContentText__72346",
+    "progressWheelBackground": "progressWheelBackground__72346",
+    "progressWheelRing": "progressWheelRing__72346",
     "progressIndicatorTopSpacing": "progressIndicatorTopSpacing__72346"
   },
   "690320": {
@@ -23197,7 +23197,6 @@
     "transcriptBodySpinner": "transcriptBodySpinner_b824c5",
     "videoOverlayMessage": "videoOverlayMessage_b824c5",
     "closeModalBtnWrapper": "closeModalBtnWrapper_b824c5",
-    "inactivePoster": "inactivePoster_b824c5",
     "inactivePlayButton": "inactivePlayButton_b824c5",
     "inactivePlayButtonIcon": "inactivePlayButtonIcon_b824c5",
     "floatingShareButtonContainer": "floatingShareButtonContainer_b824c5",
