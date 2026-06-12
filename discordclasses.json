@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.991 x64 (84196)"},"channel": {"canary": "561708 (61765dd)"},
+{"host": {"version": "1.0.993 x64 (84277)"},"channel": {"canary": "562167 (ff6baf8)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -3222,6 +3222,7 @@
     "outerCorner": "outerCorner_a2332b",
     "insideCorner": "insideCorner_a2332b",
     "giftSelectionModal": "giftSelectionModal_a2332b",
+    "noGiftPrice": "noGiftPrice_a2332b",
     "withAnnualDiscountBanner": "withAnnualDiscountBanner_a2332b",
     "bigCloud": "bigCloud_a2332b",
     "smallCloud": "smallCloud_a2332b",
@@ -4980,6 +4981,7 @@
     "contentRegion": "contentRegion__2869f"
   },
   "188393": {
+    "decorativeWrapper": "decorativeWrapper_ba731a",
     "flyingWumpusContainer": "flyingWumpusContainer_ba731a",
     "flyingWumpusAsset": "flyingWumpusAsset_ba731a",
     "boltContainer": "boltContainer_ba731a",
@@ -12827,7 +12829,8 @@
   "465153": {
     "row": "row_e4169f",
     "userCell": "userCell_e4169f",
-    "affinityCell": "affinityCell_e4169f"
+    "affinityCell": "affinityCell_e4169f",
+    "sortableHeader": "sortableHeader_e4169f"
   },
   "465158": {
     "container": "container__133bf",
