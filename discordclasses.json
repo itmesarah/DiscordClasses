@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.996 x64 (84331)"},"channel": {"canary": "562795 (deb2305)"},
+{"host": {"version": "1.0.996 x64 (84331)"},"channel": {"canary": "562917 (05271a0)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -1030,6 +1030,7 @@
   },
   "32304": {
     "container": "container__343c1",
+    "containerWithoutHero": "containerWithoutHero__343c1",
     "sectionWrapper": "sectionWrapper__343c1",
     "sectionTitle": "sectionTitle__343c1"
   },
@@ -11154,9 +11155,6 @@
     "perkIconStream": "perkIconStream__2d726",
     "perkIconChatPerks": "perkIconChatPerks__2d726"
   },
-  "403095": {
-    "container": "container__2baeb"
-  },
   "403404": {
     "panel": "panel__79a1f",
     "panelHeader": "panelHeader__79a1f",
@@ -11472,7 +11470,8 @@
   "416497": {
     "footer": "footer__272c7",
     "footerContainer": "footerContainer__272c7",
-    "footerButton": "footerButton__272c7"
+    "footerButton": "footerButton__272c7",
+    "redesignFooter": "redesignFooter__272c7"
   },
   "416620": {
     "container": "container_b7e1cb",
@@ -14810,6 +14809,8 @@
   },
   "523802": {
     "body": "body_b32ca4",
+    "info": "info_b32ca4",
+    "cards": "cards_b32ca4",
     "overlay": "overlay_b32ca4"
   },
   "523880": {
@@ -15627,11 +15628,13 @@
     "displayNameStylesSection": "displayNameStylesSection_e60bc0"
   },
   "556818": {
+    "themeContainer": "themeContainer__7f9c0",
     "header": "header__7f9c0",
     "banner": "banner__7f9c0",
     "backdrop": "backdrop__7f9c0",
     "toast": "toast__7f9c0",
     "profileFramePadding": "profileFramePadding__7f9c0",
+    "scrollerFade": "scrollerFade__7f9c0",
     "widgetPreviews": "widgetPreviews__7f9c0",
     "wishlistBreadcrumb": "wishlistBreadcrumb__7f9c0"
   },
@@ -20408,9 +20411,9 @@
     "effects": "effects__263e4"
   },
   "735103": {
-    "container": "container_a419e0",
     "headerContainer": "headerContainer_a419e0",
     "preview": "preview_a419e0",
+    "container": "container_a419e0",
     "body": "body_a419e0"
   },
   "735406": {
@@ -20910,6 +20913,9 @@
     "metadata": "metadata_e638e4",
     "metadataHeader": "metadataHeader_e638e4",
     "divider": "divider_e638e4"
+  },
+  "748597": {
+    "aside": "aside_f58343"
   },
   "749114": {
     "spinner": "spinner_ca0af2"
