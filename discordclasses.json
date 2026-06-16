@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.999 x64 (84510)"},"channel": {"canary": "563709 (5cc6853)"},
+{"host": {"version": "1.0.999 x64 (84510)"},"channel": {"canary": "563771 (209b4d1)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -20040,7 +20040,9 @@
   "719201": {
     "avatarPreviewContainer": "avatarPreviewContainer__349b1",
     "pfxPreviewContainer": "pfxPreviewContainer__349b1",
+    "pfxPreviewContainerSolo": "pfxPreviewContainerSolo__349b1 pfxPreviewContainer__349b1",
     "profileFramePreviewContainer": "profileFramePreviewContainer__349b1",
+    "profileFramePreviewContainerSolo": "profileFramePreviewContainerSolo__349b1 profileFramePreviewContainer__349b1",
     "nameplatePreviewContainer": "nameplatePreviewContainer__349b1",
     "nameplatePreview": "nameplatePreview__349b1"
   },
