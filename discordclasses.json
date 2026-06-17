@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1000 x64 (84615)"},"channel": {"canary": "564394 (afe4fb8)"},
+{"host": {"version": "1.0.1000 x64 (84687)"},"channel": {"canary": "564733 (eb6297f)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -2007,6 +2007,9 @@
     "closeButton": "closeButton_b558e5",
     "promoSection": "promoSection_b558e5",
     "headingRow": "headingRow_b558e5",
+    "heading": "heading_b558e5",
+    "headingActions": "headingActions_b558e5",
+    "timeLeft": "timeLeft_b558e5",
     "cardGrid": "cardGrid_b558e5"
   },
   "74776": {
@@ -5578,6 +5581,9 @@
   "206939": {
     "wrapper": "wrapper_fce7ca",
     "shine": "shine_fce7ca"
+  },
+  "207715": {
+    "premiumBrandRefreshInputBackground": "premiumBrandRefreshInputBackground_d313e6"
   },
   "207757": {
     "tile": "tile__90dc5",
@@ -9245,6 +9251,10 @@
     "confirmation": "confirmation_cd2ff7",
     "seasonalConfirmationPadding": "seasonalConfirmationPadding_cd2ff7",
     "giftCodeSection": "giftCodeSection_cd2ff7"
+  },
+  "340231": {
+    "container": "container__2becd",
+    "actions": "actions__2becd"
   },
   "340281": {
     "container": "container__49ef0",
@@ -21414,8 +21424,9 @@
     "tagList": "tagList__25a50",
     "tag": "tag__25a50",
     "button": "button__25a50",
-    "expandButton": "expandButton__25a50 tag__25a50 button__25a50",
+    "disabled": "disabled__25a50",
     "collapseButton": "collapseButton__25a50 tag__25a50 button__25a50",
+    "expandButton": "expandButton__25a50 tag__25a50 button__25a50",
     "addButton": "addButton__25a50 tag__25a50 button__25a50",
     "caret": "caret__25a50",
     "removeButton": "removeButton__25a50",
@@ -22473,12 +22484,6 @@
     "currentMonthEarningsTable": "currentMonthEarningsTable_cd734c",
     "formSection": "formSection_cd734c"
   },
-  "814304": {
-    "shaker": "shaker_e4d803",
-    "premiumBrandRefreshInputBackground": "premiumBrandRefreshInputBackground_e4d803",
-    "loader": "loader_e4d803",
-    "contentWrapper": "contentWrapper_e4d803"
-  },
   "814438": {
     "button": "button_e18686"
   },
@@ -23251,6 +23256,9 @@
     "header": "header_c6bf1b",
     "stickyHeader": "stickyHeader_c6bf1b",
     "stickyHeaderElevated": "stickyHeaderElevated_c6bf1b"
+  },
+  "838857": {
+    "panel": "panel__262a4"
   },
   "839181": {
     "itemList": "itemList__2b8d3",
