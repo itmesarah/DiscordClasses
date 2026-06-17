@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.999 x64 (84582)"},"channel": {"canary": "564158 (f770c03)"},
+{"host": {"version": "1.0.999 x64 (84602)"},"channel": {"canary": "564355 (a02e913)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -7815,10 +7815,10 @@
     "withGradient": "withGradient__553bf",
     "withQuestHomeHeroContent": "withQuestHomeHeroContent__553bf",
     "withOnboardingContent": "withOnboardingContent__553bf",
-    "questHomeHeroBackgroundImage": "questHomeHeroBackgroundImage__553bf",
     "badge": "badge__553bf",
     "shine": "shine__553bf",
-    "glow": "glow__553bf"
+    "glow": "glow__553bf",
+    "questHomeHeroBackgroundImage": "questHomeHeroBackgroundImage__553bf"
   },
   "302509": {
     "icon": "icon_f9347f",
@@ -8360,6 +8360,7 @@
   "314489": {
     "container": "container__9b328",
     "video": "video__9b328",
+    "gradient": "gradient__9b328",
     "content": "content__9b328",
     "heading": "heading__9b328",
     "body": "body__9b328",
@@ -17824,6 +17825,7 @@
     "authorize": "authorize__3d3b0",
     "loadingContainer": "loadingContainer__3d3b0",
     "spinner": "spinner__3d3b0",
+    "obscuredWrapper": "obscuredWrapper__3d3b0",
     "contentWrapper": "contentWrapper__3d3b0",
     "content": "content__3d3b0",
     "noPadding": "noPadding__3d3b0",
