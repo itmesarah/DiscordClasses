@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.999 x64 (84602)"},"channel": {"canary": "564355 (a02e913)"},
+{"host": {"version": "1.0.1000 x64 (84615)"},"channel": {"canary": "564370 (2d5691c)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -8381,6 +8381,7 @@
     "root": "root__25956"
   },
   "315767": {
+    "footer": "footer__44846",
     "footerDescription": "footerDescription__44846",
     "questDescriptionText": "questDescriptionText__44846",
     "descriptionWrapper": "descriptionWrapper__44846",
