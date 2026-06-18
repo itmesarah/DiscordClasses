@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1003 x64 (84801)"},"channel": {"canary": "565417 (1ff3d6a)"},
+{"host": {"version": "1.0.1003 x64 (84823)"},"channel": {"canary": "565665 (90f0e78)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -5628,8 +5628,7 @@
   "209150": {
     "emptyPreview": "emptyPreview_e3aa7b",
     "fadeInAvatarImg": "fadeInAvatarImg_e3aa7b",
-    "fadeIn": "fadeIn_e3aa7b",
-    "sampleDecorationAvatar": "sampleDecorationAvatar_e3aa7b"
+    "fadeIn": "fadeIn_e3aa7b"
   },
   "209291": {
     "container": "container__04119",
@@ -13769,6 +13768,11 @@
     "img": "img__8f9ad",
     "hiddenSpoiler": "hiddenSpoiler__8f9ad"
   },
+  "493975": {
+    "container": "container_c9d7f6",
+    "actions": "actions_c9d7f6",
+    "button": "button_c9d7f6"
+  },
   "494025": {
     "trialRecipientContainer": "trialRecipientContainer__2441a",
     "trialRecipientRow": "trialRecipientRow__2441a",
@@ -16675,7 +16679,10 @@
     "pixelify": "pixelify__89a31",
     "sinistre": "sinistre__89a31",
     "zillaSlab": "zillaSlab__89a31",
-    "playpenSans": "playpenSans__89a31"
+    "playpenSans": "playpenSans__89a31",
+    "orbitron": "orbitron__89a31",
+    "newRocker": "newRocker__89a31",
+    "kalam": "kalam__89a31"
   },
   "592743": {
     "elevated": "elevated__3f12a",
@@ -26794,6 +26801,10 @@
     "partnerGameTile": "partnerGameTile__3a1f6",
     "partnerTitle": "partnerTitle__3a1f6",
     "bottomContainer": "bottomContainer__3a1f6"
+  },
+  "970389": {
+    "samplePlaceholder": "samplePlaceholder_e81047",
+    "fadeIn": "fadeIn_e81047"
   },
   "970682": {
     "root": "root_c5bcbe",
