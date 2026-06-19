@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1003 x64 (84823)"},"channel": {"canary": "565665 (90f0e78)"},
+{"host": {"version": "1.0.1004 x64 (84919)"},"channel": {"canary": "566141 (4ed591d)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -6845,6 +6845,9 @@
     "divider": "divider_c791b2",
     "tabsContainer": "tabsContainer_c791b2"
   },
+  "256768": {
+    "loadingContainer": "loadingContainer__5e4a7"
+  },
   "256855": {
     "libraryHeader": "libraryHeader__5a895"
   },
@@ -8365,7 +8368,6 @@
   "314489": {
     "container": "container__9b328",
     "video": "video__9b328",
-    "gradient": "gradient__9b328",
     "content": "content__9b328",
     "heading": "heading__9b328",
     "body": "body__9b328",
@@ -12650,7 +12652,8 @@
   "460610": {
     "spacingTop24": "spacingTop24_f22a74",
     "permissionWarning": "permissionWarning_f22a74",
-    "filterLoadingIndicator": "filterLoadingIndicator_f22a74"
+    "filterLoadingIndicator": "filterLoadingIndicator_f22a74",
+    "filterErrorIndicator": "filterErrorIndicator_f22a74"
   },
   "460790": {
     "modalContent": "modalContent_cb1992",
@@ -12869,7 +12872,8 @@
   },
   "466681": {
     "profilePreviewContainer": "profilePreviewContainer_ee133f",
-    "profileSkeletonImage": "profileSkeletonImage_ee133f"
+    "profileSkeletonImage": "profileSkeletonImage_ee133f",
+    "effectOverlay": "effectOverlay_ee133f"
   },
   "466745": {
     "emptySearchResultsContainer": "emptySearchResultsContainer_fffcb4",
@@ -13608,11 +13612,12 @@
     "card": "card__8e988",
     "guildOfficialMessage": "guildOfficialMessage__8e988",
     "cardBody": "cardBody__8e988",
+    "cardContent": "cardContent__8e988",
     "filePreview": "filePreview__8e988",
     "cardHeader": "cardHeader__8e988",
     "cardHeaderMeta": "cardHeaderMeta__8e988",
-    "cardHeaderTop": "cardHeaderTop__8e988",
     "authorNameGroup": "authorNameGroup__8e988",
+    "cardHeaderTop": "cardHeaderTop__8e988",
     "systemTagWrapper": "systemTagWrapper__8e988",
     "channelChip": "channelChip__8e988",
     "channelChipIcon": "channelChipIcon__8e988",
@@ -13621,14 +13626,9 @@
     "authorName": "authorName__8e988",
     "cardThumbnail": "cardThumbnail__8e988",
     "cardThumbnailImage": "cardThumbnailImage__8e988",
-    "pollContent": "pollContent__8e988",
-    "pollQuestion": "pollQuestion__8e988",
-    "pollOptions": "pollOptions__8e988",
-    "pollOption": "pollOption__8e988",
-    "pollOptionEmoji": "pollOptionEmoji__8e988",
-    "pollOptionOverflow": "pollOptionOverflow__8e988",
+    "pollEmbed": "pollEmbed__8e988",
     "description": "description__8e988",
-    "cardBodyFaded": "cardBodyFaded__8e988",
+    "cardContentFaded": "cardContentFaded__8e988",
     "empty": "empty__8e988",
     "loadingMore": "loadingMore__8e988"
   },
@@ -19701,11 +19701,11 @@
     "automodMessage": "automodMessage__5126c",
     "mentioned": "mentioned__5126c",
     "guildOfficialMessage": "guildOfficialMessage__5126c",
+    "messageListItem": "messageListItem__5126c",
+    "replying": "replying__5126c",
+    "selected": "selected__5126c",
     "message": "message__5126c",
     "guildOfficialMessageContent": "guildOfficialMessageContent__5126c",
-    "replying": "replying__5126c",
-    "messageListItem": "messageListItem__5126c",
-    "selected": "selected__5126c",
     "quotedChatMessage": "quotedChatMessage__5126c",
     "jump": "jump__5126c",
     "buttons": "buttons__5126c",
@@ -20687,6 +20687,9 @@
     "scroller": "scroller_fcb628",
     "connections": "connections_fcb628",
     "appsConnections": "appsConnections_fcb628"
+  },
+  "741887": {
+    "threadCreatorName": "threadCreatorName__6dde6"
   },
   "742007": {
     "card": "card_e12da8",
@@ -22112,6 +22115,9 @@
     "topFade": "topFade_e4bf2f",
     "bottomFade": "bottomFade_e4bf2f",
     "scrollerSpacer": "scrollerSpacer_e4bf2f"
+  },
+  "798573": {
+    "textStyles": "textStyles__1a3b6"
   },
   "798594": {
     "clipItem": "clipItem__1d12e",
@@ -24368,7 +24374,8 @@
   },
   "886964": {
     "cameraWrapper": "cameraWrapper__92346",
-    "camera": "camera__92346"
+    "camera": "camera__92346",
+    "cameraBox": "cameraBox__92346"
   },
   "887267": {
     "sectionsContainer": "sectionsContainer__722a8",
@@ -25115,6 +25122,9 @@
     "interactive": "interactive_f88cfd",
     "muted": "muted_f88cfd",
     "selected": "selected_f88cfd"
+  },
+  "912553": {
+    "iconWrapper": "iconWrapper__47bb9"
   },
   "912853": {
     "container": "container_c8c710"
