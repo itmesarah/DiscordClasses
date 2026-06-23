@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1004 x64 (84946)"},"channel": {"canary": "566661 (af5626e)"},
+{"host": {"version": "1.0.1004 x64 (84946)"},"channel": {"canary": "566822 (ad7b82a)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -22631,6 +22631,7 @@
     "voiceSummaryContainer": "voiceSummaryContainer__71961",
     "iconContainer": "iconContainer__71961",
     "gameIcon": "gameIcon__71961",
+    "gameProfileIcon": "gameProfileIcon__71961 gameIcon__71961",
     "gameIconSize": "gameIconSize__71961",
     "icon": "icon__71961",
     "name": "name__71961",
@@ -24629,6 +24630,7 @@
     "footer": "footer_b1a1c5",
     "footerActions": "footerActions_b1a1c5",
     "applyButtonWrapper": "applyButtonWrapper_b1a1c5",
+    "footerActionsStacked": "footerActionsStacked_b1a1c5",
     "error": "error_b1a1c5"
   },
   "894385": {
