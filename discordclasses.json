@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1007 x64 (85043)"},"channel": {"canary": "567751 (7be006d)"},
+{"host": {"version": "1.0.1008 x64 (85094)"},"channel": {"canary": "567863 (42e15b5)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -16238,9 +16238,6 @@
     "isOwned": "isOwned__85bea"
   },
   "575650": {
-    "seasonalGiftBoxHeaderIcon": "seasonalGiftBoxHeaderIcon_ae16b8",
-    "container": "container_ae16b8",
-    "closeButton": "closeButton_ae16b8",
     "fullWidthGraphicHeaderForManaModal": "fullWidthGraphicHeaderForManaModal_ae16b8"
   },
   "575863": {
@@ -23855,6 +23852,11 @@
   },
   "865349": {
     "buttonsContainer": "buttonsContainer__5989f"
+  },
+  "865543": {
+    "seasonalGiftBoxHeaderIcon": "seasonalGiftBoxHeaderIcon_daa077",
+    "container": "container_daa077",
+    "closeButton": "closeButton_daa077"
   },
   "866219": {
     "header": "header__4a3a5",
