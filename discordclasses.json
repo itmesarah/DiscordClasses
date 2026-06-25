@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1009 x64 (85197)"},"channel": {"canary": "568704 (c00beb2)"},
+{"host": {"version": "1.0.1009 x64 (85206)"},"channel": {"canary": "568763 (c798b87)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -25934,6 +25934,14 @@
     "title": "title__3c20e",
     "value": "value__3c20e",
     "canvas": "canvas__3c20e",
+    "chartWrap": "chartWrap__3c20e",
+    "hoverReadout": "hoverReadout__3c20e",
+    "hoverReadoutTime": "hoverReadoutTime__3c20e",
+    "hoverReadoutPin": "hoverReadoutPin__3c20e",
+    "hoverReadoutRow": "hoverReadoutRow__3c20e",
+    "hoverReadoutSwatch": "hoverReadoutSwatch__3c20e",
+    "hoverReadoutLabel": "hoverReadoutLabel__3c20e",
+    "hoverReadoutValue": "hoverReadoutValue__3c20e",
     "groupHeader": "groupHeader__3c20e",
     "groupLabel": "groupLabel__3c20e",
     "groupMeta": "groupMeta__3c20e",
