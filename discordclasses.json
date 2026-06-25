@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1009 x64 (85161)"},"channel": {"canary": "568450 (17d8c91)"},
+{"host": {"version": "1.0.1009 x64 (85176)"},"channel": {"canary": "568704 (c00beb2)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -13753,11 +13753,6 @@
     "img": "img__8f9ad",
     "hiddenSpoiler": "hiddenSpoiler__8f9ad"
   },
-  "493975": {
-    "container": "container_c9d7f6",
-    "actions": "actions_c9d7f6",
-    "button": "button_c9d7f6"
-  },
   "494025": {
     "trialRecipientContainer": "trialRecipientContainer__2441a",
     "trialRecipientRow": "trialRecipientRow__2441a",
@@ -15304,6 +15299,7 @@
     "refreshVoiceChannelsButton": "refreshVoiceChannelsButton__29444"
   },
   "547032": {
+    "hoverArea": "hoverArea__6d3d8",
     "container": "container__6d3d8",
     "containerHovered": "containerHovered__6d3d8",
     "featuredSection": "featuredSection__6d3d8",
