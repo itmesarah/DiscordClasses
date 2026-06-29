@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1015 x64 (85392)"},"channel": {"canary": "570585 (301234c)"},
+{"host": {"version": "1.0.1015 x64 (85433)"},"channel": {"canary": "570883 (8fe9154)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -5599,6 +5599,9 @@
     "codeGrid": "codeGrid__9351a",
     "codeGridCode": "codeGridCode__9351a"
   },
+  "210039": {
+    "section": "section__84ed6"
+  },
   "210349": {
     "contentContainer": "contentContainer__77062"
   },
@@ -8299,15 +8302,6 @@
     "innerContent": "innerContent__89631",
     "footerButton": "footerButton__89631",
     "artwork": "artwork__89631"
-  },
-  "314319": {
-    "embed": "embed_c672f0",
-    "backgroundLayer": "backgroundLayer_c672f0",
-    "background": "background_c672f0",
-    "backgroundGradient": "backgroundGradient_c672f0",
-    "icon": "icon_c672f0",
-    "content": "content_c672f0",
-    "badgeRow": "badgeRow_c672f0"
   },
   "314485": {
     "row": "row__21b7c",
@@ -13643,6 +13637,7 @@
     "descriptionText": "descriptionText__6db38",
     "legacyLabel": "legacyLabel__6db38",
     "descriptionCardExtras": "descriptionCardExtras__6db38",
+    "descriptionNotice": "descriptionNotice__6db38",
     "directoryFooter": "directoryFooter__6db38",
     "badgeOwnership": "badgeOwnership__6db38",
     "badgeOwnershipText": "badgeOwnershipText__6db38"
@@ -20920,6 +20915,15 @@
     "rate": "rate__7eeec",
     "sparkChart": "sparkChart__7eeec"
   },
+  "743832": {
+    "embed": "embed_bbe1d5",
+    "backgroundLayer": "backgroundLayer_bbe1d5",
+    "background": "background_bbe1d5",
+    "backgroundGradient": "backgroundGradient_bbe1d5",
+    "icon": "icon_bbe1d5",
+    "content": "content_bbe1d5",
+    "badgeRow": "badgeRow_bbe1d5"
+  },
   "744053": {
     "previewContainer": "previewContainer_c9a5b2",
     "profileContainer": "profileContainer_c9a5b2",
@@ -24343,6 +24347,19 @@
     "cosponsorBrandSeparatorWrapper": "cosponsorBrandSeparatorWrapper__83420",
     "cosponsorBrandSeparator": "cosponsorBrandSeparator__83420"
   },
+  "880716": {
+    "embed": "embed_cbd65e",
+    "bannerArea": "bannerArea_cbd65e",
+    "bannerGradient": "bannerGradient_cbd65e",
+    "body": "body_cbd65e",
+    "bodyWithBanner": "bodyWithBanner_cbd65e",
+    "icon": "icon_cbd65e",
+    "iconFallback": "iconFallback_cbd65e icon_cbd65e",
+    "info": "info_cbd65e",
+    "actions": "actions_cbd65e",
+    "badgeRow": "badgeRow_cbd65e",
+    "viewProfileButton": "viewProfileButton_cbd65e"
+  },
   "881190": {
     "badge": "badge_bb93f2"
   },
@@ -24940,8 +24957,6 @@
     "card": "card_abfd90",
     "cardFlairWrapper": "cardFlairWrapper_abfd90",
     "cardFlairGlow": "cardFlairGlow_abfd90",
-    "cardFlairGlowAlwaysOn": "cardFlairGlowAlwaysOn_abfd90",
-    "cardFlairGlowOnHover": "cardFlairGlowOnHover_abfd90",
     "cardMedium": "cardMedium_abfd90",
     "cardSmall": "cardSmall_abfd90",
     "cardImageContainer": "cardImageContainer_abfd90",
