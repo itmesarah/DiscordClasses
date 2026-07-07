@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1027 x64 (85863)"},"channel": {"canary": "573856 (6dee11c)"},
+{"host": {"version": "1.0.1027 x64 (85878)"},"channel": {"canary": "574086 (b33d924)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -23608,7 +23608,9 @@
     "previewButton": "previewButton_eb3aa4"
   },
   "849211": {
-    "closeIcon": "closeIcon_ec3eb0"
+    "closeIcon": "closeIcon_ec3eb0",
+    "header": "header_ec3eb0",
+    "heading": "heading_ec3eb0"
   },
   "849812": {
     "container": "container_ce5f0d",
