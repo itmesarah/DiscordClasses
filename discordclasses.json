@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1027 x64 (85905)"},"channel": {"canary": "574091 (eb29c86)"},
+{"host": {"version": "1.0.1029 x64 (85924)"},"channel": {"canary": "574435 (c47edb4)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -3309,6 +3309,11 @@
     "body": "body_a2844c text_a2844c",
     "invite": "invite_a2844c",
     "inviteDetail": "inviteDetail_a2844c"
+  },
+  "118902": {
+    "clipKeybindHint": "clipKeybindHint_f9504b",
+    "clipKeyCombo": "clipKeyCombo_f9504b",
+    "clipKeyComboKey": "clipKeyComboKey_f9504b"
   },
   "119333": {
     "verificationRoleCard": "verificationRoleCard__866a0",
@@ -6799,7 +6804,8 @@
   },
   "257170": {
     "selectorHeading": "selectorHeading_a1294d",
-    "tileGrid": "tileGrid_a1294d"
+    "tileGrid": "tileGrid_a1294d",
+    "betaCaption": "betaCaption_a1294d"
   },
   "257727": {
     "row": "row_c7dbcb",
@@ -10070,6 +10076,13 @@
     "gameIconContainer": "gameIconContainer__7700a",
     "warningCorner": "warningCorner__7700a"
   },
+  "364103": {
+    "duck": "duck__2dee0",
+    "quackButton": "quackButton__2dee0",
+    "quacking": "quacking__2dee0",
+    "duckContainer": "duckContainer__2dee0",
+    "disabled": "disabled__2dee0"
+  },
   "364488": {
     "chooseAccountAuthBox": "chooseAccountAuthBox_df9c06",
     "chooseAccountHelpText": "chooseAccountHelpText_df9c06",
@@ -10390,10 +10403,7 @@
     "gameIconWrapper": "gameIconWrapper__8c6c2",
     "gameIcon": "gameIcon__8c6c2",
     "info": "info__8c6c2",
-    "liveBadge": "liveBadge__8c6c2",
-    "clipKeybindHint": "clipKeybindHint__8c6c2",
-    "clipKeyCombo": "clipKeyCombo__8c6c2",
-    "clipKeyComboKey": "clipKeyComboKey__8c6c2"
+    "liveBadge": "liveBadge__8c6c2"
   },
   "379464": {
     "section": "section__999b5",
