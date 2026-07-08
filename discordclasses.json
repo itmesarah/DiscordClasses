@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1030 x64 (85955)"},"channel":{"canary":"574954 (e27f713)"},
+{"host":{"version":"1.0.1030 x64 (85955)"},"channel":{"canary":"574962 (7a3a276)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -22530,6 +22530,7 @@
     "groupLabel": "groupLabel_b08638",
     "groupErrorMessage": "groupErrorMessage_b08638",
     "groupLabelHeading": "groupLabelHeading_b08638",
+    "groupLabelBadge": "groupLabelBadge_b08638",
     "groupLabelIcon": "groupLabelIcon_b08638",
     "perServerNotice": "perServerNotice_b08638",
     "perServerNoticeDismissButton": "perServerNoticeDismissButton_b08638",
