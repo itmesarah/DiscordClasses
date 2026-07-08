@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1030 x64 (85955)"},"channel":{"canary":"574962 (7a3a276)"},
+{"host":{"version":"1.0.1030 x64 (85955)"},"channel":{"canary":"574964 (4668658)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -6824,7 +6824,8 @@
   "257170": {
     "selectorHeading": "selectorHeading_a1294d",
     "tileGrid": "tileGrid_a1294d",
-    "betaCaption": "betaCaption_a1294d"
+    "betaCaption": "betaCaption_a1294d",
+    "tileNewDot": "tileNewDot_a1294d"
   },
   "257727": {
     "row": "row_c7dbcb",
