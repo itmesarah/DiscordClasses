@@ -1,4 +1,4 @@
-{"host": {"version": "1.0.1030 x64 (85955)"},"channel": {"canary": "574793 (fb4d0a1)"},
+{"host":{"version":"1.0.1030 x64 (85955)"},"channel":{"canary":"574793 (fb4d0a1)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
