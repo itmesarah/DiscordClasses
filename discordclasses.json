@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1030 x64 (85955)"},"channel":{"canary":"574964 (4668658)"},
+{"host":{"version":"1.0.1032 x64 (86002)"},"channel":{"canary":"575327 (cfa9a35)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -13962,7 +13962,6 @@
     "legibilityGradient": "legibilityGradient__24e2c",
     "heroAsset": "heroAsset__24e2c",
     "cta": "cta__24e2c",
-    "contentInteractable": "contentInteractable__24e2c",
     "title": "title__24e2c",
     "rewardTile": "rewardTile__24e2c",
     "hiddenRewardTile": "hiddenRewardTile__24e2c",
@@ -15648,7 +15647,6 @@
     "progressBarWrapper": "progressBarWrapper__5b393"
   },
   "556114": {
-    "voice": "voice__73a0a",
     "voiceLabel": "voiceLabel__73a0a",
     "voiceParticipants": "voiceParticipants__73a0a",
     "headerLabel": "headerLabel__73a0a"
@@ -20886,7 +20884,7 @@
     "collectiblePreviewsContainerWithChat": "collectiblePreviewsContainerWithChat__7f14f collectiblePreviewsContainer__7f14f",
     "fractionalNitroPreviewContainer": "fractionalNitroPreviewContainer__7f14f collectiblePreviewsContainer__7f14f",
     "pdpControls": "pdpControls__7f14f",
-    "goToShopButton": "goToShopButton__7f14f"
+    "goToCollectionButton": "goToCollectionButton__7f14f"
   },
   "742571": {
     "spacing": "spacing__856b5",
@@ -27106,13 +27104,13 @@
   },
   "974963": {
     "stickyMessage": "stickyMessage__31080",
+    "message": "message__31080",
+    "nonMessageContent": "nonMessageContent__31080",
     "tagsRow": "tagsRow__31080",
     "forumPostActionBar": "forumPostActionBar__31080",
-    "dividerThick": "dividerThick__31080 divider__31080",
+    "divider": "divider__31080",
     "dividerThin": "dividerThin__31080 divider__31080",
-    "message": "message__31080",
-    "voice": "voice__31080",
-    "divider": "divider__31080"
+    "dividerThick": "dividerThick__31080 divider__31080"
   },
   "975424": {
     "gridContainer": "gridContainer_f3e8a7",
@@ -27373,6 +27371,11 @@
     "metadata": "metadata__9bfb9",
     "connectedAppRoleAccountClickable": "connectedAppRoleAccountClickable__9bfb9",
     "connectedAppRoleAccountPoweredBy": "connectedAppRoleAccountPoweredBy__9bfb9"
+  },
+  "985216": {
+    "container": "container__863b0",
+    "image": "image__863b0",
+    "body": "body__863b0"
   },
   "986188": {
     "title": "title_d1f0f0",
