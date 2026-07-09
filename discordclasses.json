@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1032 x64 (86002)"},"channel":{"canary":"575327 (cfa9a35)"},
+{"host":{"version":"1.0.1032 x64 (86016)"},"channel":{"canary":"575503 (e3887df)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -3853,10 +3853,7 @@
   },
   "143872": {
     "container": "container__18169",
-    "content": "content__18169",
-    "header": "header__18169",
     "wordmark": "wordmark__18169",
-    "body": "body__18169",
     "info": "info__18169",
     "buttonContainer": "buttonContainer__18169",
     "asset": "asset__18169"
@@ -19771,8 +19768,10 @@
     "timeSubNotchTick": "timeSubNotchTick__0d645"
   },
   "699006": {
+    "fontGrid": "fontGrid_fc7677",
     "fontButton": "fontButton_fc7677",
     "selected": "selected_fc7677",
+    "fontButtonLarge": "fontButtonLarge_fc7677",
     "fontText": "fontText_fc7677",
     "nonLatinDisclaimer": "nonLatinDisclaimer_fc7677"
   },
@@ -19801,7 +19800,9 @@
   },
   "700090": {
     "selected": "selected_caa50c",
+    "effectGrid": "effectGrid_caa50c",
     "effectContainer": "effectContainer_caa50c",
+    "effectContainerLarge": "effectContainerLarge_caa50c",
     "effectText": "effectText_caa50c"
   },
   "700491": {
