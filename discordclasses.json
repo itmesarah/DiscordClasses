@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1032 x64 (86024)"},"channel":{"canary":"575611 (b18a321)"},
+{"host":{"version":"1.0.1032 x64 (86047)"},"channel":{"canary":"575860 (da62d83)"},
   "182": {
     "cards": "cards__1bfce",
     "card": "card__1bfce",
@@ -16011,6 +16011,14 @@
     "artwork": "artwork__8cc35",
     "logo": "logo__8cc35"
   },
+  "599459": {
+    "container": "container__52fde",
+    "note": "note__52fde",
+    "popover": "popover__52fde",
+    "header": "header__52fde",
+    "user": "user__52fde",
+    "icon": "icon__52fde"
+  },
   "599521": {
     "promotionalFooterBanner": "promotionalFooterBanner_e68795",
     "avatar": "avatar_e68795",
@@ -16743,9 +16751,8 @@
   "617031": {
     "duck": "duck__2dee0",
     "quackButton": "quackButton__2dee0",
-    "quacking": "quacking__2dee0",
-    "duckContainer": "duckContainer__2dee0",
-    "disabled": "disabled__2dee0"
+    "disabled": "disabled__2dee0",
+    "duckContainer": "duckContainer__2dee0"
   },
   "617069": {
     "banner": "banner__04bb4",
@@ -17105,7 +17112,8 @@
   },
   "629414": {
     "sectionContainer": "sectionContainer_beb040",
-    "sectionTitle": "sectionTitle_beb040"
+    "sectionTitle": "sectionTitle_beb040",
+    "reducedTopMargin": "reducedTopMargin_beb040"
   },
   "629465": {
     "container": "container_ab8609",
@@ -17253,6 +17261,7 @@
     "addFriendInput": "addFriendInput__72ba7 inputText__72ba7",
     "input": "input__72ba7 inputText__72ba7",
     "addFriendHint": "addFriendHint__72ba7 inputText__72ba7",
+    "addFriendHintPrefix": "addFriendHintPrefix__72ba7",
     "ring": "ring__72ba7",
     "friendNoteTextContainer": "friendNoteTextContainer__72ba7",
     "friendNoteTextArea": "friendNoteTextArea__72ba7 inputText__72ba7",
