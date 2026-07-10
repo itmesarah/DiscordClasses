@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1032 x64 (86071)"},"channel":{"canary":"575888 (54f78ed)"},
+{"host":{"version":"1.0.1034 x64 (86092)"},"channel":{"canary":"576145 (da79885)"},
   "182": {
     "cards": "cards__1bfce",
     "card": "card__1bfce",
@@ -5321,7 +5321,8 @@
     "createOverwritePopout": "createOverwritePopout__0ab2c",
     "roleRow": "roleRow__0ab2c",
     "roleName": "roleName__0ab2c",
-    "searchBar": "searchBar__0ab2c"
+    "searchBar": "searchBar__0ab2c",
+    "removeButtonContainer": "removeButtonContainer__0ab2c"
   },
   "204636": {
     "modalContent": "modalContent__7dffe",
