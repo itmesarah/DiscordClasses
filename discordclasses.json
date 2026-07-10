@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1034 x64 (86092)"},"channel":{"canary":"576145 (da79885)"},
+{"host":{"version":"1.0.1034 x64 (86092)"},"channel":{"canary":"576504 (c65c9d9)"},
   "182": {
     "cards": "cards__1bfce",
     "card": "card__1bfce",
@@ -807,6 +807,9 @@
     "statItem": "statItem_c7a70f",
     "divider": "divider_c7a70f",
     "poweredBy": "poweredBy_c7a70f"
+  },
+  "35059": {
+    "row": "row__79399"
   },
   "35122": {
     "outer": "outer_ac6414",
@@ -2458,7 +2461,6 @@
     "heroHeadingContainer": "heroHeadingContainer__02f2d",
     "planComparisonTableContainer": "planComparisonTableContainer__02f2d",
     "premiumTierCardsContainer": "premiumTierCardsContainer__02f2d",
-    "promoBannerContainer": "promoBannerContainer__02f2d",
     "whatsNewSectionContainer": "whatsNewSectionContainer__02f2d",
     "bottomOfPageVisibilitySensor": "bottomOfPageVisibilitySensor__02f2d",
     "scroller": "scroller__02f2d",
@@ -4268,14 +4270,6 @@
   "163653": {
     "buttonsContainer": "buttonsContainer__5989f"
   },
-  "164332": {
-    "banner": "banner__262c8",
-    "bodyContainer": "bodyContainer__262c8",
-    "promoNitroButton": "promoNitroButton__262c8",
-    "bannerArt": "bannerArt__262c8",
-    "pill": "pill__262c8",
-    "buttonGradient": "buttonGradient__262c8"
-  },
   "164712": {
     "clickable": "clickable__997f6",
     "container": "container__997f6"
@@ -4905,6 +4899,12 @@
     "countryItem": "countryItem__61a01",
     "countryName": "countryName__61a01",
     "countryCode": "countryCode__61a01"
+  },
+  "189690": {
+    "content": "content_ced382",
+    "status": "status_ced382",
+    "statusIcon": "statusIcon_ced382",
+    "statusLabel": "statusLabel_ced382"
   },
   "190322": {
     "empty": "empty__7ff05",
@@ -6790,30 +6790,6 @@
     "sharedTitle": "sharedTitle__7473d",
     "sharedBy": "sharedBy__7473d",
     "avatarContainer": "avatarContainer__7473d"
-  },
-  "254565": {
-    "applicationHomeBanner": "applicationHomeBanner__62eb1",
-    "settingsBanner": "settingsBanner__62eb1",
-    "settingsImageContainer": "settingsImageContainer__62eb1",
-    "settingsBannerLeftImageContainer": "settingsBannerLeftImageContainer__62eb1 settingsImageContainer__62eb1",
-    "settingsBannerRightImageContainer": "settingsBannerRightImageContainer__62eb1 settingsImageContainer__62eb1",
-    "bannerBoxOutlinePosition": "bannerBoxOutlinePosition__62eb1",
-    "backgroundGradient": "backgroundGradient__62eb1",
-    "imageContainer": "imageContainer__62eb1",
-    "settingsImage": "settingsImage__62eb1",
-    "applicationHomeImage": "applicationHomeImage__62eb1",
-    "bannerContent": "bannerContent__62eb1",
-    "settingsBannerContent": "settingsBannerContent__62eb1",
-    "bannerHeader": "bannerHeader__62eb1",
-    "bannerText": "bannerText__62eb1",
-    "subscribeButton": "subscribeButton__62eb1",
-    "subscribeButtonText": "subscribeButtonText__62eb1",
-    "premiumTrialBadge": "premiumTrialBadge__62eb1",
-    "badgeGradient": "badgeGradient__62eb1",
-    "buttonGradient": "buttonGradient__62eb1",
-    "subBanner": "subBanner__62eb1",
-    "subHomeBannerImageContainer": "subHomeBannerImageContainer__62eb1",
-    "subBannerContent": "subBannerContent__62eb1"
   },
   "254710": {
     "row": "row_cda434",
@@ -15175,6 +15151,12 @@
     "modalContent": "modalContent__8310d",
     "actionsHeader": "actionsHeader__8310d"
   },
+  "573228": {
+    "radial": "radial_ded7b4",
+    "itemWrapper": "itemWrapper_ded7b4",
+    "item": "item_ded7b4",
+    "belowLayer": "belowLayer_ded7b4"
+  },
   "573457": {
     "popoutItem": "popoutItem__40caf",
     "overlay": "overlay__40caf",
@@ -20691,6 +20673,11 @@
   "751047": {
     "visuallyHidden": "visuallyHidden__1d70e"
   },
+  "752042": {
+    "button": "button__2ab1b",
+    "selected": "selected__2ab1b",
+    "icon": "icon__2ab1b"
+  },
   "752452": {
     "contentImage": "contentImage__42bf5"
   },
@@ -24493,7 +24480,13 @@
   },
   "874119": {
     "userContainer": "userContainer__38ccf",
-    "dim": "dim__38ccf"
+    "dim": "dim__38ccf",
+    "avatarWrapper": "avatarWrapper__38ccf",
+    "trigger": "trigger__38ccf",
+    "badge": "badge__38ccf",
+    "guildRoomStatusBadge": "guildRoomStatusBadge__38ccf",
+    "editBadge": "editBadge__38ccf",
+    "isStatusMenuOpen": "isStatusMenuOpen__38ccf"
   },
   "874185": {
     "upload": "upload_aa605f",
