@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1037 x64 (86238)"},"channel":{"canary":"576913 (df574c5)"},
+{"host":{"version":"1.0.1037 x64 (86243)"},"channel":{"canary":"576926 (74d1f54)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -21191,6 +21191,13 @@
     "iconPlay": "iconPlay__926d7 icon__926d7",
     "iconExternal": "iconExternal__926d7 icon__926d7",
     "iconExternalMargins": "iconExternalMargins__926d7 icon__926d7"
+  },
+  "755873": {
+    "plant": "plant_b29b5a",
+    "plantInteractive": "plantInteractive_b29b5a",
+    "disabled": "disabled_b29b5a",
+    "backdrop": "backdrop_b29b5a",
+    "plantImage": "plantImage_b29b5a"
   },
   "756773": {
     "action": "action_e2d85e",
