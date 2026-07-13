@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1037 x64 (86310)"},"channel":{"canary":"577267 (b518821)"},
+{"host":{"version":"1.0.1037 x64 (86340)"},"channel":{"canary":"577453 (03846ba)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -10389,6 +10389,7 @@
     "clickableGameName": "clickableGameName__8c6c2",
     "gameWrapper": "gameWrapper__8c6c2",
     "gameIconWrapper": "gameIconWrapper__8c6c2",
+    "clickableGameIcon": "clickableGameIcon__8c6c2",
     "gameIcon": "gameIcon__8c6c2",
     "info": "info__8c6c2",
     "liveBadge": "liveBadge__8c6c2"
@@ -10511,6 +10512,8 @@
     "titleOrbIcon": "titleOrbIcon__11054"
   },
   "383374": {
+    "thumbnailButton": "thumbnailButton__1692d",
+    "titleButton": "titleButton__1692d",
     "cloudPlaySection": "cloudPlaySection__1692d",
     "cloudPlaySectionTextContainer": "cloudPlaySectionTextContainer__1692d",
     "appWidgetPreview": "appWidgetPreview__1692d"
