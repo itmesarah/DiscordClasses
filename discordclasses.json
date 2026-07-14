@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1039 x64 (86345)"},"channel":{"canary":"577550 (fc7a57c)"},
+{"host":{"version":"1.0.1039 x64 (86359)"},"channel":{"canary":"577648 (6fdbc93)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -5836,6 +5836,8 @@
   "215688": {
     "catalogBanner": "catalogBanner__3f82e",
     "riveBanner": "riveBanner__3f82e",
+    "clickable": "clickable__3f82e",
+    "bannerMedia": "bannerMedia__3f82e",
     "animationAsset": "animationAsset__3f82e",
     "catalogBannerImage": "catalogBannerImage__3f82e",
     "limitedTimeBadge": "limitedTimeBadge__3f82e",
@@ -9244,14 +9246,25 @@
   },
   "339202": {
     "container": "container__0f179",
-    "breadcrumbBar": "breadcrumbBar__0f179",
+    "heroSlot": "heroSlot__0f179",
+    "breadcrumbAnchor": "breadcrumbAnchor__0f179",
+    "breadcrumbTrail": "breadcrumbTrail__0f179",
+    "crumbSeparator": "crumbSeparator__0f179",
+    "crumb": "crumb__0f179",
+    "crumbActive": "crumbActive__0f179",
+    "crumbDivider": "crumbDivider__0f179",
     "catalogFallback": "catalogFallback__0f179",
     "catalogBannerWrapper": "catalogBannerWrapper__0f179",
     "sectionContainer": "sectionContainer__0f179",
     "productsGrid": "productsGrid__0f179",
+    "cardTall": "cardTall__0f179",
+    "cardWide": "cardWide__0f179",
     "relatedSection": "relatedSection__0f179",
+    "pageFooter": "pageFooter__0f179",
+    "footerFilters": "footerFilters__0f179",
     "relatedHeader": "relatedHeader__0f179",
     "relatedDropItem": "relatedDropItem__0f179",
+    "relatedDropCard": "relatedDropCard__0f179",
     "skeletonPulse": "skeletonPulse__0f179",
     "skeletonHeading": "skeletonHeading__0f179",
     "skeletonFeaturedRow": "skeletonFeaturedRow__0f179",
@@ -14941,8 +14954,7 @@
   "525897": {
     "container": "container_b39700",
     "barRow": "barRow_b39700",
-    "progressBarTrack": "progressBarTrack_b39700",
-    "progressBarFill": "progressBarFill_b39700",
+    "progressBar": "progressBar_b39700",
     "labels": "labels_b39700",
     "tierIcon": "tierIcon_b39700"
   },
@@ -23743,8 +23755,6 @@
   "852406": {
     "row": "row_cda434",
     "content": "content_cda434",
-    "progressBarTrack": "progressBarTrack_cda434",
-    "progressBarFill": "progressBarFill_cda434",
     "labels": "labels_cda434",
     "tierIcon": "tierIcon_cda434"
   },
