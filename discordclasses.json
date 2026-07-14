@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1039 x64 (86359)"},"channel":{"canary":"577648 (6fdbc93)"},
+{"host":{"version":"1.0.1040 x64 (86365)"},"channel":{"canary":"577854 (9b7b9f9)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -15847,9 +15847,7 @@
   },
   "562296": {
     "container": "container__960ef",
-    "ctaInner": "ctaInner__960ef",
     "ctaItem": "ctaItem__960ef",
-    "button": "button__960ef",
     "platformSelectorPrimaryLabel": "platformSelectorPrimaryLabel__960ef",
     "platformSelectorPrimary": "platformSelectorPrimary__960ef",
     "platformSelectorSecondary": "platformSelectorSecondary__960ef"
