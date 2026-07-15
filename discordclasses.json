@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1041 x64 (86459)"},"channel":{"canary":"578435 (d834360)"},
+{"host":{"version":"1.0.1041 x64 (86478)"},"channel":{"canary":"578522 (17f9625)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -7009,6 +7009,7 @@
     "flushContainer": "flushContainer__74017 inlineContainer__74017",
     "inner": "inner__74017",
     "charCountShowing": "charCountShowing__74017",
+    "charCountUpsellShowing": "charCountUpsellShowing__74017",
     "innerDisabled": "innerDisabled__74017 inner__74017",
     "sansAttachButton": "sansAttachButton__74017",
     "sansAttachButtonCreateThread": "sansAttachButtonCreateThread__74017",
@@ -8017,17 +8018,6 @@
     "invoiceCancelRow": "invoiceCancelRow__968a4",
     "error": "error__968a4",
     "loading": "loading__968a4"
-  },
-  "309434": {
-    "container": "container__8d70a",
-    "title": "title__8d70a",
-    "subtitle": "subtitle__8d70a",
-    "userText": "userText__8d70a",
-    "usagePill": "usagePill__8d70a",
-    "verifiedIcon": "verifiedIcon__8d70a",
-    "verifiedNameContainer": "verifiedNameContainer__8d70a",
-    "verifiedCheckContainer": "verifiedCheckContainer__8d70a",
-    "verifiedCheck": "verifiedCheck__8d70a"
   },
   "310145": {
     "thankYouCard": "thankYouCard_b851f5",
@@ -9305,7 +9295,8 @@
     "giftRecipientButton": "giftRecipientButton_cd2ff7",
     "confirmation": "confirmation_cd2ff7",
     "seasonalConfirmationPadding": "seasonalConfirmationPadding_cd2ff7",
-    "giftCodeSection": "giftCodeSection_cd2ff7"
+    "giftCodeSection": "giftCodeSection_cd2ff7",
+    "giftingBadgeFooter": "giftingBadgeFooter_cd2ff7"
   },
   "340231": {
     "container": "container__2becd",
@@ -15060,6 +15051,17 @@
     "cloud": "cloud__53c90",
     "avatar": "avatar__53c90",
     "overflowBadge": "overflowBadge__53c90"
+  },
+  "531815": {
+    "container": "container__8d70a",
+    "title": "title__8d70a",
+    "subtitle": "subtitle__8d70a",
+    "userText": "userText__8d70a",
+    "usagePill": "usagePill__8d70a",
+    "verifiedIcon": "verifiedIcon__8d70a",
+    "verifiedNameContainer": "verifiedNameContainer__8d70a",
+    "verifiedCheckContainer": "verifiedCheckContainer__8d70a",
+    "verifiedCheck": "verifiedCheck__8d70a"
   },
   "532067": {
     "buttonRow": "buttonRow_da1bc3"
