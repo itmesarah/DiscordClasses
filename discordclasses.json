@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1041 x64 (86478)"},"channel":{"canary":"578522 (17f9625)"},
+{"host":{"version":"1.0.1041 x64 (86496)"},"channel":{"canary":"578756 (bc19467)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -2409,7 +2409,9 @@
     "sectionLabel": "sectionLabel_b18605",
     "scores": "scores_b18605",
     "scoreItem": "scoreItem_b18605",
-    "conversationMeta": "conversationMeta_b18605"
+    "conversationMeta": "conversationMeta_b18605",
+    "header": "header_b18605",
+    "titleContainer": "titleContainer_b18605"
   },
   "85092": {
     "root": "root_da9de7",
@@ -5458,9 +5460,6 @@
     "container": "container_cc66e9",
     "textContainer": "textContainer_cc66e9"
   },
-  "201489": {
-    "channel": "channel__427f0"
-  },
   "201972": {
     "loading": "loading__6ef4d"
   },
@@ -6572,25 +6571,6 @@
   "250747": {
     "modalRoot": "modalRoot_a13acd",
     "modalContent": "modalContent_a13acd"
-  },
-  "251066": {
-    "messagesPopoutWrap": "messagesPopoutWrap_e8b59c",
-    "messagesPopoutWrapDefaultSize": "messagesPopoutWrapDefaultSize_e8b59c",
-    "header": "header_e8b59c",
-    "titleContainer": "titleContainer_e8b59c",
-    "footer": "footer_e8b59c",
-    "loadingMore": "loadingMore_e8b59c",
-    "hasMore": "hasMore_e8b59c",
-    "messagesPopout": "messagesPopout_e8b59c",
-    "messageGroupWrapper": "messageGroupWrapper_e8b59c",
-    "messageGroupCozy": "messageGroupCozy_e8b59c",
-    "scrollingFooterWrap": "scrollingFooterWrap_e8b59c",
-    "emptyPlaceholder": "emptyPlaceholder_e8b59c",
-    "image": "image_e8b59c",
-    "loadingPlaceholder": "loadingPlaceholder_e8b59c",
-    "body": "body_e8b59c",
-    "actionButtons": "actionButtons_e8b59c",
-    "buttonContainer": "buttonContainer_e8b59c"
   },
   "251148": {
     "modalContent": "modalContent__23488",
@@ -12267,6 +12247,10 @@
     "placeholderPulse": "placeholderPulse_b52e4f",
     "gameIconLoading": "gameIconLoading_b52e4f gameIcon_b52e4f"
   },
+  "444338": {
+    "container": "container__898a6",
+    "textContainer": "textContainer__898a6"
+  },
   "444830": {
     "participants": "participants__9c309"
   },
@@ -14856,6 +14840,9 @@
     "tile": "tile__95c18",
     "hidden": "hidden__95c18"
   },
+  "521443": {
+    "box": "box_a86e6c"
+  },
   "521916": {
     "container": "container__75558",
     "header": "header__75558",
@@ -16354,10 +16341,9 @@
     "recentMentionsPopout": "recentMentionsPopout__95796",
     "widerInbox": "widerInbox__95796",
     "scroller": "scroller__95796",
-    "container": "container__95796",
-    "messageContainer": "messageContainer__95796",
-    "jumpMessageButton": "jumpMessageButton__95796 jumpButton_ed0c8c",
-    "message": "message__95796"
+    "message": "message__95796",
+    "loading": "loading__95796",
+    "hasMore": "hasMore__95796"
   },
   "576002": {
     "container": "container_cb53a5",
@@ -17092,7 +17078,9 @@
     "hoverBar": "hoverBar__4ad69",
     "clickableMessageBackground": "clickableMessageBackground__4ad69",
     "deletedMessage": "deletedMessage__4ad69",
-    "deleteIcon": "deleteIcon__4ad69"
+    "deleteIcon": "deleteIcon__4ad69",
+    "header": "header__4ad69",
+    "titleContainer": "titleContainer__4ad69"
   },
   "608956": {
     "buttonIcon": "buttonIcon__4151b",
@@ -21886,6 +21874,24 @@
     "bannerDetails": "bannerDetails_dd6b5e",
     "subtitleRow": "subtitleRow_dd6b5e",
     "nitroWheelIcon": "nitroWheelIcon_dd6b5e"
+  },
+  "780255": {
+    "messagesPopoutWrap": "messagesPopoutWrap__432f4",
+    "header": "header__432f4",
+    "titleContainer": "titleContainer__432f4",
+    "footer": "footer__432f4",
+    "loadingMore": "loadingMore__432f4",
+    "hasMore": "hasMore__432f4",
+    "messagesPopout": "messagesPopout__432f4",
+    "messageGroupWrapper": "messageGroupWrapper__432f4",
+    "messageGroupCozy": "messageGroupCozy__432f4",
+    "emptyPlaceholder": "emptyPlaceholder__432f4",
+    "image": "image__432f4",
+    "loadingPlaceholder": "loadingPlaceholder__432f4",
+    "body": "body__432f4",
+    "actionButtons": "actionButtons__432f4",
+    "buttonContainer": "buttonContainer__432f4",
+    "protip": "protip__432f4"
   },
   "780479": {
     "clipThumbOverlay": "clipThumbOverlay_e13340",
