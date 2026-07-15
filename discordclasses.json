@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1040 x64 (86365)"},"channel":{"canary":"577854 (9b7b9f9)"},
+{"host":{"version":"1.0.1041 x64 (86459)"},"channel":{"canary":"578435 (d834360)"},
   "10": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
@@ -1658,11 +1658,6 @@
     "chipSelected": "chipSelected_a23773",
     "otherSection": "otherSection_a23773",
     "otherHelper": "otherHelper_a23773"
-  },
-  "58922": {
-    "button": "button__2ab1b",
-    "selected": "selected__2ab1b",
-    "icon": "icon__2ab1b"
   },
   "59467": {
     "actionMenuButton": "actionMenuButton__8dc78"
@@ -4511,6 +4506,9 @@
   "169873": {
     "phoneNumber": "phoneNumber__764ef"
   },
+  "169894": {
+    "collapsible": "collapsible_e4bd29"
+  },
   "170236": {
     "nitroGemAnimation": "nitroGemAnimation_ba269a",
     "gemGlow": "gemGlow_ba269a",
@@ -5457,11 +5455,11 @@
     "belowSidebar": "belowSidebar__6341f"
   },
   "201483": {
-    "container": "container_cc66e9"
+    "container": "container_cc66e9",
+    "textContainer": "textContainer_cc66e9"
   },
   "201489": {
-    "channel": "channel__427f0",
-    "buttonGroup": "buttonGroup__427f0"
+    "channel": "channel__427f0"
   },
   "201972": {
     "loading": "loading__6ef4d"
@@ -5944,8 +5942,8 @@
   "221919": {
     "card": "card_e60808",
     "leftContent": "leftContent_e60808",
-    "icon": "icon_e60808",
     "textContent": "textContent_e60808",
+    "icon": "icon_e60808",
     "connectedStatus": "connectedStatus_e60808"
   },
   "221933": {
@@ -10338,7 +10336,8 @@
   "375930": {
     "info": "info_f4bc97",
     "withDisplayNameStyles": "withDisplayNameStyles_f4bc97",
-    "infoSpacing": "infoSpacing_f4bc97"
+    "infoSpacing": "infoSpacing_f4bc97",
+    "guildTag": "guildTag_f4bc97"
   },
   "376294": {
     "displayNameStylesSection": "displayNameStylesSection__17e9b"
@@ -17631,7 +17630,7 @@
     "avatarWrapper": "avatarWrapper__38ccf",
     "trigger": "trigger__38ccf",
     "badge": "badge__38ccf",
-    "guildRoomStatusBadge": "guildRoomStatusBadge__38ccf",
+    "statusBadge": "statusBadge__38ccf",
     "editBadge": "editBadge__38ccf",
     "isStatusMenuOpen": "isStatusMenuOpen__38ccf"
   },
@@ -20198,6 +20197,11 @@
     "statusMessageContainer": "statusMessageContainer__5a838",
     "badgeContainer": "badgeContainer__5a838"
   },
+  "714568": {
+    "button": "button__6d9c3",
+    "chevron": "chevron__6d9c3",
+    "collapsed": "collapsed__6d9c3"
+  },
   "714813": {
     "cardList": "cardList__2357e"
   },
@@ -22124,11 +22128,9 @@
     "orbsEarnedContainer": "orbsEarnedContainer__02d09"
   },
   "790085": {
-    "header": "header__6c75d",
-    "modalCloseButton": "modalCloseButton__6c75d",
-    "content": "content__6c75d",
+    "step": "step__6c75d",
     "icon": "icon__6c75d",
-    "footer": "footer__6c75d"
+    "details": "details__6c75d"
   },
   "790158": {
     "container": "container_fb64c9",
@@ -23683,7 +23685,10 @@
     "gamesContainer": "gamesContainer__2dc49"
   },
   "848051": {
-    "row": "row__79399"
+    "row": "row__79399",
+    "disabled": "disabled__79399",
+    "preview": "preview__79399",
+    "text": "text__79399"
   },
   "848216": {
     "tabBarContainer": "tabBarContainer_eb3aa4",
@@ -24695,6 +24700,20 @@
     "separator": "separator__49fc1",
     "rootWithShadow": "rootWithShadow__49fc1"
   },
+  "889329": {
+    "channelHeader": "channelHeader__996b5",
+    "collapsed": "collapsed__996b5",
+    "icon": "icon__996b5",
+    "iconClickable": "iconClickable__996b5",
+    "channelNameSection": "channelNameSection__996b5",
+    "channelNameHeading": "channelNameHeading__996b5",
+    "channelNameClickable": "channelNameClickable__996b5",
+    "channelNameSpan": "channelNameSpan__996b5",
+    "guildName": "guildName__996b5",
+    "badge": "badge__996b5",
+    "channelTypeIcon": "channelTypeIcon__996b5",
+    "buttonGroup": "buttonGroup__996b5"
+  },
   "889452": {
     "icon": "icon__402f3"
   },
@@ -25009,7 +25028,8 @@
     "tierTimelineItemLocked": "tierTimelineItemLocked_bf9073",
     "tierTimelineIcon": "tierTimelineIcon_bf9073",
     "tierTimelineText": "tierTimelineText_bf9073",
-    "tierTimelineTextLine": "tierTimelineTextLine_bf9073"
+    "tierTimelineTextLine": "tierTimelineTextLine_bf9073",
+    "tierTimelineLockIcon": "tierTimelineLockIcon_bf9073"
   },
   "900183": {
     "icon": "icon__2ed4c",
@@ -25724,6 +25744,8 @@
   },
   "921519": {
     "row": "row__89036",
+    "nameplated": "nameplated__89036",
+    "content": "content__89036",
     "avatar": "avatar__89036",
     "details": "details__89036",
     "tag": "tag__89036",
