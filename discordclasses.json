@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1050 x64 (86801)"},"channel":{"canary":"581353 (a06bcc8)"},
+{"host":{"version":"1.0.1050 x64 (86817)"},"channel":{"canary":"581463 (0227688)"},
   "182": {
     "cards": "cards__1bfce",
     "card": "card__1bfce",
@@ -5635,7 +5635,8 @@
   },
   "211178": {
     "container": "container__3d96b",
-    "cursor": "cursor__3d96b"
+    "cursor": "cursor__3d96b",
+    "keyboardCursor": "keyboardCursor__3d96b"
   },
   "211240": {
     "container": "container_fc958f",
@@ -26484,11 +26485,7 @@
   },
   "927066": {
     "container": "container__50d91",
-    "separator": "separator__50d91",
-    "header": "header__50d91",
-    "title": "title__50d91",
-    "inputContainer": "inputContainer__50d91",
-    "clickable": "clickable__50d91"
+    "inputContainer": "inputContainer__50d91"
   },
   "927226": {
     "selected": "selected_caa50c",
