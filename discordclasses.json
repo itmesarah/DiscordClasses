@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1051 x64 (86844)"},"channel":{"canary":"581622 (1e7f91a)"},
+{"host":{"version":"1.0.1051 x64 (86854)"},"channel":{"canary":"581661 (d84d5c4)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -3647,6 +3647,8 @@
     "svg": "svg_cc5dd2",
     "shiftSVG": "shiftSVG_cc5dd2",
     "noContain": "noContain_cc5dd2",
+    "decoration": "decoration_cc5dd2",
+    "decorationImage": "decorationImage_cc5dd2",
     "lowerBadge": "lowerBadge_cc5dd2",
     "isHighlighted": "isHighlighted_cc5dd2",
     "upperBadge": "upperBadge_cc5dd2",
