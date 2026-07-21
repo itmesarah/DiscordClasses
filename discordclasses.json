@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1051 x64 (86854)"},"channel":{"canary":"581661 (d84d5c4)"},
+{"host":{"version":"1.0.1052 x64 (86870)"},"channel":{"canary":"581945 (400c8f8)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -1464,6 +1464,18 @@
     "infoExpandedGuildContainer": "infoExpandedGuildContainer__14ad3",
     "infoExpandedGuildInfo": "infoExpandedGuildInfo__14ad3",
     "infoExpandedGuildTitle": "infoExpandedGuildTitle__14ad3"
+  },
+  "48093": {
+    "centeredSection": "centeredSection__95a3f",
+    "container": "container__95a3f",
+    "art": "art__95a3f",
+    "artGradient": "artGradient__95a3f",
+    "closeButton": "closeButton__95a3f",
+    "lockup": "lockup__95a3f",
+    "lockupInner": "lockupInner__95a3f",
+    "textGroup": "textGroup__95a3f",
+    "heading": "heading__95a3f",
+    "description": "description__95a3f"
   },
   "48525": {
     "button": "button__039e0",
@@ -6726,7 +6738,8 @@
     "established": "established__6e500",
     "nameContainer": "nameContainer__6e500",
     "guildNameContainer": "guildNameContainer__6e500",
-    "guildName": "guildName__6e500"
+    "guildName": "guildName__6e500",
+    "serverTag": "serverTag__6e500"
   },
   "239502": {
     "colorPicker": "colorPicker__69f5f"
@@ -8697,13 +8710,13 @@
   },
   "304346": {
     "header": "header__7c901",
-    "subtitle": "subtitle__7c901",
     "closeButton": "closeButton__7c901",
     "content": "content__7c901",
     "embeddedContent": "embeddedContent__7c901",
     "embeddedFooter": "embeddedFooter__7c901",
     "embeddedBackLink": "embeddedBackLink__7c901",
     "error": "error__7c901",
+    "footer": "footer__7c901",
     "listItemContainer": "listItemContainer__7c901",
     "listItemText": "listItemText__7c901",
     "listItemArrow": "listItemArrow__7c901"
@@ -10906,6 +10919,12 @@
     "imageUnverified": "imageUnverified_b026d9 image_b026d9",
     "message": "message_b026d9",
     "secondaryButton": "secondaryButton_b026d9"
+  },
+  "375408": {
+    "container": "container_a9353e",
+    "text": "text_a9353e",
+    "badge": "badge_a9353e",
+    "tagText": "tagText_a9353e"
   },
   "376289": {
     "infoNotice": "infoNotice__9b260",
