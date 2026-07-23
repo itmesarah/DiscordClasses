@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1057 x64 (86972)"},"channel":{"canary":"582839 (a6ef006)"},
+{"host":{"version":"1.0.1057 x64 (87011)"},"channel":{"canary":"582933 (36cccec)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -9741,6 +9741,7 @@
     "hoverArea": "hoverArea__6d3d8",
     "container": "container__6d3d8",
     "containerHovered": "containerHovered__6d3d8",
+    "clickableTile": "clickableTile__6d3d8",
     "contentColumn": "contentColumn__6d3d8",
     "featuredSection": "featuredSection__6d3d8",
     "heroBackground": "heroBackground__6d3d8",
