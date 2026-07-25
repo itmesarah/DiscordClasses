@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1067 x64 (87156)"},"channel":{"canary":"583845 (ed394a3)"},
+{"host":{"version":"1.0.1069 x64 (87180)"},"channel":{"canary":"584012 (4a2fccc)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -3236,6 +3236,13 @@
     "questIcon": "questIcon__0efd3",
     "rewardTileContainer": "rewardTileContainer__0efd3"
   },
+  "122323": {
+    "iconWrapper": "iconWrapper__468db",
+    "toastAnchor": "toastAnchor__468db",
+    "pulse": "pulse__468db",
+    "pulsing": "pulsing__468db",
+    "inbox-pulse": "inbox-pulse__468db"
+  },
   "123268": {
     "wrapperStyle": "wrapperStyle__04bb8",
     "reportFalsePositiveText": "reportFalsePositiveText__04bb8",
@@ -3477,8 +3484,8 @@
   },
   "129973": {
     "modalHeader": "modalHeader__2ecf4",
-    "modalContainer": "modalContainer__2ecf4",
-    "modalContent": "modalContent__2ecf4"
+    "controls": "controls__2ecf4",
+    "body": "body__2ecf4"
   },
   "130041": {
     "root": "root__4063d",
@@ -7272,6 +7279,11 @@
     "spinner": "spinner_cbfa93",
     "errorContainer": "errorContainer_cbfa93",
     "sizedToParent": "sizedToParent_cbfa93"
+  },
+  "255115": {
+    "settings": "settings__191e1",
+    "deleteRow": "deleteRow__191e1",
+    "deleteCopy": "deleteCopy__191e1"
   },
   "255212": {
     "panelInner": "panelInner__9b718",
@@ -11576,9 +11588,10 @@
   },
   "401029": {
     "screen": "screen_f8194a",
+    "landingScreen": "landingScreen_f8194a",
     "body": "body_f8194a",
     "chatBody": "chatBody_f8194a",
-    "chatPanel": "chatPanel_f8194a",
+    "projectHeaderActions": "projectHeaderActions_f8194a",
     "projectUnavailable": "projectUnavailable_f8194a",
     "content": "content_f8194a",
     "creation": "creation_f8194a",
@@ -11587,13 +11600,14 @@
     "creations": "creations_f8194a",
     "creationsHeading": "creationsHeading_f8194a",
     "projectInfo": "projectInfo_f8194a",
-    "projectList": "projectList_f8194a",
     "projectCard": "projectCard_f8194a",
+    "projectCardSelect": "projectCardSelect_f8194a",
+    "projectCardAction": "projectCardAction_f8194a",
+    "projectSettingsAction": "projectSettingsAction_f8194a",
+    "projectCardStatus": "projectCardStatus_f8194a",
     "projectName": "projectName_f8194a",
     "projectMetadata": "projectMetadata_f8194a",
-    "listState": "listState_f8194a",
-    "building-status-pulse": "building-status-pulse_f8194a",
-    "buildingStatus": "buildingStatus_f8194a"
+    "listState": "listState_f8194a"
   },
   "401086": {
     "warningIcon": "warningIcon_e3f977",
@@ -13134,6 +13148,16 @@
     "hasToolbar": "hasToolbar__3b923",
     "editingHeader": "editingHeader__3b923",
     "ukTeenDisclaimer": "ukTeenDisclaimer__3b923"
+  },
+  "456670": {
+    "container": "container__3b67f",
+    "gradient": "gradient__3b67f",
+    "themeDefault": "themeDefault__3b67f",
+    "themeNitro": "themeNitro__3b67f",
+    "content": "content__3b67f",
+    "leftContent": "leftContent__3b67f",
+    "icon": "icon__3b67f",
+    "link": "link__3b67f"
   },
   "456672": {
     "mutuals": "mutuals__530ce",
@@ -19177,7 +19201,8 @@
   "677175": {
     "usagePanel": "usagePanel_db08bb",
     "usageRow": "usageRow_db08bb",
-    "usageRowHead": "usageRowHead_db08bb"
+    "usageRowHead": "usageRowHead_db08bb",
+    "usageTrigger": "usageTrigger_db08bb"
   },
   "677385": {
     "clickableSticker": "clickableSticker_abd7a8",
@@ -19573,6 +19598,7 @@
     "outer": "outer__4f074"
   },
   "692228": {
+    "chatMessageSurface": "chatMessageSurface_a57d27",
     "thinkingGlow": "thinkingGlow_a57d27",
     "vibegrations-glow-drift-a": "vibegrations-glow-drift-a_a57d27",
     "vibegrations-glow-drift-b": "vibegrations-glow-drift-b_a57d27"
@@ -23715,7 +23741,8 @@
     "editableRequirementContainer": "editableRequirementContainer_d48a51"
   },
   "833576": {
-    "header": "header__90588"
+    "header": "header__90588",
+    "title": "title__90588"
   },
   "833860": {
     "contentFooter": "contentFooter_e40371",
@@ -24785,6 +24812,7 @@
     "underline": "underline_ada32f",
     "strikethrough": "strikethrough_ada32f",
     "fakeLink": "fakeLink_ada32f",
+    "silentPrefix": "silentPrefix_ada32f",
     "inlineCode": "inlineCode_ada32f",
     "spoiler": "spoiler_ada32f",
     "codeBlockText": "codeBlockText_ada32f",
