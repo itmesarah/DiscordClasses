@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1070 x64 (87203)"},"channel":{"canary":"584179 (264c8c5)"},
+{"host":{"version":"1.0.1071 x64 (87248)"},"channel":{"canary":"584382 (6a6c262)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -1296,14 +1296,6 @@
     "popout": "popout__0bd4a",
     "content": "content__0bd4a",
     "titleBar": "titleBar__0bd4a"
-  },
-  "40687": {
-    "tabBar": "tabBar_b6a799",
-    "vertical": "vertical_b6a799",
-    "tabBarPanel": "tabBarPanel_b6a799",
-    "tab": "tab_b6a799",
-    "selected": "selected_b6a799",
-    "tabbedSettingsContainer": "tabbedSettingsContainer_b6a799"
   },
   "41295": {
     "forwardPreview": "forwardPreview__9193d",
@@ -7518,6 +7510,14 @@
     "content": "content__12efe",
     "headingText": "headingText__12efe",
     "bodyText": "bodyText__12efe"
+  },
+  "263068": {
+    "tabBar": "tabBar_b6a799",
+    "vertical": "vertical_b6a799",
+    "tabBarPanel": "tabBarPanel_b6a799",
+    "tab": "tab_b6a799",
+    "selected": "selected_b6a799",
+    "tabbedSettingsContainer": "tabbedSettingsContainer_b6a799"
   },
   "263214": {
     "container": "container__477aa",
@@ -20998,10 +20998,6 @@
     "closeIconContainer": "closeIconContainer__3b3ff",
     "closeIcon": "closeIcon__3b3ff"
   },
-  "740943": {
-    "card": "card__2cf1c",
-    "overflowable": "overflowable__2cf1c"
-  },
   "741140": {
     "container": "container_b66356",
     "headerContainer": "headerContainer_b66356",
@@ -24030,7 +24026,8 @@
     "status": "status__5d903",
     "error": "error__5d903",
     "success": "success__5d903",
-    "normal": "normal__5d903"
+    "normal": "normal__5d903",
+    "noCollapseButton": "noCollapseButton__5d903"
   },
   "843121": {
     "container": "container__1789d",
@@ -27406,6 +27403,10 @@
     "acknowledgementContainer": "acknowledgementContainer_bc32e9",
     "errorText": "errorText_bc32e9",
     "image": "image_bc32e9"
+  },
+  "963324": {
+    "card": "card__2cf1c",
+    "overflowable": "overflowable__2cf1c"
   },
   "964105": {
     "forwardPreview": "forwardPreview__68334",
