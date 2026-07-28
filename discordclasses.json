@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1071 x64 (87248)"},"channel":{"canary":"584382 (6a6c262)"},
+{"host":{"version":"1.0.1071 x64 (87253)"},"channel":{"canary":"584471 (60c4d9a)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -6274,7 +6274,17 @@
     "rtStarTrinket": "rtStarTrinket_b99bd6",
     "rtHammerTrinket": "rtHammerTrinket_b99bd6",
     "rtKeyTrinket": "rtKeyTrinket_b99bd6",
-    "rtBoltTrinket": "rtBoltTrinket_b99bd6"
+    "rtBoltTrinket": "rtBoltTrinket_b99bd6",
+    "flyingWumpusContainer": "flyingWumpusContainer_b99bd6",
+    "flyingWumpusAsset": "flyingWumpusAsset_b99bd6",
+    "boltContainer": "boltContainer_b99bd6",
+    "hammerContainer": "hammerContainer_b99bd6",
+    "keyContainer": "keyContainer_b99bd6",
+    "starContainer": "starContainer_b99bd6",
+    "starTrinket": "starTrinket_b99bd6",
+    "keyTrinket": "keyTrinket_b99bd6",
+    "hammerTrinket": "hammerTrinket_b99bd6",
+    "boltTrinket": "boltTrinket_b99bd6"
   },
   "219575": {
     "container": "container__581dd"
@@ -9786,7 +9796,6 @@
   "343360": {
     "hoverArea": "hoverArea__6d3d8",
     "container": "container__6d3d8",
-    "containerHovered": "containerHovered__6d3d8",
     "clickableTile": "clickableTile__6d3d8",
     "contentColumn": "contentColumn__6d3d8",
     "featuredSection": "featuredSection__6d3d8",
@@ -11046,7 +11055,10 @@
     "base": "base_b88801",
     "text": "text_b88801",
     "ellipsis": "ellipsis_b88801",
+    "dots": "dots_b88801",
     "typingDots": "typingDots_b88801",
+    "dot": "dot_b88801",
+    "typing-dot-pulse": "typing-dot-pulse_b88801",
     "inTextChannel": "inTextChannel_b88801",
     "typing": "typing_b88801 base_b88801",
     "announcer": "announcer_b88801",
@@ -25072,6 +25084,9 @@
     "linkFormHelp": "linkFormHelp_edf95e",
     "errorText": "errorText_edf95e"
   },
+  "876741": {
+    "lift": "lift__72b14"
+  },
   "876772": {
     "overflowHidden": "overflowHidden__5d64c",
     "gradient": "gradient__5d64c"
@@ -25309,7 +25324,12 @@
     "treatmentAArtContainer": "treatmentAArtContainer__101ad",
     "reverseTrialContainer": "reverseTrialContainer__101ad",
     "reverseTrialTextContainer": "reverseTrialTextContainer__101ad",
-    "reverseTrialArtContainer": "reverseTrialArtContainer__101ad"
+    "reverseTrialArtContainer": "reverseTrialArtContainer__101ad",
+    "reverseTrialContent": "reverseTrialContent__101ad",
+    "reverseTrialContentColumn": "reverseTrialContentColumn__101ad",
+    "reverseTrialButtons": "reverseTrialButtons__101ad",
+    "reverseTrialSubheading": "reverseTrialSubheading__101ad",
+    "reverseTrialArtContainerV2": "reverseTrialArtContainerV2__101ad"
   },
   "886541": {
     "profileFrameContainer": "profileFrameContainer__0b5ea",
