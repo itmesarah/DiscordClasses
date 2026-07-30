@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1077 x64 (87486)"},"channel":{"canary":"586113 (030eff0)"},
+{"host":{"version":"1.0.1078 x64 (87562)"},"channel":{"canary":"586749 (1a7106b)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -2885,9 +2885,7 @@
   },
   "104071": {
     "chat": "chat_f35ad6",
-    "chatLogWrap": "chatLogWrap_f35ad6",
-    "chatLog": "chatLog_f35ad6",
-    "chatLogFade": "chatLogFade_f35ad6"
+    "chatLog": "chatLog_f35ad6"
   },
   "104589": {
     "text-sm/medium": "text-sm/medium_f5f9ed",
@@ -4234,7 +4232,9 @@
     "voiceAvatar": "voiceAvatar_f910d0",
     "border": "border_f910d0",
     "callAvatarMask": "callAvatarMask_f910d0",
-    "callAvatarMaskContainer": "callAvatarMaskContainer_f910d0"
+    "callAvatarMaskContainer": "callAvatarMaskContainer_f910d0",
+    "avatarDecorationContainer": "avatarDecorationContainer_f910d0",
+    "avatarDecorationImage": "avatarDecorationImage_f910d0"
   },
   "150219": {
     "cover": "cover__6eb54",
@@ -7412,11 +7412,6 @@
     "errorContainer": "errorContainer_cbfa93",
     "sizedToParent": "sizedToParent_cbfa93"
   },
-  "255115": {
-    "settings": "settings__191e1",
-    "deleteRow": "deleteRow__191e1",
-    "deleteCopy": "deleteCopy__191e1"
-  },
   "255212": {
     "panelInner": "panelInner__9b718",
     "headerWrapper": "headerWrapper__9b718",
@@ -8043,6 +8038,7 @@
     "bannerContainer": "bannerContainer__2fc34",
     "nitroPinkGradient": "nitroPinkGradient__2fc34",
     "bannerTextContainer": "bannerTextContainer__2fc34",
+    "icon": "icon__2fc34",
     "countdownDaysContainer": "countdownDaysContainer__2fc34",
     "countdownSecondsContainer": "countdownSecondsContainer__2fc34",
     "countdownSecondsDigit": "countdownSecondsDigit__2fc34",
@@ -12720,6 +12716,7 @@
     "body": "body_b6c448",
     "nav": "nav_b6c448",
     "navItem": "navItem_b6c448",
+    "navItemWithBadge": "navItemWithBadge_b6c448",
     "content": "content_b6c448",
     "scroller": "scroller_b6c448",
     "paneInner": "paneInner_b6c448",
@@ -13379,6 +13376,8 @@
     "themeDefault": "themeDefault__3b67f",
     "themeNitro": "themeNitro__3b67f",
     "content": "content__3b67f",
+    "rightContent": "rightContent__3b67f",
+    "dismissButton": "dismissButton__3b67f",
     "leftContent": "leftContent__3b67f",
     "icon": "icon__3b67f",
     "link": "link__3b67f"
@@ -15272,8 +15271,7 @@
     "radioGroup": "radioGroup_d77702",
     "gameIcon": "gameIcon_d77702",
     "detectedGameFrame": "detectedGameFrame_d77702",
-    "detectedGameIcon": "detectedGameIcon_d77702",
-    "detectedGameIconPlaceholder": "detectedGameIconPlaceholder_d77702"
+    "detectedGameIcon": "detectedGameIcon_d77702"
   },
   "520835": {
     "shopPageContainer": "shopPageContainer__4485d",
@@ -16088,7 +16086,8 @@
   "554177": {
     "vibegrations-channel-dot-pulse": "vibegrations-channel-dot-pulse__82d93",
     "channelStatusDot": "channelStatusDot__82d93",
-    "channelStatusDotBuilding": "channelStatusDotBuilding__82d93"
+    "channelStatusDotBuilding": "channelStatusDotBuilding__82d93",
+    "channelStatusDotDone": "channelStatusDotDone__82d93"
   },
   "554372": {
     "modalContent": "modalContent__23488",
@@ -20024,10 +20023,13 @@
     "assistantTurn": "assistantTurn__30c5c",
     "chatMessageAssistant": "chatMessageAssistant__30c5c",
     "chatMarkdown": "chatMarkdown__30c5c",
+    "turnAnnouncement": "turnAnnouncement__30c5c",
     "turnSteps": "turnSteps__30c5c",
     "step-row-enter": "step-row-enter__30c5c",
     "stepRow": "stepRow__30c5c",
     "stepItem": "stepItem__30c5c",
+    "stepDisclosureToggle": "stepDisclosureToggle__30c5c",
+    "stepChevron": "stepChevron__30c5c",
     "stepDetail": "stepDetail__30c5c"
   },
   "700772": {
@@ -23620,11 +23622,14 @@
     "userContainer": "userContainer__38ccf",
     "dim": "dim__38ccf",
     "avatarWrapper": "avatarWrapper__38ccf",
+    "avatarButton": "avatarButton__38ccf",
     "trigger": "trigger__38ccf",
     "badge": "badge__38ccf",
     "statusBadge": "statusBadge__38ccf",
     "editBadge": "editBadge__38ccf",
-    "isStatusMenuOpen": "isStatusMenuOpen__38ccf"
+    "badgeLayer": "badgeLayer__38ccf",
+    "isStatusMenuOpen": "isStatusMenuOpen__38ccf",
+    "userList": "userList__38ccf"
   },
   "820526": {
     "container": "container_b5b7aa",
@@ -24450,7 +24455,8 @@
   },
   "848618": {
     "container": "container__898a6",
-    "textContainer": "textContainer__898a6"
+    "textContainer": "textContainer__898a6",
+    "icon": "icon__898a6"
   },
   "849395": {
     "verifyConnectedAccount": "verifyConnectedAccount_fb52a4",
