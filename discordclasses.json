@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1077 x64 (87460)"},"channel":{"canary":"585904 (56d934c)"},
+{"host":{"version":"1.0.1077 x64 (87486)"},"channel":{"canary":"586113 (030eff0)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -19321,7 +19321,6 @@
   },
   "673672": {
     "container": "container__343c1",
-    "containerWithoutHero": "containerWithoutHero__343c1",
     "sectionWrapper": "sectionWrapper__343c1",
     "sectionTitle": "sectionTitle__343c1",
     "emptyStateContainer": "emptyStateContainer__343c1"
