@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1080 x64 (87734)"},"channel":{"canary":"588109 (ba464cd)"},
+{"host":{"version":"1.0.1081 x64 (87752)"},"channel":{"canary":"588230 (e720f33)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -4492,10 +4492,6 @@
   "155199": {
     "header": "header__07389",
     "responsive": "responsive__07389"
-  },
-  "155653": {
-    "singleItemInfo": "singleItemInfo__08054",
-    "singleItemName": "singleItemName__08054"
   },
   "155692": {
     "container": "container_d8f25b",
@@ -19184,7 +19180,8 @@
     "premiumTrialBadge": "premiumTrialBadge_e4ef22",
     "backgroundGradient": "backgroundGradient_e4ef22",
     "premiumTrialAcknowledgedBadge": "premiumTrialAcknowledgedBadge_e4ef22",
-    "BogoBadgeClockIcon": "BogoBadgeClockIcon_e4ef22"
+    "BogoBadgeClockIcon": "BogoBadgeClockIcon_e4ef22",
+    "bogoBadgeLabel": "bogoBadgeLabel_e4ef22"
   },
   "665241": {
     "phoneNumber": "phoneNumber__764ef"
@@ -21218,7 +21215,8 @@
   "737365": {
     "churnDiscountBadge": "churnDiscountBadge_b65b20",
     "churnDiscountAcknowledgedBadge": "churnDiscountAcknowledgedBadge_b65b20",
-    "churnDiscountBadgeIcon": "churnDiscountBadgeIcon_b65b20"
+    "churnDiscountBadgeIcon": "churnDiscountBadgeIcon_b65b20",
+    "churnDiscountBadgeLabel": "churnDiscountBadgeLabel_b65b20"
   },
   "737840": {
     "landingPageTabLink": "landingPageTabLink_cbe0b4",
@@ -26227,7 +26225,6 @@
   "900170": {
     "systemMessageContainer": "systemMessageContainer_df65b5",
     "timestamp": "timestamp_df65b5",
-    "timestampLegacy": "timestampLegacy_df65b5",
     "boostMessage": "boostMessage_df65b5",
     "boostMessageUser": "boostMessageUser_df65b5",
     "boostMessageText": "boostMessageText_df65b5"
@@ -26919,7 +26916,8 @@
     "premiumOfferUnackedBadge": "premiumOfferUnackedBadge__4c1e4",
     "premiumOfferWithTimerAcknowledgedBadge": "premiumOfferWithTimerAcknowledgedBadge__4c1e4",
     "premiumTrialBadgeSelected": "premiumTrialBadgeSelected__4c1e4",
-    "premiumOfferBadgeCopy": "premiumOfferBadgeCopy__4c1e4"
+    "premiumOfferBadgeCopy": "premiumOfferBadgeCopy__4c1e4",
+    "acknowledgedBadgeLabel": "acknowledgedBadgeLabel__4c1e4"
   },
   "928966": {
     "wrapper": "wrapper__58ece",
