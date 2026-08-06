@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1088 x64 (87867)"},"channel":{"canary":"589163 (5abc39d)"},
+{"host":{"version":"1.0.1088 x64 (87883)"},"channel":{"canary":"589281 (a075c2a)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -7506,6 +7506,10 @@
     "channelInfoContainer": "channelInfoContainer__56b49",
     "channelInfoText": "channelInfoText__56b49"
   },
+  "256386": {
+    "pool": "pool__0aebc",
+    "iframe": "iframe__0aebc"
+  },
   "256570": {
     "nameplatePlaceholderUserRow": "nameplatePlaceholderUserRow__257fb",
     "nameplatePlaceholderAvatar": "nameplatePlaceholderAvatar__257fb",
@@ -12616,7 +12620,7 @@
     "hidden": "hidden_c5bcbe",
     "iframe": "iframe_c5bcbe",
     "pipNonInteractive": "pipNonInteractive_c5bcbe",
-    "clickShield": "clickShield_c5bcbe",
+    "activitySensor": "activitySensor_c5bcbe",
     "multiPIPMode": "multiPIPMode_c5bcbe"
   },
   "427961": {
@@ -17933,7 +17937,8 @@
   },
   "616694": {
     "previewEmpty": "previewEmpty__61d51",
-    "previewEmptyText": "previewEmptyText__61d51"
+    "previewEmptyText": "previewEmptyText__61d51",
+    "frameTarget": "frameTarget__61d51"
   },
   "617255": {
     "buttonsContainer": "buttonsContainer_ffefd9",
@@ -19088,9 +19093,11 @@
   "658103": {
     "methodRow": "methodRow_bbc786",
     "iconContainer": "iconContainer_bbc786",
+    "methodRowDisabled": "methodRowDisabled_bbc786",
     "text": "text_bbc786",
     "vendor": "vendor_bbc786",
-    "chevron": "chevron_bbc786"
+    "chevron": "chevron_bbc786",
+    "rowSpinner": "rowSpinner_bbc786"
   },
   "658150": {
     "container": "container_fed6d3",
