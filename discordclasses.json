@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1091 x64 (87918)"},"channel":{"canary":"589479 (0aab0c6)"},
+{"host":{"version":"1.0.1091 x64 (87936)"},"channel":{"canary":"589545 (636fc91)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -4795,6 +4795,10 @@
     "count": "count_fe77d6",
     "selected": "selected_fe77d6"
   },
+  "166329": {
+    "avatar": "avatar_fdd9da",
+    "grayscaleAvatar": "grayscaleAvatar_fdd9da"
+  },
   "166414": {
     "wrapper": "wrapper_c4293b",
     "background": "background_c4293b",
@@ -9545,6 +9549,7 @@
     "radial": "radial_ded7b4",
     "radialClosed": "radialClosed_ded7b4",
     "itemWrapper": "itemWrapper_ded7b4",
+    "itemGroup": "itemGroup_ded7b4",
     "item": "item_ded7b4",
     "belowLayer": "belowLayer_ded7b4"
   },
@@ -10645,10 +10650,7 @@
     "toolbarButton": "toolbarButton_ab2592"
   },
   "362834": {
-    "content": "content_ced382",
-    "status": "status_ced382",
-    "statusIcon": "statusIcon_ced382",
-    "statusLabel": "statusLabel_ced382"
+    "content": "content_ced382"
   },
   "362869": {
     "suffix": "suffix__05934",
@@ -15905,7 +15907,7 @@
     "identity": "identity_ba7598",
     "labels": "labels_ba7598",
     "iconWrapper": "iconWrapper_ba7598",
-    "checkbox": "checkbox_ba7598"
+    "trailing": "trailing_ba7598"
   },
   "544101": {
     "root": "root_ea9caa",
@@ -16404,6 +16406,7 @@
   },
   "563323": {
     "container": "container_f782d6",
+    "small": "small_f782d6",
     "cover": "cover_f782d6",
     "fieldContainer": "fieldContainer_f782d6",
     "fieldIcon": "fieldIcon_f782d6",
@@ -23803,7 +23806,6 @@
     "avatarButton": "avatarButton__38ccf",
     "trigger": "trigger__38ccf",
     "badge": "badge__38ccf",
-    "statusBadge": "statusBadge__38ccf",
     "editBadge": "editBadge__38ccf",
     "badgeLayer": "badgeLayer__38ccf",
     "isStatusMenuOpen": "isStatusMenuOpen__38ccf",
