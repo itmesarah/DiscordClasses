@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1093 x64 (87997)"},"channel":{"canary":"589862 (f3d90af)"},
+{"host":{"version":"1.0.1096 x64 (88020)"},"channel":{"canary":"589955 (3eebc85)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -8745,6 +8745,11 @@
   "297932": {
     "keybindContainer": "keybindContainer__28cca"
   },
+  "298149": {
+    "overlay": "overlay__65dc6",
+    "content": "content__65dc6",
+    "backdrop": "backdrop__65dc6"
+  },
   "298182": {
     "text-md/bold": "text-md/bold_d970da",
     "subscription": "subscription_d970da",
@@ -13688,6 +13693,7 @@
     "container": "container__91876",
     "emptyState": "emptyState__91876",
     "gallery": "gallery__91876",
+    "previewFrame": "previewFrame__91876",
     "preview": "preview__91876"
   },
   "466215": {
@@ -17351,6 +17357,10 @@
     "footerButtons": "footerButtons__24654",
     "appIcon": "appIcon__24654",
     "unavailableBody": "unavailableBody__24654"
+  },
+  "596127": {
+    "imageFieldContainer": "imageFieldContainer__6a93f",
+    "preview": "preview__6a93f"
   },
   "596302": {
     "image": "image__4e0d1",
@@ -29047,6 +29057,15 @@
     "roleTooltipItem": "roleTooltipItem__71c22",
     "nameContainer": "nameContainer__71c22",
     "memberClanTag": "memberClanTag__71c22"
+  },
+  "998809": {
+    "field": "field_ccf340",
+    "editing": "editing_ccf340",
+    "titleRow": "titleRow_ccf340",
+    "editableRow": "editableRow_ccf340",
+    "pencil": "pencil_ccf340",
+    "titleText": "titleText_ccf340",
+    "placeholder": "placeholder_ccf340"
   },
   "999747": {
     "wrapper": "wrapper__5b98e",
