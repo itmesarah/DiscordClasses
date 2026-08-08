@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1091 x64 (87958)"},"channel":{"canary":"589674 (ae6d601)"},
+{"host":{"version":"1.0.1093 x64 (87997)"},"channel":{"canary":"589862 (f3d90af)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -2505,6 +2505,16 @@
     "searchToken": "searchToken_bd8186",
     "searchAnswer": "searchAnswer_bd8186 searchToken_bd8186",
     "searchFilter": "searchFilter_bd8186 searchToken_bd8186"
+  },
+  "84899": {
+    "grid": "grid_fe7668",
+    "column": "column_fe7668",
+    "slot": "slot_fe7668",
+    "dragging": "dragging_fe7668",
+    "dropAfter": "dropAfter_fe7668",
+    "dropBefore": "dropBefore_fe7668",
+    "columnEnd": "columnEnd_fe7668",
+    "columnEndOver": "columnEndOver_fe7668"
   },
   "85277": {
     "button": "button_a22cb0",
