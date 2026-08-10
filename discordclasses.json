@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1102 x64 (88094)"},"channel":{"canary":"590366 (f9be7eb)"},
+{"host":{"version":"1.0.1102 x64 (88096)"},"channel":{"canary":"590486 (65c59ac)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -13981,6 +13981,11 @@
     "scrollerContent": "scrollerContent__808a1",
     "headerBar": "headerBar__808a1"
   },
+  "474711": {
+    "messageWithAttachments": "messageWithAttachments__2eae8",
+    "attachmentCount": "attachmentCount__2eae8",
+    "compact": "compact__2eae8"
+  },
   "474712": {
     "content": "content__87ce6",
     "errorContainer": "errorContainer__87ce6",
@@ -20506,6 +20511,10 @@
   },
   "714566": {
     "CTAMessage": "CTAMessage_e887d4"
+  },
+  "714573": {
+    "giftCardCreditsCheckboxAbove": "giftCardCreditsCheckboxAbove_e67d26",
+    "giftCardCreditsCheckboxBelow": "giftCardCreditsCheckboxBelow_e67d26"
   },
   "714834": {
     "container": "container__01290",
@@ -28542,10 +28551,6 @@
   },
   "985079": {
     "icon": "icon__0e5a2"
-  },
-  "986072": {
-    "giftCardCreditsCheckboxAbove": "giftCardCreditsCheckboxAbove_b90acf",
-    "giftCardCreditsCheckboxBelow": "giftCardCreditsCheckboxBelow_b90acf"
   },
   "986614": {
     "container": "container__1ce5d",
