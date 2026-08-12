@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1106 x64 (88235)"},"channel":{"canary":"592026 (5b44c53)"},
+{"host":{"version":"1.0.1106 x64 (88250)"},"channel":{"canary":"592100 (73d9a3d)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -12761,7 +12761,6 @@
     "panel": "panel__6131a",
     "scroller": "scroller__6131a",
     "bottomMarker": "bottomMarker__6131a",
-    "tabBar": "tabBar__6131a",
     "notice": "notice__6131a",
     "decorationWrapper": "decorationWrapper__6131a",
     "sticky": "sticky__6131a",
