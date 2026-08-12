@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1106 x64 (88201)"},"channel":{"canary":"591836 (a4b3c26)"},
+{"host":{"version":"1.0.1106 x64 (88235)"},"channel":{"canary":"592026 (5b44c53)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -6801,7 +6801,6 @@
   },
   "231236": {
     "root": "root__2bf8a",
-    "soundboardEmoji": "soundboardEmoji__2bf8a",
     "speakingIndicator": "speakingIndicator__2bf8a",
     "speakingIndicatorText": "speakingIndicatorText__2bf8a"
   },
@@ -11924,9 +11923,6 @@
   "407649": {
     "container": "container_e03deb"
   },
-  "407663": {
-    "previewFrame": "previewFrame__530f4"
-  },
   "407753": {
     "advancedModeDivider": "advancedModeDivider__4914c",
     "trigger": "trigger__4914c",
@@ -14898,6 +14894,7 @@
     "overlay": "overlay__57752",
     "overlayAvatar": "overlayAvatar__57752 overlay__57752",
     "overlayGuildIcon": "overlayGuildIcon__57752 overlay__57752",
+    "overlayPersonalWidgetField": "overlayPersonalWidgetField__57752 overlay__57752",
     "overlayBanner": "overlayBanner__57752 overlay__57752",
     "toolsContainer": "toolsContainer__57752",
     "zoomControls": "zoomControls__57752",
@@ -16207,7 +16204,8 @@
     "plantInteractive": "plantInteractive_b29b5a",
     "disabled": "disabled_b29b5a",
     "backdrop": "backdrop_b29b5a",
-    "plantImage": "plantImage_b29b5a"
+    "plantImage": "plantImage_b29b5a",
+    "wiggle": "wiggle_b29b5a"
   },
   "564014": {
     "header": "header_a7218d",
@@ -24314,7 +24312,6 @@
     "sectionTitle": "sectionTitle__3ae56",
     "container": "container__3ae56",
     "contentContainer": "contentContainer__3ae56",
-    "inviteSplash": "inviteSplash__3ae56",
     "fallbackSplash": "fallbackSplash__3ae56",
     "textContainer": "textContainer__3ae56"
   },
@@ -25348,21 +25345,17 @@
     "section": "section__04bc3",
     "sectionTitle": "sectionTitle__04bc3",
     "container": "container__04bc3",
-    "guildIconContainer": "guildIconContainer__04bc3",
-    "guildIconInnerContainer": "guildIconInnerContainer__04bc3",
     "guildIcon": "guildIcon__04bc3",
     "contentContainer": "contentContainer__04bc3",
-    "iconTextContainer": "iconTextContainer__04bc3",
     "iconTextContainerCondensed": "iconTextContainerCondensed__04bc3",
-    "textContainer": "textContainer__04bc3",
     "textContainerCondensed": "textContainerCondensed__04bc3",
     "guildNameContainer": "guildNameContainer__04bc3",
+    "description": "description__04bc3",
     "pillIcon": "pillIcon__04bc3",
     "pillIconTotal": "pillIconTotal__04bc3 pillIcon__04bc3",
     "pillIconOnline": "pillIconOnline__04bc3 pillIcon__04bc3",
     "memberContainer": "memberContainer__04bc3",
-    "memberCountContainer": "memberCountContainer__04bc3",
-    "inviteSplash": "inviteSplash__04bc3"
+    "memberCountContainer": "memberCountContainer__04bc3"
   },
   "880892": {
     "button": "button__06eda",
