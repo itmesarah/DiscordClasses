@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1108 x64 (88346)"},"channel":{"canary":"592785 (78bbedd)"},
+{"host":{"version":"1.0.1108 x64 (88346)"},"channel":{"canary":"592799 (b94f778)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -1843,10 +1843,6 @@
     "launchIcon": "launchIcon__57f77",
     "hidden": "hidden__57f77",
     "label": "label__57f77"
-  },
-  "57642": {
-    "bar": "bar_bb5e3d",
-    "tile": "tile_bb5e3d"
   },
   "58023": {
     "video": "video__6b794"
@@ -6938,7 +6934,8 @@
     "serverTag": "serverTag__6e500"
   },
   "239502": {
-    "colorPicker": "colorPicker__69f5f"
+    "colorPicker": "colorPicker__69f5f",
+    "colorPickerContainer": "colorPickerContainer__69f5f"
   },
   "239593": {
     "infoGroup": "infoGroup_f549e5",
