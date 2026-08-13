@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1106 x64 (88270)"},"channel":{"canary":"592218 (fb7f19c)"},
+{"host":{"version":"1.0.1106 x64 (88308)"},"channel":{"canary":"592699 (e240cc0)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -699,7 +699,8 @@
     "cross": "cross__83c7c"
   },
   "21280": {
-    "avatarContainer": "avatarContainer_b4a4b2"
+    "avatarContainer": "avatarContainer_b4a4b2",
+    "userInfo": "userInfo_b4a4b2"
   },
   "21946": {
     "resizeHandle": "resizeHandle__4b144"
@@ -4022,7 +4023,6 @@
   "143461": {
     "sidebarTitleRow": "sidebarTitleRow__3f4c5",
     "colorSection": "colorSection__3f4c5",
-    "removeButton": "removeButton__3f4c5",
     "colorPicker": "colorPicker__3f4c5",
     "colorSwatch": "colorSwatch__3f4c5"
   },
@@ -7557,6 +7557,9 @@
     "compactExpanded": "compactExpanded_ab8609",
     "referenceMeasurement": "referenceMeasurement_ab8609",
     "ring": "ring_ab8609",
+    "expandCollapseButton": "expandCollapseButton_ab8609",
+    "expandCollapseButtonFocusRing": "expandCollapseButtonFocusRing_ab8609",
+    "collapseIcon": "collapseIcon_ab8609",
     "statusText": "statusText_ab8609",
     "statusEmoji": "statusEmoji_ab8609",
     "addStatusPrompt": "addStatusPrompt_ab8609",
@@ -25770,6 +25773,9 @@
     "dragHandle": "dragHandle__5d537",
     "dragHandleLeft": "dragHandleLeft__5d537 dragHandle__5d537",
     "dragHandleRight": "dragHandleRight__5d537 dragHandle__5d537",
+    "dragHandleCorner": "dragHandleCorner__5d537",
+    "dragHandleCornerLeft": "dragHandleCornerLeft__5d537 dragHandleCorner__5d537",
+    "dragHandleCornerRight": "dragHandleCornerRight__5d537 dragHandleCorner__5d537",
     "dragBox": "dragBox__5d537",
     "playhead": "playhead__5d537",
     "playheadMarker": "playheadMarker__5d537",
@@ -26049,6 +26055,9 @@
     "preview": "preview_a419e0",
     "container": "container_a419e0",
     "body": "body_a419e0"
+  },
+  "899248": {
+    "container": "container__6747a"
   },
   "900170": {
     "systemMessageContainer": "systemMessageContainer_df65b5",
