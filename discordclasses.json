@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1106 x64 (88250)"},"channel":{"canary":"592100 (73d9a3d)"},
+{"host":{"version":"1.0.1106 x64 (88270)"},"channel":{"canary":"592218 (fb7f19c)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -3457,7 +3457,8 @@
     "root": "root_b92f52",
     "hasPrivateBanner": "hasPrivateBanner_b92f52",
     "outer": "outer_b92f52",
-    "modalHeaderButtons": "modalHeaderButtons_b92f52"
+    "modalHeaderButtons": "modalHeaderButtons_b92f52",
+    "spinAnimation": "spinAnimation_b92f52"
   },
   "128818": {
     "container": "container__85f5c",
@@ -8188,10 +8189,6 @@
     "communicationDisabledOpacity": "communicationDisabledOpacity_c19a55",
     "badgesContainer": "badgesContainer_c19a55"
   },
-  "282073": {
-    "avatarAnimation": "avatarAnimation_d146f4",
-    "spinningAvatar": "spinningAvatar_d146f4"
-  },
   "282110": {
     "modal": "modal_ab9bdf",
     "sizeSmall": "sizeSmall_ab9bdf",
@@ -12851,8 +12848,7 @@
     "container": "container__70feb",
     "withImageSpacing": "withImageSpacing__70feb",
     "coverImageContainer": "coverImageContainer__70feb",
-    "removeImageButton": "removeImageButton__70feb",
-    "removeBlockButton": "removeBlockButton__70feb",
+    "removeButton": "removeButton__70feb",
     "restoreContainer": "restoreContainer__70feb",
     "restoreLine": "restoreLine__70feb",
     "restoreIconContainer": "restoreIconContainer__70feb",
