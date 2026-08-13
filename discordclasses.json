@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1106 x64 (88308)"},"channel":{"canary":"592699 (e240cc0)"},
+{"host":{"version":"1.0.1108 x64 (88346)"},"channel":{"canary":"592785 (78bbedd)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -15440,13 +15440,16 @@
     "removeButton": "removeButton__0d9a8"
   },
   "529859": {
-    "topBar": "topBar__6088c",
-    "author": "author__6088c",
-    "authorNameWrapper": "authorNameWrapper__6088c",
-    "authorName": "authorName__6088c",
-    "authorAvatar": "authorAvatar__6088c",
-    "timestamp": "timestamp__6088c",
-    "closeButton": "closeButton__6088c"
+    "flyingWumpusContainer": "flyingWumpusContainer__0e48f",
+    "flyingWumpusAsset": "flyingWumpusAsset__0e48f",
+    "boltContainer": "boltContainer__0e48f",
+    "hammerContainer": "hammerContainer__0e48f",
+    "keyContainer": "keyContainer__0e48f",
+    "starContainer": "starContainer__0e48f",
+    "starTrinket": "starTrinket__0e48f",
+    "keyTrinket": "keyTrinket__0e48f",
+    "hammerTrinket": "hammerTrinket__0e48f",
+    "boltTrinket": "boltTrinket__0e48f"
   },
   "530059": {
     "ring": "ring_ddf8f1",
@@ -21433,6 +21436,15 @@
     "gifPickerContainer": "gifPickerContainer__50b3c",
     "gifPicker": "gifPicker__50b3c"
   },
+  "752240": {
+    "topBar": "topBar__6088c",
+    "author": "author__6088c",
+    "authorNameWrapper": "authorNameWrapper__6088c",
+    "authorName": "authorName__6088c",
+    "authorAvatar": "authorAvatar__6088c",
+    "timestamp": "timestamp__6088c",
+    "closeButton": "closeButton__6088c"
+  },
   "752329": {
     "unreadCount": "unreadCount__23463",
     "mention": "mention__23463"
@@ -23536,7 +23548,8 @@
     "streamTooltipTitle": "streamTooltipTitle__38ccf",
     "streamPreviewAsset": "streamPreviewAsset__38ccf",
     "streamPreviewImage": "streamPreviewImage__38ccf",
-    "streamPreviewEyeOverlay": "streamPreviewEyeOverlay__38ccf"
+    "streamPreviewEyeOverlay": "streamPreviewEyeOverlay__38ccf",
+    "clickablePopout": "clickablePopout__38ccf"
   },
   "820526": {
     "container": "container_b5b7aa",
@@ -25507,6 +25520,8 @@
     "treatmentContent": "treatmentContent__101ad",
     "treatmentAContent": "treatmentAContent__101ad",
     "treatmentAArtContainer": "treatmentAArtContainer__101ad",
+    "churnArtContainer": "churnArtContainer__101ad",
+    "churnContentColumn": "churnContentColumn__101ad",
     "reverseTrialContainer": "reverseTrialContainer__101ad",
     "reverseTrialTextContainer": "reverseTrialTextContainer__101ad",
     "reverseTrialArtContainer": "reverseTrialArtContainer__101ad",
