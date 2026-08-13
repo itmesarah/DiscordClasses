@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1108 x64 (88346)"},"channel":{"canary":"592799 (b94f778)"},
+{"host":{"version":"1.0.1109 x64 (88357)"},"channel":{"canary":"592899 (d2e2077)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -3619,6 +3619,10 @@
   "132866": {
     "skeletonsContainer": "skeletonsContainer__72fa0",
     "bannerSkeleton": "bannerSkeleton__72fa0"
+  },
+  "133082": {
+    "pricing": "pricing__36f5b",
+    "priceRow": "priceRow__36f5b"
   },
   "133188": {
     "container": "container__43a4b",
@@ -12789,6 +12793,13 @@
     "connectedAppRoleAccountClickable": "connectedAppRoleAccountClickable__9bfb9",
     "connectedAppRoleAccountPoweredBy": "connectedAppRoleAccountPoweredBy__9bfb9"
   },
+  "440073": {
+    "container": "container_a87199",
+    "quantityRow": "quantityRow_a87199",
+    "quantityCopy": "quantityCopy_a87199",
+    "stepper": "stepper_a87199",
+    "quantityValue": "quantityValue_a87199"
+  },
   "440524": {
     "centeredSection": "centeredSection_b558e5",
     "container": "container_b558e5",
@@ -20629,7 +20640,8 @@
     "trialPlanSelectHeader": "trialPlanSelectHeader_d947e6",
     "customGiftMessageWrapper": "customGiftMessageWrapper_d947e6",
     "customGiftMessage": "customGiftMessage_d947e6",
-    "compactSendGiftToUser": "compactSendGiftToUser_d947e6"
+    "compactSendGiftToUser": "compactSendGiftToUser_d947e6",
+    "bulkGiftPlanSelection": "bulkGiftPlanSelection_d947e6"
   },
   "721563": {
     "backdrop": "backdrop_e4bf2f",
@@ -25288,7 +25300,6 @@
   "877385": {
     "planOption": "planOption_b13085",
     "planOneTimeCost": "planOneTimeCost_b13085",
-    "planOptionQuantity": "planOptionQuantity_b13085",
     "selectionBox": "selectionBox_b13085",
     "selectedPlan": "selectedPlan_b13085",
     "planOptionDisabled": "planOptionDisabled_b13085",
