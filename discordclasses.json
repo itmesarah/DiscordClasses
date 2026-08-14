@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1109 x64 (88357)"},"channel":{"canary":"592899 (d2e2077)"},
+{"host":{"version":"1.0.1111 x64 (88398)"},"channel":{"canary":"593131 (d3256d1)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -2365,6 +2365,12 @@
     "separator": "separator_e4503a",
     "viewChannelButtonWrapper": "viewChannelButtonWrapper_e4503a",
     "scrollerInner": "scrollerInner_e4503a"
+  },
+  "80435": {
+    "container": "container__3e00d",
+    "image": "image__3e00d",
+    "content": "content__3e00d",
+    "badgeSlot": "badgeSlot__3e00d"
   },
   "80440": {
     "selector": "selector_c248b6"
@@ -5840,6 +5846,8 @@
   },
   "197350": {
     "container": "container__72cd3",
+    "panelContainer": "panelContainer__72cd3",
+    "rewardImage": "rewardImage__72cd3",
     "textSection": "textSection__72cd3",
     "avatarWrapper": "avatarWrapper__72cd3",
     "avatar": "avatar__72cd3",
@@ -8018,6 +8026,7 @@
     "page": "page__7d655",
     "scroller": "scroller__7d655",
     "content": "content__7d655",
+    "editing": "editing__7d655",
     "centered": "centered__7d655"
   },
   "278303": {
@@ -10450,6 +10459,12 @@
   "356882": {
     "badge": "badge__436c9",
     "badgeIcon": "badgeIcon__436c9"
+  },
+  "356965": {
+    "container": "container_f856a4",
+    "transitioning": "transitioning_f856a4",
+    "slide": "slide_f856a4",
+    "track": "track_f856a4"
   },
   "357282": {
     "captchaContainer": "captchaContainer_deee3a",
@@ -13667,6 +13682,9 @@
     "hasParent": "hasParent__6ae25",
     "noIndent": "noIndent__6ae25",
     "channelIcon": "channelIcon__6ae25"
+  },
+  "466844": {
+    "actionBar": "actionBar__6cb92"
   },
   "466959": {
     "expanded": "expanded__7a70a",
@@ -26179,6 +26197,8 @@
   },
   "902391": {
     "container": "container_f6d5bd",
+    "gifTag": "gifTag_f6d5bd",
+    "imageContainer": "imageContainer_f6d5bd",
     "image": "image_f6d5bd",
     "placeholder": "placeholder_f6d5bd",
     "uploading": "uploading_f6d5bd",
@@ -28001,6 +28021,10 @@
   },
   "973513": {
     "promotionalFooterBanner": "promotionalFooterBanner_e68795",
+    "rewardImage": "rewardImage_e68795",
+    "panelContainer": "panelContainer_e68795",
+    "panelContent": "panelContent_e68795",
+    "panelTimer": "panelTimer_e68795",
     "avatar": "avatar_e68795",
     "avatarLargeTilted": "avatarLargeTilted_e68795"
   },
