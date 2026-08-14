@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1111 x64 (88398)"},"channel":{"canary":"593131 (d3256d1)"},
+{"host":{"version":"1.0.1111 x64 (88398)"},"channel":{"canary":"593168 (2ce8e5c)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -14014,6 +14014,10 @@
   },
   "479531": {
     "premiumBrandRefreshInputBackground": "premiumBrandRefreshInputBackground_d313e6"
+  },
+  "479827": {
+    "toast": "toast__4843d",
+    "content": "content__4843d"
   },
   "479908": {
     "dotGrow": "dotGrow__714a9",
