@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1116 x64 (88815)"},"channel":{"canary":"596435 (66f0ce5)"},
+{"host":{"version":"1.0.1116 x64 (88861)"},"channel":{"canary":"596686 (76d92b8)"},
   "396": {
     "modalRoot": "modalRoot__6db38",
     "modalContent": "modalContent__6db38",
@@ -6675,6 +6675,9 @@
     "card": "card_d7fb2d",
     "error": "error_d7fb2d"
   },
+  "224405": {
+    "menu": "menu_f727ab"
+  },
   "224506": {
     "priceLine": "priceLine__05bc9",
     "priceTagContainer": "priceTagContainer__05bc9",
@@ -8085,6 +8088,10 @@
     "obscureButtonContainer": "obscureButtonContainer__299eb",
     "obscureHoverButton": "obscureHoverButton__299eb"
   },
+  "277275": {
+    "active": "active_f42222",
+    "activeIcon": "activeIcon_f42222"
+  },
   "278093": {
     "page": "page__7d655",
     "scroller": "scroller__7d655",
@@ -8509,7 +8516,9 @@
   "291815": {
     "channelView": "channelView__67841",
     "channelViewPreview": "channelViewPreview__67841",
-    "agentChatPanel": "agentChatPanel__67841"
+    "agentChatPanel": "agentChatPanel__67841",
+    "channelMessagesPanel": "channelMessagesPanel__67841",
+    "channelMessagesChat": "channelMessagesChat__67841"
   },
   "292094": {
     "root": "root_dbec16",
@@ -13911,6 +13920,20 @@
     "emphasized": "emphasized__2dc08",
     "noticeText": "noticeText__2dc08",
     "actions": "actions__2dc08"
+  },
+  "471818": {
+    "container": "container__2bb7a",
+    "controls": "controls__2bb7a",
+    "row": "row__2bb7a",
+    "divider": "divider__2bb7a",
+    "label": "label__2bb7a",
+    "modeSelector": "modeSelector__2bb7a",
+    "slider": "slider__2bb7a",
+    "modeButton": "modeButton__2bb7a",
+    "modeButtonActive": "modeButtonActive__2bb7a",
+    "visualizer": "visualizer__2bb7a",
+    "canvas": "canvas__2bb7a",
+    "avatar": "avatar__2bb7a"
   },
   "471850": {
     "modal": "modal__024d4",
