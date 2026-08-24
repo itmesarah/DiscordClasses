@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1125 x64 (89353)"},"channel":{"canary":"600151 (4dc5a18)"},
+{"host":{"version":"1.0.1127 x64 (89371)"},"channel":{"canary":"600379 (4665ba9)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1273,7 +1273,7 @@
     "shopCardAnimation": "shopCardAnimation_bab2bc",
     "shopCardSelected": "shopCardSelected_bab2bc",
     "previewContainer": "previewContainer_bab2bc",
-    "claimed": "claimed_bab2bc",
+    "disabled": "disabled_bab2bc",
     "claimedIcon": "claimedIcon_bab2bc",
     "preview": "preview_bab2bc",
     "productName": "productName_bab2bc",
@@ -3745,6 +3745,7 @@
     "inputWithButtonRow": "inputWithButtonRow__85e60"
   },
   "144281": {
+    "rewardsSelectedText": "rewardsSelectedText_d64c23",
     "giftRewardShopCardsGrid": "giftRewardShopCardsGrid_d64c23"
   },
   "144551": {
@@ -4490,8 +4491,7 @@
     "childContent": "childContent__3ed08",
     "childText": "childText__3ed08",
     "debugText": "debugText__3ed08",
-    "childIcon": "childIcon__3ed08",
-    "externalLinkWrapper": "externalLinkWrapper__3ed08"
+    "childIcon": "childIcon__3ed08"
   },
   "169655": {
     "banner": "banner__43147",
@@ -8886,6 +8886,20 @@
     "communicationDisabledOpacity": "communicationDisabledOpacity_c19a55",
     "badgesContainer": "badgesContainer_c19a55"
   },
+  "318824": {
+    "durationOptions": "durationOptions__5f539",
+    "quantityOptions": "quantityOptions__5f539",
+    "durationOption": "durationOption__5f539",
+    "quantityOption": "quantityOption__5f539",
+    "durationInput": "durationInput__5f539",
+    "durationFocusRing": "durationFocusRing__5f539",
+    "durationSave": "durationSave__5f539",
+    "customOption": "customOption__5f539",
+    "customInput": "customInput__5f539",
+    "artTile": "artTile__5f539",
+    "optionCopy": "optionCopy__5f539",
+    "priceLine": "priceLine__5f539"
+  },
   "318832": {
     "arrowBounce": "arrowBounce__1aa44",
     "bounce": "bounce__1aa44"
@@ -11081,6 +11095,7 @@
     "containerDefault": "containerDefault__29444",
     "containerDragAfter": "containerDragAfter__29444",
     "containerDragBefore": "containerDragBefore__29444",
+    "fullNotice": "fullNotice__29444",
     "addButton": "addButton__29444",
     "forceVisible": "forceVisible__29444",
     "iconVisibility": "iconVisibility__29444",
@@ -17386,9 +17401,11 @@
     "promotionBannerContainer": "promotionBannerContainer__7ec3a",
     "errorNotice": "errorNotice__7ec3a",
     "unifiedCheckoutLoadingContainer": "unifiedCheckoutLoadingContainer__7ec3a",
-    "badgeBannerContainer": "badgeBannerContainer__7ec3a",
-    "badgeBannerContainerWithShopUpsell": "badgeBannerContainerWithShopUpsell__7ec3a",
-    "badgeBannerContainerNoShopUpsell": "badgeBannerContainerNoShopUpsell__7ec3a"
+    "giftFooterBannerContainer": "giftFooterBannerContainer__7ec3a",
+    "giftFooterBannerContainerWithShopUpsell": "giftFooterBannerContainerWithShopUpsell__7ec3a",
+    "giftFooterBannerContainerNoShopUpsell": "giftFooterBannerContainerNoShopUpsell__7ec3a",
+    "compactGiftPromotionBannerContainer": "compactGiftPromotionBannerContainer__7ec3a",
+    "compactGiftPromotionBanner": "compactGiftPromotionBanner__7ec3a"
   },
   "593730": {
     "searchbar": "searchbar_e449ff",
