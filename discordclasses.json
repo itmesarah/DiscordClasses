@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1123 x64 (89204)"},"channel":{"canary":"599604 (ea56074)"},
+{"host":{"version":"1.0.1123 x64 (89297)"},"channel":{"canary":"599732 (a428b93)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -12702,13 +12702,6 @@
     "tileImage": "tileImage__57a1b",
     "tileGloss": "tileGloss__57a1b"
   },
-  "439108": {
-    "backdrop": "backdrop__5debc",
-    "target": "target__5debc",
-    "idleDim": "idleDim__5debc",
-    "hint": "hint__5debc",
-    "selection": "selection__5debc"
-  },
   "439248": {
     "root": "root__66e7e",
     "option": "option__66e7e",
@@ -12745,7 +12738,9 @@
     "accessoryMessageRow": "accessoryMessageRow__72ffd",
     "messageAccessoriesUnderProse": "messageAccessoriesUnderProse__72ffd",
     "messageAccessories": "messageAccessories__72ffd",
-    "conjurBotAvatar": "conjurBotAvatar__72ffd"
+    "conjurBotAvatar": "conjurBotAvatar__72ffd",
+    "messageBody": "messageBody__72ffd",
+    "vibegrations-reveal-frontier": "vibegrations-reveal-frontier__72ffd"
   },
   "441386": {
     "activityItemButtonInnerClass": "activityItemButtonInnerClass__8a940",
@@ -14445,7 +14440,8 @@
   "495557": {
     "thinkingPanel": "thinkingPanel__17f67",
     "thinkingPanelReasoning": "thinkingPanelReasoning__17f67",
-    "thinkingPanelBody": "thinkingPanelBody__17f67"
+    "thinkingPanelBody": "thinkingPanelBody__17f67",
+    "vibegrations-reveal-frontier-thinking": "vibegrations-reveal-frontier-thinking__17f67"
   },
   "495602": {
     "menuIcon": "menuIcon__62974"
@@ -17544,6 +17540,11 @@
     "divider": "divider_e54946",
     "collapsibleContent": "collapsibleContent_e54946",
     "accordion": "accordion_e54946"
+  },
+  "600732": {
+    "keeper": "keeper__897b1",
+    "phone": "phone__897b1",
+    "desktop": "desktop__897b1"
   },
   "601360": {
     "container": "container__96cb9",
@@ -23069,15 +23070,14 @@
     "attachmentSpinner": "attachmentSpinner_ffba0c",
     "attachmentRemoveButton": "attachmentRemoveButton_ffba0c",
     "composerFileInput": "composerFileInput_ffba0c",
-    "composerModelTrigger": "composerModelTrigger_ffba0c",
+    "composerTrailingSlotButton": "composerTrailingSlotButton_ffba0c",
     "composerPlusButton": "composerPlusButton_ffba0c",
     "composerPlusIcon": "composerPlusIcon_ffba0c",
     "composerAttachButton": "composerAttachButton_ffba0c",
     "composerInput": "composerInput_ffba0c",
     "composerSend": "composerSend_ffba0c",
     "composerSendSeparator": "composerSendSeparator_ffba0c",
-    "composerSendButton": "composerSendButton_ffba0c",
-    "composerInterruptButton": "composerInterruptButton_ffba0c"
+    "composerSendButton": "composerSendButton_ffba0c"
   },
   "791046": {
     "container": "container_c791b2",
