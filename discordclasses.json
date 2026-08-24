@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1125 x64 (89340)"},"channel":{"canary":"600034 (78260bc)"},
+{"host":{"version":"1.0.1125 x64 (89353)"},"channel":{"canary":"600151 (4dc5a18)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -2798,6 +2798,10 @@
     "guildHeaderInner": "guildHeaderInner_b81b18",
     "channelList": "channelList_b81b18",
     "panels": "panels_b81b18"
+  },
+  "107465": {
+    "instructionsPositioner": "instructionsPositioner__4971b",
+    "instructions": "instructions__4971b"
   },
   "107481": {
     "grid": "grid__5af4c",
@@ -6297,8 +6301,6 @@
   },
   "232059": {
     "container": "container__3d96b",
-    "cursor": "cursor__3d96b",
-    "keyboardCursor": "keyboardCursor__3d96b",
     "ghostNote": "ghostNote__3d96b",
     "notesListInert": "notesListInert__3d96b"
   },
@@ -16497,9 +16499,11 @@
     "defaultText": "defaultText__4d7f8",
     "coverContainer": "coverContainer__4d7f8",
     "coverContent": "coverContent__4d7f8",
-    "coverTitle": "coverTitle__4d7f8",
-    "coverSubtitle": "coverSubtitle__4d7f8",
+    "coverTextContainer": "coverTextContainer__4d7f8",
     "coverImage": "coverImage__4d7f8",
+    "coverSubtitle": "coverSubtitle__4d7f8",
+    "coverTitle": "coverTitle__4d7f8",
+    "noTitle": "noTitle__4d7f8",
     "fieldsContainer": "fieldsContainer__4d7f8",
     "fieldsImageContainer": "fieldsImageContainer__4d7f8",
     "fieldsImage": "fieldsImage__4d7f8"
@@ -23824,6 +23828,9 @@
     "description": "description__84522",
     "error": "error__84522",
     "actions": "actions__84522"
+  },
+  "812597": {
+    "preview": "preview__88c5e"
   },
   "812815": {
     "previewButton": "previewButton__50a36"
