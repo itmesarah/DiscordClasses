@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1127 x64 (89371)"},"channel":{"canary":"600379 (4665ba9)"},
+{"host":{"version":"1.0.1128 x64 (89397)"},"channel":{"canary":"600535 (b420ef5)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -6319,11 +6319,16 @@
   "233002": {
     "filmstrip": "filmstrip_afbdeb",
     "slot": "slot_afbdeb",
+    "dragTarget": "dragTarget_afbdeb",
     "addTile": "addTile_afbdeb",
     "tile": "tile_afbdeb",
     "selected": "selected_afbdeb",
     "tileMedia": "tileMedia_afbdeb",
-    "removeClipButton": "removeClipButton_afbdeb"
+    "removeClipButton": "removeClipButton_afbdeb",
+    "isDragging": "isDragging_afbdeb",
+    "dragHandle": "dragHandle_afbdeb",
+    "dropIndicatorAfter": "dropIndicatorAfter_afbdeb",
+    "dropIndicatorBefore": "dropIndicatorBefore_afbdeb"
   },
   "233454": {
     "upsellOverlayContainer": "upsellOverlayContainer__0f7dc",
@@ -29082,6 +29087,7 @@
     "container": "container_ab64fd",
     "widgetPreview": "widgetPreview_ab64fd",
     "gameDetailsCardPreview": "gameDetailsCardPreview_ab64fd",
+    "clipPreview": "clipPreview_ab64fd",
     "gamePreview": "gamePreview_ab64fd",
     "wishlistItemPreview": "wishlistItemPreview_ab64fd"
   },
