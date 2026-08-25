@@ -1132,6 +1132,10 @@
     --text-voice-speaking:var(--green-new-40);
     --textbox-markdown-syntax:var(--primary-360);
     --thread-channel-spine:var(--primary-500);
+    --togglebutton-background-selected:hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196);
+    --togglebutton-background-selected-active:hsl(var(--opacity-blurple-24-hsl)/0.23921568627450981);
+    --togglebutton-background-selected-hover:hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039);
+    --togglebutton-border-selected:var(--blurple-50);
     --user-profile-activity-toolbar-background:var(--neutral-60);
     --user-profile-background-hover:hsl(var(--opacity-12-hsl)/0.12156862745098039);
     --user-profile-border:hsl(var(--opacity-12-hsl)/0.12156862745098039);
@@ -1445,6 +1449,10 @@
     --text-voice-speaking:color-mix(in oklab,var(--green-new-40) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --textbox-markdown-syntax:color-mix(in oklab,var(--primary-360) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --thread-channel-spine:color-mix(in oklab,var(--primary-500) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
+    --togglebutton-background-selected:color-mix(in oklab,hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0784313725490196) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-active:color-mix(in oklab,hsl(var(--opacity-blurple-24-hsl)/0.23921568627450981) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.23921568627450981) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-hover:color-mix(in oklab,hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-border-selected:color-mix(in oklab,var(--blurple-50) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
     --user-profile-activity-toolbar-background:color-mix(in oklab,var(--neutral-60) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-base-color-amount,0%));
     --user-profile-background-hover:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
     --user-profile-border:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
@@ -2011,6 +2019,10 @@
     --text-voice-speaking:var(--green-new-45);
     --textbox-markdown-syntax:var(--primary-530);
     --thread-channel-spine:var(--primary-300);
+    --togglebutton-background-selected:hsl(var(--opacity-blurple-4-hsl)/0.0392156862745098);
+    --togglebutton-background-selected-active:hsl(var(--opacity-blurple-24-hsl)/0.23921568627450981);
+    --togglebutton-background-selected-hover:hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196);
+    --togglebutton-border-selected:var(--blurple-50);
     --user-profile-activity-toolbar-background:var(--neutral-1);
     --user-profile-background-hover:hsl(var(--opacity-12-hsl)/0.12156862745098039);
     --user-profile-border:hsl(var(--opacity-28-hsl)/0.2784313725490196);
@@ -2324,6 +2336,10 @@
     --text-voice-speaking:color-mix(in oklab,var(--green-new-45) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --textbox-markdown-syntax:color-mix(in oklab,var(--primary-530) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --thread-channel-spine:color-mix(in oklab,var(--primary-300) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
+    --togglebutton-background-selected:color-mix(in oklab,hsl(var(--opacity-blurple-4-hsl)/0.0392156862745098) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0392156862745098) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-active:color-mix(in oklab,hsl(var(--opacity-blurple-24-hsl)/0.23921568627450981) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.23921568627450981) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-hover:color-mix(in oklab,hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0784313725490196) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-border-selected:color-mix(in oklab,var(--blurple-50) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
     --user-profile-activity-toolbar-background:color-mix(in oklab,var(--neutral-1) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-base-color-amount,0%));
     --user-profile-background-hover:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
     --user-profile-border:color-mix(in oklab,hsl(var(--opacity-28-hsl)/0.2784313725490196) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.2784313725490196) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
@@ -2890,6 +2906,10 @@
     --text-voice-speaking:var(--green-new-40);
     --textbox-markdown-syntax:var(--plum-9);
     --thread-channel-spine:var(--plum-13);
+    --togglebutton-background-selected:hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196);
+    --togglebutton-background-selected-active:hsl(var(--opacity-blurple-24-hsl)/0.23921568627450981);
+    --togglebutton-background-selected-hover:hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039);
+    --togglebutton-border-selected:var(--blurple-50);
     --user-profile-activity-toolbar-background:var(--neutral-83);
     --user-profile-background-hover:hsl(var(--opacity-12-hsl)/0.12156862745098039);
     --user-profile-border:hsl(var(--opacity-20-hsl)/0.2);
@@ -3203,6 +3223,10 @@
     --text-voice-speaking:color-mix(in oklab,var(--green-new-40) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --textbox-markdown-syntax:color-mix(in oklab,var(--plum-9) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --thread-channel-spine:color-mix(in oklab,var(--plum-13) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
+    --togglebutton-background-selected:color-mix(in oklab,hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0784313725490196) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-active:color-mix(in oklab,hsl(var(--opacity-blurple-24-hsl)/0.23921568627450981) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.23921568627450981) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-hover:color-mix(in oklab,hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-border-selected:color-mix(in oklab,var(--blurple-50) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
     --user-profile-activity-toolbar-background:color-mix(in oklab,var(--neutral-83) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-base-color-amount,0%));
     --user-profile-background-hover:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
     --user-profile-border:color-mix(in oklab,hsl(var(--opacity-20-hsl)/0.2) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.2) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
@@ -3769,6 +3793,10 @@
     --text-voice-speaking:var(--green-new-40);
     --textbox-markdown-syntax:var(--plum-9);
     --thread-channel-spine:var(--plum-13);
+    --togglebutton-background-selected:hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196);
+    --togglebutton-background-selected-active:hsl(var(--opacity-blurple-24-hsl)/0.23921568627450981);
+    --togglebutton-background-selected-hover:hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039);
+    --togglebutton-border-selected:var(--blurple-50);
     --user-profile-activity-toolbar-background:var(--neutral-73);
     --user-profile-background-hover:hsl(var(--opacity-12-hsl)/0.12156862745098039);
     --user-profile-border:hsl(var(--opacity-12-hsl)/0.12156862745098039);
@@ -4082,6 +4110,10 @@
     --text-voice-speaking:color-mix(in oklab,var(--green-new-40) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --textbox-markdown-syntax:color-mix(in oklab,var(--plum-9) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --thread-channel-spine:color-mix(in oklab,var(--plum-13) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
+    --togglebutton-background-selected:color-mix(in oklab,hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0784313725490196) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-active:color-mix(in oklab,hsl(var(--opacity-blurple-24-hsl)/0.23921568627450981) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.23921568627450981) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-hover:color-mix(in oklab,hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-border-selected:color-mix(in oklab,var(--blurple-50) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
     --user-profile-activity-toolbar-background:color-mix(in oklab,var(--neutral-73) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-base-color-amount,0%));
     --user-profile-background-hover:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
     --user-profile-border:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
@@ -4305,6 +4337,8 @@
     --text-subtle:var(--neutral-2);
     --text-voice-disconnected:var(--red-new-5);
     --thread-channel-spine:var(--neutral-27);
+    --togglebutton-background-selected:hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039);
+    --togglebutton-background-selected-hover:hsl(var(--opacity-blurple-16-hsl)/0.1607843137254902);
     --user-profile-background-hover:hsl(var(--opacity-12-hsl)/0.12156862745098039);
     --user-profile-border:var(--neutral-12);
     --user-profile-overlay-background-hover:hsl(var(--opacity-12-hsl)/0.12156862745098039);
@@ -4432,6 +4466,8 @@
     --text-subtle:color-mix(in oklab,var(--neutral-2) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --text-voice-disconnected:color-mix(in oklab,var(--red-new-5) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --thread-channel-spine:color-mix(in oklab,var(--neutral-27) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
+    --togglebutton-background-selected:color-mix(in oklab,hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-hover:color-mix(in oklab,hsl(var(--opacity-blurple-16-hsl)/0.1607843137254902) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.1607843137254902) var(--custom-theme-base-color-amount,0%));
     --user-profile-background-hover:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
     --user-profile-border:color-mix(in oklab,var(--neutral-12) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
     --user-profile-overlay-background-hover:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
@@ -4623,6 +4659,8 @@
     --text-subtle:var(--neutral-64);
     --text-voice-disconnected:var(--red-new-66);
     --thread-channel-spine:var(--neutral-40);
+    --togglebutton-background-selected:hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196);
+    --togglebutton-background-selected-hover:hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039);
     --user-profile-background-hover:hsl(var(--opacity-16-hsl)/0.1607843137254902);
     --user-profile-border:var(--neutral-50);
     --user-profile-overlay-background-hover:hsl(var(--opacity-16-hsl)/0.1607843137254902);
@@ -4750,6 +4788,8 @@
     --text-subtle:color-mix(in oklab,var(--neutral-64) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --text-voice-disconnected:color-mix(in oklab,var(--red-new-66) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --thread-channel-spine:color-mix(in oklab,var(--neutral-40) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
+    --togglebutton-background-selected:color-mix(in oklab,hsl(var(--opacity-blurple-8-hsl)/0.0784313725490196) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.0784313725490196) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-hover:color-mix(in oklab,hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
     --user-profile-background-hover:color-mix(in oklab,hsl(var(--opacity-16-hsl)/0.1607843137254902) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.1607843137254902) var(--custom-theme-base-color-amount,0%));
     --user-profile-border:color-mix(in oklab,var(--neutral-50) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
     --user-profile-overlay-background-hover:color-mix(in oklab,hsl(var(--opacity-16-hsl)/0.1607843137254902) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.1607843137254902) var(--custom-theme-base-color-amount,0%));
@@ -4941,6 +4981,8 @@
     --text-subtle:var(--neutral-15);
     --text-voice-disconnected:var(--red-new-23);
     --thread-channel-spine:var(--neutral-38);
+    --togglebutton-background-selected:hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039);
+    --togglebutton-background-selected-hover:hsl(var(--opacity-blurple-16-hsl)/0.1607843137254902);
     --user-profile-background-hover:hsl(var(--opacity-16-hsl)/0.1607843137254902);
     --user-profile-border:var(--neutral-24);
     --user-profile-overlay-background-hover:hsl(var(--opacity-16-hsl)/0.1607843137254902);
@@ -5068,6 +5110,8 @@
     --text-subtle:color-mix(in oklab,var(--neutral-15) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --text-voice-disconnected:color-mix(in oklab,var(--red-new-23) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --thread-channel-spine:color-mix(in oklab,var(--neutral-38) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
+    --togglebutton-background-selected:color-mix(in oklab,hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-hover:color-mix(in oklab,hsl(var(--opacity-blurple-16-hsl)/0.1607843137254902) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.1607843137254902) var(--custom-theme-base-color-amount,0%));
     --user-profile-background-hover:color-mix(in oklab,hsl(var(--opacity-16-hsl)/0.1607843137254902) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.1607843137254902) var(--custom-theme-base-color-amount,0%));
     --user-profile-border:color-mix(in oklab,var(--neutral-24) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
     --user-profile-overlay-background-hover:color-mix(in oklab,hsl(var(--opacity-16-hsl)/0.1607843137254902) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.1607843137254902) var(--custom-theme-base-color-amount,0%));
@@ -5259,6 +5303,8 @@
     --text-subtle:var(--neutral-10);
     --text-voice-disconnected:var(--red-new-16);
     --thread-channel-spine:var(--neutral-35);
+    --togglebutton-background-selected:hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039);
+    --togglebutton-background-selected-hover:hsl(var(--opacity-blurple-16-hsl)/0.1607843137254902);
     --user-profile-background-hover:hsl(var(--opacity-12-hsl)/0.12156862745098039);
     --user-profile-border:var(--neutral-19);
     --user-profile-overlay-background-hover:hsl(var(--opacity-12-hsl)/0.12156862745098039);
@@ -5386,6 +5432,8 @@
     --text-subtle:color-mix(in oklab,var(--neutral-10) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --text-voice-disconnected:color-mix(in oklab,var(--red-new-16) 100%,var(--custom-theme-text-color,#000) var(--custom-theme-text-color-amount,0%));
     --thread-channel-spine:color-mix(in oklab,var(--neutral-35) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
+    --togglebutton-background-selected:color-mix(in oklab,hsl(var(--opacity-blurple-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
+    --togglebutton-background-selected-hover:color-mix(in oklab,hsl(var(--opacity-blurple-16-hsl)/0.1607843137254902) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.1607843137254902) var(--custom-theme-base-color-amount,0%));
     --user-profile-background-hover:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
     --user-profile-border:color-mix(in oklab,var(--neutral-19) 100%,var(--custom-theme-base-color,#000) var(--custom-theme-border-color-amount,var(--custom-theme-base-color-amount,0%)));
     --user-profile-overlay-background-hover:color-mix(in oklab,hsl(var(--opacity-12-hsl)/0.12156862745098039) 100%,hsl(var(--custom-theme-base-color-hsl,0 0% 0%)/0.12156862745098039) var(--custom-theme-base-color-amount,0%));
@@ -9817,4 +9865,9 @@
     --channels-name-line-height:28px;
     --channels-spine-inverted-offset-top:9px;
     --channels-spine-offset-left:28px
+}
+
+:root {
+    --motion-spring-subtle:linear(0,0.00508 1%,0.02111 2.1%,0.04883 3.3%,0.08833 4.6%,0.13142 5.8%,0.18324 7.1%,0.48034 13.9%,0.55807 15.8%,0.62269 17.5%,0.6919 19.5%,0.75326 21.5%,0.80671 23.5%,0.85247 25.5%,0.89618 27.8%,0.93123 30.1%,0.96072 32.6%,0.9833 35.2%,1.0001 38%,1.01135 41%,1.01793 44.4%,1.02007 48.4%,1.00268 74.6%,1);
+    --motion-spring-subtle-duration:598ms
 }
