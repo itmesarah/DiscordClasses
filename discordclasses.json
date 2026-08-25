@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1128 x64 (89397)"},"channel":{"canary":"600535 (b420ef5)"},
+{"host":{"version":"1.0.1129 x64 (89412)"},"channel":{"canary":"600637 (8306ac8)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -419,7 +419,9 @@
     "stepItem": "stepItem__30c5c",
     "stepChevron": "stepChevron__30c5c",
     "stepScreenshots": "stepScreenshots__30c5c",
-    "turnAttachments": "turnAttachments__30c5c"
+    "turnAttachments": "turnAttachments__30c5c",
+    "stepLine": "stepLine__30c5c",
+    "stepDriver": "stepDriver__30c5c"
   },
   "13792": {
     "gradientOuterBorder": "gradientOuterBorder__8f49b",
@@ -493,7 +495,8 @@
     "roleColorContainer": "roleColorContainer_cfa6c7"
   },
   "14753": {
-    "wrapper": "wrapper__4e6ce"
+    "wrapper": "wrapper__4e6ce",
+    "listNavigatorRegion": "listNavigatorRegion__4e6ce"
   },
   "15330": {
     "linkIcon": "linkIcon_a4b5f8",
