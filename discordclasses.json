@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1134 x64 (89520)"},"channel":{"canary":"601931 (56e644e)"},
+{"host":{"version":"1.0.1134 x64 (89552)"},"channel":{"canary":"602049 (6f26575)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -3187,6 +3187,9 @@
     "content": "content_dea1f0",
     "closeButton": "closeButton_dea1f0",
     "warning": "warning_dea1f0"
+  },
+  "123576": {
+    "orbWalletHeaderTagUpsell": "orbWalletHeaderTagUpsell__583ca"
   },
   "125256": {
     "topBar": "topBar__6088c",
@@ -11342,8 +11345,11 @@
     "slideForm": "slideForm__23488"
   },
   "398293": {
-    "balanceCounterMargin": "balanceCounterMargin__98f64",
-    "balanceCounterText": "balanceCounterText__98f64"
+    "balanceCounterText": "balanceCounterText__98f64",
+    "balanceCounterMarginRightAlign": "balanceCounterMarginRightAlign__98f64",
+    "balanceCounterTextRightAlign": "balanceCounterTextRightAlign__98f64",
+    "balanceCounterMarginLeftAlign": "balanceCounterMarginLeftAlign__98f64",
+    "balanceCounterTextLeftAlign": "balanceCounterTextLeftAlign__98f64"
   },
   "398889": {
     "container": "container_e0f8ae",
@@ -15589,7 +15595,8 @@
     "chrome": "chrome_e22cd8",
     "nonInteractive": "nonInteractive_e22cd8",
     "tooltipContent": "tooltipContent_e22cd8",
-    "tooltipTextColumn": "tooltipTextColumn_e22cd8"
+    "tooltipTextColumn": "tooltipTextColumn_e22cd8",
+    "textLineHeight": "textLineHeight_e22cd8"
   },
   "531296": {
     "container": "container__61306",
