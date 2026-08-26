@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1133 x64 (89507)"},"channel":{"canary":"601689 (ec5a8db)"},
+{"host":{"version":"1.0.1134 x64 (89520)"},"channel":{"canary":"601931 (56e644e)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -19828,7 +19828,7 @@
     "container": "container__0b563",
     "tabBar": "tabBar__0b563",
     "tabBarItem": "tabBarItem__0b563",
-    "newBadge": "newBadge__0b563",
+    "numberBadge": "numberBadge__0b563",
     "header": "header__0b563",
     "innerHeader": "innerHeader__0b563"
   },
@@ -22912,21 +22912,6 @@
     "noIcon": "noIcon_f34534",
     "noAcronym": "noAcronym_f34534"
   },
-  "779944": {
-    "banner": "banner__97f37",
-    "hasTrialOffer": "hasTrialOffer__97f37",
-    "wrapper": "wrapper__97f37",
-    "closeButton": "closeButton__97f37",
-    "contentFill": "contentFill__97f37",
-    "contentFillWithOffer": "contentFillWithOffer__97f37",
-    "nitroWheel": "nitroWheel__97f37",
-    "content": "content__97f37",
-    "header": "header__97f37",
-    "headerText": "headerText__97f37",
-    "subheaderText": "subheaderText__97f37",
-    "ctaActionWrapper": "ctaActionWrapper__97f37",
-    "offerUpsell": "offerUpsell__97f37"
-  },
   "780701": {
     "flexVertical": "flexVertical__2d3fe",
     "flexHorizontal": "flexHorizontal__2d3fe",
@@ -23822,7 +23807,9 @@
     "body": "body__36c1b",
     "headerInput": "headerInput__36c1b",
     "inputWrapper": "inputWrapper__36c1b",
+    "titleEditorContainer": "titleEditorContainer__36c1b",
     "titleInput": "titleInput__36c1b",
+    "titleEditor": "titleEditor__36c1b",
     "attachmentsContainer": "attachmentsContainer__36c1b",
     "divider": "divider__36c1b",
     "footer": "footer__36c1b",
