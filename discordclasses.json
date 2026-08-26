@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1133 x64 (89477)"},"channel":{"canary":"601477 (d0d48fa)"},
+{"host":{"version":"1.0.1133 x64 (89484)"},"channel":{"canary":"601512 (fabc0f5)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -11493,6 +11493,7 @@
     "layer": "layer_a7b103",
     "banner": "banner_a7b103",
     "tasks": "tasks_a7b103",
+    "bannerJump": "bannerJump_a7b103",
     "bannerLine": "bannerLine_a7b103",
     "tasksButton": "tasksButton_a7b103",
     "open": "open_a7b103",
