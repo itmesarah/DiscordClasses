@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1131 x64 (89445)"},"channel":{"canary":"601427 (b3eaafa)"},
+{"host":{"version":"1.0.1133 x64 (89477)"},"channel":{"canary":"601477 (d0d48fa)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -14434,7 +14434,13 @@
     "popout": "popout_f18413",
     "header": "header_f18413",
     "titleRow": "titleRow_f18413",
-    "nitroIcon": "nitroIcon_f18413"
+    "nitroIcon": "nitroIcon_f18413",
+    "badgeGrid": "badgeGrid_f18413",
+    "badgeTileContainer": "badgeTileContainer_f18413",
+    "badgeTile": "badgeTile_f18413",
+    "isInteracting": "isInteracting_f18413",
+    "badgeTileIcon": "badgeTileIcon_f18413",
+    "overflowButton": "overflowButton_f18413"
   },
   "495088": {
     "channelTextArea": "channelTextArea__74017",
