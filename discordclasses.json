@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1136 x64 (89591)"},"channel":{"canary":"602334 (8525f33)"},
+{"host":{"version":"1.0.1136 x64 (89631)"},"channel":{"canary":"602649 (ac21c18)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -5615,9 +5615,6 @@
     "saturation": "saturation__889ee",
     "hue": "hue__889ee"
   },
-  "208813": {
-    "applicationIcon": "applicationIcon__80465"
-  },
   "209012": {
     "root": "root__3e32a",
     "largeBorderRadius": "largeBorderRadius__3e32a",
@@ -5649,12 +5646,6 @@
   },
   "209612": {
     "panel": "panel__262a4"
-  },
-  "210032": {
-    "icon": "icon__2894c",
-    "iconWithGuildIcon": "iconWithGuildIcon__2894c",
-    "channelGuildIcon": "channelGuildIcon__2894c",
-    "acronym": "acronym__2894c"
   },
   "210153": {
     "container": "container__1cbbf",
@@ -12228,6 +12219,9 @@
     "optionInert": "optionInert_d0997e",
     "recommendedBadge": "recommendedBadge_d0997e",
     "rows": "rows_d0997e",
+    "rowsMask": "rowsMask_d0997e",
+    "rowsGhost": "rowsGhost_d0997e",
+    "otherGhost": "otherGhost_d0997e",
     "otherRow": "otherRow_d0997e",
     "otherInput": "otherInput_d0997e",
     "footer": "footer_d0997e",
@@ -12236,7 +12230,14 @@
     "headerClose": "headerClose_d0997e",
     "iconButtonSpent": "iconButtonSpent_d0997e",
     "clarificationOpen": "clarificationOpen_d0997e",
-    "clarificationClosing": "clarificationClosing_d0997e"
+    "clarificationClosing": "clarificationClosing_d0997e",
+    "body": "body_d0997e",
+    "vibegrations-clarification-rows-a": "vibegrations-clarification-rows-a_d0997e",
+    "vibegrations-clarification-rows-out": "vibegrations-clarification-rows-out_d0997e",
+    "vibegrations-clarification-rows-b": "vibegrations-clarification-rows-b_d0997e",
+    "heading": "heading_d0997e",
+    "headingExit": "headingExit_d0997e",
+    "headingEnter": "headingEnter_d0997e"
   },
   "424290": {
     "scrollRegion": "scrollRegion__523e1",
@@ -12450,6 +12451,9 @@
     "headerContainer": "headerContainer__0aebc",
     "opacityHeader": "opacityHeader__0aebc header_ee4d7e",
     "dragIcon": "dragIcon__0aebc"
+  },
+  "431194": {
+    "applicationIcon": "applicationIcon__80465"
   },
   "431855": {
     "modalContainer": "modalContainer__3cf67",
@@ -21213,11 +21217,11 @@
     "fcInfoRows": "fcInfoRows__1add6",
     "fcInfoRow": "fcInfoRow__1add6",
     "fcInfoRowText": "fcInfoRowText__1add6",
+    "storeSectionsContainer": "storeSectionsContainer__1add6",
     "storeHero": "storeHero__1add6",
     "storeSection": "storeSection__1add6",
     "storeBentoGrid": "storeBentoGrid__1add6",
     "storeBentoCard": "storeBentoCard__1add6",
-    "storeBentoCardTall": "storeBentoCardTall__1add6",
     "gridBody": "gridBody__1add6",
     "cardGrid": "cardGrid__1add6",
     "gridCard": "gridCard__1add6",
@@ -22495,6 +22499,12 @@
     "content": "content__8efcc",
     "body": "body__8efcc",
     "contentWrapper": "contentWrapper__8efcc"
+  },
+  "765270": {
+    "icon": "icon__2894c",
+    "iconWithGuildIcon": "iconWithGuildIcon__2894c",
+    "channelGuildIcon": "channelGuildIcon__2894c",
+    "acronym": "acronym__2894c"
   },
   "767251": {
     "warning": "warning__915cb",
@@ -24025,7 +24035,7 @@
   },
   "814014": {
     "badgeImage": "badgeImage__940cb",
-    "upcoming": "upcoming__940cb",
+    "dimmed": "dimmed__940cb",
     "staticBadge": "staticBadge__940cb"
   },
   "814025": {
