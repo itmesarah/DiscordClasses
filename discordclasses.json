@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1137 x64 (89707)"},"channel":{"canary":"603313 (c53a5cf)"},
+{"host":{"version":"1.0.1137 x64 (89722)"},"channel":{"canary":"603506 (dea706c)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -3779,7 +3779,6 @@
     "inputWithButtonRow": "inputWithButtonRow__85e60"
   },
   "144281": {
-    "rewardsSelectedText": "rewardsSelectedText_d64c23",
     "giftRewardShopCardsGrid": "giftRewardShopCardsGrid_d64c23"
   },
   "144551": {
