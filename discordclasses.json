@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1139 x64 (89788)"},"channel":{"canary":"604200 (7aeb3d5)"},
+{"host":{"version":"1.0.1139 x64 (89798)"},"channel":{"canary":"604410 (1ef23b3)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -22260,6 +22260,9 @@
     "createGuild": "createGuild_b917ac",
     "uploadIcon": "uploadIcon_b917ac",
     "guidelines": "guidelines_b917ac"
+  },
+  "753504": {
+    "container": "container__981a1"
   },
   "753664": {
     "grid": "grid_ec9088",
