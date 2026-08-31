@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1139 x64 (89798)"},"channel":{"canary":"604410 (1ef23b3)"},
+{"host":{"version":"1.0.1142 x64 (89829)"},"channel":{"canary":"604866 (d6e3d59)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -3188,6 +3188,9 @@
     "closeButton": "closeButton_dea1f0",
     "warning": "warning_dea1f0"
   },
+  "123576": {
+    "placeholderChallengesCard": "placeholderChallengesCard__583ca"
+  },
   "125256": {
     "topBar": "topBar__6088c",
     "author": "author__6088c",
@@ -3526,7 +3529,8 @@
     "orbChallengeTileWithProgressRing": "orbChallengeTileWithProgressRing__84ece",
     "orbChallengeGlyph": "orbChallengeGlyph__84ece",
     "orbChallengeRing": "orbChallengeRing__84ece",
-    "orbIconAligned": "orbIconAligned__84ece"
+    "orbIconAligned": "orbIconAligned__84ece",
+    "orbChallengeItemDivider": "orbChallengeItemDivider__84ece"
   },
   "137504": {
     "container": "container__3e00d",
@@ -10630,9 +10634,7 @@
   },
   "376229": {
     "wrapper": "wrapper__11054",
-    "submenuIcon": "submenuIcon__11054",
     "foreground": "foreground__11054",
-    "contextMenu": "contextMenu__11054",
     "gameTile": "gameTile__11054",
     "ctas": "ctas__11054",
     "primaryButtonWrapper": "primaryButtonWrapper__11054",
@@ -12359,6 +12361,10 @@
     "badgeContainer": "badgeContainer__81391",
     "badge": "badge__81391"
   },
+  "428863": {
+    "picker": "picker__4761e",
+    "username": "username__4761e"
+  },
   "428966": {
     "imageInputContainer": "imageInputContainer__4cc0e"
   },
@@ -12795,6 +12801,7 @@
   },
   "438879": {
     "itemCard": "itemCard__7e549",
+    "questCardContextMenuTrigger": "questCardContextMenuTrigger__7e549",
     "emptyCard": "emptyCard__7e549",
     "emptyHeader": "emptyHeader__7e549",
     "emptyText": "emptyText__7e549"
@@ -14914,6 +14921,7 @@
     "user": "user__52fde",
     "avatar": "avatar__52fde",
     "icon": "icon__52fde",
+    "iconDisabled": "iconDisabled__52fde",
     "content": "content__52fde"
   },
   "505965": {
@@ -16287,6 +16295,9 @@
     "toggleIconOn": "toggleIconOn_b53c4e",
     "gameHasSubgame": "gameHasSubgame_b53c4e",
     "subgameContainer": "subgameContainer_b53c4e"
+  },
+  "552585": {
+    "trailingText": "trailingText__8d7db"
   },
   "553790": {
     "container": "container_f782d6",
@@ -17667,14 +17678,16 @@
     "tileMedia": "tileMedia_b97d98",
     "feature": "feature_b97d98",
     "stack": "stack_b97d98",
-    "stackEven": "stackEven_b97d98",
+    "equallySizedTile": "equallySizedTile_b97d98",
     "stackTile": "stackTile_b97d98",
     "featureOverlayContent": "featureOverlayContent_b97d98",
     "featureFooter": "featureFooter_b97d98",
     "featureTitle": "featureTitle_b97d98",
     "playButton": "playButton_b97d98",
     "lg": "lg_b97d98",
-    "sm": "sm_b97d98"
+    "sm": "sm_b97d98",
+    "featurePlayButton": "featurePlayButton_b97d98",
+    "stackPlayButton": "stackPlayButton_b97d98"
   },
   "599715": {
     "fontGrid": "fontGrid_fc7677",
@@ -19333,17 +19346,13 @@
     "orbWalletContainer": "orbWalletContainer__81c60",
     "orbWalletContainerLayout": "orbWalletContainerLayout__81c60",
     "orbWalletHeader": "orbWalletHeader__81c60",
-    "orbWalletHeaderText": "orbWalletHeaderText__81c60",
     "orbWalletHeaderTagInlineText": "orbWalletHeaderTagInlineText__81c60",
     "assetContainer": "assetContainer__81c60",
     "orbAsset": "orbAsset__81c60",
-    "sectionDivider": "sectionDivider__81c60",
-    "sectionDividerFullWidth": "sectionDividerFullWidth__81c60",
     "nitroMultiplierPill": "nitroMultiplierPill__81c60",
     "orbChallengesCard": "orbChallengesCard__81c60",
     "orbChallengesCardTitleBlock": "orbChallengesCardTitleBlock__81c60",
     "orbChallengesCardEmptyContent": "orbChallengesCardEmptyContent__81c60",
-    "orbChallengeItemDivider": "orbChallengeItemDivider__81c60",
     "orbWalletFooter": "orbWalletFooter__81c60"
   },
   "654402": {
@@ -25478,7 +25487,9 @@
     "warning": "warning__490eb"
   },
   "864043": {
-    "noticeWrapper": "noticeWrapper__35939"
+    "noticeWrapper": "noticeWrapper__35939",
+    "noticeText": "noticeText__35939",
+    "noticeDismiss": "noticeDismiss__35939"
   },
   "864449": {
     "avatarDecorationPreview": "avatarDecorationPreview__9baf3",
