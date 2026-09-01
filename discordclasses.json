@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1145 x64 (89922)"},"channel":{"canary":"605361 (743043a)"},
+{"host":{"version":"1.0.1148 x64 (89973)"},"channel":{"canary":"605704 (99e954d)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1069,6 +1069,68 @@
     "copyContainer": "copyContainer__665be",
     "heading": "heading__665be"
   },
+  "40715": {
+    "trace": "trace_ab982a",
+    "listPane": "listPane_ab982a",
+    "detailPane": "detailPane_ab982a",
+    "splitHandle": "splitHandle_ab982a",
+    "traceResizing": "traceResizing_ab982a",
+    "empty": "empty_ab982a",
+    "overview": "overview_ab982a",
+    "overviewBar": "overviewBar_ab982a",
+    "overviewSegment": "overviewSegment_ab982a",
+    "overviewLegend": "overviewLegend_ab982a",
+    "legendItem": "legendItem_ab982a",
+    "legendSwatch": "legendSwatch_ab982a",
+    "catModel": "catModel_ab982a",
+    "catSubagent": "catSubagent_ab982a",
+    "catContext": "catContext_ab982a",
+    "catTool": "catTool_ab982a",
+    "catDelegated": "catDelegated_ab982a",
+    "categoryTag": "categoryTag_ab982a",
+    "dot": "dot_ab982a",
+    "dotRunning": "dotRunning_ab982a",
+    "vibegrations-trace-dot-pulse": "vibegrations-trace-dot-pulse_ab982a",
+    "dotDone": "dotDone_ab982a",
+    "dotError": "dotError_ab982a",
+    "listBody": "listBody_ab982a",
+    "list": "list_ab982a",
+    "groupHead": "groupHead_ab982a",
+    "groupList": "groupList_ab982a",
+    "row": "row_ab982a",
+    "rowTop": "rowTop_ab982a",
+    "rowSelected": "rowSelected_ab982a",
+    "rowNested": "rowNested_ab982a",
+    "rowFailed": "rowFailed_ab982a",
+    "rowTitle": "rowTitle_ab982a",
+    "rowTrailing": "rowTrailing_ab982a",
+    "rowError": "rowError_ab982a",
+    "rowSummary": "rowSummary_ab982a",
+    "detail": "detail_ab982a",
+    "detailHead": "detailHead_ab982a",
+    "detailHeadMain": "detailHeadMain_ab982a",
+    "detailHeadMeta": "detailHeadMeta_ab982a",
+    "detailError": "detailError_ab982a",
+    "detailTitle": "detailTitle_ab982a",
+    "detailSection": "detailSection_ab982a",
+    "detailGrid": "detailGrid_ab982a",
+    "detailFold": "detailFold_ab982a",
+    "detailSectionTitle": "detailSectionTitle_ab982a",
+    "detailFoldSummary": "detailFoldSummary_ab982a",
+    "detailFoldChevron": "detailFoldChevron_ab982a",
+    "detailFoldBody": "detailFoldBody_ab982a",
+    "detailRow": "detailRow_ab982a",
+    "detailKey": "detailKey_ab982a",
+    "detailValue": "detailValue_ab982a",
+    "detailOmitted": "detailOmitted_ab982a",
+    "detailNote": "detailNote_ab982a",
+    "detailLink": "detailLink_ab982a",
+    "detailRichHead": "detailRichHead_ab982a",
+    "detailStaffTag": "detailStaffTag_ab982a",
+    "detailRichValue": "detailRichValue_ab982a",
+    "detailRichText": "detailRichText_ab982a",
+    "toolbarSearch": "toolbarSearch_ab982a"
+  },
   "40974": {
     "emptyOption": "emptyOption_b088b0",
     "emptyOptionActive": "emptyOptionActive_b088b0",
@@ -1673,7 +1735,8 @@
     "roleRow": "roleRow__0ab2c",
     "roleName": "roleName__0ab2c",
     "searchBar": "searchBar__0ab2c",
-    "removeButtonContainer": "removeButtonContainer__0ab2c"
+    "removeButtonContainer": "removeButtonContainer__0ab2c",
+    "appChannelPermissionsNotice": "appChannelPermissionsNotice__0ab2c"
   },
   "60419": {
     "keyComboInner": "keyComboInner__15c82",
@@ -7497,6 +7560,8 @@
   "271182": {
     "heroAsset": "heroAsset_c93f8c",
     "heroAssetCont": "heroAssetCont_c93f8c",
+    "heroAssetContBanner": "heroAssetContBanner_c93f8c",
+    "heroAssetContModalPanel": "heroAssetContModalPanel_c93f8c",
     "heroAssetVideo": "heroAssetVideo_c93f8c"
   },
   "271308": {
@@ -8974,9 +9039,7 @@
     "positionContentOverBackground": "positionContentOverBackground_b5b7aa",
     "contents": "contents_b5b7aa",
     "heroAssetWrapper": "heroAssetWrapper_b5b7aa",
-    "heroAssetCont": "heroAssetCont_b5b7aa",
     "overlay": "overlay_b5b7aa",
-    "heroImage": "heroImage_b5b7aa",
     "topRow": "topRow_b5b7aa",
     "pills": "pills_b5b7aa",
     "utilButtonWrapper": "utilButtonWrapper_b5b7aa",
@@ -9450,9 +9513,6 @@
     "stage": "stage_f4b9b5",
     "soundboard": "soundboard_f4b9b5"
   },
-  "339856": {
-    "topRadius": "topRadius_a25167"
-  },
   "340001": {
     "mutuals": "mutuals__530ce",
     "section": "section__530ce",
@@ -9831,6 +9891,7 @@
     "content": "content_f8194a",
     "chatBody": "chatBody_f8194a",
     "projectHeaderIconActions": "projectHeaderIconActions_f8194a",
+    "projectHeaderDivider": "projectHeaderDivider_f8194a",
     "projectMainFallback": "projectMainFallback_f8194a",
     "projectUnavailable": "projectUnavailable_f8194a",
     "creation": "creation_f8194a",
@@ -12020,6 +12081,13 @@
   "413692": {
     "loadingWrapper": "loadingWrapper__5a143"
   },
+  "413927": {
+    "changelog": "changelog__9528d",
+    "changelogHeading": "changelogHeading__9528d",
+    "changelogList": "changelogList__9528d",
+    "changelogItem": "changelogItem__9528d",
+    "changelogDate": "changelogDate__9528d"
+  },
   "414676": {
     "box": "box__376cb",
     "loading": "loading__376cb",
@@ -13082,7 +13150,6 @@
   },
   "446498": {
     "container": "container__3a1f6",
-    "heroDisplayContainer": "heroDisplayContainer__3a1f6",
     "partnerLogotypeContainer": "partnerLogotypeContainer__3a1f6",
     "partnerLogotype": "partnerLogotype__3a1f6",
     "partnerContentContainer": "partnerContentContainer__3a1f6",
@@ -14557,7 +14624,9 @@
     "badgeTile": "badgeTile_f18413",
     "isInteracting": "isInteracting_f18413",
     "badgeTileIcon": "badgeTileIcon_f18413",
-    "overflowButton": "overflowButton_f18413"
+    "badgeTileIconHidden": "badgeTileIconHidden_f18413",
+    "overflowButton": "overflowButton_f18413",
+    "unhideButton": "unhideButton_f18413"
   },
   "495088": {
     "channelTextArea": "channelTextArea__74017",
@@ -14653,7 +14722,9 @@
   "497243": {
     "panel": "panel_ec5c8a",
     "body": "body_ec5c8a",
-    "tabs": "tabs_ec5c8a"
+    "tabs": "tabs_ec5c8a",
+    "trace": "trace_ec5c8a",
+    "traceToolbar": "traceToolbar_ec5c8a"
   },
   "497292": {
     "header": "header_c04f35",
@@ -15519,7 +15590,10 @@
     "buttonSkeleton": "buttonSkeleton__307db"
   },
   "522652": {
-    "tab": "tab__3ff54"
+    "tab": "tab__3ff54",
+    "callRow": "callRow__3ff54",
+    "callTime": "callTime__3ff54",
+    "callModel": "callModel__3ff54"
   },
   "523312": {
     "displayNamePreview": "displayNamePreview__2818b",
@@ -15792,15 +15866,6 @@
     "container": "container__78320",
     "content": "content__78320",
     "preAlphaText": "preAlphaText__78320"
-  },
-  "534603": {
-    "view": "view__881e1",
-    "list": "list__881e1",
-    "row": "row__881e1",
-    "rank": "rank__881e1",
-    "name": "name__881e1",
-    "edit": "edit__881e1",
-    "editActions": "editActions__881e1"
   },
   "534687": {
     "rowIcon": "rowIcon_cb32c7",
@@ -21731,7 +21796,6 @@
   },
   "733908": {
     "container": "container_d03433",
-    "heroDisplay": "heroDisplay_d03433",
     "partnerLogotypeContainer": "partnerLogotypeContainer_d03433",
     "partnerLogotype": "partnerLogotype_d03433",
     "partnerContentContainer": "partnerContentContainer_d03433",
@@ -22595,6 +22659,20 @@
     "breadcrumbs": "breadcrumbs__6989f",
     "breadcrumb": "breadcrumb__6989f",
     "breadcrumbContent": "breadcrumbContent__6989f"
+  },
+  "764359": {
+    "view": "view__90a68",
+    "header": "header__90a68",
+    "timeLeft": "timeLeft__90a68",
+    "tableContainer": "tableContainer__90a68",
+    "table": "table__90a68",
+    "headerCell": "headerCell__90a68",
+    "headerRow": "headerRow__90a68",
+    "row": "row__90a68",
+    "cell": "cell__90a68",
+    "cellRank": "cellRank__90a68 cell__90a68",
+    "user": "user__90a68",
+    "name": "name__90a68"
   },
   "764811": {
     "container": "container_b7b2cf",
