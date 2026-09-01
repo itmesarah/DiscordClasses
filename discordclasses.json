@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1142 x64 (89829)"},"channel":{"canary":"604866 (d6e3d59)"},
+{"host":{"version":"1.0.1142 x64 (89871)"},"channel":{"canary":"605113 (9eded9a)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1443,6 +1443,7 @@
     "classificationActionsTakenList": "classificationActionsTakenList_a48d6b",
     "guidelinesExplanation": "guidelinesExplanation_a48d6b",
     "classificationLetUsKnowContainer": "classificationLetUsKnowContainer_a48d6b",
+    "classificationLetUsKnowTextCentered": "classificationLetUsKnowTextCentered_a48d6b",
     "classificationPolicyCard": "classificationPolicyCard_a48d6b",
     "classificationPolicyCardIcon": "classificationPolicyCardIcon_a48d6b",
     "classificationPolicyDescriptionContainer": "classificationPolicyDescriptionContainer_a48d6b",
@@ -1965,6 +1966,17 @@
     "previewTitle": "previewTitle__44061",
     "formContent": "formContent__44061",
     "isSticky": "isSticky__44061"
+  },
+  "69985": {
+    "toolbar": "toolbar__05518",
+    "toolbarStatus": "toolbarStatus__05518",
+    "section": "section__05518",
+    "sectionTitle": "sectionTitle__05518",
+    "statRow": "statRow__05518",
+    "statRowHead": "statRowHead__05518",
+    "meterTrack": "meterTrack__05518",
+    "meterFill": "meterFill__05518",
+    "meterFillCritical": "meterFillCritical__05518 meterFill__05518"
   },
   "70040": {
     "previewContainer": "previewContainer_c9a5b2",
@@ -12041,6 +12053,19 @@
     "error": "error__71b12",
     "errorImage": "errorImage__71b12"
   },
+  "417397": {
+    "logsControls": "logsControls_fe4825",
+    "logsSearch": "logsSearch_fe4825",
+    "logsTab": "logsTab_fe4825",
+    "logsPanel": "logsPanel_fe4825",
+    "logRow": "logRow_fe4825",
+    "logTime": "logTime_fe4825",
+    "logLevel": "logLevel_fe4825",
+    "logBody": "logBody_fe4825",
+    "logJsonToggle": "logJsonToggle_fe4825",
+    "logJson": "logJson_fe4825",
+    "logBadge": "logBadge_fe4825"
+  },
   "417979": {
     "streamPreviewWrapper": "streamPreviewWrapper__0489e",
     "streamPreview": "streamPreview__0489e popover_d6f39b",
@@ -14626,6 +14651,11 @@
     "productName": "productName_fcbddd",
     "cardFadeIn": "cardFadeIn_fcbddd"
   },
+  "497243": {
+    "panel": "panel_ec5c8a",
+    "body": "body_ec5c8a",
+    "tabs": "tabs_ec5c8a"
+  },
   "497292": {
     "header": "header_c04f35",
     "closeButton": "closeButton_c04f35",
@@ -15488,6 +15518,9 @@
     "labelLine": "labelLine__307db",
     "valueLine": "valueLine__307db",
     "buttonSkeleton": "buttonSkeleton__307db"
+  },
+  "522652": {
+    "tab": "tab__3ff54"
   },
   "523312": {
     "displayNamePreview": "displayNamePreview__2818b",
@@ -24412,6 +24445,8 @@
     "list": "list_af6837",
     "listItem": "listItem_af6837",
     "commandRow": "commandRow_af6837",
+    "design": "design_af6837",
+    "designImage": "designImage_af6837",
     "chips": "chips_af6837",
     "chip": "chip_af6837"
   },
@@ -25029,6 +25064,11 @@
     "searchBar": "searchBar__824d3",
     "searchIcon": "searchIcon__824d3",
     "searchFloating": "searchFloating__824d3"
+  },
+  "849363": {
+    "placeholder": "placeholder_b8a14e",
+    "inlineError": "inlineError_b8a14e",
+    "truncated": "truncated_b8a14e"
   },
   "849405": {
     "descriptionWrapper": "descriptionWrapper__43963",
