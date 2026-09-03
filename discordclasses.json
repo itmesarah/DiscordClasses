@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1153 x64 (90164)"},"channel":{"canary":"607072 (d011717)"},
+{"host":{"version":"1.0.1155 x64 (90201)"},"channel":{"canary":"607292 (0549645)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -3078,6 +3078,9 @@
     "selected": "selected__9293f",
     "iconDisabled": "iconDisabled__9293f",
     "iconBadge": "iconBadge__9293f",
+    "iconBadgeWithText": "iconBadgeWithText__9293f",
+    "iconBadgeStyleImportant": "iconBadgeStyleImportant__9293f",
+    "iconBadgeStyleUnread": "iconBadgeStyleUnread__9293f",
     "iconBadgeTop": "iconBadgeTop__9293f",
     "iconBadgeBottom": "iconBadgeBottom__9293f",
     "dot": "dot__9293f",
@@ -4110,6 +4113,7 @@
     "refreshPlanLabel": "refreshPlanLabel__390b6",
     "refreshPlanPrice": "refreshPlanPrice__390b6",
     "refreshDiscountCallout": "refreshDiscountCallout__390b6",
+    "refreshCallouts": "refreshCallouts__390b6",
     "refreshDiscountCalloutIconWrapper": "refreshDiscountCalloutIconWrapper__390b6",
     "refreshDiscountCalloutIcon": "refreshDiscountCalloutIcon__390b6",
     "refreshDiscountCalloutText": "refreshDiscountCalloutText__390b6",
@@ -11417,6 +11421,15 @@
     "experimentGetNitro": "experimentGetNitro__9b0f4",
     "acceptAsAvatar": "acceptAsAvatar__9b0f4"
   },
+  "396559": {
+    "container": "container_be3184",
+    "content": "content_be3184",
+    "asset": "asset_be3184",
+    "textStack": "textStack_be3184",
+    "countdown": "countdown_be3184",
+    "clockIcon": "clockIcon_be3184",
+    "link": "link_be3184"
+  },
   "396975": {
     "voiceChannelBadge": "voiceChannelBadge_f25a6e",
     "voiceChannelBadgeWrapper": "voiceChannelBadgeWrapper_f25a6e"
@@ -13393,9 +13406,11 @@
   },
   "454992": {
     "container": "container_b2dcc1",
+    "containerWithUpsell": "containerWithUpsell_b2dcc1",
     "headerContainer": "headerContainer_b2dcc1",
     "headerText": "headerText_b2dcc1",
-    "soundList": "soundList_b2dcc1"
+    "soundList": "soundList_b2dcc1",
+    "upsellBanner": "upsellBanner_b2dcc1"
   },
   "455007": {
     "options": "options_e2762c"
@@ -21513,6 +21528,11 @@
   "728564": {
     "panel": "panel_cd7bbe"
   },
+  "728846": {
+    "frameTarget": "frameTarget_e92794",
+    "stateContainer": "stateContainer_e92794",
+    "stateText": "stateText_e92794"
+  },
   "730393": {
     "participantsButton": "participantsButton__211d1",
     "rightCaret": "rightCaret__211d1",
@@ -24353,6 +24373,8 @@
     "overflowSlot": "overflowSlot__8061a",
     "overflowButton": "overflowButton__8061a",
     "hiddenCount": "hiddenCount__8061a",
+    "editButton": "editButton__8061a",
+    "badgeCovered": "badgeCovered__8061a",
     "editIcon": "editIcon__8061a",
     "badge": "badge__8061a",
     "badgeVectorSrc": "badgeVectorSrc__8061a"
@@ -29429,6 +29451,14 @@
     "conflictUploadArt": "conflictUploadArt__47998 conflictArt__47998 art__47998",
     "errorArt": "errorArt__47998 art__47998",
     "modal": "modal__47998"
+  },
+  "990854": {
+    "container": "container__1774c",
+    "asset": "asset__1774c",
+    "textStack": "textStack__1774c",
+    "countdown": "countdown__1774c",
+    "link": "link__1774c",
+    "clockIcon": "clockIcon__1774c"
   },
   "991512": {
     "container": "container__733ad",
