@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1157 x64 (90224)"},"channel":{"canary":"607547 (3565a39)"},
+{"host":{"version":"1.0.1158 x64 (90329)"},"channel":{"canary":"608236 (aa2017b)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -567,7 +567,6 @@
   },
   "18290": {
     "section": "section_f2af23",
-    "heading": "heading_f2af23",
     "filterTabs": "filterTabs_f2af23",
     "filterTab": "filterTab_f2af23",
     "scrollContainer": "scrollContainer_f2af23",
@@ -3347,13 +3346,6 @@
     "centerFlex": "centerFlex__742a4",
     "centerAuthBoxContent": "centerAuthBoxContent__742a4 centerFlex__742a4",
     "inviteCard": "inviteCard__742a4",
-    "inviteCardProfileOuter": "inviteCardProfileOuter__742a4",
-    "inviteCardProfile": "inviteCardProfile__742a4",
-    "inviteCardProfileModal": "inviteCardProfileModal__742a4",
-    "bannerFrosted": "bannerFrosted__742a4",
-    "bannerFrostedGlass": "bannerFrostedGlass__742a4",
-    "inviteCardProfileContentWrapper": "inviteCardProfileContentWrapper__742a4",
-    "inviteCardProfileFooterWrapper": "inviteCardProfileFooterWrapper__742a4",
     "inviteChildContainer": "inviteChildContainer__742a4",
     "inviteCardInner": "inviteCardInner__742a4",
     "guildInfoInner": "guildInfoInner__742a4",
@@ -3456,6 +3448,7 @@
     "container": "container__37bfc",
     "tabListScroller": "tabListScroller__37bfc",
     "tabBarItem": "tabBarItem__37bfc",
+    "newContentDot": "newContentDot__37bfc",
     "tabBarPanel": "tabBarPanel__37bfc",
     "tabPanelScroller": "tabPanelScroller__37bfc"
   },
@@ -4896,7 +4889,7 @@
     "badgeAccessoryGroup": "badgeAccessoryGroup__6db38",
     "badgeAccessorySegment": "badgeAccessorySegment__6db38",
     "badgeAccessoryText": "badgeAccessoryText__6db38",
-    "uppercaseItalic": "uppercaseItalic__6db38",
+    "nitroTitle": "nitroTitle__6db38",
     "badgeDetails": "badgeDetails__6db38",
     "badgeStatsGrid": "badgeStatsGrid__6db38",
     "badgeStatsGridSingle": "badgeStatsGridSingle__6db38",
@@ -4977,6 +4970,7 @@
     "container": "container__85bea",
     "card": "card__85bea",
     "dragHandle": "dragHandle__85bea",
+    "newContentDot": "newContentDot__85bea",
     "collectiblesCardHover": "collectiblesCardHover__85bea",
     "skuPreview": "skuPreview__85bea",
     "isOwned": "isOwned__85bea"
@@ -6600,6 +6594,7 @@
     "graphic--lg": "graphic--lg__2ee1b graphic--lg_d6f39b",
     "graphic--video": "graphic--video__2ee1b graphic--video_d6f39b",
     "title": "title__2ee1b title_d6f39b",
+    "titleRefresh": "titleRefresh__2ee1b title_d6f39b",
     "headerBody": "headerBody__2ee1b headerBody_d6f39b",
     "caretHoverable": "caretHoverable__2ee1b"
   },
@@ -6995,6 +6990,14 @@
     "experimental/display-sm": "experimental/display-sm_f369db",
     "experimental/display-md": "experimental/display-md_f369db",
     "experimental/display-lg": "experimental/display-lg_f369db",
+    "nitro-sm": "nitro-sm_f369db",
+    "nitro-md": "nitro-md_f369db",
+    "nitro-lg": "nitro-lg_f369db",
+    "nitro-xs": "nitro-xs_f369db",
+    "experimental/nitro-xs": "experimental/nitro-xs_f369db",
+    "experimental/nitro-sm": "experimental/nitro-sm_f369db",
+    "experimental/nitro-md": "experimental/nitro-md_f369db",
+    "experimental/nitro-lg": "experimental/nitro-lg_f369db",
     "code": "code_f369db",
     "experimental/mono-md/normal": "experimental/mono-md/normal_f369db",
     "experimental/mono-md/bold": "experimental/mono-md/bold_f369db",
@@ -7953,6 +7956,17 @@
     "clickable": "clickable_c3d27e",
     "trailingIcons": "trailingIcons_c3d27e"
   },
+  "286837": {
+    "body": "body__3b404",
+    "statusSection": "statusSection__3b404",
+    "publishStatus": "publishStatus__3b404",
+    "publishSpinner": "publishSpinner__3b404",
+    "notes": "notes__3b404",
+    "notesSection": "notesSection__3b404",
+    "draftSpinner": "draftSpinner__3b404",
+    "postTo": "postTo__3b404",
+    "notesEditor": "notesEditor__3b404"
+  },
   "287683": {
     "container": "container__5808f",
     "header": "header__5808f",
@@ -8314,11 +8328,6 @@
     "memberNoticeActionButton": "memberNoticeActionButton_acdcc0",
     "memberNoticeActionIcon": "memberNoticeActionIcon_acdcc0"
   },
-  "299905": {
-    "container": "container__4f074",
-    "input": "input__4f074",
-    "outer": "outer__4f074"
-  },
   "300303": {
     "container": "container_effb26",
     "graphContainer": "graphContainer_effb26",
@@ -8329,7 +8338,12 @@
   },
   "300492": {
     "spinner": "spinner__13d18",
+    "scrollerContainer": "scrollerContainer__13d18",
     "horizontalAutocompletes": "horizontalAutocompletes__13d18 scrollbarGhostHairline_da3286 scrollbar_da3286",
+    "scrollButton": "scrollButton__13d18",
+    "scrollButtonStart": "scrollButtonStart__13d18",
+    "scrollButtonEnd": "scrollButtonEnd__13d18",
+    "scrollButtonHidden": "scrollButtonHidden__13d18",
     "horizontalAutocomplete": "horizontalAutocomplete__13d18"
   },
   "300596": {
@@ -10201,6 +10215,7 @@
     "nav": "nav__96f2d",
     "navigationMenuItemsContainer": "navigationMenuItemsContainer__96f2d",
     "navigationMenuItemsMeasurementContainer": "navigationMenuItemsMeasurementContainer__96f2d navigationMenuItemsContainer__96f2d",
+    "navigationMenuItemContainer": "navigationMenuItemContainer__96f2d",
     "navigationMenuButton": "navigationMenuButton__96f2d",
     "selected": "selected__96f2d",
     "navigationMenuItem": "navigationMenuItem__96f2d",
@@ -10492,12 +10507,7 @@
     "guildIconContainerOutline": "guildIconContainerOutline__62e7a",
     "guildIconMask": "guildIconMask__62e7a",
     "guildIconAcronym": "guildIconAcronym__62e7a",
-    "guildIconImage": "guildIconImage__62e7a",
-    "guildDetailsHeader": "guildDetailsHeader__62e7a",
-    "nameRow": "nameRow__62e7a",
-    "activityCount": "activityCount__62e7a",
-    "metadataRow": "metadataRow__62e7a",
-    "metadataSeparator": "metadataSeparator__62e7a"
+    "guildIconImage": "guildIconImage__62e7a"
   },
   "371012": {
     "container": "container__50e4e",
@@ -11800,6 +11810,14 @@
     "experimental/display-sm": "experimental/display-sm__2ef49",
     "experimental/display-md": "experimental/display-md__2ef49",
     "experimental/display-lg": "experimental/display-lg__2ef49",
+    "nitro-sm": "nitro-sm__2ef49",
+    "nitro-md": "nitro-md__2ef49",
+    "nitro-lg": "nitro-lg__2ef49",
+    "nitro-xs": "nitro-xs__2ef49",
+    "experimental/nitro-xs": "experimental/nitro-xs__2ef49",
+    "experimental/nitro-sm": "experimental/nitro-sm__2ef49",
+    "experimental/nitro-md": "experimental/nitro-md__2ef49",
+    "experimental/nitro-lg": "experimental/nitro-lg__2ef49",
     "code": "code__2ef49",
     "experimental/mono-md/normal": "experimental/mono-md/normal__2ef49",
     "experimental/mono-md/bold": "experimental/mono-md/bold__2ef49",
@@ -15648,6 +15666,11 @@
     "formContent": "formContent__30f2d",
     "termsPhrase": "termsPhrase__30f2d"
   },
+  "523600": {
+    "container": "container__62663",
+    "input": "input__62663",
+    "outer": "outer__62663"
+  },
   "524058": {
     "card": "card__0c0bf",
     "addEntryCard": "addEntryCard__0c0bf card__0c0bf",
@@ -16423,24 +16446,19 @@
   "552366": {
     "notDetected": "notDetected_b53c4e",
     "nowPlaying": "nowPlaying_b53c4e",
-    "overlayWarningIcon": "overlayWarningIcon_b53c4e",
     "game": "game_b53c4e",
-    "removeGame": "removeGame_b53c4e",
-    "toggleContainer": "toggleContainer_b53c4e",
+    "currentGameStack": "currentGameStack_b53c4e",
+    "overflowMenuTrigger": "overflowMenuTrigger_b53c4e",
+    "overflowMenuOpen": "overflowMenuOpen_b53c4e",
     "activeGame": "activeGame_b53c4e",
     "gameName": "gameName_b53c4e",
     "gameNameInput": "gameNameInput_b53c4e",
     "gameVerifiedIcon": "gameVerifiedIcon_b53c4e",
     "lastPlayed": "lastPlayed_b53c4e",
-    "toggleIcon": "toggleIcon_b53c4e",
     "gameNameLastPlayed": "gameNameLastPlayed_b53c4e",
-    "toggleIconOff": "toggleIconOff_b53c4e",
-    "fill": "fill_b53c4e",
-    "toggleIconInactive": "toggleIconInactive_b53c4e",
     "subgame": "subgame_b53c4e",
     "border": "border_b53c4e",
     "detectedApplication": "detectedApplication_b53c4e",
-    "toggleIconOn": "toggleIconOn_b53c4e",
     "gameHasSubgame": "gameHasSubgame_b53c4e",
     "subgameContainer": "subgameContainer_b53c4e"
   },
@@ -18142,6 +18160,14 @@
     "experimental/display-sm": "experimental/display-sm_b717a1",
     "experimental/display-md": "experimental/display-md_b717a1",
     "experimental/display-lg": "experimental/display-lg_b717a1",
+    "nitro-sm": "nitro-sm_b717a1",
+    "nitro-md": "nitro-md_b717a1",
+    "nitro-lg": "nitro-lg_b717a1",
+    "nitro-xs": "nitro-xs_b717a1",
+    "experimental/nitro-xs": "experimental/nitro-xs_b717a1",
+    "experimental/nitro-sm": "experimental/nitro-sm_b717a1",
+    "experimental/nitro-md": "experimental/nitro-md_b717a1",
+    "experimental/nitro-lg": "experimental/nitro-lg_b717a1",
     "code": "code_b717a1",
     "experimental/mono-md/normal": "experimental/mono-md/normal_b717a1",
     "experimental/mono-md/bold": "experimental/mono-md/bold_b717a1",
@@ -18355,6 +18381,7 @@
     "cardContent": "cardContent_c19a92",
     "cardHeader": "cardHeader_c19a92",
     "cardTitle": "cardTitle_c19a92",
+    "cardTitleRefresh": "cardTitleRefresh_c19a92",
     "divider": "divider_c19a92",
     "trialDivider": "trialDivider_c19a92",
     "trialDividerText": "trialDividerText_c19a92",
@@ -20876,6 +20903,7 @@
   },
   "703086": {
     "page": "page__1dc06",
+    "nav": "nav__1dc06",
     "headerBar": "headerBar__1dc06",
     "content": "content__1dc06"
   },
@@ -21686,6 +21714,14 @@
     "experimental/display-sm": "experimental/display-sm__4ed1a",
     "experimental/display-md": "experimental/display-md__4ed1a",
     "experimental/display-lg": "experimental/display-lg__4ed1a",
+    "nitro-sm": "nitro-sm__4ed1a",
+    "nitro-md": "nitro-md__4ed1a",
+    "nitro-lg": "nitro-lg__4ed1a",
+    "nitro-xs": "nitro-xs__4ed1a",
+    "experimental/nitro-xs": "experimental/nitro-xs__4ed1a",
+    "experimental/nitro-sm": "experimental/nitro-sm__4ed1a",
+    "experimental/nitro-md": "experimental/nitro-md__4ed1a",
+    "experimental/nitro-lg": "experimental/nitro-lg__4ed1a",
     "code": "code__4ed1a",
     "experimental/mono-md/normal": "experimental/mono-md/normal__4ed1a",
     "experimental/mono-md/bold": "experimental/mono-md/bold__4ed1a",
@@ -21963,6 +21999,14 @@
     "experimental/display-sm": "experimental/display-sm_cf4812",
     "experimental/display-md": "experimental/display-md_cf4812",
     "experimental/display-lg": "experimental/display-lg_cf4812",
+    "nitro-sm": "nitro-sm_cf4812",
+    "nitro-md": "nitro-md_cf4812",
+    "nitro-lg": "nitro-lg_cf4812",
+    "nitro-xs": "nitro-xs_cf4812",
+    "experimental/nitro-xs": "experimental/nitro-xs_cf4812",
+    "experimental/nitro-sm": "experimental/nitro-sm_cf4812",
+    "experimental/nitro-md": "experimental/nitro-md_cf4812",
+    "experimental/nitro-lg": "experimental/nitro-lg_cf4812",
     "code": "code_cf4812",
     "experimental/mono-md/normal": "experimental/mono-md/normal_cf4812",
     "experimental/mono-md/bold": "experimental/mono-md/bold_cf4812"
@@ -22501,6 +22545,10 @@
     "handlePreview": "handlePreview__8ddc3",
     "stop": "stop__8ddc3",
     "dot": "dot__8ddc3"
+  },
+  "757716": {
+    "content": "content__6f0cc",
+    "fields": "fields__6f0cc"
   },
   "757959": {
     "animationWrapper": "animationWrapper__41e0f",
@@ -23645,9 +23693,6 @@
   "797398": {
     "blockedIgnoredSettingsNotice": "blockedIgnoredSettingsNotice__6811a"
   },
-  "797918": {
-    "text": "text_eaab0b"
-  },
   "798362": {
     "safetyPolicyNoticeContainer": "safetyPolicyNoticeContainer_e80b85",
     "noticeContent": "noticeContent_e80b85",
@@ -23776,6 +23821,14 @@
     "experimental/display-sm": "experimental/display-sm_c1e9c4",
     "experimental/display-md": "experimental/display-md_c1e9c4",
     "experimental/display-lg": "experimental/display-lg_c1e9c4",
+    "nitro-sm": "nitro-sm_c1e9c4",
+    "nitro-md": "nitro-md_c1e9c4",
+    "nitro-lg": "nitro-lg_c1e9c4",
+    "nitro-xs": "nitro-xs_c1e9c4",
+    "experimental/nitro-xs": "experimental/nitro-xs_c1e9c4",
+    "experimental/nitro-sm": "experimental/nitro-sm_c1e9c4",
+    "experimental/nitro-md": "experimental/nitro-md_c1e9c4",
+    "experimental/nitro-lg": "experimental/nitro-lg_c1e9c4",
     "code": "code_c1e9c4",
     "experimental/mono-md/normal": "experimental/mono-md/normal_c1e9c4",
     "experimental/mono-md/bold": "experimental/mono-md/bold_c1e9c4",
@@ -24798,6 +24851,7 @@
   },
   "835018": {
     "headerBar": "headerBar__80679",
+    "navigationMenu": "navigationMenu__80679",
     "shopHomeLink": "shopHomeLink__80679",
     "wishlistButton": "wishlistButton__80679"
   },
@@ -27485,15 +27539,6 @@
   "931540": {
     "timelineIcon": "timelineIcon__375f5",
     "timelineIconCompact": "timelineIconCompact__375f5"
-  },
-  "931587": {
-    "root": "root__92459",
-    "closeButton": "closeButton__92459",
-    "header": "header__92459",
-    "illustration": "illustration__92459",
-    "illustrationImage": "illustrationImage__92459",
-    "heading": "heading__92459",
-    "actions": "actions__92459"
   },
   "931841": {
     "container": "container__477aa",
