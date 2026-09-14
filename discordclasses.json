@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1169 x64 (90812)"},"channel":{"canary":"612347 (c82da28)"},
+{"host":{"version":"1.0.1171 x64 (90877)"},"channel":{"canary":"612752 (3d330b7)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -4863,6 +4863,12 @@
   "175926": {
     "questEmbedCard": "questEmbedCard__4d6dc"
   },
+  "176002": {
+    "markdownView": "markdownView_d6ca48",
+    "list": "list_d6ca48",
+    "looseList": "looseList_d6ca48",
+    "markdownEllipsis": "markdownEllipsis_d6ca48"
+  },
   "176140": {
     "row": "row_c7dbcb",
     "icon": "icon_c7dbcb",
@@ -8091,8 +8097,7 @@
     "qualityIndicatorBadge": "qualityIndicatorBadge__30845",
     "qualityIndicatorBadgePremium": "qualityIndicatorBadgePremium__30845",
     "streamQualityIndicator": "streamQualityIndicator__30845",
-    "liveIndicator": "liveIndicator__30845",
-    "liveQualityIndicator": "liveQualityIndicator__30845"
+    "liveIndicator": "liveIndicator__30845"
   },
   "288613": {
     "highlightedWrapper": "highlightedWrapper__46ac1",
@@ -9410,7 +9415,9 @@
   "332757": {
     "avatarContainer": "avatarContainer_b4a4b2",
     "mutuals": "mutuals_b4a4b2",
-    "userInfo": "userInfo_b4a4b2"
+    "userInfo": "userInfo_b4a4b2",
+    "customStatus": "customStatus_b4a4b2",
+    "customStatusReference": "customStatusReference_b4a4b2"
   },
   "333518": {
     "titleBar": "titleBar__421ed",
@@ -14997,6 +15004,12 @@
     "keyTrinket": "keyTrinket_b99bd6",
     "hammerTrinket": "hammerTrinket_b99bd6",
     "boltTrinket": "boltTrinket_b99bd6"
+  },
+  "499516": {
+    "container": "container__8e86a",
+    "header": "header__8e86a",
+    "titleContainer": "titleContainer__8e86a",
+    "contentContainer": "contentContainer__8e86a"
   },
   "499542": {
     "infoList": "infoList_e6fa8e",
@@ -23297,7 +23310,6 @@
     "channelStatus": "channelStatus__49508",
     "hoverable": "hoverable__49508",
     "subtitleContainer": "subtitleContainer__49508",
-    "pencilIcon": "pencilIcon__49508",
     "secureFramesIcon": "secureFramesIcon__49508",
     "playingText": "playingText__49508",
     "container": "container__49508",
@@ -24485,11 +24497,7 @@
     "overflowIcon": "overflowIcon__4d95d",
     "modalContent": "modalContent__4d95d",
     "modalFooter": "modalFooter__4d95d",
-    "modalTextContainer": "modalTextContainer__4d95d",
-    "markdownView": "markdownView__4d95d",
-    "list": "list__4d95d",
-    "looseList": "looseList__4d95d",
-    "markdownEllipsis": "markdownEllipsis__4d95d"
+    "modalTextContainer": "modalTextContainer__4d95d"
   },
   "811041": {
     "animation": "animation_f2170c",
