@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1169 x64 (90812)"},"channel":{"canary":"612251 (10ca29f)"},
+{"host":{"version":"1.0.1169 x64 (90812)"},"channel":{"canary":"612347 (c82da28)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1198,7 +1198,8 @@
     "cardComment": "cardComment__57467",
     "cardActions": "cardActions__57467",
     "cardConfirm": "cardConfirm__57467",
-    "announcer": "announcer__57467"
+    "announcer": "announcer__57467",
+    "portalRoot": "portalRoot__57467"
   },
   "42853": {
     "wrapper": "wrapper__71152"
