@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1174 x64 (91079)"},"channel":{"canary":"614018 (b5ebf4c)"},
+{"host":{"version":"1.0.1174 x64 (91120)"},"channel":{"canary":"614211 (2651eae)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1534,7 +1534,10 @@
     "classificationActionsTakenList": "classificationActionsTakenList_a48d6b",
     "guidelinesExplanation": "guidelinesExplanation_a48d6b",
     "classificationLetUsKnowContainer": "classificationLetUsKnowContainer_a48d6b",
-    "classificationLetUsKnowTextCentered": "classificationLetUsKnowTextCentered_a48d6b",
+    "confirmMinimumAgeSection": "confirmMinimumAgeSection_a48d6b",
+    "confirmMinimumAgeButton": "confirmMinimumAgeButton_a48d6b",
+    "guidelinesFooter": "guidelinesFooter_a48d6b",
+    "manualReviewFooter": "manualReviewFooter_a48d6b",
     "classificationPolicyCard": "classificationPolicyCard_a48d6b",
     "classificationPolicyCardIcon": "classificationPolicyCardIcon_a48d6b",
     "classificationPolicyDescriptionContainer": "classificationPolicyDescriptionContainer_a48d6b",
