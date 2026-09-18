@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1177 x64 (91269)"},"channel":{"canary":"615674 (29a5ad1)"},
+{"host":{"version":"1.0.1181 x64 (91315)"},"channel":{"canary":"616032 (9da3add)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -2096,6 +2096,13 @@
     "picker": "picker__09f65",
     "inExpressionPicker": "inExpressionPicker__09f65",
     "fetching": "fetching__09f65"
+  },
+  "70353": {
+    "card": "card__83361",
+    "iconWrapper": "iconWrapper__83361",
+    "tag": "tag__83361",
+    "divider": "divider__83361",
+    "rolePills": "rolePills__83361"
   },
   "70393": {
     "container": "container__39957",
@@ -5487,9 +5494,6 @@
     "hasTooltip": "hasTooltip__1a4d2",
     "promoIconContainer": "promoIconContainer__1a4d2"
   },
-  "196127": {
-    "inlinePreview": "inlinePreview__08600"
-  },
   "196318": {
     "pulse": "pulse__3b43f",
     "container": "container__3b43f",
@@ -5742,10 +5746,9 @@
     "details": "details_e1364f",
     "commentIcon": "commentIcon_e1364f",
     "tags": "tags_e1364f",
-    "textAreaContainer": "textAreaContainer_e1364f",
+    "comment": "comment_e1364f text-sm/normal_e1364f",
     "editableCommentText": "editableCommentText_e1364f",
     "placeholder": "placeholder_e1364f",
-    "comment": "comment_e1364f text-sm/normal_e1364f",
     "dropTarget": "dropTarget_e1364f",
     "dropIndicatorAfter": "dropIndicatorAfter_e1364f",
     "dropIndicatorBefore": "dropIndicatorBefore_e1364f",
@@ -11829,22 +11832,15 @@
   "404760": {
     "container": "container__9c314",
     "compact": "compact__9c314",
-    "multiline": "multiline__9c314",
-    "removeVerticalPadding": "removeVerticalPadding__9c314",
-    "editing": "editing__9c314",
     "growWidth": "growWidth__9c314",
-    "fadeIn": "fadeIn__9c314",
     "preview": "preview__9c314",
     "editable": "editable__9c314",
-    "disabled": "disabled__9c314",
     "hasError": "hasError__9c314",
     "hasWarning": "hasWarning__9c314",
     "placeholder": "placeholder__9c314",
     "errorIcon": "errorIcon__9c314",
     "warningIcon": "warningIcon__9c314",
-    "previewError": "previewError__9c314",
-    "previewTrailingAccessory": "previewTrailingAccessory__9c314",
-    "trailingAccessoryButton": "trailingAccessoryButton__9c314"
+    "previewError": "previewError__9c314"
   },
   "404836": {
     "previewContentContainer": "previewContentContainer__9c6a8",
@@ -17190,16 +17186,10 @@
   },
   "569622": {
     "inputWrapper": "inputWrapper_f08f8d",
-    "hasStaticToolbar": "hasStaticToolbar_f08f8d",
-    "inline": "inline_f08f8d",
     "scroller": "scroller_f08f8d",
-    "inlineScroller": "inlineScroller_f08f8d",
     "editorContainer": "editorContainer_f08f8d",
     "editor": "editor_f08f8d",
-    "staticToolbar": "staticToolbar_f08f8d",
     "emojiButtonContainer": "emojiButtonContainer_f08f8d",
-    "floatingEmojiButtonContainer": "floatingEmojiButtonContainer_f08f8d",
-    "inlineEmojiButton": "inlineEmojiButton_f08f8d",
     "emojiButton": "emojiButton_f08f8d"
   },
   "569709": {
@@ -19084,8 +19074,7 @@
     "disabledButtonOverlay": "disabledButtonOverlay__0cb56"
   },
   "628072": {
-    "container": "container__54560",
-    "isEditing": "isEditing__54560"
+    "container": "container__54560"
   },
   "628097": {
     "container": "container_eeaef9",
@@ -22387,13 +22376,6 @@
     "bannerUpsell": "bannerUpsell_cf6da1",
     "premiumIcon": "premiumIcon_cf6da1"
   },
-  "737496": {
-    "card": "card__83361",
-    "iconWrapper": "iconWrapper__83361",
-    "tag": "tag__83361",
-    "divider": "divider__83361",
-    "rolePills": "rolePills__83361"
-  },
   "737973": {
     "container": "container__3eeee",
     "guildContainer": "guildContainer__3eeee",
@@ -24625,6 +24607,7 @@
     "container": "container__4d95d",
     "textContainer": "textContainer__4d95d",
     "newMosaicStyle": "newMosaicStyle__4d95d",
+    "collapsedTextContainer": "collapsedTextContainer__4d95d",
     "codeView": "codeView__4d95d",
     "wordWrap": "wordWrap__4d95d",
     "footer": "footer__4d95d",
@@ -28142,7 +28125,6 @@
   },
   "936026": {
     "field": "field_ccf340",
-    "editing": "editing_ccf340",
     "titleRow": "titleRow_ccf340",
     "editableRow": "editableRow_ccf340",
     "pencil": "pencil_ccf340",
