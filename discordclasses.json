@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1181 x64 (91315)"},"channel":{"canary":"616032 (9da3add)"},
+{"host":{"version":"1.0.1181 x64 (91320)"},"channel":{"canary":"616056 (23190c4)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -4135,7 +4135,6 @@
   },
   "149285": {
     "tierTimelineDescription": "tierTimelineDescription__64bbc",
-    "tierTimelineDescriptionIcon": "tierTimelineDescriptionIcon__64bbc",
     "tierTimelineGrid": "tierTimelineGrid__64bbc",
     "tierTimelineItem": "tierTimelineItem__64bbc",
     "tierTimelineItemLocked": "tierTimelineItemLocked__64bbc",
@@ -25294,7 +25293,6 @@
   },
   "836825": {
     "tierTimelineDescription": "tierTimelineDescription_bf9073",
-    "tierTimelineDescriptionIcon": "tierTimelineDescriptionIcon_bf9073",
     "tierTimelineGrid": "tierTimelineGrid_bf9073",
     "tierTimelineItem": "tierTimelineItem_bf9073",
     "tierTimelineItemLocked": "tierTimelineItemLocked_bf9073",
