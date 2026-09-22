@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1187 x64 (91571)"},"channel":{"canary":"618187 (d80e53a)"},
+{"host":{"version":"1.0.1187 x64 (91591)"},"channel":{"canary":"618295 (01e3b79)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -2865,6 +2865,7 @@
     "shop": "shop__08415",
     "banner": "banner__08415",
     "responsive": "responsive__08415",
+    "promotionTakeover": "promotionTakeover__08415",
     "rivBanner": "rivBanner__08415",
     "featuredBlock": "featuredBlock__08415",
     "featuredBlockTextContainer": "featuredBlockTextContainer__08415",
@@ -2873,6 +2874,7 @@
     "featuredBlockButtonContainer": "featuredBlockButtonContainer__08415",
     "heroBlock": "heroBlock__08415",
     "heroBlockContent": "heroBlockContent__08415",
+    "promotionIndex": "promotionIndex__08415",
     "rivBannerButtonContainer": "rivBannerButtonContainer__08415",
     "riveEventOverlay": "riveEventOverlay__08415",
     "mainContent": "mainContent__08415",
@@ -2891,6 +2893,8 @@
     "title": "title__08415",
     "subHeaderText": "subHeaderText__08415",
     "orbsSubHeaderText": "orbsSubHeaderText__08415",
+    "promotionTakeoverSummary": "promotionTakeoverSummary__08415",
+    "promotionTakeoverDetails": "promotionTakeoverDetails__08415",
     "heroHeaderButtonContainer": "heroHeaderButtonContainer__08415",
     "limitedTimeBadge": "limitedTimeBadge__08415",
     "feed": "feed__08415",
@@ -3257,7 +3261,6 @@
   },
   "119739": {
     "card": "card__956bc",
-    "condensed": "condensed__956bc",
     "textColumn": "textColumn__956bc"
   },
   "119757": {
@@ -7718,6 +7721,20 @@
   },
   "268246": {
     "staticLink": "staticLink__75a07"
+  },
+  "268270": {
+    "heroBlock": "heroBlock__908d6",
+    "banner": "banner__908d6",
+    "responsive": "responsive__908d6",
+    "heroBlockContent": "heroBlockContent__908d6",
+    "cardBanner": "cardBanner__908d6",
+    "cardForeground": "cardForeground__908d6",
+    "heroHeaderContainer": "heroHeaderContainer__908d6",
+    "heroHeaderBadgeLogoSummaryContainer": "heroHeaderBadgeLogoSummaryContainer__908d6",
+    "heroLogoNameContainer": "heroLogoNameContainer__908d6",
+    "heroHeaderLogo": "heroHeaderLogo__908d6",
+    "subHeaderText": "subHeaderText__908d6",
+    "promotionTakeoverSummary": "promotionTakeoverSummary__908d6"
   },
   "268547": {
     "container": "container_a7f798",
@@ -13178,6 +13195,7 @@
     "subscriptionContainer": "subscriptionContainer__9f45a",
     "subscriptionDetailsBottomContainer": "subscriptionDetailsBottomContainer__9f45a",
     "withMarginTop": "withMarginTop__9f45a",
+    "pastDuePaymentWrapper": "pastDuePaymentWrapper__9f45a",
     "redeemWrapper": "redeemWrapper__9f45a"
   },
   "438221": {
@@ -17911,6 +17929,16 @@
     "name": "name__5d473",
     "clanTag": "clanTag__5d473",
     "flatBottom": "flatBottom__5d473"
+  },
+  "590744": {
+    "card": "card__1660a",
+    "body": "body__1660a",
+    "authorize": "authorize__1660a",
+    "content": "content__1660a",
+    "noPadding": "noPadding__1660a",
+    "contentBackground": "contentBackground__1660a",
+    "actions": "actions__1660a",
+    "error": "error__1660a"
   },
   "590923": {
     "content": "content_d97f89",
@@ -25803,6 +25831,11 @@
     "badgeTask": "badgeTask_d5a27a",
     "badgeIcon": "badgeIcon_d5a27a",
     "previewBadge": "previewBadge_d5a27a"
+  },
+  "854509": {
+    "page": "page__06b92",
+    "card": "card__06b92",
+    "divider": "divider__06b92"
   },
   "854893": {
     "cardContentsContainer": "cardContentsContainer_ed9c90",
