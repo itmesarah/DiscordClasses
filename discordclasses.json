@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1187 x64 (91591)"},"channel":{"canary":"618295 (01e3b79)"},
+{"host":{"version":"1.0.1187 x64 (91622)"},"channel":{"canary":"618461 (0a2d504)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -969,6 +969,18 @@
     "badge": "badge_a9353e",
     "tagText": "tagText_a9353e"
   },
+  "35692": {
+    "topic": "topic__0511a",
+    "disabled": "disabled__0511a",
+    "topicContainer": "topicContainer__0511a",
+    "topicCharacterCount": "topicCharacterCount__0511a",
+    "twoColumnSettings": "twoColumnSettings__0511a",
+    "settingsLeft": "settingsLeft__0511a",
+    "settingsDefaultReaction": "settingsDefaultReaction__0511a",
+    "settingsDefaultView": "settingsDefaultView__0511a",
+    "defaultImageView": "defaultImageView__0511a",
+    "emojiButton": "emojiButton__0511a"
+  },
   "35854": {
     "container": "container__864dc",
     "waveformCanvas": "waveformCanvas__864dc",
@@ -1141,6 +1153,9 @@
     "detailRichValue": "detailRichValue_ab982a",
     "detailRichText": "detailRichText_ab982a",
     "toolbarSearch": "toolbarSearch_ab982a"
+  },
+  "40957": {
+    "body": "body__62f9a"
   },
   "40974": {
     "emptyOption": "emptyOption_b088b0",
@@ -5320,6 +5335,23 @@
     "selectMessage": "selectMessage__73f2a message__73f2a",
     "hasQuery": "hasQuery__73f2a"
   },
+  "189043": {
+    "podium": "podium_c6c010",
+    "pillarColumn": "pillarColumn_c6c010",
+    "columnFirst": "columnFirst_c6c010",
+    "columnSecond": "columnSecond_c6c010",
+    "columnThird": "columnThird_c6c010",
+    "avatarWrapper": "avatarWrapper_c6c010",
+    "medalBadge": "medalBadge_c6c010",
+    "medalFirst": "medalFirst_c6c010",
+    "medalSecond": "medalSecond_c6c010",
+    "medalThird": "medalThird_c6c010",
+    "pillar": "pillar_c6c010",
+    "pillarFirst": "pillarFirst_c6c010",
+    "pillarSecond": "pillarSecond_c6c010",
+    "pillarThird": "pillarThird_c6c010",
+    "pillarName": "pillarName_c6c010"
+  },
   "189540": {
     "container": "container_ae4343",
     "guildThemeButtonGroup": "guildThemeButtonGroup_ae4343",
@@ -7065,6 +7097,10 @@
   "252149": {
     "card": "card_b846e5"
   },
+  "252510": {
+    "body": "body__3efc7",
+    "bullets": "bullets__3efc7"
+  },
   "253242": {
     "container": "container_f83afb",
     "description": "description_f83afb",
@@ -8374,16 +8410,6 @@
     "leftButtons": "leftButtons_fe70ca",
     "rightButtons": "rightButtons_fe70ca",
     "overlay": "overlay_fe70ca"
-  },
-  "293556": {
-    "wrapper": "wrapper_a230e0",
-    "backgroundWrapper": "backgroundWrapper_a230e0",
-    "backgroundImage": "backgroundImage_a230e0",
-    "backgroundOverlay": "backgroundOverlay_a230e0",
-    "heroImage": "heroImage_a230e0",
-    "content": "content_a230e0",
-    "link": "link_a230e0",
-    "closeClickable": "closeClickable_a230e0"
   },
   "293686": {
     "wrapper": "wrapper_fa8995",
@@ -10042,7 +10068,8 @@
     "chatLog": "chatLog_f35ad6",
     "clarificationSlot": "clarificationSlot_f35ad6",
     "composerSlot": "composerSlot_f35ad6",
-    "designFeedbackBanner": "designFeedbackBanner_f35ad6"
+    "designFeedbackBanner": "designFeedbackBanner_f35ad6",
+    "chatLogDimmed": "chatLogDimmed_f35ad6"
   },
   "349095": {
     "headingWrapper": "headingWrapper__57454",
@@ -14231,6 +14258,13 @@
     "buttonsBackgroundActive": "buttonsBackgroundActive__4c857",
     "buttonsBackgroundInactive": "buttonsBackgroundInactive__4c857"
   },
+  "473306": {
+    "body": "body_eca272",
+    "pointCard": "pointCard_eca272",
+    "pointIcon": "pointIcon_eca272",
+    "point": "point_eca272",
+    "loading": "loading_eca272"
+  },
   "473530": {
     "scrollerBase": "scrollerBase_c8b5c7",
     "auto": "auto_c8b5c7 scrollerBase_c8b5c7",
@@ -17559,9 +17593,6 @@
     "avatar": "avatar_a36dee",
     "newBadge": "newBadge_a36dee"
   },
-  "579800": {
-    "background": "background_df5e2e"
-  },
   "580065": {
     "breadcrumb": "breadcrumb_c2a763",
     "innerContainer": "innerContainer_c2a763",
@@ -17944,18 +17975,6 @@
     "content": "content_d97f89",
     "addAnswerButton": "addAnswerButton_d97f89",
     "duration": "duration_d97f89"
-  },
-  "590930": {
-    "topic": "topic__0511a",
-    "disabled": "disabled__0511a",
-    "topicContainer": "topicContainer__0511a",
-    "topicCharacterCount": "topicCharacterCount__0511a",
-    "twoColumnSettings": "twoColumnSettings__0511a",
-    "settingsLeft": "settingsLeft__0511a",
-    "settingsDefaultReaction": "settingsDefaultReaction__0511a",
-    "settingsDefaultView": "settingsDefaultView__0511a",
-    "defaultImageView": "defaultImageView__0511a",
-    "emojiButton": "emojiButton__0511a"
   },
   "590936": {
     "numberTimeline": "numberTimeline__0d645",
@@ -19437,6 +19456,7 @@
   },
   "635799": {
     "wishlistButton": "wishlistButton__61424",
+    "sectionDimmed": "sectionDimmed__61424",
     "sectionContainer": "sectionContainer__61424",
     "sectionContainerNitroLocked": "sectionContainerNitroLocked__61424",
     "sectionContainerNitroLockedBackground": "sectionContainerNitroLockedBackground__61424",
