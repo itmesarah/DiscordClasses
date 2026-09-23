@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1188 x64 (91729)"},"channel":{"canary":"619411 (292532a)"},
+{"host":{"version":"1.0.1189 x64 (91763)"},"channel":{"canary":"619559 (fc27960)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -2223,6 +2223,21 @@
     "dragBefore": "dragBefore_e29cd7",
     "tooltip": "tooltip_e29cd7",
     "verifiedRoleIcon": "verifiedRoleIcon_e29cd7"
+  },
+  "75298": {
+    "panel": "panel_d94f6b",
+    "panelTranslucent": "panelTranslucent_d94f6b",
+    "panelEnd": "panelEnd_d94f6b",
+    "panelStart": "panelStart_d94f6b",
+    "panelOpen": "panelOpen_d94f6b",
+    "close": "close_d94f6b",
+    "scroller": "scroller_d94f6b",
+    "content": "content_d94f6b",
+    "features": "features_d94f6b",
+    "feature": "feature_d94f6b",
+    "featureMedia": "featureMedia_d94f6b",
+    "featureMediaAsset": "featureMediaAsset_d94f6b",
+    "featureText": "featureText_d94f6b"
   },
   "75668": {
     "flash": "flash__03436"
@@ -11966,6 +11981,19 @@
   "405388": {
     "description": "description_cd2e37"
   },
+  "405494": {
+    "sidebar": "sidebar__3689c",
+    "scroller": "scroller__3689c",
+    "content": "content__3689c",
+    "formSlot": "formSlot__3689c",
+    "authBox": "authBox__3689c",
+    "row": "row__3689c",
+    "rowExpanded": "rowExpanded__3689c",
+    "rowChevron": "rowChevron__3689c",
+    "rowGraphic": "rowGraphic__3689c",
+    "rowText": "rowText__3689c",
+    "panel": "panel__3689c"
+  },
   "405985": {
     "wrapper": "wrapper__19b5e",
     "wrapperAccepted": "wrapperAccepted__19b5e",
@@ -14601,6 +14629,13 @@
     "inputError": "inputError_fffc15 input_fffc15",
     "inputSuccess": "inputSuccess_fffc15 input_fffc15",
     "inputHidden": "inputHidden_fffc15"
+  },
+  "479789": {
+    "popover": "popover_ee4200",
+    "popoverVisible": "popoverVisible_ee4200",
+    "close": "close_ee4200",
+    "graphic": "graphic_ee4200",
+    "text": "text_ee4200"
   },
   "480160": {
     "container": "container__247cf",
