@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1187 x64 (91622)"},"channel":{"canary":"618461 (0a2d504)"},
+{"host":{"version":"1.0.1188 x64 (91684)"},"channel":{"canary":"618971 (f13489f)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -3571,6 +3571,15 @@
   "132183": {
     "flagIcon": "flagIcon__45b6e"
   },
+  "132344": {
+    "giftCardPromotion": "giftCardPromotion_d1e69f",
+    "giftImagePromotion": "giftImagePromotion_d1e69f",
+    "giftInfoPromotion": "giftInfoPromotion_d1e69f",
+    "giftInfoTitlePromotion": "giftInfoTitlePromotion_d1e69f",
+    "giftText": "giftText_d1e69f",
+    "giftTextPromotion": "giftTextPromotion_d1e69f",
+    "giftAdditionalTerm": "giftAdditionalTerm_d1e69f"
+  },
   "132407": {
     "hero": "hero__81227",
     "content": "content__81227",
@@ -6747,6 +6756,9 @@
     "newBadge": "newBadge__62141",
     "createChannelContent": "createChannelContent__62141"
   },
+  "236730": {
+    "measure": "measure__8d84f"
+  },
   "237790": {
     "container": "container__3782a",
     "dialog": "dialog__3782a",
@@ -7053,12 +7065,6 @@
     "message": "message_eeed5f",
     "btn": "btn_eeed5f",
     "spinnerItem": "spinnerItem_eeed5f"
-  },
-  "249154": {
-    "settingsForm": "settingsForm__6e8a1",
-    "settingsSelect": "settingsSelect__6e8a1",
-    "secretRow": "secretRow__6e8a1",
-    "secretRowInfo": "secretRowInfo__6e8a1"
   },
   "249360": {
     "samplePlaceholder": "samplePlaceholder_e81047",
@@ -10068,6 +10074,7 @@
     "chatLog": "chatLog_f35ad6",
     "clarificationSlot": "clarificationSlot_f35ad6",
     "composerSlot": "composerSlot_f35ad6",
+    "settingsPanel": "settingsPanel_f35ad6",
     "designFeedbackBanner": "designFeedbackBanner_f35ad6",
     "chatLogDimmed": "chatLogDimmed_f35ad6"
   },
@@ -14249,6 +14256,12 @@
     "posterDivider": "posterDivider__9fa5a",
     "clickableBanner": "clickableBanner__9fa5a"
   },
+  "472781": {
+    "settingsForm": "settingsForm_d385d3",
+    "settingsSelect": "settingsSelect_d385d3",
+    "secretRow": "secretRow_d385d3",
+    "secretRowInfo": "secretRowInfo_d385d3"
+  },
   "472987": {
     "feedback": "feedback__4c857",
     "buttonsContainer": "buttonsContainer__4c857",
@@ -14649,6 +14662,7 @@
     "body": "body__207b4"
   },
   "483603": {
+    "flexRow": "flexRow__0982b",
     "guildSpaceHeader": "guildSpaceHeader__0982b",
     "chevronButton": "chevronButton__0982b",
     "chevron": "chevron__0982b",
@@ -14784,15 +14798,10 @@
     "tierImage": "tierImage_a45ed3",
     "tierTitle": "tierTitle_a45ed3",
     "giftCard": "giftCard_a45ed3",
-    "giftCardPromotion": "giftCardPromotion_a45ed3",
-    "giftImagePromotion": "giftImagePromotion_a45ed3",
-    "giftInfoPromotion": "giftInfoPromotion_a45ed3",
-    "giftInfoTitlePromotion": "giftInfoTitlePromotion_a45ed3",
     "giftInfo": "giftInfo_a45ed3",
     "giftImage": "giftImage_a45ed3",
     "giftTitle": "giftTitle_a45ed3",
     "giftText": "giftText_a45ed3",
-    "giftAdditionalTerm": "giftAdditionalTerm_a45ed3",
     "giftCardButton": "giftCardButton_a45ed3",
     "giftButtonCTA": "giftButtonCTA_a45ed3",
     "giftCardButtonColor": "giftCardButtonColor_a45ed3",
@@ -17247,6 +17256,9 @@
     "divider": "divider__15293",
     "selector": "selector__15293",
     "terms": "terms__15293"
+  },
+  "568190": {
+    "row": "row_caa98a"
   },
   "569381": {
     "statusDiv": "statusDiv__5cda9",
@@ -21539,6 +21551,7 @@
     "danger": "danger_a2c9e8",
     "success": "success_a2c9e8",
     "warning": "warning_a2c9e8",
+    "manaFilterTag": "manaFilterTag_a2c9e8",
     "emoji": "emoji_a2c9e8",
     "closeCircle": "closeCircle_a2c9e8 emoji_a2c9e8",
     "close": "close_a2c9e8",
@@ -21839,7 +21852,8 @@
     "memberSidebarSection": "memberSidebarSection__89463"
   },
   "727142": {
-    "pill": "pill__45408"
+    "pill": "pill__45408",
+    "indicator": "indicator__45408"
   },
   "727181": {
     "notice": "notice_d37fb3",
@@ -24861,15 +24875,17 @@
   "816645": {
     "container": "container__8061a",
     "managed": "managed__8061a",
+    "hasAppendedEditSlot": "hasAppendedEditSlot__8061a",
     "customizable": "customizable__8061a",
     "emptyState": "emptyState__8061a",
     "overflowSlot": "overflowSlot__8061a",
     "overflowButton": "overflowButton__8061a",
     "hiddenCount": "hiddenCount__8061a",
     "editButton": "editButton__8061a",
-    "badgeCovered": "badgeCovered__8061a",
-    "editIcon": "editIcon__8061a",
+    "editButtonOverlay": "editButtonOverlay__8061a",
+    "editButtonAppended": "editButtonAppended__8061a",
     "badge": "badge__8061a",
+    "editIcon": "editIcon__8061a",
     "badgeVectorSrc": "badgeVectorSrc__8061a"
   },
   "816969": {
@@ -27967,6 +27983,7 @@
     "nitroPinkGradient": "nitroPinkGradient__3e43f",
     "greenGradient": "greenGradient__3e43f",
     "collectiblesGradient": "collectiblesGradient__3e43f",
+    "promotionGradient": "promotionGradient__3e43f",
     "customGraphicContainer": "customGraphicContainer__3e43f",
     "offerNoticeContainer": "offerNoticeContainer__3e43f",
     "offerNoticeOneLineContainer": "offerNoticeOneLineContainer__3e43f",
@@ -28716,6 +28733,8 @@
     "soundButton": "soundButton__9be63",
     "focused": "focused__9be63",
     "disableActiveStyles": "disableActiveStyles__9be63",
+    "soundButtonInteractive": "soundButtonInteractive__9be63",
+    "playing": "playing__9be63",
     "animated": "animated__9be63",
     "addButton": "addButton__9be63",
     "plusSign": "plusSign__9be63",
@@ -28726,8 +28745,6 @@
     "soundName": "soundName__9be63",
     "hasEmoji": "hasEmoji__9be63",
     "emoji": "emoji__9be63",
-    "soundButtonInteractive": "soundButtonInteractive__9be63",
-    "playing": "playing__9be63",
     "buttonDisabledSecondaryActionsEnabled": "buttonDisabledSecondaryActionsEnabled__9be63",
     "buttonDisabled": "buttonDisabled__9be63",
     "premiumDisabled": "premiumDisabled__9be63",
@@ -29475,8 +29492,7 @@
   },
   "973000": {
     "settingsCard": "settingsCard__750bc",
-    "settingsCardChips": "settingsCardChips__750bc",
-    "settingsCardChip": "settingsCardChip__750bc",
+    "settingsCardHeader": "settingsCardHeader__750bc",
     "settingsCardActions": "settingsCardActions__750bc"
   },
   "973177": {
