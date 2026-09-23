@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1188 x64 (91703)"},"channel":{"canary":"619190 (008cdb8)"},
+{"host":{"version":"1.0.1188 x64 (91729)"},"channel":{"canary":"619411 (292532a)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -9618,8 +9618,11 @@
   },
   "332757": {
     "avatarContainer": "avatarContainer_b4a4b2",
+    "fetchError": "fetchError_b4a4b2",
     "mutuals": "mutuals_b4a4b2",
     "userInfo": "userInfo_b4a4b2",
+    "privateBanner": "privateBanner_b4a4b2",
+    "privateInfo": "privateInfo_b4a4b2",
     "customStatus": "customStatus_b4a4b2",
     "customStatusReference": "customStatusReference_b4a4b2"
   },
@@ -19405,6 +19408,9 @@
     "title": "title__61a6b",
     "noBackground": "noBackground__61a6b"
   },
+  "634293": {
+    "ctaButton": "ctaButton__05d6f"
+  },
   "634656": {
     "leftRail": "leftRail__863fd",
     "withLeftPreview": "withLeftPreview__863fd",
@@ -21583,6 +21589,7 @@
     "iconContainer": "iconContainer__979b1",
     "iconWrapper": "iconWrapper__979b1",
     "animationOverlay": "animationOverlay__979b1",
+    "halloweenAnimationOverlay": "halloweenAnimationOverlay__979b1",
     "canAnimate": "canAnimate__979b1",
     "holdScale": "holdScale__979b1",
     "clickAnimation": "clickAnimation__979b1",
