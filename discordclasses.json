@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1188 x64 (91684)"},"channel":{"canary":"618971 (f13489f)"},
+{"host":{"version":"1.0.1188 x64 (91695)"},"channel":{"canary":"619080 (099947e)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -14260,7 +14260,8 @@
     "settingsForm": "settingsForm_d385d3",
     "settingsSelect": "settingsSelect_d385d3",
     "secretRow": "secretRow_d385d3",
-    "secretRowInfo": "secretRowInfo_d385d3"
+    "secretRowInfo": "secretRowInfo_d385d3",
+    "settingsLoading": "settingsLoading_d385d3"
   },
   "472987": {
     "feedback": "feedback__4c857",
