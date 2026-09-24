@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1190 x64 (91803)"},"channel":{"canary":"619881 (23ff85f)"},
+{"host":{"version":"1.0.1190 x64 (91820)"},"channel":{"canary":"619993 (2d78ece)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -5249,11 +5249,6 @@
     "pointerEvents": "pointerEvents__44b0c",
     "avatarDecorationContainer": "avatarDecorationContainer__44b0c",
     "avatarDecoration": "avatarDecoration__44b0c"
-  },
-  "186129": {
-    "container": "container__0a560",
-    "buttons": "buttons__0a560",
-    "iconInput": "iconInput__0a560"
   },
   "187065": {
     "standardSidebarView": "standardSidebarView__23e6b",
@@ -12252,6 +12247,11 @@
     "extrasEmptySpace": "extrasEmptySpace__6d791",
     "button": "button__6d791 bgShade__6d791",
     "active": "active__6d791"
+  },
+  "408510": {
+    "container": "container__0a560",
+    "buttons": "buttons__0a560",
+    "iconInput": "iconInput__0a560"
   },
   "408519": {
     "text-md/medium": "text-md/medium__9e160",
@@ -23659,7 +23659,10 @@
     "stickerNode": "stickerNode_c6367b",
     "stickerNodeDimmed": "stickerNodeDimmed_c6367b",
     "stickerNodeHidden": "stickerNodeHidden_c6367b",
-    "stickerUnsendable": "stickerUnsendable_c6367b"
+    "stickerUnsendable": "stickerUnsendable_c6367b",
+    "stickerLocked": "stickerLocked_c6367b",
+    "lockIconContainer": "lockIconContainer_c6367b",
+    "lockIcon": "lockIcon_c6367b"
   },
   "777511": {
     "effect": "effect__68185"
