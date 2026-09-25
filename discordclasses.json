@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1191 x64 (91937)"},"channel":{"canary":"621099 (57dd69c)"},
+{"host":{"version":"1.0.1191 x64 (91996)"},"channel":{"canary":"621784 (0dcfc5a)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -8514,6 +8514,12 @@
     "dragging": "dragging_fe7668",
     "settling": "settling_fe7668",
     "widgetSettle": "widgetSettle_fe7668",
+    "preparingEntrance": "preparingEntrance_fe7668",
+    "entering": "entering_fe7668",
+    "widgetEntrance": "widgetEntrance_fe7668",
+    "shine": "shine_fe7668",
+    "shineBar": "shineBar_fe7668",
+    "widgetShine": "widgetShine_fe7668",
     "removing": "removing_fe7668",
     "widgetExit": "widgetExit_fe7668",
     "placeholder": "placeholder_fe7668",
@@ -11249,7 +11255,11 @@
     "body": "body_fedacc"
   },
   "381134": {
-    "tag": "tag_ed9123"
+    "tag": "tag_ed9123",
+    "rarity-common": "rarity-common_ed9123",
+    "rarity-epic": "rarity-epic_ed9123",
+    "rarity-mythic": "rarity-mythic_ed9123",
+    "rarity-rare": "rarity-rare_ed9123"
   },
   "381275": {
     "group": "group__8a9ed",
@@ -11795,7 +11805,6 @@
     "dragRegion": "dragRegion__535da",
     "titleGroup": "titleGroup__535da",
     "titleIcon": "titleIcon__535da",
-    "title": "title__535da",
     "actions": "actions__535da",
     "editActionsEnter": "editActionsEnter__535da",
     "dragHandle": "dragHandle__535da",
@@ -16085,6 +16094,9 @@
   "523442": {
     "formContent": "formContent__30f2d",
     "termsPhrase": "termsPhrase__30f2d"
+  },
+  "523755": {
+    "title": "title_a6dccf"
   },
   "524058": {
     "card": "card__0c0bf",
@@ -29744,6 +29756,9 @@
     "sizeMedium": "sizeMedium_ab9bdf",
     "sizeLarge": "sizeLarge_ab9bdf",
     "fullscreenOnMobile": "fullscreenOnMobile_ab9bdf"
+  },
+  "979148": {
+    "turnTimer": "turnTimer__4d627"
   },
   "979822": {
     "body": "body__6fa2e",
