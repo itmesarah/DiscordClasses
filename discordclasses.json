@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1191 x64 (92005)"},"channel":{"canary":"621784 (0dcfc5a)"},
+{"host":{"version":"1.0.1191 x64 (92034)"},"channel":{"canary":"621899 (e280998)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -2006,7 +2006,10 @@
   },
   "67710": {
     "gameSearchCombobox": "gameSearchCombobox__36be8",
-    "coverButton": "coverButton__36be8 gameCover__1a3d6"
+    "gameOption": "gameOption__36be8",
+    "coverButton": "coverButton__36be8 gameCover__1a3d6",
+    "gameOptionLabel": "gameOptionLabel__36be8",
+    "gameOptionIcon": "gameOptionIcon__36be8"
   },
   "67992": {
     "disclaimer": "disclaimer__59ad9",
@@ -5886,6 +5889,9 @@
   "209516": {
     "threadCreatorName": "threadCreatorName__6dde6"
   },
+  "209553": {
+    "platforms": "platforms_e6539f"
+  },
   "209599": {
     "wrapper": "wrapper_f61d60"
   },
@@ -9518,14 +9524,6 @@
     "radioItem": "radioItem__5d030",
     "groupCollapsedRow": "groupCollapsedRow__5d030",
     "selected": "selected__5d030"
-  },
-  "326851": {
-    "container": "container__333b3",
-    "sectionHeader": "sectionHeader__333b3",
-    "avatarList": "avatarList__333b3",
-    "actionSection": "actionSection__333b3",
-    "guildRow": "guildRow__333b3",
-    "userRow": "userRow__333b3"
   },
   "326879": {
     "noChannel": "noChannel__01d5c",
@@ -13327,6 +13325,9 @@
     "newBadge": "newBadge__05934",
     "memberCount": "memberCount__05934"
   },
+  "438865": {
+    "belowContent": "belowContent__6754a"
+  },
   "438879": {
     "itemCard": "itemCard__7e549",
     "questCardContextMenuTrigger": "questCardContextMenuTrigger__7e549",
@@ -14165,6 +14166,10 @@
   "467793": {
     "oauth2PageWrapper": "oauth2PageWrapper__647f0",
     "oauth2PageContent": "oauth2PageContent__647f0"
+  },
+  "468039": {
+    "platforms": "platforms__9bb6a",
+    "platformIcon": "platformIcon__9bb6a"
   },
   "468082": {
     "header": "header__67a11",
@@ -16823,6 +16828,14 @@
     "video": "video_f627e4",
     "videoWrapper": "videoWrapper_f627e4",
     "mediaPlayer": "mediaPlayer_f627e4"
+  },
+  "549232": {
+    "container": "container__333b3",
+    "sectionHeader": "sectionHeader__333b3",
+    "avatarList": "avatarList__333b3",
+    "actionSection": "actionSection__333b3",
+    "guildRow": "guildRow__333b3",
+    "userRow": "userRow__333b3"
   },
   "549400": {
     "container": "container__87dda",
@@ -24734,7 +24747,9 @@
     "formSection": "formSection_cd734c"
   },
   "808315": {
-    "selectedGames": "selectedGames_eb5373"
+    "selectedGames": "selectedGames_eb5373",
+    "gameIcon": "gameIcon_eb5373",
+    "gamesSearchableSelect": "gamesSearchableSelect_eb5373"
   },
   "808379": {
     "root": "root_eb881a",
