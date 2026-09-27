@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1192 x64 (92054)"},"channel":{"canary":"622129 (2ea0826)"},
+{"host":{"version":"1.0.1193 x64 (92082)"},"channel":{"canary":"622484 (b106aee)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -9986,9 +9986,17 @@
   },
   "342667": {
     "block": "block_cee34d",
-    "noticeArea": "noticeArea_cee34d",
-    "notice": "notice_cee34d",
-    "noticePublished": "noticePublished_cee34d",
+    "vibegrations-control-glow": "vibegrations-control-glow_cee34d",
+    "barArea": "barArea_cee34d",
+    "bar": "bar_cee34d",
+    "vibegrations-control-bar-enter": "vibegrations-control-bar-enter_cee34d",
+    "vibegrations-control-bar-sheen": "vibegrations-control-bar-sheen_cee34d",
+    "vibegrations-control-bar-leave": "vibegrations-control-bar-leave_cee34d",
+    "barStatus": "barStatus_cee34d",
+    "barCopy": "barCopy_cee34d",
+    "barDetail": "barDetail_cee34d",
+    "barTitle": "barTitle_cee34d",
+    "barActions": "barActions_cee34d",
     "announcer": "announcer_cee34d"
   },
   "342868": {
@@ -10282,6 +10290,7 @@
     "sharedProjects": "sharedProjects_f8194a",
     "sharedProjectsHeading": "sharedProjectsHeading_f8194a",
     "projectCard": "projectCard_f8194a",
+    "projectCardDeleting": "projectCardDeleting_f8194a",
     "projectCardSelect": "projectCardSelect_f8194a",
     "projectIcon": "projectIcon_f8194a",
     "projectIconPlaceholder": "projectIconPlaceholder_f8194a",
@@ -13394,6 +13403,9 @@
   "441136": {
     "conjurMessage": "conjurMessage__72ffd",
     "accessoryMessageRow": "accessoryMessageRow__72ffd",
+    "userMessageButtonsShown": "userMessageButtonsShown__72ffd",
+    "userMessageButtons": "userMessageButtons__72ffd",
+    "userMessageButtonsHeader": "userMessageButtonsHeader__72ffd",
     "messageAccessoriesUnderProse": "messageAccessoriesUnderProse__72ffd",
     "messageAccessories": "messageAccessories__72ffd",
     "conjurBotAvatar": "conjurBotAvatar__72ffd",
@@ -14622,8 +14634,6 @@
   },
   "479191": {
     "secretCard": "secretCard__220b3",
-    "secretCardChips": "secretCardChips__220b3",
-    "secretCardChip": "secretCardChip__220b3",
     "secretCardActions": "secretCardActions__220b3"
   },
   "479381": {
@@ -25219,7 +25229,8 @@
     "design": "design_af6837",
     "designImage": "designImage_af6837",
     "chips": "chips_af6837",
-    "chip": "chip_af6837"
+    "chip": "chip_af6837",
+    "actions": "actions_af6837"
   },
   "825176": {
     "avatarBackground": "avatarBackground_eb2508",
