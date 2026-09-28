@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1193 x64 (92082)"},"channel":{"canary":"622484 (b106aee)"},
+{"host":{"version":"1.0.1193 x64 (92148)"},"channel":{"canary":"622914 (40bb3b3)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -5240,6 +5240,16 @@
   "184287": {
     "rowContainer": "rowContainer__0e124"
   },
+  "184322": {
+    "container": "container_f0371f",
+    "placeholderSection": "placeholderSection_f0371f",
+    "placeholderRow": "placeholderRow_f0371f",
+    "placeholderName": "placeholderName_f0371f",
+    "placeholderAvatar": "placeholderAvatar_f0371f",
+    "collapsed": "collapsed_f0371f",
+    "copy": "copy_f0371f",
+    "copyText": "copyText_f0371f"
+  },
   "185625": {
     "card": "card__2eab1",
     "header": "header__2eab1",
@@ -9529,6 +9539,14 @@
     "groupCollapsedRow": "groupCollapsedRow__5d030",
     "selected": "selected__5d030"
   },
+  "326851": {
+    "container": "container__333b3",
+    "sectionHeader": "sectionHeader__333b3",
+    "avatarList": "avatarList__333b3",
+    "actionSection": "actionSection__333b3",
+    "guildRow": "guildRow__333b3",
+    "userRow": "userRow__333b3"
+  },
   "326879": {
     "noChannel": "noChannel__01d5c",
     "noChannelFavorites": "noChannelFavorites__01d5c"
@@ -10151,6 +10169,9 @@
     "app": "app_a3002d",
     "mobileApp": "mobileApp_a3002d"
   },
+  "350086": {
+    "people": "people_c366b2"
+  },
   "350536": {
     "container": "container__7aaec",
     "containerPadding": "containerPadding__7aaec",
@@ -10290,13 +10311,15 @@
     "sharedProjects": "sharedProjects_f8194a",
     "sharedProjectsHeading": "sharedProjectsHeading_f8194a",
     "projectCard": "projectCard_f8194a",
+    "projectSettingsAction": "projectSettingsAction_f8194a",
     "projectCardDeleting": "projectCardDeleting_f8194a",
     "projectCardSelect": "projectCardSelect_f8194a",
     "projectIcon": "projectIcon_f8194a",
     "projectIconPlaceholder": "projectIconPlaceholder_f8194a",
     "projectCardAction": "projectCardAction_f8194a",
-    "projectSettingsAction": "projectSettingsAction_f8194a",
+    "projectPeople": "projectPeople_f8194a",
     "projectName": "projectName_f8194a",
+    "projectTitleRow": "projectTitleRow_f8194a",
     "projectMetadata": "projectMetadata_f8194a",
     "projectServerName": "projectServerName_f8194a",
     "projectLastEdited": "projectLastEdited_f8194a",
@@ -11065,6 +11088,8 @@
     "chatRowContinuation": "chatRowContinuation__2b71e",
     "chat-row-enter": "chat-row-enter__2b71e",
     "chatRow": "chatRow__2b71e",
+    "chatLogListLoading": "chatLogListLoading__2b71e",
+    "historySpinner": "historySpinner__2b71e",
     "chatRowHighlighted": "chatRowHighlighted__2b71e",
     "messageAttachments": "messageAttachments__2b71e"
   },
@@ -16842,14 +16867,6 @@
     "video": "video_f627e4",
     "videoWrapper": "videoWrapper_f627e4",
     "mediaPlayer": "mediaPlayer_f627e4"
-  },
-  "549232": {
-    "container": "container__333b3",
-    "sectionHeader": "sectionHeader__333b3",
-    "avatarList": "avatarList__333b3",
-    "actionSection": "actionSection__333b3",
-    "guildRow": "guildRow__333b3",
-    "userRow": "userRow__333b3"
   },
   "549400": {
     "container": "container__87dda",
@@ -22772,6 +22789,10 @@
     "subtitleSeparator": "subtitleSeparator__1ea09",
     "channelName": "channelName__1ea09",
     "separator": "separator__1ea09"
+  },
+  "744239": {
+    "awaitingSurface": "awaitingSurface__7777f",
+    "vibegrationsAwaitingPulse": "vibegrationsAwaitingPulse__7777f"
   },
   "744399": {
     "popoutHeader": "popoutHeader__628e6",
@@ -29227,16 +29248,6 @@
   },
   "961934": {
     "icon": "icon__80514"
-  },
-  "961941": {
-    "container": "container_f0371f",
-    "placeholderSection": "placeholderSection_f0371f",
-    "placeholderRow": "placeholderRow_f0371f",
-    "placeholderName": "placeholderName_f0371f",
-    "placeholderAvatar": "placeholderAvatar_f0371f",
-    "collapsed": "collapsed_f0371f",
-    "copy": "copy_f0371f",
-    "copyText": "copyText_f0371f"
   },
   "963434": {
     "badge": "badge_c2b88c",
