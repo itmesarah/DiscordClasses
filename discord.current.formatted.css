@@ -10128,7 +10128,9 @@
     --modal-width-small:442px;
     --select-max-width:248px;
     --select-option-height:40px;
+    --toast-animation-duration-ms:300px;
     --toast-max-width:280px;
+    --toast-queue-enter-delay-ms:400px;
     --toast-text-line-count:2px
 }
 

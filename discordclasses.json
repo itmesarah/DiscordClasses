@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1195 x64 (92295)"},"channel":{"canary":"624150 (c64c10c)"},
+{"host":{"version":"1.0.1195 x64 (92314)"},"channel":{"canary":"624268 (729e744)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1327,7 +1327,8 @@
   },
   "45863": {
     "container": "container_b17982",
-    "resizeHandle": "resizeHandle_b17982"
+    "resizeHandle": "resizeHandle_b17982",
+    "dragging": "dragging_b17982"
   },
   "46760": {
     "outerContainer": "outerContainer_b6a3c4",
@@ -24613,6 +24614,7 @@
     "highlighted": "highlighted_a3e8db",
     "selected": "selected_a3e8db",
     "inModalOverlay": "inModalOverlay_a3e8db",
+    "overlaySecondary": "overlaySecondary_a3e8db",
     "notificationBadge": "notificationBadge_a3e8db"
   },
   "802859": {
@@ -30355,6 +30357,12 @@
     "tableBar": "tableBar_b6e84c",
     "headerTitle": "headerTitle_b6e84c",
     "copyEventButton": "copyEventButton_b6e84c"
+  },
+  "998812": {
+    "echoList": "echoList_effefc",
+    "echoRow": "echoRow_effefc",
+    "echoPill": "echoPill_effefc",
+    "voiceChannelEffectEmoji": "voiceChannelEffectEmoji_effefc"
   },
   "998973": {
     "form": "form_a327d2"
