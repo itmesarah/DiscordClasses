@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1195 x64 (92314)"},"channel":{"canary":"624595 (83f4f8b)"},
+{"host":{"version":"1.0.1195 x64 (92314)"},"channel":{"canary":"624694 (1fe7676)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -3602,7 +3602,8 @@
   "132473": {
     "tagGroup": "tagGroup_cfee8f",
     "tagList": "tagList_cfee8f",
-    "tag": "tag_cfee8f"
+    "tag": "tag_cfee8f",
+    "tagLabel": "tagLabel_cfee8f"
   },
   "133480": {
     "focusTarget": "focusTarget__54e4b"
