@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1219 x64 (94016)"},"channel":{"canary":"635548 (cec1b29)"},
+{"host":{"version":"1.0.1219 x64 (94016)"},"channel":{"canary":"635595 (4052b65)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -8619,6 +8619,13 @@
     "chevronExpanded": "chevronExpanded__6dc2e",
     "sectionContent": "sectionContent__6dc2e"
   },
+  "291192": {
+    "contextBoundary": "contextBoundary__2ee00",
+    "contextRule": "contextRule__2ee00",
+    "contextLine": "contextLine__2ee00",
+    "contextLabel": "contextLabel__2ee00",
+    "contextText": "contextText__2ee00"
+  },
   "291559": {
     "progress": "progress__45530",
     "progressBar": "progressBar__45530",
@@ -9728,7 +9735,6 @@
     "projectsSidebar": "projectsSidebar_eb0c63",
     "projectsSidebarHeader": "projectsSidebarHeader_eb0c63",
     "projectsSidebarList": "projectsSidebarList_eb0c63",
-    "projectInfo": "projectInfo_eb0c63",
     "projectsList": "projectsList_eb0c63",
     "projectsSidebarActions": "projectsSidebarActions_eb0c63",
     "creationsHeading": "creationsHeading_eb0c63",
@@ -9736,20 +9742,6 @@
     "projectsPrivateNote": "projectsPrivateNote_eb0c63",
     "sharedProjects": "sharedProjects_eb0c63",
     "sharedProjectsHeading": "sharedProjectsHeading_eb0c63",
-    "projectCard": "projectCard_eb0c63",
-    "projectSettingsAction": "projectSettingsAction_eb0c63",
-    "projectCardDeleting": "projectCardDeleting_eb0c63",
-    "projectCardSelect": "projectCardSelect_eb0c63",
-    "projectIcon": "projectIcon_eb0c63",
-    "projectCardAction": "projectCardAction_eb0c63",
-    "projectPeople": "projectPeople_eb0c63",
-    "projectName": "projectName_eb0c63",
-    "projectTitleRow": "projectTitleRow_eb0c63",
-    "projectMetadata": "projectMetadata_eb0c63",
-    "projectServerName": "projectServerName_eb0c63",
-    "projectLastEdited": "projectLastEdited_eb0c63",
-    "projectMentionBadge": "projectMentionBadge_eb0c63",
-    "projectMetadataSeparator": "projectMetadataSeparator_eb0c63",
     "listState": "listState_eb0c63",
     "listStateText": "listStateText_eb0c63",
     "projectsEmptyState": "projectsEmptyState_eb0c63",
@@ -29097,6 +29089,23 @@
     "section": "section__4e849",
     "body": "body__4e849"
   },
+  "941650": {
+    "projectInfo": "projectInfo_ab0f55",
+    "projectCard": "projectCard_ab0f55",
+    "projectSettingsAction": "projectSettingsAction_ab0f55",
+    "projectCardDeleting": "projectCardDeleting_ab0f55",
+    "projectCardSelect": "projectCardSelect_ab0f55",
+    "projectIcon": "projectIcon_ab0f55",
+    "projectCardAction": "projectCardAction_ab0f55",
+    "projectPeople": "projectPeople_ab0f55",
+    "projectName": "projectName_ab0f55",
+    "projectTitleRow": "projectTitleRow_ab0f55",
+    "projectMetadata": "projectMetadata_ab0f55",
+    "projectServerName": "projectServerName_ab0f55",
+    "projectLastEdited": "projectLastEdited_ab0f55",
+    "projectMentionBadge": "projectMentionBadge_ab0f55",
+    "projectMetadataSeparator": "projectMetadataSeparator_ab0f55"
+  },
   "942132": {
     "buttonsContainer": "buttonsContainer__28d5e",
     "removeButton": "removeButton__28d5e",
@@ -30438,12 +30447,7 @@
     "historySpinner": "historySpinner__0e5cb",
     "chatRowHighlighted": "chatRowHighlighted__0e5cb",
     "messageAttachments": "messageAttachments__0e5cb",
-    "reminderSeparated": "reminderSeparated__0e5cb",
-    "contextBoundary": "contextBoundary__0e5cb",
-    "contextRule": "contextRule__0e5cb",
-    "contextLine": "contextLine__0e5cb",
-    "contextLabel": "contextLabel__0e5cb",
-    "contextText": "contextText__0e5cb"
+    "reminderSeparated": "reminderSeparated__0e5cb"
   },
   "986171": {
     "root": "root_b23ee9",
