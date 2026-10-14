@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1227 x64 (94297)"},"channel":{"canary":"637067 (5c412e1)"},
+{"host":{"version":"1.0.1228 x64 (94335)"},"channel":{"canary":"637354 (623f8d7)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1039,6 +1039,25 @@
   },
   "38568": {
     "loader": "loader__82471"
+  },
+  "39416": {
+    "frameOutline": "frameOutline__23c32",
+    "ink": "ink__23c32",
+    "canvas": "canvas__23c32",
+    "brush": "brush__23c32",
+    "selection": "selection__23c32",
+    "handle": "handle__23c32",
+    "railDock": "railDock__23c32",
+    "flyout": "flyout__23c32",
+    "pickDock": "pickDock__23c32",
+    "rail": "rail__23c32",
+    "stack": "stack__23c32",
+    "tool": "tool__23c32",
+    "railDivider": "railDivider__23c32",
+    "flyoutAnchor": "flyoutAnchor__23c32",
+    "sketchThumb": "sketchThumb__23c32",
+    "sketchBadge": "sketchBadge__23c32",
+    "longPress": "longPress__23c32"
   },
   "39627": {
     "timeSelectRow": "timeSelectRow__3a865",
@@ -15038,9 +15057,7 @@
   "487336": {
     "sidebar": "sidebar__9a9f5",
     "resizeHandle": "resizeHandle__9a9f5",
-    "container": "container__9a9f5",
-    "sidebarFull": "sidebarFull__9a9f5",
-    "containerFull": "containerFull__9a9f5"
+    "container": "container__9a9f5"
   },
   "487470": {
     "container": "container_f7e2d7",
@@ -16835,11 +16852,10 @@
   },
   "541940": {
     "channelView": "channelView_ea14bc",
-    "channelViewChatFull": "channelViewChatFull_ea14bc",
     "channelViewMain": "channelViewMain_ea14bc",
-    "channelViewPreview": "channelViewPreview_ea14bc",
     "channelViewMainPanel": "channelViewMainPanel_ea14bc",
     "chatSidebarOpen": "chatSidebarOpen_ea14bc",
+    "channelViewPreview": "channelViewPreview_ea14bc",
     "agentChatPanel": "agentChatPanel_ea14bc",
     "agentChat": "agentChat_ea14bc"
   },
