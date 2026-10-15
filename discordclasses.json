@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1233 x64 (94501)"},"channel":{"canary":"638545 (c77f1a0)"},
+{"host":{"version":"1.0.1234 x64 (94547)"},"channel":{"canary":"638699 (08c0d89)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -909,6 +909,9 @@
     "actionBarContainer": "actionBarContainer_aa605f",
     "actionBar": "actionBar_aa605f",
     "miniPopover": "miniPopover_aa605f"
+  },
+  "34236": {
+    "upsell": "upsell_d96764"
   },
   "34665": {
     "previewCard": "previewCard__8d6f9",
