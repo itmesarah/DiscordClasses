@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1246 x64 (94824)"},"channel":{"canary":"640629 (06efa65)"},
+{"host":{"version":"1.0.1248 x64 (94850)"},"channel":{"canary":"640859 (87d1ad8)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1455,11 +1455,12 @@
     "classificationActionsTakenRow": "classificationActionsTakenRow_a48d6b",
     "classificationActionsTakenList": "classificationActionsTakenList_a48d6b",
     "guidelinesExplanation": "guidelinesExplanation_a48d6b",
-    "classificationLetUsKnowContainer": "classificationLetUsKnowContainer_a48d6b",
+    "classificationAppealFooterContainer": "classificationAppealFooterContainer_a48d6b",
     "confirmMinimumAgeSection": "confirmMinimumAgeSection_a48d6b",
     "confirmMinimumAgeButton": "confirmMinimumAgeButton_a48d6b",
     "guidelinesFooter": "guidelinesFooter_a48d6b",
     "manualReviewFooter": "manualReviewFooter_a48d6b",
+    "classificationAppealWindowExpired": "classificationAppealWindowExpired_a48d6b",
     "classificationPolicyCard": "classificationPolicyCard_a48d6b",
     "classificationPolicyCardIcon": "classificationPolicyCardIcon_a48d6b",
     "classificationPolicyDescriptionContainer": "classificationPolicyDescriptionContainer_a48d6b",
@@ -2885,6 +2886,8 @@
     "featuredBlockTextContainer": "featuredBlockTextContainer__08415",
     "featuredBlockBodyText": "featuredBlockBodyText__08415",
     "featuredBlockBadge": "featuredBlockBadge__08415",
+    "featuredBlockTextBadge": "featuredBlockTextBadge__08415",
+    "iconTextBadge": "iconTextBadge__08415",
     "featuredBlockButtonContainer": "featuredBlockButtonContainer__08415",
     "heroBlock": "heroBlock__08415",
     "heroBlockContent": "heroBlockContent__08415",
@@ -15735,6 +15738,9 @@
   "504115": {
     "anchor": "anchor_b6b013"
   },
+  "504492": {
+    "cardPlacement": "cardPlacement_b6517c"
+  },
   "504565": {
     "button": "button_afb575",
     "container": "container_afb575",
@@ -19462,6 +19468,7 @@
     "scroller": "scroller_b1bfc6",
     "topNavSpacer": "topNavSpacer_b1bfc6",
     "section": "section_b1bfc6",
+    "headerControls": "headerControls_b1bfc6",
     "list": "list_b1bfc6",
     "grid": "grid_b1bfc6",
     "card": "card_b1bfc6",
@@ -26319,6 +26326,9 @@
     "dim": "dim__61c93",
     "keybindShortcutSearchPopout": "keybindShortcutSearchPopout__61c93",
     "keyboardShortcuts": "keyboardShortcuts__61c93"
+  },
+  "846183": {
+    "container": "container_b0e7f4"
   },
   "846330": {
     "container": "container__44153",
