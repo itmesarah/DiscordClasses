@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1248 x64 (94857)"},"channel":{"canary":"640897 (5efe6c7)"},
+{"host":{"version":"1.0.1251 x64 (94946)"},"channel":{"canary":"641346 (3522ad4)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -8622,6 +8622,10 @@
     "nitroRewardTileAssetContainer": "nitroRewardTileAssetContainer_a92e89",
     "nitroRewardTileAsset": "nitroRewardTileAsset_a92e89"
   },
+  "289830": {
+    "body": "body_cd6d57",
+    "details": "details_cd6d57"
+  },
   "290413": {
     "card": "card_a12047",
     "guildInfo": "guildInfo_a12047",
@@ -9309,6 +9313,11 @@
     "playPausePop": "playPausePop_cf09d8",
     "playPausePopIcon": "playPausePopIcon_cf09d8",
     "videoButton": "videoButton_cf09d8",
+    "playbackSpeedButton": "playbackSpeedButton_cf09d8",
+    "playbackSpeedLabel": "playbackSpeedLabel_cf09d8",
+    "playbackSpeedPopout": "playbackSpeedPopout_cf09d8",
+    "playbackSpeedMenu": "playbackSpeedMenu_cf09d8",
+    "playbackSpeedLabelCustom": "playbackSpeedLabelCustom_cf09d8",
     "overlayContentHidden": "overlayContentHidden_cf09d8"
   },
   "311356": {
