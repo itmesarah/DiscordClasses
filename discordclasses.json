@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1251 x64 (95103)"},"channel":{"canary":"641567 (9729260)"},
+{"host":{"version":"1.0.1252 x64 (95274)"},"channel":{"canary":"642027 (4f44d32)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -7079,6 +7079,21 @@
   "239131": {
     "rowContainer": "rowContainer__8a920"
   },
+  "239895": {
+    "noDrag": "noDrag_d68e4d",
+    "container": "container_d68e4d",
+    "card": "card_d68e4d",
+    "footer": "footer_d68e4d",
+    "title": "title_d68e4d noDrag_d68e4d",
+    "asset": "asset_d68e4d noDrag_d68e4d",
+    "stats": "stats_d68e4d",
+    "stat": "stat_d68e4d",
+    "statImage": "statImage_d68e4d noDrag_d68e4d",
+    "statText": "statText_d68e4d",
+    "powerContainer": "powerContainer_d68e4d",
+    "powerText": "powerText_d68e4d",
+    "powerBar": "powerBar_d68e4d"
+  },
   "240103": {
     "tags": "tags__08166",
     "newBadge": "newBadge__08166",
@@ -7117,6 +7132,28 @@
   "241321": {
     "value": "value__96f95",
     "actions": "actions__96f95"
+  },
+  "241802": {
+    "card": "card_fa0187",
+    "characterAndStats": "characterAndStats_fa0187",
+    "logo": "logo_fa0187",
+    "wordmark": "wordmark_fa0187",
+    "wordmarkFull": "wordmarkFull_fa0187",
+    "wordmarkShort": "wordmarkShort_fa0187",
+    "powerBar": "powerBar_fa0187",
+    "powerText": "powerText_fa0187",
+    "powerLevel": "powerLevel_fa0187",
+    "powerUnits": "powerUnits_fa0187",
+    "powerUnit": "powerUnit_fa0187",
+    "powerUnitUnfilled": "powerUnitUnfilled_fa0187",
+    "characterColumn": "characterColumn_fa0187",
+    "character": "character_fa0187",
+    "stats": "stats_fa0187",
+    "statRow": "statRow_fa0187",
+    "statIcon": "statIcon_fa0187",
+    "footer": "footer_fa0187",
+    "footerTitle": "footerTitle_fa0187",
+    "footerButton": "footerButton_fa0187"
   },
   "242111": {
     "guildSelection": "guildSelection__5a555",
@@ -13550,6 +13587,10 @@
     "leftPanel": "leftPanel_aa8c67",
     "rightPanel": "rightPanel_aa8c67",
     "spinner": "spinner_aa8c67"
+  },
+  "436726": {
+    "container": "container__9240f",
+    "text": "text__9240f"
   },
   "436804": {
     "usagePanel": "usagePanel_b86123",
@@ -24338,21 +24379,6 @@
     "header": "header_ecf309",
     "buttons": "buttons_ecf309"
   },
-  "783145": {
-    "noDrag": "noDrag_e9ca56",
-    "container": "container_e9ca56",
-    "card": "card_e9ca56",
-    "footer": "footer_e9ca56",
-    "title": "title_e9ca56 noDrag_e9ca56",
-    "asset": "asset_e9ca56 noDrag_e9ca56",
-    "stats": "stats_e9ca56",
-    "stat": "stat_e9ca56",
-    "statImage": "statImage_e9ca56 noDrag_e9ca56",
-    "statText": "statText_e9ca56",
-    "powerContainer": "powerContainer_e9ca56",
-    "powerText": "powerText_e9ca56",
-    "powerBar": "powerBar_e9ca56"
-  },
   "783734": {
     "header": "header__4a3a5",
     "secondaryHeader": "secondaryHeader__4a3a5",
@@ -27452,6 +27478,10 @@
     "obscureButtonContainer": "obscureButtonContainer__299eb",
     "obscureHoverButton": "obscureHoverButton__299eb"
   },
+  "881245": {
+    "character": "character_f8824c",
+    "layer": "layer_f8824c"
+  },
   "881518": {
     "content": "content__45458",
     "rarityCorner": "rarityCorner__45458",
@@ -28672,9 +28702,7 @@
     "wrapperVisible": "wrapperVisible__0d616",
     "contentWrapper": "contentWrapper__0d616",
     "contentWrapperExpanded": "contentWrapperExpanded__0d616",
-    "contentWrapperAccepted": "contentWrapperAccepted__0d616",
     "mask": "mask__0d616",
-    "content": "content__0d616",
     "overlay": "overlay__0d616"
   },
   "920822": {
