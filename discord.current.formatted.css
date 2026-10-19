@@ -636,25 +636,39 @@
     --badge-common-background:hsl(var(--opacity-24-hsl)/0.23921568627450981);
     --badge-common-border:var(--neutral-35);
     --badge-common-text:var(--neutral-15);
+    --badge-critical-background:var(--red-new-50);
+    --badge-critical-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-critical-text:var(--neutral-1);
     --badge-epic-background:hsl(var(--illo-purple-40-hsl)/0.24);
     --badge-epic-border-gradient-end:var(--illo-purple-40);
     --badge-epic-border-gradient-start:var(--illo-pink-40);
     --badge-epic-text:var(--illo-purple-30);
     --badge-expressive-background:var(--neutral-1);
+    --badge-expressive-border:var(--neutral-1);
     --badge-expressive-text:var(--neutral-71);
     --badge-mythic-background:hsl(var(--illo-orange-40-hsl)/0.24);
     --badge-mythic-border-gradient-end:var(--illo-orange-40);
     --badge-mythic-border-gradient-start:var(--illo-yellow-40);
     --badge-mythic-text:var(--illo-orange-30);
     --badge-notification-background:var(--red-new-50);
+    --badge-notification-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-notification-text:var(--neutral-1);
     --badge-primary-background:var(--blurple-50);
+    --badge-primary-border:var(--blurple-50);
     --badge-primary-text:var(--neutral-1);
     --badge-rare-background:hsl(var(--illo-blue-40-hsl)/0.24);
     --badge-rare-border-gradient-end:var(--illo-blue-50);
     --badge-rare-border-gradient-start:var(--illo-blue-40);
     --badge-rare-text:var(--illo-blue-30);
     --badge-secondary-background:hsl(var(--opacity-16-hsl)/0.1607843137254902);
+    --badge-secondary-border:hsl(var(--opacity-16-hsl)/0.1607843137254902);
     --badge-secondary-text:var(--neutral-1);
+    --badge-success-background:var(--green-new-50);
+    --badge-success-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-success-text:var(--neutral-1);
+    --badge-warning-background:var(--yellow-new-45);
+    --badge-warning-border:hsl(var(--opacity-black-8-hsl)/0.0784313725490196);
+    --badge-warning-text:var(--neutral-100);
     --bg-surface-raised:var(--primary-560);
     --border-feedback-critical:var(--red-new-18);
     --border-feedback-info:var(--blue-new-21);
@@ -1595,25 +1609,39 @@
     --badge-common-background:hsl(var(--opacity-24-hsl)/0.23921568627450981);
     --badge-common-border:var(--neutral-35);
     --badge-common-text:var(--neutral-45);
+    --badge-critical-background:var(--red-new-50);
+    --badge-critical-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-critical-text:var(--neutral-1);
     --badge-epic-background:hsl(var(--illo-purple-40-hsl)/0.24);
     --badge-epic-border-gradient-end:var(--illo-purple-40);
     --badge-epic-border-gradient-start:var(--illo-pink-40);
     --badge-epic-text:var(--illo-purple-50);
     --badge-expressive-background:var(--blurple-50);
+    --badge-expressive-border:var(--blurple-50);
     --badge-expressive-text:var(--neutral-1);
     --badge-mythic-background:hsl(var(--illo-orange-40-hsl)/0.24);
     --badge-mythic-border-gradient-end:var(--illo-orange-40);
     --badge-mythic-border-gradient-start:var(--illo-yellow-40);
     --badge-mythic-text:var(--illo-orange-50);
     --badge-notification-background:var(--red-new-50);
+    --badge-notification-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-notification-text:var(--neutral-1);
     --badge-primary-background:var(--blurple-50);
+    --badge-primary-border:var(--blurple-50);
     --badge-primary-text:var(--neutral-1);
     --badge-rare-background:hsl(var(--illo-blue-40-hsl)/0.24);
     --badge-rare-border-gradient-end:var(--illo-blue-50);
     --badge-rare-border-gradient-start:var(--illo-blue-40);
     --badge-rare-text:var(--illo-blue-50);
     --badge-secondary-background:hsl(var(--opacity-16-hsl)/0.1607843137254902);
+    --badge-secondary-border:hsl(var(--opacity-16-hsl)/0.1607843137254902);
     --badge-secondary-text:var(--neutral-76);
+    --badge-success-background:var(--green-new-50);
+    --badge-success-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-success-text:var(--neutral-1);
+    --badge-warning-background:var(--yellow-new-45);
+    --badge-warning-border:hsl(var(--opacity-black-8-hsl)/0.0784313725490196);
+    --badge-warning-text:var(--neutral-100);
     --bg-surface-raised:var(--white);
     --border-feedback-critical:var(--red-new-56);
     --border-feedback-info:var(--blue-new-58);
@@ -2554,25 +2582,39 @@
     --badge-common-background:hsl(var(--opacity-24-hsl)/0.23921568627450981);
     --badge-common-border:var(--neutral-35);
     --badge-common-text:var(--neutral-15);
+    --badge-critical-background:var(--red-new-50);
+    --badge-critical-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-critical-text:var(--neutral-1);
     --badge-epic-background:hsl(var(--illo-purple-40-hsl)/0.24);
     --badge-epic-border-gradient-end:var(--illo-purple-40);
     --badge-epic-border-gradient-start:var(--illo-pink-40);
     --badge-epic-text:var(--illo-purple-30);
     --badge-expressive-background:var(--neutral-1);
+    --badge-expressive-border:var(--neutral-1);
     --badge-expressive-text:var(--neutral-71);
     --badge-mythic-background:hsl(var(--illo-orange-40-hsl)/0.24);
     --badge-mythic-border-gradient-end:var(--illo-orange-40);
     --badge-mythic-border-gradient-start:var(--illo-yellow-40);
     --badge-mythic-text:var(--illo-orange-30);
     --badge-notification-background:var(--red-new-50);
+    --badge-notification-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-notification-text:var(--neutral-1);
     --badge-primary-background:var(--blurple-50);
+    --badge-primary-border:var(--blurple-50);
     --badge-primary-text:var(--neutral-1);
     --badge-rare-background:hsl(var(--illo-blue-40-hsl)/0.24);
     --badge-rare-border-gradient-end:var(--illo-blue-50);
     --badge-rare-border-gradient-start:var(--illo-blue-40);
     --badge-rare-text:var(--illo-blue-30);
     --badge-secondary-background:hsl(var(--opacity-20-hsl)/0.2);
+    --badge-secondary-border:hsl(var(--opacity-20-hsl)/0.2);
     --badge-secondary-text:var(--neutral-10);
+    --badge-success-background:var(--green-new-50);
+    --badge-success-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-success-text:var(--neutral-1);
+    --badge-warning-background:var(--yellow-new-45);
+    --badge-warning-border:hsl(var(--opacity-black-8-hsl)/0.0784313725490196);
+    --badge-warning-text:var(--neutral-100);
     --bg-surface-raised:var(--plum-23);
     --border-feedback-critical:var(--red-new-37);
     --border-feedback-info:var(--blue-new-39);
@@ -3513,25 +3555,39 @@
     --badge-common-background:hsl(var(--opacity-24-hsl)/0.23921568627450981);
     --badge-common-border:var(--neutral-35);
     --badge-common-text:var(--neutral-15);
+    --badge-critical-background:var(--red-new-50);
+    --badge-critical-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-critical-text:var(--neutral-1);
     --badge-epic-background:hsl(var(--illo-purple-40-hsl)/0.24);
     --badge-epic-border-gradient-end:var(--illo-purple-40);
     --badge-epic-border-gradient-start:var(--illo-pink-40);
     --badge-epic-text:var(--illo-purple-30);
     --badge-expressive-background:var(--neutral-1);
+    --badge-expressive-border:var(--neutral-1);
     --badge-expressive-text:var(--neutral-71);
     --badge-mythic-background:hsl(var(--illo-orange-40-hsl)/0.24);
     --badge-mythic-border-gradient-end:var(--illo-orange-40);
     --badge-mythic-border-gradient-start:var(--illo-yellow-40);
     --badge-mythic-text:var(--illo-orange-30);
     --badge-notification-background:var(--red-new-50);
+    --badge-notification-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-notification-text:var(--neutral-1);
     --badge-primary-background:var(--blurple-50);
+    --badge-primary-border:var(--blurple-50);
     --badge-primary-text:var(--neutral-1);
     --badge-rare-background:hsl(var(--illo-blue-40-hsl)/0.24);
     --badge-rare-border-gradient-end:var(--illo-blue-50);
     --badge-rare-border-gradient-start:var(--illo-blue-40);
     --badge-rare-text:var(--illo-blue-30);
     --badge-secondary-background:hsl(var(--opacity-16-hsl)/0.1607843137254902);
+    --badge-secondary-border:hsl(var(--opacity-16-hsl)/0.1607843137254902);
     --badge-secondary-text:var(--neutral-2);
+    --badge-success-background:var(--green-new-50);
+    --badge-success-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-success-text:var(--neutral-1);
+    --badge-warning-background:var(--yellow-new-45);
+    --badge-warning-border:hsl(var(--opacity-black-8-hsl)/0.0784313725490196);
+    --badge-warning-text:var(--neutral-100);
     --bg-surface-raised:var(--plum-18);
     --border-feedback-critical:var(--red-new-28);
     --border-feedback-info:var(--blue-new-31);
@@ -4470,6 +4526,7 @@
     --background-mod-strong:hsl(var(--opacity-24-hsl)/0.23921568627450981);
     --background-mod-subtle:hsl(var(--opacity-12-hsl)/0.12156862745098039);
     --badge-secondary-background:hsl(var(--opacity-20-hsl)/0.2);
+    --badge-secondary-border:hsl(var(--opacity-20-hsl)/0.2);
     --badge-secondary-text:var(--neutral-1);
     --border-feedback-critical:var(--red-new-5);
     --border-feedback-info:var(--blue-new-8);
@@ -4826,6 +4883,7 @@
     --background-mod-strong:hsl(var(--opacity-28-hsl)/0.2784313725490196);
     --background-mod-subtle:hsl(var(--opacity-16-hsl)/0.1607843137254902);
     --badge-secondary-background:hsl(var(--opacity-20-hsl)/0.2);
+    --badge-secondary-border:hsl(var(--opacity-20-hsl)/0.2);
     --badge-secondary-text:var(--neutral-100);
     --border-feedback-critical:var(--red-new-66);
     --border-feedback-info:var(--blue-new-68);
@@ -5182,6 +5240,7 @@
     --background-mod-strong:hsl(var(--opacity-28-hsl)/0.2784313725490196);
     --background-mod-subtle:hsl(var(--opacity-16-hsl)/0.1607843137254902);
     --badge-secondary-background:hsl(var(--opacity-24-hsl)/0.23921568627450981);
+    --badge-secondary-border:hsl(var(--opacity-24-hsl)/0.23921568627450981);
     --badge-secondary-text:var(--neutral-1);
     --border-feedback-critical:var(--red-new-26);
     --border-feedback-info:var(--blue-new-28);
@@ -5538,6 +5597,7 @@
     --background-mod-strong:hsl(var(--opacity-24-hsl)/0.23921568627450981);
     --background-mod-subtle:hsl(var(--opacity-12-hsl)/0.12156862745098039);
     --badge-secondary-background:hsl(var(--opacity-20-hsl)/0.2);
+    --badge-secondary-border:hsl(var(--opacity-20-hsl)/0.2);
     --badge-secondary-text:var(--neutral-1);
     --border-feedback-critical:var(--red-new-16);
     --border-feedback-info:var(--blue-new-19);
@@ -9181,6 +9241,12 @@
     --yellow-900-hsl:var(--yellow-new-100-hsl)
 }
 
+.mana-badge-refresh .theme-dark,.mana-badge-refresh .theme-darker,.mana-badge-refresh .theme-light,.mana-badge-refresh .theme-midnight,.mana-badge-refresh.theme-dark,.mana-badge-refresh.theme-darker,.mana-badge-refresh.theme-light,.mana-badge-refresh.theme-midnight {
+    --badge-expressive-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-primary-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196);
+    --badge-secondary-border:hsl(var(--opacity-white-8-hsl)/0.0784313725490196)
+}
+
 .theme-dark {
     --shadow-border:0 0 0 1px hsl(none 0% 100%/0.08);
     --shadow-border-filter:drop-shadow(0 0 1px hsl(none 0% 100%/0.08));
@@ -9846,6 +9912,7 @@
 }
 
 :root {
+    --badge-border-width:0px;
     --button-border-radius:2147483647px;
     --button-border-radius-lg:2147483647px;
     --channels-name-line-height:24px;
@@ -10046,6 +10113,10 @@
     --toast-max-width:280px;
     --toast-queue-enter-delay-ms:400px;
     --toast-text-line-count:2px
+}
+
+.mana-badge-refresh {
+    --badge-border-width:1px
 }
 
 .mobile-visual-refresh {

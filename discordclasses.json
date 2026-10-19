@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1254 x64 (95337)"},"channel":{"canary":"642336 (cb2bd98)"},
+{"host":{"version":"1.0.1256 x64 (95377)"},"channel":{"canary":"642711 (de4975c)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1074,6 +1074,13 @@
   "40478": {
     "coverArtStoreLinksSummary": "coverArtStoreLinksSummary__6fa67",
     "storeLinksSummary": "storeLinksSummary__6fa67"
+  },
+  "40570": {
+    "confirmation": "confirmation__9baa5",
+    "confirmationHeader": "confirmationHeader__9baa5",
+    "graphicContainer": "graphicContainer__9baa5",
+    "rewardNotice": "rewardNotice__9baa5",
+    "buttonContainer": "buttonContainer__9baa5"
   },
   "40974": {
     "emptyOption": "emptyOption_b088b0",
@@ -4569,10 +4576,7 @@
   "162052": {
     "textShimmer": "textShimmer__9d7ed",
     "conjure-text-shimmer": "conjure-text-shimmer__9d7ed",
-    "chatMessageSurface": "chatMessageSurface__9d7ed",
-    "conjureGlowThinkingPulse": "conjureGlowThinkingPulse__9d7ed",
-    "conjure-glow-drift-a": "conjure-glow-drift-a__9d7ed",
-    "conjure-glow-drift-b": "conjure-glow-drift-b__9d7ed"
+    "chatMessageSurface": "chatMessageSurface__9d7ed"
   },
   "162118": {
     "lottieIconColors": "lottieIconColors__5eb9b",
@@ -19465,8 +19469,7 @@
     "activeNitroHeader": "activeNitroHeader_c656ac",
     "premiumUpsell": "premiumUpsell_c656ac",
     "nitroBottomDivider": "nitroBottomDivider_c656ac",
-    "wishlistButton": "wishlistButton_c656ac",
-    "soundmojiViewMore": "soundmojiViewMore_c656ac"
+    "wishlistButton": "wishlistButton_c656ac"
   },
   "619189": {
     "filter": "filter__72086",
@@ -23500,7 +23503,6 @@
     "header": "header_b917ac",
     "closeButton": "closeButton_b917ac",
     "title": "title_b917ac",
-    "footer": "footer_b917ac",
     "subtitle": "subtitle_b917ac",
     "createGuild": "createGuild_b917ac",
     "uploadIcon": "uploadIcon_b917ac",
@@ -25595,13 +25597,6 @@
     "stripe": "stripe__1254e",
     "check": "check__1254e"
   },
-  "818189": {
-    "confirmation": "confirmation__9baa5",
-    "confirmationHeader": "confirmationHeader__9baa5",
-    "graphicContainer": "graphicContainer__9baa5",
-    "rewardNotice": "rewardNotice__9baa5",
-    "buttonContainer": "buttonContainer__9baa5"
-  },
   "818357": {
     "tooltipBodyContainer": "tooltipBodyContainer__7d7fe",
     "tooltipPremiumFooterContainer": "tooltipPremiumFooterContainer__7d7fe",
@@ -25680,9 +25675,6 @@
     "perksDemoContainer": "perksDemoContainer__5dec7",
     "perksDemoText": "perksDemoText__5dec7",
     "frameApplicationNameTitleClickable": "frameApplicationNameTitleClickable__5dec7"
-  },
-  "821425": {
-    "rowContainer": "rowContainer__1e702"
   },
   "821737": {
     "forumPost": "forumPost__02068"
@@ -28517,7 +28509,8 @@
     "title": "title__78f69",
     "subtitle": "subtitle__78f69",
     "optionsList": "optionsList__78f69",
-    "skip": "skip__78f69"
+    "skip": "skip__78f69",
+    "footer": "footer__78f69"
   },
   "911556": {
     "wrapper": "wrapper__123e1",
@@ -30033,6 +30026,10 @@
     "secondary": "secondary_c2b88c",
     "primary": "primary_c2b88c",
     "expressive": "expressive_c2b88c",
+    "warning": "warning_c2b88c",
+    "critical": "critical_c2b88c",
+    "success": "success_c2b88c",
+    "notification": "notification_c2b88c",
     "rarity-common": "rarity-common_c2b88c",
     "rarity-epic": "rarity-epic_c2b88c",
     "rarity-mythic": "rarity-mythic_c2b88c",
