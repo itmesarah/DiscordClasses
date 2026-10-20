@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1256 x64 (95377)"},"channel":{"canary":"642711 (de4975c)"},
+{"host":{"version":"1.0.1257 x64 (95455)"},"channel":{"canary":"643101 (0105816)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -26842,6 +26842,8 @@
     "durationTimeDisplay": "durationTimeDisplay_b824c5",
     "durationTimeSeparator": "durationTimeSeparator_b824c5",
     "volumeSlider": "volumeSlider_b824c5",
+    "controlBarPopoutSurface": "controlBarPopoutSurface_b824c5",
+    "volumePopout": "volumePopout_b824c5",
     "playbackSpeedPopout": "playbackSpeedPopout_b824c5",
     "playbackSpeedHeading": "playbackSpeedHeading_b824c5",
     "contentHeaderGameInfo": "contentHeaderGameInfo_b824c5",
@@ -30640,6 +30642,9 @@
     "clickZoneDebugContainer": "clickZoneDebugContainer__29c87",
     "clickBackground": "clickBackground__29c87",
     "clickable": "clickable__29c87"
+  },
+  "981879": {
+    "agentReaction": "agentReaction__0d357"
   },
   "982519": {
     "inline": "inline__99afd",
