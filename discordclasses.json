@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1257 x64 (95455)"},"channel":{"canary":"643101 (0105816)"},
+{"host":{"version":"1.0.1259 x64 (95575)"},"channel":{"canary":"643475 (9092d00)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -312,6 +312,12 @@
     "victorAnswer": "victorAnswer_f69538",
     "victorAnswerText": "victorAnswerText_f69538",
     "victorIcon": "victorIcon_f69538"
+  },
+  "11435": {
+    "background": "background__32296",
+    "gradient": "gradient__32296",
+    "video": "video__32296",
+    "hidden": "hidden__32296"
   },
   "12260": {
     "groupDiscountBannerText": "groupDiscountBannerText_a5923e",
@@ -2740,6 +2746,10 @@
     "barTitle": "barTitle__124c8",
     "buttonLoader": "buttonLoader__124c8"
   },
+  "100391": {
+    "title": "title__4e829",
+    "text": "text__4e829"
+  },
   "100523": {
     "context": "context_e62f9d",
     "gradientUpsellWrapper": "gradientUpsellWrapper_e62f9d",
@@ -3999,6 +4009,9 @@
     "placeholderAvatar": "placeholderAvatar__27cc6",
     "avatarMasked": "avatarMasked__27cc6"
   },
+  "141881": {
+    "emphasis": "emphasis__31e81"
+  },
   "141979": {
     "qrLogin": "qrLogin_e16417",
     "qrLoginInner": "qrLoginInner_e16417",
@@ -4801,6 +4814,12 @@
     "dragInner": "dragInner__87847",
     "placeholderMask": "placeholderMask__87847",
     "isFolder": "isFolder__87847"
+  },
+  "167662": {
+    "container": "container__92421",
+    "loop": "loop__92421",
+    "copy": "copy__92421",
+    "stat": "stat__92421"
   },
   "167848": {
     "textPrimary": "textPrimary__8e577",
@@ -12427,6 +12446,10 @@
     "quantitySelectorDescription": "quantitySelectorDescription__0f8ce",
     "quantitySelectorWrapper": "quantitySelectorWrapper__0f8ce",
     "quantitySelectorLabel": "quantitySelectorLabel__0f8ce"
+  },
+  "406956": {
+    "animation": "animation__9d6ab",
+    "rive": "rive__9d6ab"
   },
   "408313": {
     "heading-sm/normal": "heading-sm/normal__2ef49",
@@ -21166,6 +21189,9 @@
     "hidden": "hidden__5cd44",
     "focusSensitive": "focusSensitive__5cd44"
   },
+  "677059": {
+    "description": "description__9fbff"
+  },
   "677295": {
     "section": "section_be87fd"
   },
@@ -22944,6 +22970,10 @@
     "extraLongText": "extraLongText__73abe",
     "suggestedSkuPreview": "suggestedSkuPreview__73abe",
     "newContentDot": "newContentDot__73abe"
+  },
+  "733767": {
+    "list": "list__1760d",
+    "row": "row__1760d"
   },
   "733908": {
     "container": "container_d03433",
