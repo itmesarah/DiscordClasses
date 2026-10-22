@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1273 x64 (96348)"},"channel":{"canary":"646868 (8c1059c)"},
+{"host":{"version":"1.0.1274 x64 (96419)"},"channel":{"canary":"647204 (5dd8fb2)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -17735,6 +17735,7 @@
     "selected": "selected_f8179a",
     "none": "none_f8179a",
     "locked": "locked_f8179a",
+    "nitroLocked": "nitroLocked_f8179a",
     "image": "image_f8179a",
     "rarity": "rarity_f8179a",
     "nitro": "nitro_f8179a"
