@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1279 x64 (96884)"},"channel":{"canary":"649501 (0ded6d8)"},
+{"host":{"version":"1.0.1281 x64 (96941)"},"channel":{"canary":"649949 (9ed8500)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -9351,7 +9351,6 @@
   },
   "306091": {
     "base": "base__463b7",
-    "textBadge": "textBadge__463b7 base__463b7",
     "baseShapeRound": "baseShapeRound__463b7",
     "baseShapeRoundLeft": "baseShapeRoundLeft__463b7",
     "baseShapeRoundRight": "baseShapeRoundRight__463b7",
@@ -27115,6 +27114,7 @@
     "channelCoverageHint": "channelCoverageHint_e34850"
   },
   "857722": {
+    "pill": "pill__52929",
     "badge": "badge__52929",
     "large": "large__52929",
     "round": "round__52929",
