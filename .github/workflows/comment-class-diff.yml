@@ -5,9 +5,9 @@ on:
     branches:
       - main
     paths:
-      - discordclasses.json
-      - base64entries.json
-      - css-variables.json
+      - canaryclasses.json
+      - stableclasses.json
+      - discord.current.formatted.css
 
 jobs:
   post-diff:
@@ -22,9 +22,9 @@ jobs:
       - name: Set up JSON files
         run: |
           FILES=(
-            discordclasses.json
-            base64entries.json
-            css-variables.json
+            canaryclasses.json
+            stableclasses.json
+            discord.current.formatted.css
           )
 
           for file in "${FILES[@]}"; do
@@ -38,9 +38,9 @@ jobs:
       - name: Run diff and post for all JSON files
         run: |
           FILES=(
-            discordclasses.json
-            base64entries.json
-            css-variables.json
+            canaryclasses.json
+            stableclasses.json
+            discord.current.formatted.css
           )
 
           for file in "${FILES[@]}"; do
