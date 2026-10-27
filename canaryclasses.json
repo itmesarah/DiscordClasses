@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1283 x64 (97224)"},"channel":{"canary":"653250 (fe2fce7)"},
+{"host":{"version":"1.0.1283 x64 (97225)"},"channel":{"canary":"653252 (73fe550)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -29287,6 +29287,10 @@
     "paginationContainer": "paginationContainer__70c55",
     "fadeIn": "fadeIn__70c55",
     "loadIn": "loadIn__70c55"
+  },
+  "919549": {
+    "gate": "gate__6dab7",
+    "content": "content__6dab7"
   },
   "919700": {
     "text": "text__7d315",
