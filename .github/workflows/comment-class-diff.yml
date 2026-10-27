@@ -7,7 +7,7 @@ on:
     paths:
       - canaryclasses.json
       - stableclasses.json
-      - discord.current.formatted.css
+      - css-variables.json
 
 jobs:
   post-diff:
@@ -24,7 +24,7 @@ jobs:
           FILES=(
             canaryclasses.json
             stableclasses.json
-            discord.current.formatted.css
+            css-variables.json
           )
 
           for file in "${FILES[@]}"; do
@@ -40,7 +40,7 @@ jobs:
           FILES=(
             canaryclasses.json
             stableclasses.json
-            discord.current.formatted.css
+            css-variables.json
           )
 
           for file in "${FILES[@]}"; do
