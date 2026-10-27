@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1283 x64 (97107)"},"channel":{"canary":"651619 (c0475bd)"},
+{"host":{"version":"1.0.1283 x64 (97107)"},"channel":{"canary":"651708 (babd954)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -7303,7 +7303,9 @@
     "stats": "stats_fa0187",
     "statRow": "statRow_fa0187",
     "statIcon": "statIcon_fa0187",
+    "guildAcronymIcon": "guildAcronymIcon_fa0187",
     "footer": "footer_fa0187",
+    "clickable": "clickable_fa0187",
     "footerTitle": "footerTitle_fa0187",
     "footerButton": "footerButton_fa0187"
   },
@@ -25514,6 +25516,7 @@
     "clickable": "clickable_a3e8db",
     "disabled": "disabled_a3e8db",
     "container": "container_a3e8db",
+    "nonInteractive": "nonInteractive_a3e8db",
     "orbsLottieContainer": "orbsLottieContainer_a3e8db",
     "orbsLottie": "orbsLottie_a3e8db",
     "spin": "spin_a3e8db",
@@ -25968,6 +25971,7 @@
     "productIcon": "productIcon__4c629",
     "rewardIcon": "rewardIcon__4c629",
     "videoOverlay": "videoOverlay__4c629",
+    "rewardStatus": "rewardStatus__4c629",
     "videoActions": "videoActions__4c629"
   },
   "816426": {
