@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1283 x64 (97199)"},"channel":{"canary":"653173 (ef3b32d)"},
+{"host":{"version":"1.0.1283 x64 (97224)"},"channel":{"canary":"653250 (fe2fce7)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -29810,6 +29810,8 @@
   },
   "938612": {
     "row": "row__02ff5",
+    "buttonHost": "buttonHost__02ff5",
+    "discoveryDot": "discoveryDot__02ff5",
     "button": "button__02ff5"
   },
   "938767": {
@@ -31756,8 +31758,5 @@
     "akaPopoverGuilds": "akaPopoverGuilds_f75fb0",
     "dmHeaderActivityStatus": "dmHeaderActivityStatus_f75fb0",
     "dmHeaderActivityStatusClickable": "dmHeaderActivityStatusClickable_f75fb0"
-  },
-    "999999": {
-	  "test": "test_1234"
   }
 }

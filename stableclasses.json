@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.9265 x64 (96160)"},"channel":{"stable":"652418 (5c8490b)"},
+{"host":{"version":"1.0.9266 x64 (97026)"},"channel":{"stable":"652418 (5c8490b)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -31708,8 +31708,5 @@
     "akaPopoverGuilds": "akaPopoverGuilds_f75fb0",
     "dmHeaderActivityStatus": "dmHeaderActivityStatus_f75fb0",
     "dmHeaderActivityStatusClickable": "dmHeaderActivityStatusClickable_f75fb0"
-  },
-  "999999": {
-	  "test": "test_1234"
   }
 }
