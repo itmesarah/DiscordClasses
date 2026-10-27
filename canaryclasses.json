@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1282 x64 (97076)"},"channel":{"canary":"651401 (54666ca)"},
+{"host":{"version":"1.0.1283 x64 (97107)"},"channel":{"canary":"651619 (c0475bd)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -11799,6 +11799,7 @@
     "isBurstReactionPicker": "isBurstReactionPicker_c0e32c",
     "emojiPickerHasTabWrapper": "emojiPickerHasTabWrapper_c0e32c",
     "emojiPicker": "emojiPicker_c0e32c",
+    "emojiPickerViewingPacks": "emojiPickerViewingPacks_c0e32c",
     "header": "header_c0e32c",
     "diversitySelector": "diversitySelector_c0e32c",
     "categoryList": "categoryList_c0e32c",
@@ -30711,7 +30712,8 @@
     "containerDimensions": "containerDimensions__7d51c",
     "displayNone": "displayNone__7d51c",
     "stripeExpressCheckoutContainer": "stripeExpressCheckoutContainer__7d51c",
-    "paymentSourceSelectorVariant": "paymentSourceSelectorVariant__7d51c"
+    "paymentSourceSelectorVariant": "paymentSourceSelectorVariant__7d51c",
+    "footerNote": "footerNote__7d51c"
   },
   "970099": {
     "wrapper": "wrapper__8ef02",
