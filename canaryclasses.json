@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1283 x64 (97233)"},"channel":{"canary":"653377 (3778070)"},
+{"host":{"version":"1.0.1284 x64 (97266)"},"channel":{"canary":"653864 (e6b2d5f)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -4651,6 +4651,10 @@
     "notice": "notice_c87fd6",
     "noticeInOverlay": "noticeInOverlay_c87fd6 homeInOverlay_c87fd6 home_c87fd6"
   },
+  "159711": {
+    "body": "body__0d9d3",
+    "actions": "actions__0d9d3"
+  },
   "159986": {
     "step": "step__6c75d",
     "icon": "icon__6c75d",
@@ -5444,8 +5448,8 @@
     "accessoryMessageRow": "accessoryMessageRow_a9077e",
     "userMessageButtons": "userMessageButtons_a9077e",
     "userMessageButtonsHeader": "userMessageButtonsHeader_a9077e",
-    "messageAccessoriesUnderProse": "messageAccessoriesUnderProse_a9077e",
     "messageAccessories": "messageAccessories_a9077e",
+    "messageAccessoriesUnderProse": "messageAccessoriesUnderProse_a9077e",
     "conjurBotAvatar": "conjurBotAvatar_a9077e",
     "messageBody": "messageBody_a9077e",
     "conjure-reveal-frontier": "conjure-reveal-frontier_a9077e",
@@ -6050,8 +6054,7 @@
     "iconButton": "iconButton__66346",
     "addIcon": "addIcon__66346",
     "toolbarEnd": "toolbarEnd__66346",
-    "attachments": "attachments__66346",
-    "fileInput": "fileInput__66346"
+    "attachments": "attachments__66346"
   },
   "200791": {
     "fullWidthGraphicHeaderForManaModal": "fullWidthGraphicHeaderForManaModal_ae16b8"
@@ -7880,7 +7883,6 @@
     "icon": "icon__07f91",
     "iconPriortySpeaker": "iconPriortySpeaker__07f91",
     "iconServer": "iconServer__07f91",
-    "strikethrough": "strikethrough__07f91",
     "selected": "selected__07f91",
     "clanTag": "clanTag__07f91",
     "isOverlay": "isOverlay__07f91",
@@ -15841,7 +15843,6 @@
     "conjure-cap-wipe-b": "conjure-cap-wipe-b__86f16",
     "composerActions": "composerActions__86f16",
     "composerAttachments": "composerAttachments__86f16",
-    "composerFileInput": "composerFileInput__86f16",
     "composerTrailingSlotButton": "composerTrailingSlotButton__86f16",
     "composerPlusButton": "composerPlusButton__86f16",
     "composerPlusIcon": "composerPlusIcon__86f16",
@@ -17159,6 +17160,8 @@
     "includes": "includes__5b810",
     "contentRow": "contentRow__5b810",
     "contentIcon": "contentIcon__5b810",
+    "appChannelRow": "appChannelRow__5b810",
+    "appChannelsPrivate": "appChannelsPrivate__5b810",
     "sharedWith": "sharedWith__5b810",
     "sharedRow": "sharedRow__5b810",
     "guildIcon": "guildIcon__5b810",
@@ -18743,6 +18746,7 @@
   },
   "587041": {
     "fileMention": "fileMention__24aa8",
+    "fileMentionClickable": "fileMentionClickable__24aa8",
     "thumbnail": "thumbnail__24aa8"
   },
   "587159": {
@@ -22956,6 +22960,7 @@
     "appOpenedTitle": "appOpenedTitle__74da2"
   },
   "722865": {
+    "header": "header__3ddc0",
     "category": "category__3ddc0",
     "channelIcon": "channelIcon__3ddc0"
   },
@@ -28936,6 +28941,7 @@
     "indicator": "indicator__965fb",
     "multi": "multi__965fb",
     "view": "view__965fb",
+    "pickViewable": "pickViewable__965fb",
     "caption": "caption__965fb",
     "conjure-image-option-loading": "conjure-image-option-loading__965fb",
     "own": "own__965fb",
