@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1284 x64 (97266)"},"channel":{"canary":"653864 (e6b2d5f)"},
+{"host":{"version":"1.0.1284 x64 (97276)"},"channel":{"canary":"653983 (c71836d)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -5456,6 +5456,7 @@
     "selectedMention": "selectedMention_a9077e",
     "selectedMentionIcon": "selectedMentionIcon_a9077e",
     "selectedMessage": "selectedMessage_a9077e",
+    "agentHiddenMessage": "agentHiddenMessage_a9077e",
     "selectedBody": "selectedBody_a9077e"
   },
   "180808": {
@@ -9842,9 +9843,6 @@
   "317139": {
     "bannerImage": "bannerImage__282ea",
     "colorSwatch": "colorSwatch__282ea"
-  },
-  "317330": {
-    "content": "content__9c1ea"
   },
   "317587": {
     "wrapper": "wrapper__553fd",
@@ -20545,6 +20543,12 @@
   },
   "639101": {
     "upsell": "upsell_b8890f"
+  },
+  "639331": {
+    "content": "content_c9bcb8",
+    "year": "year_c9bcb8",
+    "globe": "globe_c9bcb8",
+    "descriptions": "descriptions_c9bcb8"
   },
   "639477": {
     "grid": "grid__28d93",
