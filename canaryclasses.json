@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1284 x64 (97311)"},"channel":{"canary":"654542 (46aac0e)"},
+{"host":{"version":"1.0.1284 x64 (97366)"},"channel":{"canary":"654845 (03b5739)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -1771,9 +1771,6 @@
     "pageSizeInput": "pageSizeInput_e8f197",
     "pageSizeSelection": "pageSizeSelection_e8f197",
     "pageLabel": "pageLabel_e8f197"
-  },
-  "58641": {
-    "skipContainer": "skipContainer__438f0"
   },
   "58716": {
     "scroller": "scroller__06800",
@@ -12957,15 +12954,6 @@
     "glyphLayer": "glyphLayer_d56f1c",
     "glyphCell": "glyphCell_d56f1c"
   },
-  "411392": {
-    "row": "row__796c4",
-    "circleContainer": "circleContainer__796c4",
-    "progress": "progress__796c4",
-    "noDisc": "noDisc__796c4",
-    "textContainer": "textContainer__796c4",
-    "subtitle": "subtitle__796c4",
-    "divider": "divider__796c4"
-  },
   "411398": {
     "paymentInfoGroup": "paymentInfoGroup_c0544c",
     "metricsContainer": "metricsContainer_c0544c",
@@ -21880,6 +21868,10 @@
     "hidden": "hidden__57f77",
     "label": "label__57f77"
   },
+  "685144": {
+    "layout": "layout_ea1cd2",
+    "sheet": "sheet_ea1cd2"
+  },
   "685254": {
     "buttonContainer": "buttonContainer__994e6"
   },
@@ -22738,6 +22730,11 @@
   "715918": {
     "container": "container_ca98d9",
     "footer": "footer_ca98d9"
+  },
+  "715924": {
+    "header": "header_fbf1b8 header_c7c7c0",
+    "content": "content_fbf1b8",
+    "footer": "footer_fbf1b8"
   },
   "715965": {
     "container": "container__5a838",
