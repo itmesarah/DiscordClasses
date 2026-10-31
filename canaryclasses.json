@@ -1,4 +1,4 @@
-{"host":{"version":"1.0.1289 x64 (97737)"},"channel":{"canary":"659338 (d471a85)"},
+{"host":{"version":"1.0.1290 x64 (97745)"},"channel":{"canary":"659595 (8f9175f)"},
   "684": {
     "container": "container__93e55",
     "messageContainer": "messageContainer__93e55"
@@ -27485,6 +27485,7 @@
     "videoControlsBtn": "videoControlsBtn_b824c5",
     "videoControlsBtnContDisabled": "videoControlsBtnContDisabled_b824c5",
     "volumeControlGroup": "volumeControlGroup_b824c5",
+    "volumeControlGroupInline": "volumeControlGroupInline_b824c5",
     "controlsBarItem": "controlsBarItem_b824c5",
     "controlsBarItemActive": "controlsBarItemActive_b824c5",
     "controlBtnIconWithOverlay": "controlBtnIconWithOverlay_b824c5",
@@ -30321,6 +30322,9 @@
   "949057": {
     "reasonFreeText": "reasonFreeText__22c63",
     "hidden": "hidden__22c63"
+  },
+  "949621": {
+    "pill": "pill__04ebc"
   },
   "949779": {
     "paymentPane": "paymentPane__01014",
